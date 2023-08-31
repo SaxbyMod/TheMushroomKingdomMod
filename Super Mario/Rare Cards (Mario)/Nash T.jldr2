@@ -1,0 +1,17 @@
+{
+	"name": "Nash_T",
+	"modPrefix": "Mushroom",
+	"displayedName": "Nash T",
+	"baseAttack": 0,
+	"baseHealth": 6,
+	"bloodCost": 2,
+	"abilities": ["GuardDog"],
+	"metaCategories": ["Rare"],
+	"cardComplexity": "Simple",
+	"temple": "Nature",
+	"description": "The Stubborn Nash T. While he won't let anyone pass, he'll need some motivation to actually strike would-be intruders...",
+	"texture": "Nash T.png",
+	"emissionTexture": "Nash T_e.png",
+	"appearanceBehaviour": ["RareCardBackground"],
+	"tribes": ["None"]
+}

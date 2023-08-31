@@ -1,0 +1,16 @@
+{
+	"name": "Treevil_Evolved",
+	"modPrefix": "Mushroom",
+	"displayedName": "Treevil",
+	"baseAttack": 4,
+	"baseHealth": 5,
+	"bloodCost": 1,
+	"abilities": ["org.memez4life.inscryption.customsigils.Launcher"],
+	"cardComplexity": "Intermediate",
+	"temple": "Nature",
+	"description": "The Wooden Treevil. A fiend in the forest, but can also be a great source of food.",
+	"texture": "Treevil Evolved.png",
+	"emissionTexture": "Treevil Evolved_e.png",
+	"tribes": ["None"],
+	"iceCubeName": "Mushroom_Treevil_Berry"
+}

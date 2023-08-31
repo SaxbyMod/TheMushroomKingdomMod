@@ -1,0 +1,14 @@
+{
+	"name": "Mushroom_Peachette",
+	"modPrefix": "Mushroom",
+	"displayedName": "Peachette",
+	"baseAttack": 2,
+	"baseHealth": 4,
+	"bloodCost": 1,
+	"abilities": ["TriStrike","BuffNeighbours","extraVoid.inscryption.voidSigils.Regen"],
+	"metaCategories": ["Rare"],
+	"cardComplexity": "Intermediate",
+	"temple": "Nature",
+	"description": "Impossible! I made that card unobtainable! How did she-? The stoat...",
+	"appearanceBehaviour": ["RareCardBackground"]
+}

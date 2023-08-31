@@ -1,0 +1,13 @@
+{
+	"name": "Tooth_Rotten",
+	"modPrefix": "Mushroom",
+	"displayedName": "Rotten Tooth",
+	"baseHealth": 1,
+	"abilities": ["Sharp","Deathtouch"],
+	"cardComplexity": "Intermediate",
+	"temple": "Nature",
+	"description": "A Rotten Tooth from the Eely-Mouth. Now, what ever did it do to you?",
+	"texture": "Eely-Mouth Tooth_Rotten.png",
+	"emissionTexture": "Eely-Mouth Tooth_e.png",
+	"tribes": ["None"]
+}

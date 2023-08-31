@@ -1,0 +1,18 @@
+{
+	"name": "Bugaboom",
+	"modPrefix": "Mushroom",
+	"displayedName": "Bugaboom",
+	"baseAttack": 2,
+	"baseHealth": 4,
+	"bloodCost": 1,
+	"abilities": ["IceCube"],
+	"metaCategories": ["Rare"],
+	"cardComplexity": "Intermediate",
+	"temple": "Nature",
+	"description": "The delusional Bugaboom. It charges into battle headfirst, only flying away when it realizes its been had.",
+	"appearanceBehaviour": ["RareCardBackground"],
+	"texture": "Bugaboom.png",
+	"emissionTexture": "Bugaboom_e.png",
+	"tribes": ["Insect"],
+	"iceCubeName": "Mushroom_Bugaboom_Flying"
+}

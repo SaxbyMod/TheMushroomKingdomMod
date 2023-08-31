@@ -1,0 +1,18 @@
+{
+	"name": "Tower_of_Yikk",
+	"modPrefix": "Mushroom",
+	"displayedName": "Tower of Yikk",
+	"baseAttack": 3,
+	"baseHealth": 2,
+	"energyCost": 6,
+	"abilities": ["Submerge","extraVoid.inscryption.voidSigils.Ram","extraVoid.inscryption.voidSigils.Regen 2"],
+	"metaCategories": ["Rare"],
+	"cardComplexity": "Simple",
+	"temple": "Nature",
+	"description": "The Tower of Yikk. The sunken gaurdian of the great Bubble Lake...",
+	"texture": "Tower of Yikk.png",
+	"emissionTexture": "Tower of Yikk_e.png",
+	"appearanceBehaviour": ["RareCardBackground"],
+	"tribes": ["None"],
+	"traits": ["KillsSurvivors"]
+}

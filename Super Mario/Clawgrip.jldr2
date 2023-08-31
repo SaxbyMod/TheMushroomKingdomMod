@@ -1,0 +1,15 @@
+{
+	"name": "Clawgrip",
+	"modPrefix": "Mushroom",
+	"displayedName": "Clawgrip",
+	"baseAttack": 2,
+	"baseHealth": 3,
+	"bloodCost": 1,
+	"abilities": ["extraVoid.inscryption.voidSigils.Thick Shell"],
+	"metaCategories": ["ChoiceNode","TraderOffer"],
+	"cardComplexity": "Intermediate",
+	"temple": "Nature",
+	"description": "The crusty Clawgrip. His shell allows him to take a beating from most attacks.",
+	"texture": "Clawgrip.png",
+	"emissionTexture": "Clawgrip_e.png"
+}

@@ -1,0 +1,18 @@
+{
+	"name": "Dry_Bones",
+	"modPrefix": "Mushroom",
+	"displayedName": "Dry Bones",
+	"baseAttack": 1,
+	"baseHealth": 1,
+	"bonesCost": 2,
+	"energyCost": 0,
+	"abilities": ["QuadrupleBones","Brittle"],
+	"metaCategories": ["ChoiceNode","TraderOffer"],
+	"cardComplexity": "Simple",
+	"temple": "Nature",
+	"description": "A Koopa that has defied death. Won't stay together for long, however...",
+	"texture": "Dry Bones.png",
+	"emissionTexture": "Dry Bones_e.png",
+	"tribes": ["tribes.libary.mreptile","tribes.libary.skeletal","tribes.libary.mskeletal"],
+	"pixelTexture": "Dry Bones Act 2.png"
+}

@@ -1,0 +1,7 @@
+{
+	"Title": "E' Gadd's Gallery Expansion Pack",
+	"Description": "Watch out! The Mox bearing ghosts are haunting this pack! Will you capture all [count]?",
+	"ModPrefix": "Gallery",
+	"PackArt": "Pack Gallery.png",
+    "ValidFor": ["LeshyPack","MagnificusPack"]
+}

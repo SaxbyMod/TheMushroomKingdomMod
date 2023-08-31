@@ -1,0 +1,17 @@
+{
+	"name": "Fawful_Mountain",
+	"modPrefix": "Mushroom",
+	"displayedName": "Fawful Mountain",
+	"baseAttack": 1,
+	"baseHealth": 10,
+	"bonesCost": 5,
+	"abilities": ["StrafePush","extraVoid.inscryption.voidSigils.Bodyguard"],
+	"metaCategories": ["Rare"],
+	"cardComplexity": "Intermediate",
+	"temple": "Nature",
+	"description": "The Massive Fawful Mountain. A Massive Fortress, that will protect all who enter it's tunnels...",
+	"appearanceBehaviour": ["RareCardBackground"],
+	"texture": "Fawful Mountain.png",
+	"emissionTexture": "Fawful Mountain_e.png",
+	"traits": ["Terrain"]
+}

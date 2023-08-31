@@ -1,0 +1,19 @@
+{
+	"name": "Shadow_Peach",
+	"modPrefix": "Mushroom",
+	"displayedName": "Shadow Peach",
+	"baseHealth": 3,
+	"bloodCost": 3,
+	"bonesCost": 12,
+	"energyCost": 6,
+	"abilities": ["DrawCopyOnDeath","extraVoid.inscryption.voidSigils.Draw Card","PreventAttack"],
+	"metaCategories": ["Rare"],
+	"cardComplexity": "Intermediate",
+	"temple": "Nature",
+	"description": "The vessel of the tyrannical Shadow Queen. Pay the price, and she'll show her true power to the world...",
+	"appearanceBehaviour": ["RareCardBackground"],
+	"texture": "Shadow Peach.png",
+	"emissionTexture": "Shadow Peach_e.png",
+	"traits": ["Terrain"],
+	"iceCubeName": "Mushroom_Shadow_Queen"
+}

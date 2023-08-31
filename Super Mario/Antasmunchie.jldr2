@@ -1,0 +1,28 @@
+{
+  "name": "Antasmunchie",
+  "modPrefix": "Mushroom",
+  "displayedName": "Antasmunchie",
+  "description": "The freakish Antasmunchie. It'll allow you to use its power to unleash a mighty foe, for a price...",
+  "metaCategories": [
+    "ChoiceNode",
+    "TraderOffer"
+  ],
+  "cardComplexity": "Advanced",
+  "temple": "Nature",
+  "baseAttack": 1,
+  "baseHealth": 2,
+  "tribes": [
+    "tribes.libary.nightmare"
+  ],
+  "abilities": [
+    "Sharp",
+    "Morsel",
+    "nevernamed.inscryption.sigils.Trifling Sacrifice"
+  ],
+  "texture": "Antasmunchie.png",
+  "emissionTexture": "Antasmunchie_e.png",
+  "pixelTexture": "Antasmunchie Act 2.png",
+  "extensionProperties": {
+    "LifeCost": "3"
+  }
+}

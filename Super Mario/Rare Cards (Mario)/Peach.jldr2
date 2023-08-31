@@ -1,0 +1,14 @@
+{
+	"name": "Peach",
+	"modPrefix": "Mushroom",
+	"displayedName": "Peach",
+	"baseAttack": 2,
+	"baseHealth": 3,
+	"bloodCost": 1,
+	"abilities": ["BuffNeighbours"],
+	"metaCategories": ["Rare"],
+	"cardComplexity": "Intermediate",
+	"temple": "Nature",
+	"description": "The royal Peach. Known for her kindness, leadership, and tendency to get kidnapped...",
+	"appearanceBehaviour": ["RareCardBackground"]
+}

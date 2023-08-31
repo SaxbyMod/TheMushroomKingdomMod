@@ -1,0 +1,15 @@
+{
+	"name": "Hurt_Plant",
+	"modPrefix": "Mushroom",
+	"displayedName": "Hurt Plant",
+	"baseAttack": 1,
+	"baseHealth": 4,
+	"bloodCost": 1,
+	"abilities": ["Deathtouch","WhackAMole","Sharp"],
+	"metaCategories": ["ChoiceNode","TraderOffer"],
+	"cardComplexity": "Intermediate",
+	"temple": "Nature",
+	"description": "The noxious Hurt Plant. It's known to burrow under its enemies to unleash its deadly poisons.",
+	"texture": "Hurt Plant.png",
+	"emissionTexture": "Hurt Plant_e.png"
+}

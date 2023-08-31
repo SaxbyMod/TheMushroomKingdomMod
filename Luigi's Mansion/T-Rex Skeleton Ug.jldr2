@@ -1,0 +1,16 @@
+{
+	"name": "T_Rex_Skeleton_Ug",
+	"modPrefix": "Gallery",
+	"displayedName": "T-Rex Skeleton",
+	"baseAttack": 4,
+	"baseHealth": 6,
+	"bonesCost": 8,
+	"abilities": ["extraVoid.inscryption.voidSigils.Trample","extraVoid.inscryption.voidSigils.Predator","IceCube"],
+	"iceCubeName":"Mushroom_Ug_Weakened",
+	"cardComplexity": "Intermediate",
+	"temple": "Nature",
+	"description": "The remains of terrble T-Rex. At least this one makes sense, being on display in a fossil exhibit...",
+	"texture": "T-Rex Skeleton.png",
+	"emissionTexture": "T-Rex Skeleton_e.png",
+	"tribes": ["Reptile","tribes.libary.skeletal"]
+}

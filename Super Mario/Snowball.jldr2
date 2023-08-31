@@ -1,0 +1,13 @@
+{
+	"name": "Mushroom_Snowball",
+	"modPrefix": "Mushroom",
+	"displayedName": "Snowball",
+	"baseAttack": 2,
+	"baseHealth": 1,
+	"abilities": ["Sniper","Brittle"],
+	"cardComplexity": "Intermediate",
+	"temple": "Nature",
+	"description": "A Snowball! Toss it to deliver some cold pain to the enemy...",
+	"appearanceBehaviour": ["TerrainBackground"],
+	"texture": "Snowball.png"
+}

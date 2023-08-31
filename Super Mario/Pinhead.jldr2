@@ -1,0 +1,14 @@
+{
+	"name": "Pinhead",
+	"modPrefix": "Mushroom",
+	"displayedName": "Pinhead",
+	"baseHealth": 3,
+	"energyCost": 1,
+	"abilities": ["WhackAMole","org.memez4life.inscryption.customsigils.Fearful","extraVoid.inscryption.voidSigils.Resistant"],
+	"metaCategories": ["ChoiceNode","TraderOffer"],
+	"cardComplexity": "Intermediate",
+	"temple": "Nature",
+	"description": "The fraidy Pinhead. Known to be knocked back into your hand if hit hard enough...",
+	"texture": "Pinhead.png",
+	"emissionTexture": "Pinhead_e.png"
+}

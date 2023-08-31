@@ -1,0 +1,17 @@
+{
+	"name": "Hell_Valley_Sky_Trees",
+	"modPrefix": "Mushroom",
+	"displayedName": "Sky Trees",
+	"baseAttack": 0,
+	"baseHealth": 3,
+	"bonesCost": 6,
+	"abilities": ["nevernamed.inscryption.sigils.Woodsie Lord"],
+	"cardComplexity": "Advanced",
+	"temple": "Nature",
+	"metaCategories": ["Rare"],
+	"description": "The Sky Trees of Hell Valley. Some say they bear a striking resemblance to the kodama...",
+	"texture": "Sky Trees.png",
+	"emissionTexture": "Sky Trees_e.png",
+	"appearanceBehaviour": ["RareCardBackground"],
+	"tribes": ["None"]
+}

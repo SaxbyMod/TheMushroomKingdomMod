@@ -1,0 +1,16 @@
+{
+	"name": "Spiny_Shroopa",
+	"modPrefix": "Mushroom",
+	"displayedName": "Spiny Shroopa",
+	"baseAttack": 3,
+	"baseHealth": 4,
+	"energyCost": 3,
+	"abilities": ["Sharp","Sharp"],
+	"metaCategories": ["ChoiceNode","TraderOffer"],
+	"cardComplexity": "Simple",
+	"temple": "Nature",
+	"description": "A Spiny...Shroopa? I could of sworn shroobs were only based on mushrooms...",
+	"texture": "Spiny Shroopa.png",
+	"emissionTexture": "Spiny Shroopa_e.png",
+	"tribes": ["Reptile"]
+}

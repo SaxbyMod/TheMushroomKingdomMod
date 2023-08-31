@@ -1,0 +1,16 @@
+{
+	"name": "Lil_Cinder",
+	"modPrefix": "Mushroom",
+	"displayedName": "Lil' Cinder",
+	"baseAttack": 1,
+	"baseHealth": 2,
+	"energyCost": 3,
+	"abilities": ["nevernamed.inscryption.sigils.Ignition","nevernamed.inscryption.sigils.Sturdy"],
+	"metaCategories": ["ChoiceNode","TraderOffer"],
+	"cardComplexity": "Simple",
+	"temple": "Nature",
+	"description": "The heated Lil' Cinder. It's skin is as hot as the lava it coats itself in...",
+	"texture": "Lil' Cinder.png",
+	"emissionTexture": "Lil' Cinder_e.png",
+	"tribes": ["None"]
+}

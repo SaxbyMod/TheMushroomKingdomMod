@@ -1,0 +1,16 @@
+{
+	"name": "Mushroom_Whimp",
+	"modPrefix": "Mushroom",
+	"displayedName": "Whimp",
+	"baseHealth": 1,
+	"abilities": ["Brittle"],
+	"specialAbilities": ["Mirror"],
+	"specialStatIcon": "Mirror",
+	"metaCategories": ["ChoiceNode","TraderOffer"],
+	"cardComplexity": "Simple",
+	"temple": "Nature",
+	"description": "The crumbling whimp. It has one last whomp inside of them. Hope they are able to make it count...",
+	"texture": "Whimp.png",
+	"emissionTexture": "Whimp_e.png",
+	"tribes": ["tribes.libary.stone"]
+}

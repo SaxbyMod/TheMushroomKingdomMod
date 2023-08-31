@@ -1,0 +1,17 @@
+{
+	"name": "Tap_Tap",
+	"modPrefix": "Mushroom",
+	"displayedName": "Tap-Tap",
+	"baseAttack": 1,
+	"baseHealth": 2,
+	"bloodCost": 2,
+	"abilities": ["Sharp","nevernamed.inscryption.sigils.Sturdy"],
+	"metaCategories": ["ChoiceNode","TraderOffer"],
+	"cardComplexity": "Intermediate",
+	"temple": "Nature",
+	"description": "The carefree Tap-Tap. It shows no fear, as the spikes around it keep it safe from potential predators...",
+	"texture": "Tap-Tap.png",
+	"emissionTexture": "Tap-Tap_e.png",
+	"evolveIntoName": "Mushroom_Tap_Tap_Red_Nose",
+	"evolveTurns": 1
+}

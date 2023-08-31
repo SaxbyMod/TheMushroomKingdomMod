@@ -1,0 +1,20 @@
+{
+	"name": "Tramplin_Stu",
+	"modPrefix": "Mushroom",
+	"displayedName": "Tramplin' Stu",
+	"baseAttack": 3,
+	"baseHealth": 5,
+	"bloodCost": 2,
+	"abilities": ["org.memez4life.inscryption.customsigils.Spawner"],
+	"metaCategories": ["Rare"],
+	"cardComplexity": "Intermediate",
+	"temple": "Nature",
+	"description": "The colossal Trampling Stu. It was rumored to have inhabited Isle Delfino, but no traces have ever been found.",
+	"texture": "Tramplin' Stu.png",
+	"emissionTexture": "Tramplin' Stu_e.png",
+	"tribes": ["None"],
+	"evolveIntoName": "Skinned_Tramplin_Stu",
+	"evolveTurns": 2,
+	"appearanceBehaviour": ["RareCardBackground"],
+	"iceCubeName": "Swoopin_Stu"
+}

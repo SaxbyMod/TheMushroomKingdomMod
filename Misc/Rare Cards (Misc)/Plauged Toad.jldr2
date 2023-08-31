@@ -1,0 +1,20 @@
+{
+	"name": "Plauged_Toad",
+	"modPrefix": "Mushroom",
+	"displayedName": "Plauged Toad",
+	"baseAttack": 2,
+	"baseHealth": 2,
+	"bonesCost": 3,
+	"bloodCost": 1,
+	"abilities": ["IceCube","extraVoid.inscryption.voidSigils.Toxin"],
+	"metaCategories": ["Rare"],
+	"appearanceBehaviour": ["RareCardBackground"],
+	"cardComplexity": "Intermediate",
+	"temple": "Nature",
+	"description": "I don't remember that kind of plague. I'd stray away from that Toad if I were you...",
+	"texture": "Plauged Toad.png",
+	"emissionTexture": "Plauged Toad_e.png",
+	"traits": ["KillsSurvivors"],
+	"tribes": ["tribes.libary.fungus","tribes.libary.zombie"],
+	"iceCubeName": "Mushroom_Plauged_Toad_Crushed"
+}

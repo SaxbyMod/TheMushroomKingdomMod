@@ -1,0 +1,16 @@
+{
+	"name": "Eye_Beamer",
+	"modPrefix": "Mushroom",
+	"displayedName": "Eye Beamer",
+	"baseAttack": 2,
+	"baseHealth": 4,
+	"energyCost": 3,
+	"abilities": ["extraVoid.inscryption.voidSigils.Pierce"],
+	"metaCategories": ["ChoiceNode","TraderOffer"],
+	"cardComplexity": "Simple",
+	"temple": "Nature",
+	"description": "The all-seeing Eye Beamer. It's stare is one you should never cross...",
+	"texture": "Eye Beamer.png",
+	"emissionTexture": "Eye Beamer_e.png",
+	"tribes": ["None"]
+}

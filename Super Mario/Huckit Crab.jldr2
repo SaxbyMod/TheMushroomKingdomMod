@@ -1,0 +1,15 @@
+{
+	"name": "Huckit_Crab",
+	"modPrefix": "Mushroom",
+	"displayedName": "Huckit Crab",
+	"baseAttack": 1,
+	"baseHealth": 3,
+	"bloodCost": 2,
+	"abilities": ["Sniper","extraVoid.inscryption.voidSigils.Thick Shell"],
+	"metaCategories": ["ChoiceNode","TraderOffer"],
+	"cardComplexity": "Intermediate",
+	"temple": "Nature",
+	"description": "The energetic Huckit Crab. Known to toss rocks at trespassers on the beach.",
+	"texture": "Huckit Crab.png",
+	"emissionTexture": "Huckit Crab_e.png"
+}

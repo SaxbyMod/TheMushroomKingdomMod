@@ -1,0 +1,16 @@
+{
+	"name": "Lava_Lotus",
+	"modPrefix": "Mushroom",
+	"displayedName": "Lava Lotus",
+	"baseAttack": 2,
+	"baseHealth": 1,
+	"bloodCost": 2,
+	"abilities": ["TriStrike"],
+	"cardComplexity": "Advanced",
+	"temple": "Nature",
+	"metaCategories": ["ChoiceNode","TraderOffer"],
+	"description": "The patient Lava Lotus. It's burning coals are hidden away within invisible petals.",
+	"texture": "Lava Lotus.png",
+	"emissionTexture": "Lava Lotus_e.png",
+	"tribes": ["None"]
+}

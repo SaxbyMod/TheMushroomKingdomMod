@@ -1,0 +1,17 @@
+{
+	"name": "Mr_Blizzard",
+	"modPrefix": "Mushroom",
+	"displayedName": "Mr.Blizzard",
+	"baseAttack": 2,
+	"baseHealth": 4,
+	"bonesCost": 3,
+	"energyCost": 0,
+	"abilities": ["org.memez4life.inscryption.customsigils.Launcher"],
+	"metaCategories": ["ChoiceNode","TraderOffer"],
+	"cardComplexity": "Intermediate",
+	"temple": "Nature",
+	"description": "The cold-hearted Mr.Blizzard. It has the ability to throw snowballs to freeze enemies.",
+	"texture": "Mr.Blizzard.png",
+	"emissionTexture": "Mr.Blizzard_e.png",
+	"iceCubeName": "Mushroom_Snowball"
+}

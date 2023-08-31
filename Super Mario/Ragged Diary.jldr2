@@ -1,0 +1,14 @@
+{
+	"name": "Bell_Ragged_Diary",
+	"modPrefix": "Mushroom",
+	"displayedName": "Ragged Diary",
+	"baseAttack": 0,
+	"baseHealth": 1,
+	"cardComplexity": "Intermediate",
+	"temple": "Nature",
+	"description": "You were very wise not to read my diary, friend...",
+	"appearanceBehaviour": ["RareCardBackground"],
+	"texture": "Ragged Diary.png",
+	"emissionTexture": "Ragged Diary_e.png",
+	"traits": ["Terrain"]
+}

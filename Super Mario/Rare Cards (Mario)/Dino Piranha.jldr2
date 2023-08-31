@@ -1,0 +1,19 @@
+{
+	"name": "Dino_Piranha",
+	"modPrefix": "Mushroom",
+	"displayedName": "Dino Piranha",
+	"baseAttack": 3,
+	"baseHealth": 6,
+	"bloodCost": 3,
+	"abilities": ["GuardDog","extraVoid.inscryption.voidSigils.Vicious"],
+	"metaCategories": ["Rare"],
+	"cardComplexity": "Intermediate",
+	"temple": "Nature",
+	"description": "The newly born Dino Piranha. A horrifying chimera of reptile and plant that'll lash at anything it sees...",
+	"appearanceBehaviour": ["RareCardBackground"],
+	"texture": "Dino Piranha.png",
+	"emissionTexture": "Dino Piranha_e.png",
+	"tribes": ["Reptile"],
+	"extensionProperties": { 
+	"MycoMerger": "Mushroom_Fire_Flower:Mushroom_Fiery_Dino_Piranha"}
+}

@@ -1,0 +1,17 @@
+{
+	"name": "Huff_N_Puff",
+	"modPrefix": "Mushroom",
+	"displayedName": "Huff N. Puff",
+	"baseAttack": 3,
+	"baseHealth": 6,
+	"bloodCost": 2,
+	"abilities": ["org.memez4life.inscryption.customsigils.Host","extraVoid.inscryption.voidSigils.Regen 2"],
+	"description": "The airheaded Huff N. Puff. A tyrant of the air, his army of clouds wish to cover the land in darkness, letting no sunlight through...",
+	"metaCategories": ["Rare"],
+	"cardComplexity": "Intermediate",
+	"temple": "Nature",
+	"appearanceBehaviour": ["RareCardBackground"],
+	"texture": "Huff N. Puff.png",
+	"emissionTexture": "Huff N. Puff_e.png",
+	"iceCubeName": "Mushroom_Ruff_Puff"
+}

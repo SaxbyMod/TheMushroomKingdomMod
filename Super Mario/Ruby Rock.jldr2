@@ -1,0 +1,17 @@
+{
+	"name": "Ruby_Rock",
+	"modPrefix": "Mushroom",
+	"displayedName": "Ruby Rock",
+	"baseAttack": 5,
+	"baseHealth": 5,
+	"energyCost": 5,
+	"abilities": ["extraVoid.inscryption.voidSigils.Trample","MadeOfStone"],
+	"metaCategories": ["ChoiceNode","TraderOffer"],
+	"cardComplexity": "Intermediate",
+	"temple": "Nature",
+	"description": "The mindless Ruby Rock. It's only purpose is to roll ahead, destroying all in it's path...",
+	"traits": ["Terrain"],
+	"appearanceBehaviour": ["TerrainLayout","TerrainBackground"],
+	"texture": "Ruby Rock.png",
+	"emissionTexture": "Ruby Rock_e.png"
+}

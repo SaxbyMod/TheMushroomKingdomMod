@@ -1,0 +1,16 @@
+{
+	"name": "Blazing_Shroob",
+	"modPrefix": "Mushroom",
+	"displayedName": "Blazing Shroob",
+	"baseAttack": 1,
+	"baseHealth": 3,
+	"energyCost": 2,
+	"abilities": ["extraVoid.inscryption.voidSigils.Burning"],
+	"metaCategories": ["ChoiceNode","TraderOffer"],
+	"cardComplexity": "Simple",
+	"temple": "Nature",
+	"description": "The Blazing Shroob. It had a good idea on how to add firepower to it's arsenal. Too bad the plan was poorly executed...",
+	"texture": "Blazing Shroob.png",
+	"emissionTexture": "Blazing Shroob_e.png",
+	"tribes": ["None"]
+}

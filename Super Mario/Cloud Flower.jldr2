@@ -1,0 +1,15 @@
+{
+	"name": "Cloud_Flower",
+	"modPrefix": "Mushroom",
+	"displayedName": "Cloud Flower",
+	"baseHealth": 2,
+	"baseAttack": 0,
+	"abilities": ["Reach","Flying"],
+	"metaCategories": ["ChoiceNode","TraderOffer"],
+	"cardComplexity": "Intermediate",
+	"temple": "Nature",
+	"description": "The puffy Cloud Flower. The Clouds bend to the will of those who bear its sigils...",
+	"metaCategories": ["ChoiceNode","TraderOffer"],
+	"texture": "Cloud Flower.png",
+	"emissionTexture": "Cloud Flower_e.png"
+}

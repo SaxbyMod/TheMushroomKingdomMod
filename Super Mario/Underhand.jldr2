@@ -1,0 +1,16 @@
+{
+	"name": "Mushroom_Underhand",
+	"modPrefix": "Mushroom",
+	"displayedName": "Underhand",
+	"baseAttack": 1,
+	"baseHealth": 2,
+	"bonesCost": 2,
+	"abilities": ["extraVoid.inscryption.voidSigils.Gripper","extraVoid.inscryption.voidSigils.Leech"],
+	"metaCategories": ["ChoiceNode","TraderOffer"],
+	"cardComplexity": "Advanced",
+	"temple": "Nature",
+	"description": "The sinful Underhand. Woe to thee who fall into the River Twygz, doomed to be strangled by these hands...",
+	"texture": "Underhand.png",
+	"emissionTexture": "Underhand_e.png",
+	"tribes": ["None"]
+}

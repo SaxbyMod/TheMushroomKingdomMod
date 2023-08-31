@@ -1,0 +1,15 @@
+{
+	"name": "Shadow_Hand",
+	"modPrefix": "Mushroom",
+	"displayedName": "Shadow Hand",
+	"baseAttack": 2,
+	"baseHealth": 3,
+	"abilities": ["org.memez4life.inscryption.customsigils.Host","extraVoid.inscryption.voidSigils.Leech","DoubleStrike"],
+	"cardComplexity": "Intermediate",
+	"temple": "Nature",
+	"description": "The Hand of the Shadow Queen. Getting grabbed will have your life force drained...",
+	"appearanceBehaviour": ["RareCardBackground"],
+	"texture": "Shadow Hand.png",
+	"emissionTexture": "Shadow Hand_e.png",
+	"iceCubeName": "Mushroom_Shadow_Graspers"
+}

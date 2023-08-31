@@ -1,0 +1,15 @@
+{
+	"name": "Mushroom_Grinder",
+	"modPrefix": "Mushroom",
+	"displayedName": "Grinder",
+	"baseAttack": 1,
+	"baseHealth": 4,
+	"energyCost": 3,
+	"abilities": ["Sharp","Sharp","Sharp","org.memez4life.inscryption.customsigils.Rushing march"],
+	"metaCategories": ["ChoiceNode","TraderOffer"],
+	"cardComplexity": "Intermediate",
+	"temple": "Nature",
+	"description": "The sentient Grinder. It'll slice through anything, be it friend or foe...",
+	"texture": "Grinder.png",
+	"emissionTexture": "Grinder_e.png"
+}

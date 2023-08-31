@@ -1,0 +1,17 @@
+{
+	"name": "Ty_Foo",
+	"modPrefix": "Mushroom",
+	"displayedName": "Ty-Foo",
+	"baseAttack": 1,
+	"baseHealth": 4,
+	"bonesCost": 7,
+	"energyCost": 0,
+	"abilities": ["DebuffEnemy","nevernamed.inscryption.sigils.Downdraft"],
+	"metaCategories": ["Rare"],
+	"appearanceBehaviour": ["RareCardBackground"],
+	"cardComplexity": "Intermediate",
+	"temple": "Nature",
+	"description": "The monsterous Ty-Foo. It's wind has been twisted into a tempest of fog none can escape from, if they aren't just blown away, of course.",
+	"texture": "Ty-Foo.png",
+	"emissionTexture": "Ty-Foo_e.png"
+}

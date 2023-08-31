@@ -1,0 +1,16 @@
+{
+	"name": "Mushroom_Fryguy",
+	"modPrefix": "Mushroom",
+	"displayedName": "Fryguy",
+	"baseAttack": 2,
+	"baseHealth": 4,
+	"bloodCost": 2,
+	"abilities": ["Flying","Sharp","Sharp"],
+	"metaCategories": ["Rare"],
+	"appearanceBehaviour": ["RareCardBackground"],
+	"cardComplexity": "Intermediate",
+	"temple": "Nature",
+	"description": "The spicy Fryguy. Be warned. He's too hot to touch!",
+	"texture": "Fryguy.png",
+	"emissionTexture": "Fryguy_e.png"
+}

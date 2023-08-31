@@ -1,0 +1,11 @@
+{
+    "name": "Goombrat",
+    "modPrefix": "Mushroom",
+    "description": "A bratty Goombrat. Refuses to fall like a real goomba. Imposters must be punished...",
+    "tribes": ["tribes.libary.goomba"],
+    "displayedName": "Goombrat",
+    "texture": "Goombrat.png",
+    "pixelTexture": "Goombrat Act 2.png",	
+    "baseAttack": 0,
+    "baseHealth": 1
+}

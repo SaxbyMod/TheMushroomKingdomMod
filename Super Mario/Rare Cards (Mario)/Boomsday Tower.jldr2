@@ -1,0 +1,16 @@
+{
+	"name": "Boomsday_Tower",
+	"modPrefix": "Mushroom",
+	"displayedName": "Boomsday Tower",
+	"baseAttack": 2,
+	"baseHealth": 6,
+	"energyCost": 0,
+	"abilities": ["bitty45.inscryption.sigils.Soul Link","CellTriStrike","extraVoid.inscryption.voidSigils.Draw Card","CellBuffSelf","ExplodeOnDeath"],
+	"appearanceBehaviour": ["RareCardBackground"],
+	"cardComplexity": "Intermediate",
+	"temple": "Nature",
+	"description": "One of Bowser Jr's killer inventions, and very volatile. Make sure to build it correctly: cockpit followed by the other parts.",
+	"texture": "Boomsday Tower.png",
+	"emissionTexture": "Boomsday Tower_e.png",
+	"iceCubeName": "Mushroom_Boomsday_Treads"
+}

@@ -1,0 +1,17 @@
+{
+	"name": "The_Chimp",
+	"modPrefix": "Mushroom",
+	"displayedName": "The Chimp",
+	"baseAttack": 2,
+	"baseHealth": 4,
+	"bloodCost": 2,
+	"abilities": ["org.memez4life.inscryption.customsigils.Launcher","extraVoid.inscryption.voidSigils.Draw Card"],
+	"metaCategories": ["ChoiceNode","TraderOffer"],
+	"cardComplexity": "Simple",
+	"temple": "Nature",
+	"description": "A self-proclaimed professional gamer, The Chimp brings less of a fight and more of a challenge to those in her wake...",
+	"texture": "The Chimp.png",
+	"emissionTexture": "The Chimp_e.png",
+	"tribes": ["None"],
+	"iceCubeName": "Mushroom_Pinhead"
+}

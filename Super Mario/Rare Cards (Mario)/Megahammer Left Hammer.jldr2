@@ -1,0 +1,16 @@
+{
+	"name": "Megahammer_Left_Hammer",
+	"modPrefix": "Mushroom",
+	"displayedName": "Megahammer Left Hammer",
+	"baseAttack": 1,
+	"baseHealth": 3,
+	"energyCost": 4,
+	"abilities": ["ConduitBuffAttack","ConduitBuffAttack","DrawCopyOnDeath","extraVoid.inscryption.voidSigils.Draw Card"],
+	"appearanceBehaviour": ["RareCardBackground"],
+	"cardComplexity": "Intermediate",
+	"temple": "Nature",
+	"description": "One of Bowser Jr's killer inventions. Make sure to build it correctly for max power: cockpit in the center.",
+	"texture": "Megahammer Left Hammer.png",
+	"emissionTexture": "Megahammer Left Hammer_e.png",
+	"iceCubeName": "Mushroom_Megahammer_Right_Hammer"
+}

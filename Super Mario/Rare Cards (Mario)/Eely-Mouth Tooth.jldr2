@@ -1,0 +1,13 @@
+{
+	"name": "Tooth",
+	"modPrefix": "Mushroom",
+	"displayedName": "Tooth",
+	"baseHealth": 3,
+	"abilities": ["Sharp"],
+	"cardComplexity": "Intermediate",
+	"temple": "Nature",
+	"description": "A Tooth from the Eely-Mouth. Now, what ever did it do to you?",
+	"texture": "Eely-Mouth Tooth.png",
+	"emissionTexture": "Eely-Mouth Tooth_e.png",
+	"tribes": ["None"]
+}

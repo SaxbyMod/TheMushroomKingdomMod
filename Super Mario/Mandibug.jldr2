@@ -1,0 +1,16 @@
+{
+	"name": "Mushroom_Mandibug",
+	"modPrefix": "Mushroom",
+	"displayedName": "Mandibug",
+	"baseAttack": 1,
+	"baseHealth": 3,
+	"bloodCost": 2,
+	"abilities": ["extraVoid.inscryption.voidSigils.Desperation"],
+	"metaCategories": ["ChoiceNode","TraderOffer"],
+	"cardComplexity": "Intermediate",
+	"temple": "Nature",
+	"description": "The enraged Mandibug. Once it stakes its claim, owned or stolen from the bees, it will not give it up without a fight...",
+	"texture": "Mandibug.png",
+	"emissionTexture": "Mandibug_e.png",
+	"tribes": ["Insect"]
+}

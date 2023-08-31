@@ -1,0 +1,15 @@
+{
+	"name": "Spiky_Gummit",
+	"modPrefix": "Mushroom",
+	"displayedName": "Spiky Gummit",
+	"baseAttack": 0,
+	"baseHealth": 5,
+	"energyCost": 5,
+	"abilities": ["WhackAMole","Sharp"],
+	"metaCategories": ["ChoiceNode","TraderOffer"],
+	"cardComplexity": "Intermediate",
+	"temple": "Nature",
+	"description": "The sour Spiky Gummit. A more unforgiving gummit that won't tolerate being rammed into...",
+	"texture": "Spiky Gummit.png",
+	"emissionTexture": "Spiky Gummit_e.png"
+}

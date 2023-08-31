@@ -1,0 +1,16 @@
+{
+	"name": "Naplock",
+	"modPrefix": "Mushroom",
+	"displayedName": "Naplock",
+	"baseAttack": 3,
+	"baseHealth": 6,
+	"bloodCost": 2,
+	"abilities": ["org.memez4life.inscryption.customsigils.Asleep","org.memez4life.inscryption.customsigils.Launcher"],
+	"iceCubeName": "Mushroom_Naplock_Block",
+	"metaCategories": ["ChoiceNode","TraderOffer"],
+	"cardComplexity": "Advanced",
+	"temple": "Nature",
+	"description": "The hardy Naplock. The blocks it creates don't aren't the most benefical to it's striker...",
+	"texture": "Naplock.png",
+	"emissionTexture": "Naplock_e.png"
+}

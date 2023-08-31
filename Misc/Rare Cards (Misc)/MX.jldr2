@@ -1,0 +1,17 @@
+{
+	"name": "MX",
+	"modPrefix": "Mushroom",
+	"displayedName": "MX",
+	"baseAttack": 8,
+	"baseHealth": 5,
+	"bonesCost": 7,
+	"abilities": [],
+	"metaCategories": ["Rare"],
+	"cardComplexity": "Intermediate",
+	"temple": "Nature",
+	"description": "Something's wrong with that card... VERY wrong indeed...",
+	"appearanceBehaviour": ["RareCardBackground"],
+	"texture": "MX.png",
+	"emissionTexture": "MX_e.png",
+	"decals": [ "MX_decal.png" ]
+}

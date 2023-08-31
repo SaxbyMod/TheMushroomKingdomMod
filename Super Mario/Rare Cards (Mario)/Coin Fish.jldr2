@@ -1,0 +1,19 @@
+{
+	"name": "Coin_Fish",
+	"modPrefix": "Mushroom",
+	"displayedName": "Coin Fish",
+	"baseAttack": 3,
+	"baseHealth": 8,
+	    "extensionProperties": {
+	           "MoneyCost": "4"
+	},
+	"abilities": ["extraVoid.inscryption.voidSigils.Abundance","extraVoid.inscryption.voidSigils.Tooth Shard","extraVoid.inscryption.voidSigils.Coin Finder"],
+	"cardComplexity": "Advanced",
+	"temple": "Nature",
+	"metaCategories": ["Rare"],
+	"description": "The shining Coin Fish. It's gleaming scales shine with riches unknown, if you can hold your breath long enough...",
+	"texture": "Coin Fish.png",
+	"emissionTexture": "Coin Fish_e.png",
+	"appearanceBehaviour": ["GoldEmission","RareCardBackground"],
+	"tribes": ["None"]
+}

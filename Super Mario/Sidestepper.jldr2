@@ -1,0 +1,15 @@
+{
+	"name": "Mushroom_Sidestepper",
+	"modPrefix": "Mushroom",
+	"displayedName": "Sidestepper",
+	"baseAttack": 1,
+	"baseHealth": 3,
+	"bloodCost": 2,
+	"abilities": ["extraVoid.inscryption.voidSigils.Vicious","extraVoid.inscryption.voidSigils.Thick Shell"],
+	"metaCategories": ["ChoiceNode","TraderOffer"],
+	"cardComplexity": "Intermediate",
+	"temple": "Nature",
+	"description": "The crabby Sidestepper. Unlike its koopa and fly kin, striking it will only drive it deeper into its frenzy.",
+	"texture": "Sidestepper.png",
+	"emissionTexture": "Sidestepper_e.png"
+}

@@ -1,0 +1,16 @@
+{
+	"name": "T_Rex",
+	"modPrefix": "Mushroom",
+	"displayedName": "T-Rex",
+	"baseAttack": 4,
+	"baseHealth": 6,
+	"bloodCost": 3,
+	"abilities": ["extraVoid.inscryption.voidSigils.Trample","extraVoid.inscryption.voidSigils.Predator"],
+	"metaCategories": ["ChoiceNode","TraderOffer"],
+	"cardComplexity": "Intermediate",
+	"temple": "Nature",
+	"description": "The terrble T-Rex. Wait. Since when was a T-Rex from the Mushroom Kindgom?!",
+	"texture": "T-Rex.png",
+	"emissionTexture": "T-Rex_e.png",
+	"tribes": ["Reptile"]
+}

@@ -1,0 +1,14 @@
+{
+	"name": "Tooth_Golden",
+	"modPrefix": "Mushroom",
+	"displayedName": "Golden Tooth",
+	"baseHealth": 1,
+	"abilities": ["Sharp","extraVoid.inscryption.voidSigils.Abundance"],
+	"cardComplexity": "Intermediate",
+	"temple": "Nature",
+	"description": "A Golden Tooth from the Eely-Mouth. Now, what ever did it do to you?",
+	"texture": "Eely-Mouth Tooth.png",
+	"emissionTexture": "Eely-Mouth Tooth_e.png",
+	"appearanceBehaviour": ["GoldEmission","RareCardBackground"],
+	"tribes": ["None"]
+}

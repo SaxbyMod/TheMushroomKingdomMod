@@ -1,0 +1,14 @@
+{
+	"name": "Fireball",
+	"modPrefix": "Mushroom",
+	"displayedName": "Fireball",
+	"baseAttack": 1,
+	"baseHealth": 1,
+	"abilities": ["Brittle"],
+	"description": "The fragile Fireball. Leaves behind a burnt bone on death from burned enemies...",
+	"texture": "Fireball.png",
+	"pixelTexture": "Fireball Act 2.png",
+	"tribes": ["tribes.libary.pyro"],
+	"traits": ["Terrain"],
+	"appearanceBehaviour": ["TerrainLayout","TerrainBackground"]
+}

@@ -1,0 +1,19 @@
+{
+	"name": "Fire_Bro",
+	"modPrefix": "Mushroom",
+	"displayedName": "Fire Bro.",
+	"baseAttack": 2,
+	"baseHealth": 3,
+	"bloodCost": 2,
+	"abilities": ["DrawCopy","Sniper","extraVoid.inscryption.voidSigils.Firestarter"],
+	"metaCategories": ["ChoiceNode","TraderOffer"],
+	"cardComplexity": "Intermediate",
+	"temple": "Nature",
+	"description": "The feral Fire Bro. Capable of slinging fire to fry any opponent...",
+	"texture": "Fire Bro.png",
+	"emissionTexture": "Fire Bro_e.png",
+	"tribes": ["Reptile"],
+	"evolveIntoName": "Mushroom_Sledge_Bro",
+	"evolveTurns": 1,
+	"pixelTexture": "Hammer Bro Act 2.png"
+}

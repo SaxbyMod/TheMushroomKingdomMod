@@ -1,0 +1,16 @@
+{
+	"name": "Cataquack",
+	"modPrefix": "Mushroom",
+	"displayedName": "Cataquack",
+	"baseAttack": 2,
+	"baseHealth": 5,
+	"bloodCost": 1,
+	"abilities": ["extraVoid.inscryption.voidSigils.Ram","org.memez4life.inscryption.customsigils.Asleep"],
+	"metaCategories": ["ChoiceNode","TraderOffer"],
+	"cardComplexity": "Intermediate",
+	"temple": "Nature",
+	"description": "The mischevious cataquack. Known to mostly sleep, but tread too close, and it'll send you into the air with its beak.",
+	"texture": "Cataquack.png",
+	"emissionTexture": "Cataquack_e.png",
+	"tribes": ["Bird"]
+}

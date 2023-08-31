@@ -1,0 +1,17 @@
+{
+	"name": "Charvaargh",
+	"modPrefix": "Mushroom",
+	"displayedName": "Charvaargh",
+	"baseAttack": 1,
+	"baseHealth": 5,
+	"bloodCost": 2,
+	"abilities": ["Deathtouch","extraVoid.inscryption.voidSigils.Ambush"],
+	"metaCategories": ["Rare"],
+	"cardComplexity": "Intermediate",
+	"temple": "Nature",
+	"description": "The hot-tempered Charvaargh. Known as the Lord  of  Lava, One quivers at the slight thought of this molten monstrosity...",
+	"appearanceBehaviour": ["RareCardBackground"],
+	"texture": "Charvaargh.png",
+	"emissionTexture": "Charvaargh_e.png",
+	"tribes": ["Reptile","tribes.libary.pyro"]
+}

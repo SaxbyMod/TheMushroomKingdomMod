@@ -1,0 +1,22 @@
+{
+  "name": "PackRat",
+  "modPrefix": "Mushroom",
+  "displayedName": "Trashure",
+  "description": "A Trashure. Useful? Probably not...",
+  "metaCategories": [
+    "Rare"
+  ],
+  "baseAttack": 2,
+  "baseHealth": 2,
+  "bloodCost": 0,
+  "energyCost": 3,
+  "tribes": [
+    "tribes.libary.treasure"
+  ],
+  "abilities": [
+    "creator.TooManySigils.Dead Pack",
+    "creator.TooManySigils.Heart Locked"
+  ],
+  "texture": "Trashure.png",
+  "emissionTexture": "Trashure_e.png"
+}

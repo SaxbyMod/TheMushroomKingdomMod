@@ -1,0 +1,17 @@
+{
+	"name": "Wario's_Bucket",
+	"modPrefix": "Mushroom",
+	"displayedName": "Wario's Bucket",
+	"baseHealth": 1,
+	"abilities": ["IceCube"],
+	"metaCategories": ["Rare"],
+	"cardComplexity": "Intermediate",
+	"temple": "Nature",
+	"description": "This must be Wario's Bucket. Once used to hide someone's view, it now hides something sinister...",
+	"appearanceBehaviour": ["TerrainLayout","TerrainBackground"],
+	"texture": "Wario's Bucket.png",
+	"emissionTexture": "Wario's Bucket_e.png",
+	"traits": ["Terrain"],
+	"iceCubeName": "Mushroom_Sushi",
+	"pixelTexture": "Wario Bucket Act 2.png"
+}

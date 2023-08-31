@@ -1,0 +1,17 @@
+{
+	"name": "Mushroom_Mimi",
+	"modPrefix": "Mushroom",
+	"displayedName": "Mimi",
+	"baseAttack": 1,
+	"baseHealth": 3,
+	"bloodCost": 1,
+	"abilities": ["org.memez4life.inscryption.customsigils.Shapeshifter"],
+	"metaCategories": ["Rare"],
+	"cardComplexity": "Intermediate",
+	"temple": "Nature",
+	"description": "The elegant Mimi. She's just as cute as a button, be beware, as a beast lies within...",
+	"appearanceBehaviour": ["RareCardBackground"],
+	"texture": "Mimi.png",
+	"emissionTexture": "Mimi_e.png",
+	"iceCubeName": "Mushroom_Mimi(Spider)"
+}

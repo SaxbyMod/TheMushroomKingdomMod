@@ -1,0 +1,16 @@
+{
+	"name": "Tap_Tap_Golden",
+	"modPrefix": "Mushroom",
+	"displayedName": "Tap-Tap The Golden",
+	"baseAttack": 1,
+	"baseHealth": 3,
+	"bloodCost": 3,
+	"abilities": ["nevernamed.inscryption.sigils.Sharpest Quills","nevernamed.inscryption.sigils.Resilient"],
+	"metaCategories": ["Rare"],
+	"cardComplexity": "Intermediate",
+	"temple": "Nature",
+	"description": "The juggenaut, Tap-Tap The Golden. A being of pure courage, it be best to run than fight this beast of a tap-tap...",
+	"appearanceBehaviour": ["GoldEmission","RareCardBackground"],
+	"texture": "Tap-Tap The Golden.png",
+	"emissionTexture": "Tap-Tap The Golden_e.png"
+}

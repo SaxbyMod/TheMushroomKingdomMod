@@ -1,0 +1,16 @@
+{
+	"name": "Malfunctioning_Shroid",
+	"modPrefix": "Mushroom",
+	"displayedName": "Shroid",
+	"baseAttack": 4,
+	"baseHealth": 2,
+	"energyCost": 6,
+	"metaCategories": ["ChoiceNode","TraderOffer"],
+	"abilities": ["extraVoid.inscryption.voidSigils.Random Strike"],
+	"cardComplexity": "Simple",
+	"temple": "Nature",
+	"description": "I'm afraid that Shroid's not fully functional. I suggest you get rid of it. It'll give you more room for proper beasts...",
+	"texture": "Malfunctioning Shroid.png",
+	"emissionTexture": "Malfunctioning Shroid_e.png",
+	"tribes": ["None"]
+}

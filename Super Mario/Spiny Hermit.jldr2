@@ -1,0 +1,15 @@
+{
+	"name": "Spiny_Hermit",
+	"modPrefix": "Mushroom",
+	"displayedName": "Spiny Hermit",
+	"baseAttack": 1,
+	"baseHealth": 3,
+	"bloodCost": 1,
+	"abilities": ["Sharp","extraVoid.inscryption.voidSigils.Cowardly"],
+	"metaCategories": ["ChoiceNode","TraderOffer"],
+	"cardComplexity": "Advanced",
+	"temple": "Nature",
+	"description": "The cowardly Spiny Hermit. The shell it wears serves it's purpose well, keeping the poor creature safe from harm...",
+	"texture": "Spiny Hermit.png",
+	"emissionTexture": "Spiny Hermit_e.png"
+}

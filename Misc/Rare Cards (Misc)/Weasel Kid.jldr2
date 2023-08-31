@@ -1,0 +1,13 @@
+{
+	"name": "Mushroom_Weasel_Kid",
+	"modPrefix": "Mushroom",
+	"displayedName": "Weasel Kid",
+	"baseAttack": 1,
+	"baseHealth": 3,
+	"bloodCost": 2,
+	"abilities": ["bitty45.inscryption.sigils.Jumper"],
+	"metaCategories": ["ChoiceNode","TraderOffer"],
+	"cardComplexity": "Intermediate",
+	"temple": "Nature",
+	"description": "How odd... This one brings back memories. Though I'm not sure they are my own..."
+}

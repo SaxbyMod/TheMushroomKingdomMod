@@ -1,0 +1,19 @@
+{
+	"name": "Shroob_Saucer",
+	"modPrefix": "Mushroom",
+	"displayedName": "Shroob Saucer",
+	"baseAttack": 2,
+	"baseHealth": 3,
+	"energyCost": 4,
+	"abilities": ["Flying"],
+	"metaCategories": ["ChoiceNode","TraderOffer"],
+	"cardComplexity": "Simple",
+	"temple": "Nature",
+	"description": "The dreaded Shroob Saucer. Even a lone saucer has the power to decimate those below it...",
+	"texture": "Shroob Saucer.png",
+	"emissionTexture": "Shroob Saucer_e.png",
+	"tribes": ["None"],
+	"traits": ["KillsSurvivors"],
+	"iceCubeName": "Mushroom_Crashing_Shroob_Saucer",
+	"pixelTexture": "Shroob Saucer Act 2.png"
+}

@@ -1,0 +1,15 @@
+{
+	"name": "Buzzy_Beetle",
+	"modPrefix": "Mushroom",
+	"displayedName": "Buzzy Beetle",
+	"baseAttack": 1,
+	"baseHealth": 4,
+	"bloodCost": 1,
+	"abilities": ["extraVoid.inscryption.voidSigils.Thick Shell"],
+	"metaCategories": ["ChoiceNode","TraderOffer"],
+	"cardComplexity": "Intermediate",
+	"temple": "Nature",
+	"description": "The cave dwelling Buzzy Beetle. Its thick shell makes it a more defensive turtle than its offensive, spiky counterpart.",
+	"texture": "Buzzy Beetle.png",
+	"emissionTexture": "Buzzy Beetle_e.png"
+}

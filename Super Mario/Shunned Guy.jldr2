@@ -1,0 +1,17 @@
+{
+	"name": "Shunned_Guy",
+	"modPrefix": "Mushroom",
+	"displayedName": "Shunned Guy",
+	"baseAttack": 2,
+	"baseHealth": 3,
+	"bloodCost": 2,
+	"tribes": ["tribes.libary.abombination"],
+	"abilities": ["extraVoid.inscryption.voidSigils.BloodGuzzler"],
+	"metaCategories": ["ChoiceNode","TraderOffer"],
+	"cardComplexity": "Intermediate",
+	"temple": "Nature",
+	"description": "This Shy Guy is broken. I don't want it. Take it. Please...",
+	"texture": "Shunned Guy.png",
+	"emissionTexture": "Shunned Guy_e.png",
+	"iceCubeName": "Mushroom_Ghost_Guy"
+}

@@ -1,0 +1,15 @@
+{
+	"name": "Ice_Bag",
+	"modPrefix": "Mushroom",
+	"displayedName": "Ice Bag",
+	"baseAttack": 0,
+	"baseHealth": 2,
+	"bloodCost": 0,
+	"metaCategories": ["ChoiceNode","TraderOffer"],
+	"cardComplexity": "Intermediate",
+	"temple": "Nature",
+	"abilities": ["extraVoid.inscryption.voidSigils.Medic"],
+	"description": "Nothing like an ice bag to cure a fever...",
+	"texture": "Ice Bag.png",
+	"emissionTexture": "Ice Bag_e.png"
+}

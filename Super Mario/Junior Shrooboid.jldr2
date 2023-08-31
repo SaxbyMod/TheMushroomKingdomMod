@@ -1,0 +1,18 @@
+{
+	"name": "Junior_Shrooboid",
+	"modPrefix": "Mushroom",
+	"displayedName": "Junior Shrooboid",
+	"baseAttack": 1,
+	"baseHealth": 2,
+	"energyCost": 4,
+	"abilities": ["DoubleStrike"],
+	"metaCategories": ["ChoiceNode","TraderOffer"],
+	"cardComplexity": "Simple",
+	"temple": "Nature",
+	"description": "The Junior Shrooboid. Even at a young age, they are merciless towards prey...",
+	"texture": "Junior Shrooboid.png",
+	"emissionTexture": "Shrooboid_e.png",
+	"tribes": ["None"],
+	"evolveIntoName": "Mushroom_Elder_Shrooboid",
+	"evolveTurns": 1
+}

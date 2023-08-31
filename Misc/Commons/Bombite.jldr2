@@ -1,0 +1,17 @@
+{
+	"name": "Bombite",
+	"modPrefix": "Mushroom",
+	"displayedName": "Bombite",
+	"baseAttack": 1,
+	"baseHealth": 1,
+	"energyCost": 2,
+	"abilities": ["ExplodeOnDeath","GuardDog"],
+	"metaCategories": ["ChoiceNode","TraderOffer"],
+	"cardComplexity": "Simple",
+	"temple": "Nature",
+	"description": "The explosive Bob-omb. Ke- Oh. Pardon me. I forgot I found this Bobmite along with more Bob-ombs in a place called Koholint Island...",
+	"texture": "Bombite.png",
+	"emissionTexture": "Bombite_e.png",
+	"tribes": ["None"],
+	"traits": ["KillsSurvivors"]
+}

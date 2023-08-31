@@ -1,0 +1,19 @@
+{
+	"name": "Ice_Bro",
+	"modPrefix": "Mushroom",
+	"displayedName": "Ice Bro.",
+	"baseAttack": 2,
+	"baseHealth": 3,
+	"bloodCost": 2,
+	"abilities": ["DrawCopy","Sniper","extraVoid.inscryption.voidSigils.Zapper"],
+	"metaCategories": ["ChoiceNode","TraderOffer"],
+	"cardComplexity": "Intermediate",
+	"temple": "Nature",
+	"description": "The Chilled Bro. A single hit from their spell can freeze anything to a ice-cold halt...",
+	"texture": "Ice Bro.png",
+	"emissionTexture": "Ice Bro_e.png",
+	"tribes": ["Reptile"],
+	"evolveIntoName": "Mushroom_Sledge_Bro",
+	"evolveTurns": 1,
+	"pixelTexture": "Hammer Bro Act 2.png"
+}

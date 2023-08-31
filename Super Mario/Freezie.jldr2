@@ -1,0 +1,16 @@
+{
+	"name": "Mushroom_Freezie",
+	"modPrefix": "Mushroom",
+	"displayedName": "Freezie",
+	"baseHealth": 1,
+	"bonesCost":2,
+	"abilities": ["LatchBrittle","org.memez4life.inscryption.customsigils.Instant"],
+	"metaCategories": ["ChoiceNode","TraderOffer"],
+	"cardComplexity": "Intermediate",
+	"temple": "Nature",
+	"description": "The chilling freezie. Upon death, it'll freeze one of the combatants on the board, dooming them to shatter on their next attack.",
+	"texture": "Freezie.png",
+	"emissionTexture": "Freezie_e.png",
+	"tribes": ["None"],
+	"traits": ["KillsSurvivors"]
+}

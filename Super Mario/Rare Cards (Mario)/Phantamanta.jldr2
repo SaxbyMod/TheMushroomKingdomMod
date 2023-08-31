@@ -1,0 +1,17 @@
+{
+	"name": "Phantamanta",
+	"modPrefix": "Mushroom",
+	"displayedName": "Phantamanta",
+	"baseAttack": 4,
+	"baseHealth": 5,
+	"energyCost": 4,
+	"abilities": ["PreventAttack","extraVoid.inscryption.voidSigils.Electric","extraVoid.inscryption.voidSigils.Caustic"],
+	"metaCategories": ["Rare"],
+	"cardComplexity": "Intermediate",
+	"temple": "Nature",
+	"description": "The sinister Phantamanta. A storm that comes without warning, shocking and polluting all in its wake...",
+	"appearanceBehaviour": ["RareCardBackground"],
+	"texture": "Phantamanta.png",
+	"emissionTexture": "Phantamanta_e.png",
+	"traits": ["Terrain"]
+}

@@ -1,0 +1,19 @@
+{
+	"name": "Dark_Star",
+	"modPrefix": "Mushroom",
+	"displayedName": "Dark Star",
+	"baseAttack": 1,
+	"baseHealth": 4,
+	"bloodCost": 2,
+	"energyCost": 4,
+	"abilities": ["Sharp","extraVoid.inscryption.voidSigils.Toothpuller"],
+	"metaCategories": ["Rare"],
+	"cardComplexity": "Intermediate",
+	"temple": "Nature",
+	"description": "The Dark Star. With time, it's darkness will claim the battlefield, but with evolution, it's power shall claim all...",
+	"appearanceBehaviour": ["RareCardBackground"],
+	"texture": "Dark Star.png",
+	"emissionTexture": "Dark Star_e.png",
+	"evolveIntoName": "Mushroom_Dark_Bowser",
+	"evolveTurns": 1
+}

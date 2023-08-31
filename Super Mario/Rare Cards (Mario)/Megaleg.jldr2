@@ -1,0 +1,18 @@
+{
+	"name": "Mushroom_Megaleg",
+	"modPrefix": "Mushroom",
+	"displayedName": "Megaleg",
+	"baseAttack": 2,
+	"baseHealth": 3,
+	"energyCost": 6,
+	"abilities": ["nevernamed.inscryption.sigils.Enemy Lines"],
+	"metaCategories": ["Rare"],
+	"cardComplexity": "Intermediate",
+	"temple": "Nature",
+	"description": "The towering Megaleg. Such power comes with a cost, as it lacks the ability to attack what's exactly below or above it...",
+	"appearanceBehaviour": ["RareCardBackground"],
+	"texture": "Megaleg.png",
+	"emissionTexture": "Megaleg_e.png",
+	"decals": [ "Megaleg_decal.png" ],
+	"tribes": ["tribes.libary.robot","tribes.libary.giant"]
+}

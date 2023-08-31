@@ -1,0 +1,16 @@
+{
+	"name": "Shining_Ghost",
+	"modPrefix": "Gallery",
+	"displayedName": "Shining Ghost",
+	"baseAttack": 2,
+	"baseHealth": 1,
+	"bonesCost": 2,
+	"metaCategories": ["ChoiceNode","TraderOffer"],
+	"abilities": ["Sniper","Brittle"],
+	"cardComplexity": "Simple",
+	"temple": "Nature",
+	"description": "Shining Ghosts, like shooting stars, rain from the heavens to wreak havok on those below...",
+	"texture": "Shining Ghost.png",
+	"emissionTexture": "Shining Ghost_e.png",
+	"tribes": ["tribes.libary.spirit"]
+}

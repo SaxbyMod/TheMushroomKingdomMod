@@ -1,0 +1,16 @@
+{
+	"name": "Squizzard",
+	"modPrefix": "Mushroom",
+	"displayedName": "Squizzard",
+	"baseAttack": 2,
+	"baseHealth": 2,
+	"bloodCost": 3,
+	"metaCategories": ["Rare"],
+	"cardComplexity": "Intermediate",
+	"temple": "Nature",
+	"abilities": ["Submerge","extraVoid.inscryption.voidSigils.Submerged Ambush","org.memez4life.inscryption.customsigils.Asleep"],
+	"description": "The Sandy Squizzard. Terror of the Sinkhole.",
+	"texture": "Squizzard.png",
+	"emissionTexture": "Squizzard.png",
+	"appearanceBehaviour": ["RareCardBackground"]
+}

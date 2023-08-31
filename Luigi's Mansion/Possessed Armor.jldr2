@@ -1,0 +1,20 @@
+{
+	"name": "Possessed_Armor",
+	"modPrefix": "Mushroom",
+	"displayedName": "Possessed Armor",
+	"baseAttack": 2,
+	"baseHealth": 3,
+	"bonesCost": 5,
+	"abilities": ["IceCube","extraVoid.inscryption.voidSigils.Resistant"],
+	"iceCubeName":"Mushroom_Possessor",
+	"metaCategories": ["ChoiceNode","TraderOffer"],
+	"cardComplexity": "Intermediate",
+	"temple": "Nature",
+		"tribes": [
+  "tribes.libary.possessed"
+],
+	"traits": ["KillsSurvivors"],
+	"description": "A possessed suit of armor. Still study after laying dormant for so long...",
+	"texture": "Armor Suit.png",
+	"emissionTexture": "Armor Suit_e.png"
+}

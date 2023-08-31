@@ -1,0 +1,17 @@
+{
+	"name": "Bouldergeist_Spirit_Outro",
+	"modPrefix": "Mushroom",
+	"displayedName": "Bouldergeist",
+	"baseAttack": 0,
+	"baseHealth": 4,
+	"bonesCost": 10,
+	"abilities": ["Evolve"],
+	"evolveIntoName": "Mushroom_Bouldergeist",
+	"evolveTurns": 2,
+	"metaCategories": ["Rare"],
+	"cardComplexity": "Intermediate",
+	"temple": "Nature",
+	"description": "The Stone-Cold Bouldergeist. Please help him assemble himself correctly for maximum haunting potential: Main Rock pile in the center.",
+	"texture": "Bouldergeist Spirit.png",
+	"emissionTexture": "Bouldergeist Spirit_e.png"
+}

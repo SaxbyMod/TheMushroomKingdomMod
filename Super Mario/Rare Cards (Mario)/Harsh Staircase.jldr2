@@ -1,0 +1,21 @@
+{
+	"name": "Harsh_Staircase",
+	"modPrefix": "Mushroom",
+	"displayedName": "Harsh Staircase",
+	"baseAttack": 2,
+	"baseHealth": 6,
+	"bonesCost": 5,
+	"abilities": ["IceCube","GuardDog"],
+	"iceCubeName":"Mushroom_Possessor",
+	"metaCategories": ["Rare"],
+	"appearanceBehaviour": ["RareCardBackground"],
+	"cardComplexity": "Intermediate",
+	"temple": "Nature",
+		"tribes": [
+  "tribes.libary.possessed"
+],
+	"traits": ["KillsSurvivors"],
+	"description": "The Harsh Staircase. The Possessor who took over this set of stairs had a... creative mind to say the least...",
+	"texture": "Harsh Staircase.png",
+	"emissionTexture": "Harsh Staircase_e.png"
+}

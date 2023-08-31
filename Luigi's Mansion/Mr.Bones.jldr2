@@ -1,0 +1,16 @@
+{
+	"name": "Mr_Bones",
+	"modPrefix": "Mushroom",
+	"displayedName": "Mr.Bones",
+	"baseAttack": 1,
+	"baseHealth": 2,
+	"bonesCost": 1,
+	"tribes": ["tribes.libary.ghoul","tribes.libary.skeletal"],
+	"abilities": ["QuadrupleBones"],
+	"metaCategories": ["ChoiceNode","TraderOffer"],
+	"cardComplexity": "Intermediate",
+	"temple": "Nature",
+	"description": "For the love of dirt, make that darn dog keep quiet!",
+	"texture": "Mr.Bones.png",
+	"emissionTexture": "Mr.Bones_e.png"
+}

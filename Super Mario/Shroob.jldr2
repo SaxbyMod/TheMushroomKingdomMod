@@ -1,0 +1,16 @@
+{
+	"name": "Shroob",
+	"modPrefix": "Mushroom",
+	"displayedName": "Shroob",
+	"baseAttack": 2,
+	"baseHealth": 2,
+	"energyCost": 3,
+	"abilities": ["Sniper"],
+	"metaCategories": ["ChoiceNode","TraderOffer"],
+	"cardComplexity": "Intermediate",
+	"temple": "Nature",
+	"description": "The invading Shroob. It uses its lazer in battle to claim land for its dying species...",
+	"texture": "Shroob.png",
+	"emissionTexture": "Shroob_e.png",
+	"pixelTexture": "Shroob Act 2.png"
+}

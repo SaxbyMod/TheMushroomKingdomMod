@@ -1,0 +1,18 @@
+{
+	"name": "Mushroom_Parabomb",
+	"modPrefix": "Mushroom",
+	"displayedName": "Parabomb",
+	"baseAttack": 2,
+	"baseHealth": 2,
+	"energyCost": 2,
+	"abilities": ["Flying","org.memez4life.inscryption.customsigils.Shapeshifter","extraVoid.inscryption.voidSigils.Deathburst"],
+	"metaCategories": ["ChoiceNode","TraderOffer"],
+	"cardComplexity": "Simple",
+	"temple": "Nature",
+	"description": "The drifting Parabomb. In the air, there's less risk of it killing your own beasts in the blast. That parachute looks weak, however...",
+	"texture": "Parabomb.png",
+	"emissionTexture": "Parabomb_e.png",
+	"tribes": ["None"],
+	"traits": ["KillsSurvivors"],
+	"iceCubeName": "Mushroom_Bomb_omb"
+}

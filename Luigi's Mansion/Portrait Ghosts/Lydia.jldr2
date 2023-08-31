@@ -1,0 +1,17 @@
+{
+	"name": "Lydia",
+	"modPrefix": "Gallery",
+	"displayedName": "Lydia",
+	"baseAttack": 0,
+	"baseHealth": 4,
+	"gemsCost": ["Green"],
+	"metaCategories": ["ChoiceNode","TraderOffer"],
+	"onePerDeck": true,
+	"abilities": ["bitty45.inscryption.sigils.Mirror Counter"],
+	"cardComplexity": "Simple",
+	"temple": "Nature",
+	"description": "Lydia, the Mirror Gazing Mother. She cares more for her beauty than the fight at hand...",
+	"texture": "Lydia.png",
+	"emissionTexture": "Lydia_e.png",
+	"tribes": ["tribes.libary.ghoul"]
+}

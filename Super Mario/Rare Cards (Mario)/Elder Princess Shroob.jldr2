@@ -1,0 +1,15 @@
+{
+	"name": "Elder_Princess_Shroob",
+	"modPrefix": "Mushroom",
+	"displayedName": "Elder Princess Shroob",
+	"baseAttack": 3,
+	"baseHealth": 5,
+	"abilities": ["BuffNeighbours","extraVoid.inscryption.voidSigils.Desperation","extraVoid.inscryption.voidSigils.Resistant","org.memez4life.inscryption.customsigils.Spawner"],
+	"cardComplexity": "Intermediate",
+	"temple": "Nature",
+	"description": "The Elder Princess Shroob. Wrath and Vengence incarnate. Her soul can only rest once the war is won...",
+	"appearanceBehaviour": ["RareCardBackground"],
+	"texture": "Elder Princess Shroob.png",
+	"emissionTexture": "Elder Princess Shroob_e.png",
+	"iceCubeName": "Mushroom_Crashing_Shroob_Saucer"
+}

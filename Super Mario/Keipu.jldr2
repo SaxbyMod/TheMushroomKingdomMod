@@ -1,0 +1,17 @@
+{
+	"name": "Keipu",
+	"modPrefix": "Mushroom",
+	"displayedName": "Keipu",
+	"baseAttack": 2,
+	"baseHealth": 3,
+	"bloodCost": 2,
+	"abilities": ["extraVoid.inscryption.voidSigils.Thief","Strafe","IceCube"],
+	"iceCubeName":"Mushroom_1up_Mushroom",
+	"metaCategories": ["ChoiceNode","TraderOffer"],
+	"cardComplexity": "Simple",
+	"temple": "Nature",
+	"description": "The bewitching Keipu. A true fiend of those who seek an extra life...",
+	"texture": "Keipu.png",
+	"emissionTexture": "Keipu_e.png",
+	"tribes": ["tribes.libary.humanoid"]
+}

@@ -1,0 +1,16 @@
+{
+	"name": "Phanto",
+	"modPrefix": "Mushroom",
+	"displayedName": "Phanto",
+	"baseAttack": 3,
+	"baseHealth": 3,
+	"bonesCost": 6,
+	"energyCost": 0,
+	"abilities": ["Flying"],
+	"metaCategories": ["ChoiceNode","TraderOffer"],
+	"cardComplexity": "Intermediate",
+	"temple": "Nature",
+	"description": "The diligent Phanto. Its mostly seen gaurding something, and will erupt into a furious chase if it gets robbed or killed...",
+	"texture": "Phanto.png",
+	"emissionTexture": "Phanto_e.png"
+}

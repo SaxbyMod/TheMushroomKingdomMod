@@ -1,0 +1,16 @@
+{
+	"name": "Mallow",
+	"modPrefix": "Mushroom",
+	"displayedName": "Mallow",
+	"baseAttack": 1,
+	"baseHealth": 4,
+	"energyCost": 3,
+	"abilities": ["DoubleStrike","extraVoid.inscryption.voidSigils.Resistant"],
+	"metaCategories": ["Rare"],
+	"cardComplexity": "Intermediate",
+	"temple": "Nature",
+	"description": "The fluffy Mallow. Chipper as always, he can take punishment with his cloudy body whilst dishing it back as well...",
+	"texture": "Mallow.png",
+	"emissionTexture": "Mallow_e.png",
+	"appearanceBehaviour": ["RareCardBackground"]
+}

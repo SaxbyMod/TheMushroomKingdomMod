@@ -1,0 +1,18 @@
+{
+	"name": "Bone Dragons",
+	"modPrefix": "Mushroom",
+	"displayedName": "Bone Dragons",
+	"baseAttack": 2,
+	"baseHealth": 4,
+	"bonesCost": 4,
+	"energyCost": 0,
+	"abilities": ["SplitStrike","org.memez4life.inscryption.customsigils.Bone lord 6"],
+	"metaCategories": ["Rare"],
+	"cardComplexity": "Intermediate",
+	"temple": "Nature",
+	"description": "The malicous Bone Dragons. I gone and made the mistake of taking a picture of two of them instead of one...",
+	"appearanceBehaviour": ["RareCardBackground"],
+	"texture": "Bone Dragons.png",
+	"emissionTexture": "Bone Dragons_e.png",
+	"tribes": ["Reptile"]
+}

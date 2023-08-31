@@ -1,0 +1,18 @@
+{
+	"name": "Jammyfish",
+	"modPrefix": "Mushroom",
+	"displayedName": "Jammyfish",
+	"baseAttack": 2,
+	"baseHealth": 1,
+	"bloodCost": 1,
+	"energyCost": 1,
+	"abilities": ["extraVoid.inscryption.voidSigils.Electric","Submerge"],
+	"metaCategories": ["ChoiceNode","TraderOffer"],
+	"cardComplexity": "Simple",
+	"temple": "Nature",
+	"description": "The repetative Jammyfish. It prefers to be alone, shocking intruders before diving out of sight...",
+	"texture": "Jammyfish.png",
+	"emissionTexture": "Jammyfish_e.png",
+	"extensionProperties": { 
+		"MycoMerger": "Mushroom_Mega_Mushroom:Mushroom_Jam_o_War"}
+}

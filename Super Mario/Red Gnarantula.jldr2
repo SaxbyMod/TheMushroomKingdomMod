@@ -1,0 +1,14 @@
+{
+	"name": "Gnarantula_Red",
+	"modPrefix": "Mushroom",
+	"displayedName": "Gnarantula",
+	"baseAttack": 2,
+	"baseHealth": 5,
+	"bloodCost": 2,
+	"abilities": ["Sharp"],
+	"temple": "Nature",
+	"description": "The cloudy Gnarantula. Which one you play, nobody knows...",
+	"texture": "Red Gnarantula.png",
+	"emissionTexture": "Gnarantula_e.png",
+	"tribes": ["Insect"]
+}

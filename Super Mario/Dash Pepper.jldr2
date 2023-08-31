@@ -1,0 +1,14 @@
+{
+	"name": "Dash_Pepper",
+	"modPrefix": "Mushroom",
+	"displayedName": "Dash Pepper",
+	"baseHealth": 2,
+	"baseAttack": 0,
+	"abilities": ["Strafe"],
+	"cardComplexity": "Intermediate",
+	"temple": "Nature",
+	"description": "The sizzling Dash Pepper. Give it to a beast, and they'll have no choice but to sprint the heat out of them...",
+	"metaCategories": ["ChoiceNode","TraderOffer"],
+	"texture": "Dash Pepper.png",
+	"emissionTexture": "Dash Pepper_e.png"
+}

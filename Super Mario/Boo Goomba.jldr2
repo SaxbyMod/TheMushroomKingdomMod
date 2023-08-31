@@ -1,0 +1,14 @@
+{
+	"name": "Boo_Goomba",
+	"modPrefix": "Mushroom",
+	"displayedName": "Boo Goomba",
+	"baseAttack": 2,
+	"baseHealth": 1,
+	"bonesCost": 6,
+	"metaCategories": ["ChoiceNode","TraderOffer"],
+	"abilities": ["DrawCopyOnDeath"],
+	"tribes": ["tribes.libary.fungus","tribes.libary.spectral","tribes.libary.boo","tribes.libary.goomba"],
+	"description": "The sly traitor Boo Goomba. True to it's appearance, it can no longer be stomped...",
+	"texture": "Boo Goomba.png",
+	"emissionTexture": "Boo Goomba_e.png"
+}

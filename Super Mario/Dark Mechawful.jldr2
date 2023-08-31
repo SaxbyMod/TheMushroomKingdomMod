@@ -1,0 +1,16 @@
+{
+	"name": "Dark_Mechawful",
+	"modPrefix": "Mushroom",
+	"displayedName": "Dark Mechawful",
+	"baseAttack": 1,
+	"baseHealth": 3,
+	"energyCost": 4,
+	"abilities": ["extraVoid.inscryption.voidSigils.Box","DoubleStrike"],
+	"metaCategories": ["ChoiceNode","TraderOffer"],
+	"cardComplexity": "Simple",
+	"temple": "Nature",
+	"description": "The Dark Mechawful. It's still a work in progress, but maybe killing it may give it a true upgrade?",
+	"texture": "Dark Mechawful.png",
+	"emissionTexture": "Dark Mechawful_e.png",
+	"iceCubeName": "Mushroom_Dark_Mechawful_Head"
+}

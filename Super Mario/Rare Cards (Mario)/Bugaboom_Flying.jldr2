@@ -1,0 +1,16 @@
+{
+	"name": "Bugaboom_Flying",
+	"modPrefix": "Mushroom",
+	"displayedName": "Bugaboom",
+	"baseAttack": 4,
+	"baseHealth": 2,
+	"bloodCost": 1,
+	"abilities": ["Flying"],
+	"cardComplexity": "Intermediate",
+	"temple": "Nature",
+	"description": "The delusional Bugaboom. It charges into battle headfirst, only flying away when it realizes its been had.",
+	"appearanceBehaviour": ["RareCardBackground"],
+	"texture": "Bugaboom.png",
+	"emissionTexture": "Bugaboom_e.png",
+	"tribes": ["Insect"]
+}

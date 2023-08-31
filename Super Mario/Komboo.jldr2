@@ -1,0 +1,16 @@
+{
+	"name": "Komboo",
+	"modPrefix": "Mushroom",
+	"displayedName": "Komboo",
+	"baseAttack": 2,
+	"baseHealth": 3,
+	"bonesCost": 1,
+	"abilities": ["extraVoid.inscryption.voidSigils.Grazing","extraVoid.inscryption.voidSigils.High Tide","extraVoid.inscryption.voidSigils.Schooling"],
+	"cardComplexity": "Advanced",
+	"temple": "Nature",
+	"metaCategories": ["ChoiceNode","TraderOffer"],
+	"description": "The menacing Komboo. They provide cover and power for their allies who tred on the sea floor...",
+	"texture": "Komboo.png",
+	"emissionTexture": "Komboo_e.png",
+	"tribes": ["None"]
+}

@@ -1,0 +1,16 @@
+{
+	"name": "Lee",
+	"modPrefix": "Mushroom",
+	"displayedName": "Lee",
+	"baseAttack": 1,
+	"baseHealth": 3,
+	"bonesCost": 7,
+	"abilities": ["nevernamed.inscryption.sigils.Hypermorphic"],
+	"metaCategories": ["Rare"],
+	"cardComplexity": "Intermediate",
+	"appearanceBehaviour": ["RareCardBackground"],
+	"temple": "Nature",
+	"description": "The deceptive student, Lee. A Duplighost that's mastered its ability to turn into other horrifying beasts...",
+	"texture": "Lee.png",
+	"emissionTexture": "Lee_e.png"
+}

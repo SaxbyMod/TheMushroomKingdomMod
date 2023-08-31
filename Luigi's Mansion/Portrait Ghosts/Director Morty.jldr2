@@ -1,0 +1,18 @@
+{
+	"name": "Director_Morty",
+	"modPrefix": "Gallery",
+	"displayedName": "Director Morty",
+	"baseAttack": 1,
+	"baseHealth": 3,
+	"gemsCost": ["Blue"],
+	"abilities": ["extraVoid.inscryption.voidSigils.Draw Card"],
+	"iceCubeName":"Gallery_Ghostzilla",
+	"metaCategories": ["ChoiceNode","TraderOffer"],
+	"onePerDeck": true,
+	"cardComplexity": "Intermediate",
+	"temple": "Nature",
+	"description": "The talent seeking Director Morty. Yearns to create a masterpiece of a film. Mind helping him out?",
+	"texture": "Director Morty.png",
+	"emissionTexture": "Director Morty_e.png",
+	"tribes": ["tribes.libary.ghoul"]
+}

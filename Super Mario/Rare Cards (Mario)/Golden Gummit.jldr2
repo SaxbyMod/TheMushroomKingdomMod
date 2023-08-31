@@ -1,0 +1,16 @@
+{
+	"name": "Golden_Gummit",
+	"modPrefix": "Mushroom",
+	"displayedName": "Golden Gummit",
+	"baseAttack": 0,
+	"baseHealth": 8,
+	"energyCost": 4,
+	"abilities": ["WhackAMole"],
+	"metaCategories": ["Rare"],
+	"cardComplexity": "Intermediate",
+	"temple": "Nature",
+	"description": "The rich Golden Gummit. The most costly, yet most reliable gummit in the ice...",
+	"texture": "Gummit.png",
+	"emissionTexture": "Gummit_e.png",
+	"appearanceBehaviour": ["GoldEmission","RareCardBackground"]
+}

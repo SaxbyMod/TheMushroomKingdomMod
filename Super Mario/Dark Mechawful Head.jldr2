@@ -1,0 +1,17 @@
+{
+	"name": "Dark_Mechawful_Head",
+	"modPrefix": "Mushroom",
+	"displayedName": "Dark Mechawful Head",
+	"baseAttack": 1,
+	"baseHealth": 2,
+	"energyCost": 3,
+	"abilities": ["Flying","Evolve"],
+	"metaCategories": ["ChoiceNode","TraderOffer"],
+	"cardComplexity": "Simple",
+	"temple": "Nature",
+	"description": "The Dark Mechawful's Head. Keep it alive long enough, and it'll upgrade into a unit of pure value...",
+	"texture": "Dark Mechawful Head.png",
+	"emissionTexture": "Dark Mechawful Head_e.png",
+	"evolveIntoName": "Mushroom_Dark_Mechawful.5",
+	"evolveTurns": 1
+}

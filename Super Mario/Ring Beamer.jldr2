@@ -1,0 +1,15 @@
+{
+	"name": "Ring_Beamer",
+	"modPrefix": "Mushroom",
+	"displayedName": "Ring Beamer",
+	"baseAttack": 1,
+	"baseHealth": 3,
+	"energyCost": 3,
+	"abilities": ["TriStrike","DoubleStrike","DoubleStrike"],
+	"metaCategories": ["ChoiceNode","TraderOffer"],
+	"cardComplexity": "Simple",
+	"temple": "Nature",
+	"description": "The pressured Ring Beamer. It manifests energy into rings that electrocute intruders...",
+	"texture": "Ring Beamer.png",
+	"emissionTexture": "Ring Beamer_e.png"
+}

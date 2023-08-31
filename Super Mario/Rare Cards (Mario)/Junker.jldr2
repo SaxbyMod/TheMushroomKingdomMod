@@ -1,0 +1,16 @@
+{
+	"name": "Mushroom_Junker",
+	"modPrefix": "Mushroom",
+	"displayedName": "Junker",
+	"baseAttack": 2,
+	"baseHealth": 5,
+	"energyCost": 3,
+	"abilities": ["Sniper","extraVoid.inscryption.voidSigils.Toxin (Sickening)","extraVoid.inscryption.voidSigils.Resistant"],
+	"metaCategories": ["Rare"],
+	"cardComplexity": "Intermediate",
+	"temple": "Nature",
+	"description": "The robotic Junker. Calling it trash will reward you a barrage of sickening garbage fired at your direction.",
+	"appearanceBehaviour": ["RareCardBackground"],
+	"texture": "Junker.png",
+	"emissionTexture": "Junker_e.png"
+}

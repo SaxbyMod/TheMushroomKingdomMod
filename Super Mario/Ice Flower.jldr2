@@ -1,0 +1,16 @@
+{
+	"name": "Ice_Flower",
+	"modPrefix": "Mushroom",
+	"displayedName": "Ice Flower",
+	"baseAttack": 0,
+	"baseHealth": 2,
+	"bloodCost": 0,
+	"abilities": ["extraVoid.inscryption.voidSigils.Zapper"],
+	"metaCategories": ["ChoiceNode","TraderOffer"],
+	"cardComplexity": "Simple",
+	"temple": "Nature",
+	"description": "The chilled Ice Flower. Bears the holder to freeze their prey to a icy stop...",
+	"texture": "Ice Flower.png",
+	"emissionTexture": "Ice Flower_e.png",
+	"tribes": ["None"]
+}

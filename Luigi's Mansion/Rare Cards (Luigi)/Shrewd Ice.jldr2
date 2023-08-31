@@ -1,0 +1,21 @@
+{
+	"name": "Shrewd_Ice",
+	"modPrefix": "Mushroom",
+	"displayedName": "Shrewd Ice",
+	"baseAttack": 0,
+	"baseHealth": 10,
+	"bonesCost": 10,
+	"abilities": ["IceCube","WhackAMole"],
+	"iceCubeName":"Mushroom_Possessor",
+	"metaCategories": ["Rare"],
+	"cardComplexity": "Intermediate",
+	"temple": "Nature",
+		"tribes": [
+  "tribes.libary.possessed"
+],
+	"traits": ["KillsSurvivors"],
+	"appearanceBehaviour": ["RareCardBackground"],
+	"description": "A Shrewd Possessor inhabit's this Ice monster. Though it seems it would not fight, it can take a beating if needed.",
+	"texture": "Shrewd Ice.png",
+	"emissionTexture": "Shrewd Ice_e.png"
+}

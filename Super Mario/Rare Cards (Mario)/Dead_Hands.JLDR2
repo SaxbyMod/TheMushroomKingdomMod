@@ -1,0 +1,15 @@
+{
+	"name": "Shadow_Graspers",
+	"modPrefix": "Mushroom",
+	"displayedName": "Dead Hands",
+	"baseAttack": 1,
+	"baseHealth": 3,
+	"energyCost": 6,
+	"abilities": ["AllStrike","extraVoid.inscryption.voidSigils.Multi-Strike","extraVoid.inscryption.voidSigils.Multi-Strike","extraVoid.inscryption.voidSigils.Multi-Strike","extraVoid.inscryption.voidSigils.Multi-Strike","extraVoid.inscryption.voidSigils.Paralysis"],
+	"cardComplexity": "Intermediate",
+	"temple": "Nature",
+	"description": "The Hands of the Shadow Queen. Known to suck the life force of all they grab...",
+	"appearanceBehaviour": ["RareCardBackground"],
+	"texture": "Dead Hands.png",
+	"emissionTexture": "Dead Hands_e.png"
+}

@@ -1,0 +1,15 @@
+{
+	"name": "Robomb",
+	"modPrefix": "Mushroom",
+	"displayedName": "Robomb",
+	"baseAttack": 3,
+	"baseHealth": 1,
+	"energyCost": 3,
+	"abilities": ["extraVoid.inscryption.voidSigils.Deathburst","extraVoid.inscryption.voidSigils.Deathburst","Brittle"],
+	"cardComplexity": "Intermediate",
+	"temple": "Nature",
+	"description": "The crazed Robomb. Their main goal is to blow up. Mostly at whoever blinded them with a flashlight.",
+	"texture": "Robomb.png",
+	"emissionTexture": "Robomb_e.png",
+	"tribes": ["None"]
+}

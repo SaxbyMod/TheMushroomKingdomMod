@@ -1,0 +1,14 @@
+{
+	"name": "Fake_Block",
+	"modPrefix": "Mushroom",
+	"displayedName": "Fake Block",
+	"baseAttack": 2,
+	"baseHealth": 1,
+	"bloodCost": 1,
+	"abilities": ["extraVoid.inscryption.voidSigils.Thick Shell","extraVoid.inscryption.voidSigils.Ram"],
+	"cardComplexity": "Intermediate",
+	"temple": "Nature",
+	"description": "The trickster Fake Block. The truth behind the mysterious brick pile is revealed.",
+	"texture": "Block_Fake.png",
+	"emissionTexture": "Block_Fake_e.png"
+}

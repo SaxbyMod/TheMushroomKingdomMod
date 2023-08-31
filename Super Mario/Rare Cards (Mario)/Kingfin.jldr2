@@ -1,0 +1,18 @@
+{
+	"name": "Mushroom_Kingfin",
+	"modPrefix": "Mushroom",
+	"displayedName": "Kingfin",
+	"baseAttack": 1,
+	"baseHealth": 4,
+	"bonesCost": 9,
+	"energyCost": 0,
+	"abilities": ["creator.TooManySigils.Launcher","nevernamed.inscryption.sigils.Immortal Coil"],
+	"metaCategories": ["Rare"],
+	"cardComplexity": "Intermediate",
+	"temple": "Nature",
+	"description": "The Terrible Kingfin. A true skeletal menace of the seas.",
+	"appearanceBehaviour": ["RareCardBackground"],
+	"texture": "Kingfin.png",
+	"emissionTexture": "Kingfin_e.png",
+	"iceCubeName": "Mushroom_Bonefin"
+}

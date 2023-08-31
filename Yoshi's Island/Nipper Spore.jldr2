@@ -1,0 +1,17 @@
+{
+	"name": "Nipper_Spore",
+	"modPrefix": "Mushroom",
+	"displayedName": "Nipper Spore",
+	"baseAttack": 1,
+	"baseHealth": 3,
+	"abilities": ["Flying","Evolve","Reach"],
+	"cardComplexity": "Intermediate",
+	"temple": "Nature",
+	"description": "One of many Nipper Spores. Not much use in the air, but they'll be ready to fight once they land.",
+	"appearanceBehaviour": ["TerrainLayout","TerrainBackground"],
+	"texture": "Nipper Spore.png",
+	"emissionTexture": "Nipper Spore_e.png",
+	"traits": ["Terrain"],
+	"evolveIntoName": "Mushroom_Nipper_Plant",
+	"evolveTurns": 1
+}

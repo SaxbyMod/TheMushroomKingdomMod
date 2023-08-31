@@ -1,0 +1,16 @@
+{
+	"name": "Rerere",
+	"modPrefix": "Mushroom",
+	"displayedName": "Rerere",
+	"baseAttack": 1,
+	"baseHealth": 3,
+	"bonesCost": 4,
+	"abilities": ["bitty45.inscryption.sigils.Board Shifter (Opposing)"],
+	"metaCategories": ["ChoiceNode","TraderOffer"],
+	"cardComplexity": "Advanced",
+	"temple": "Nature",
+	"description": "The sweeping Rerere. Constantly sweeping, not caring what gets brushed aside...",
+	"texture": "Rerere.png",
+	"emissionTexture": "Rerere_e.png",
+	"tribes": ["tribes.libary.haunted"]
+}

@@ -1,0 +1,15 @@
+{
+	"name": "Mushroom_Muncher",
+	"modPrefix": "Mushroom",
+	"displayedName": "Muncher",
+	"baseAttack": 2,
+	"baseHealth": 2,
+	"bloodCost": 1,
+	"abilities": ["DrawCopy","extraVoid.inscryption.voidSigils.Resistant"],
+	"metaCategories": ["ChoiceNode","TraderOffer"],
+	"cardComplexity": "Intermediate",
+	"temple": "Nature",
+	"description": "The persistant Muncher. A whole field of muncher can prove deadly in the right spot.",
+	"texture": "Muncher.png",
+	"emissionTexture": "Muncher_e.png"
+}

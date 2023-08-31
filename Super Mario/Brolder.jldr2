@@ -1,0 +1,14 @@
+{
+	"name": "Brolder",
+	"modPrefix": "Mushroom",
+	"displayedName": "Brolder",
+	"baseAttack": 3,
+	"baseHealth": 4,
+	"bloodCost": 2,
+	"abilities": ["extraVoid.inscryption.voidSigils.Resistant","extraVoid.inscryption.voidSigils.Trample"],
+	"metaCategories": ["ChoiceNode","TraderOffer"],
+	"cardComplexity": "Intermediate",
+	"temple": "Nature",
+	"texture": "Brolder.png",
+	"emissionTexture": "Brolder_e.png"
+}

@@ -1,0 +1,16 @@
+{
+	"name": "Rollodillo",
+	"modPrefix": "Mushroom",
+	"displayedName": "Rollodillo",
+	"baseAttack": 2,
+	"baseHealth": 7,
+	"bloodCost": 3,
+	"abilities": ["StrafePush","Sharp","Sharp"],
+	"metaCategories": ["Rare"],
+	"appearanceBehaviour": ["RareCardBackground"],
+	"cardComplexity": "Simple",
+	"temple": "Nature",
+	"description": "The reckless Rollodillo. Aliens and Plumbers alike had best make way for it...",
+	"texture": "Rollodillo.png",
+	"emissionTexture": "Rollodillo_e.png"
+}

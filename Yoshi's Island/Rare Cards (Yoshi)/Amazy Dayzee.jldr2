@@ -1,0 +1,17 @@
+{
+	"name": "Amazy_Dayzee",
+	"modPrefix": "Mushroom",
+	"displayedName": "Amazy Dayzee",
+	"baseAttack": 6,
+	"baseHealth": 6,
+	"bloodCost": 1,
+	"abilities": ["Strafe"],
+	"cardComplexity": "Advanced",
+	"temple": "Nature",
+	"description": "The elusive Amazy Dayzee. If fleeing fails, they also pack a powerful punch...",
+	"metaCategories": ["Rare"],
+	"appearanceBehaviour": ["GoldEmission","RareCardBackground"],
+	"texture": "Crazee Dayzee.png",
+	"emissionTexture": "Crazee Dayzee_e.png",
+	"tribes": ["None"]
+}

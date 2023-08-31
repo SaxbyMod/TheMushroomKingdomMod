@@ -1,0 +1,237 @@
+{
+  "cardName": "Mushroom_King_Boo",
+  "faceSprite": "King Boo Base.png",
+  "eyeSprites": {
+    "open": "King Boo Eyes Open.png",
+    "closed": "King Boo Eyes Closed.png"
+  },
+  "mouthSprites": {
+    "open": "King Boo Mouth Open.png",
+    "closed": "King Boo Mouth Closed.png"
+  },
+  "emissionSprites": {
+    "open": "King Boo Emmisive Open.png",
+    "closed": "King Boo Emmisive Closed.png"
+  },
+  "faceInfo": {
+    "blinkRate": 0.5,
+    "customVoice": "King Boo test_Talk.wav"
+  },
+  "dialogueEvents": [
+    {
+      "eventName": "OnDrawn",
+      "mainLines": [
+        "Hehe... Why, hello player...",
+	"Don't worry, you aren't in danger.",
+	"Well, not from me at least..."
+      ],
+      "repeatLines": [
+        [
+          "We meet again...",
+        ],
+        [
+          "I'll make this quick.",
+          "And horrifying!"
+        ],
+        [
+          "I wonder...",
+          "Does that doctor have something to do with this?",
+          "He's gonna regret it if he does..."
+        ]
+      ]
+    },
+    {
+      "eventName": "OnPlayFromHand",
+      "mainLines": [
+        "I'll fight...",
+	"like a TRUE Boo!"
+      ],
+      "repeatLines": [
+        [
+          "They're all going in",
+	  "a painting!"
+        ],
+	[
+          "Time to paint the town RED!"
+        ]
+      ]
+    },
+    {
+      "eventName": "OnAttacked",
+      "mainLines": [
+        "How DARE you?!,"
+      ],
+      "repeatLines": [
+        [
+          "Boo to you!"
+        ],
+        [
+          "How foolish!"
+        ]
+      ]
+    },
+    {
+      "eventName": "OnBecomeSelectablePositive",
+      "mainLines": [
+        "I like where ",
+	"this is going..."
+      ],
+      "repeatLines": [
+        [
+          "Hehehe..."
+        ]
+      ]
+    },
+    {
+      "eventName": "OnBecomeSelectableNegative",
+      "mainLines": [
+        "Would this be",
+	"double death?"
+      ],
+      "repeatLines": [
+        [
+          "I'd rather not..."
+        ]
+      ]
+    },
+    {
+      "eventName": "OnSacrificed",
+      "mainLines": [
+        "Boo to you!"
+      ],
+      "repeatLines": [
+        [
+          "See you soon!"
+        ]
+      ]
+    },
+    {
+      "eventName": "OnSelectedForDeckTrial",
+      "mainLines": [
+        "Surprised to see me?"
+      ],
+      "repeatLines": [
+        [
+          "BOO! Hehehe..."
+        ]
+      ]
+    },
+    {
+      "eventName": "OnSelectedForCardMerge",
+      "mainLines": [
+        "Yes! Empower me!"
+      ],
+      "repeatLines": [
+        [
+          "Hehe... Good choice."
+        ]
+      ]
+    },
+    {
+      "eventName": "OnSelectedForCardRemove",
+      "mainLines": [
+        "DOUBLE DEATH?!"
+      ],
+      "repeatLines": [
+        [
+          "Don't you dare!",
+	  "I WILL haunt you!"
+        ]
+      ]
+    },
+    {
+      "eventName": "OnDiscoveredInExploration",
+      "mainLines": [
+        "Hehehe....",
+	"Hello, player...",
+	"Mind if I tag along?"
+      ],
+      "repeatLines": [
+        [
+          "Care for a haunt?"
+        ]
+      ]
+    },
+    {
+      "eventName": "ProspectorBoss",
+      "mainLines": [
+        "That Mule is BOUND to",
+	"have some goodies!",
+	"Come! Let's scare it to death!"
+      ],
+      "repeatLines": [
+        [
+          "We'll take the Mule's soul!",
+	 "And then,",
+	 "We'll take their Pack!"
+        ]
+      ]
+    },
+    {
+      "eventName": "OnDrawn",
+      "mainLines": [
+	"Retched hook!",
+	"Make him steal something",
+	"of no value to us!"
+      ],
+      "repeatLines": [
+        [
+          "Redirect that retched hook!"
+        ]
+      ]
+    },
+    {
+      "eventName": "TrapperTraderBoss",
+      "mainLines": [
+        "I hope you brought some pelts.",
+	"I'm getting the distinct feeling",
+	"we'll need them..."
+      ],
+      "repeatLines": [
+        [
+          "You brought the pelts like I asked,",
+	  "yes?"
+        ]
+      ]
+    },
+    {
+      "eventName": "LeshyBoss",
+      "mainLines": [
+	"I swear it...",
+	"I shall fear no",
+	"mere photographer!"
+      ],
+      "repeatLines": [
+        [
+          "Those masks aren't for",
+	  "show OR scares!",
+	  "Be warned!"
+        ]
+      ]
+    },
+    {
+      "eventName": "OnDrawn",
+      "mainLines": [
+        "Those cannons look like", 
+	"they'd hit a ghost!",
+	"Be warned of the targets!"
+      ],
+      "repeatLines": [
+        [
+          "Scram from the targets!"
+        ]
+      ]
+    },
+    {
+      "eventName": "DefaultOpponent",
+      "mainLines": [
+        "Hehehe..."
+      ],
+      "repeatLines": [
+        [
+          "Ready to haunt!"
+        ]
+      ]
+    }
+  ]
+}

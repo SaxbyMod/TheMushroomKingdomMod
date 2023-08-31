@@ -1,0 +1,13 @@
+{
+	"name": "Treevil_Berry",
+	"modPrefix": "Mushroom",
+	"displayedName": "Berry",
+	"baseHealth": 1,
+	"abilities": ["Morsel"],
+	"cardComplexity": "Intermediate",
+	"temple": "Nature",
+	"description": "A Berry from the Treevil. No use other than healing and powering up others.",
+	"texture": "Treevil Berry.png",
+	"emissionTexture": "Treevil Berry_e.png",
+	"tribes": ["None"]
+}

@@ -1,0 +1,15 @@
+{
+	"name": "Boomboxer",
+	"modPrefix": "Mushroom",
+	"displayedName": "Boomboxer",
+	"baseAttack": 3,
+	"baseHealth": 5,
+	"energyCost": 3,
+	"abilities": ["BuffNeighbours","Sniper"],
+	"metaCategories": ["ChoiceNode","TraderOffer"],
+	"cardComplexity": "Intermediate",
+	"temple": "Nature",
+	"description": "The sonic Boomboxer. Not only can it raise morale in a fight with it's music, but it can project that music into sonic attacks.",
+	"texture": "Boomboxer.png",
+	"emissionTexture": "Boomboxer_e.png"
+}

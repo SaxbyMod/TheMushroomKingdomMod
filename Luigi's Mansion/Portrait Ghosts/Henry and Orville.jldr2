@@ -1,0 +1,17 @@
+{
+	"name": "Henry_and_Orville",
+	"modPrefix": "Gallery",
+	"displayedName": "Henry and Orville",
+	"baseAttack": 1,
+	"baseHealth": 3,
+	"gemsCost": ["Orange"],
+	"metaCategories": ["ChoiceNode","TraderOffer"],
+	"onePerDeck": true,
+	"abilities": ["Flying","SplitStrike"],
+	"cardComplexity": "Simple",
+	"temple": "Nature",
+	"description": "Henry and Orville, the Twin Brothers. Always together, no matter what...",
+	"texture": "Henry and Orville.png",
+	"emissionTexture": "Henry and Orville_e.png",
+	"tribes": ["tribes.libary.ghoul"]
+}

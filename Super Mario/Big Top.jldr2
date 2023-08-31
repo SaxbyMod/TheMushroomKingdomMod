@@ -1,0 +1,13 @@
+{
+	"name": "Big_Top",
+	"modPrefix": "Mushroom",
+	"displayedName": "Big Top",
+	"baseAttack": 1,
+	"baseHealth": 2,
+	"abilities": ["nevernamed.inscryption.sigils.Downdraft","Flying"],
+	"cardComplexity": "Intermediate",
+	"temple": "Nature",
+	"description": "Now how it Big Top able to lift MC Ballyhoo? No one knows for certain...",
+	"texture": "Big Top.png",
+	"emissionTexture": "Big Top_e.png"
+}

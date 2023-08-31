@@ -1,0 +1,16 @@
+{
+	"name": "Microgoomba",
+	"modPrefix": "Mushroom",
+	"displayedName": "Microgoomba",
+	"baseAttack": 1,
+	"baseHealth": 1,
+	"bloodCost": 2,
+	"abilities": ["extraVoid.inscryption.voidSigils.Herd","extraVoid.inscryption.voidSigils.Agile","org.memez4life.inscryption.customsigils.Launcher"],
+	"metaCategories": ["ChoiceNode","TraderOffer"],
+	"cardComplexity": "Intermediate",
+	"temple": "Nature",
+	"description": "Little Goombas. Hard to hit and very swarm-oriented. It will be hard to get this creature off the board fully.",
+	"texture": "Microgoomba.png",
+	"emissionTexture": "Microgoomba_e.png",
+	"iceCubeName": "Mushroom_Microgoomba"
+}

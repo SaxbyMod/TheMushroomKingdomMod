@@ -1,0 +1,17 @@
+{
+	"name": "Bulls_Eye_Bill",
+	"modPrefix": "Mushroom",
+	"displayedName": "Bull's Eye Bill",
+	"baseAttack": 4,
+	"baseHealth": 1,
+	"energyCost": 3,
+	"abilities": ["Sniper","extraVoid.inscryption.voidSigils.Deathburst"],
+	"metaCategories": ["ChoiceNode","TraderOffer"],
+	"cardComplexity": "Advanced",
+	"temple": "Nature",
+	"tribes": ["tribes.libary.machine","tribes.libary.blaster"],
+	"description": "The precise Bull's Eye Bill. Unlike it's brethren, this shell will follow its target to the ends of the earth to blow them up.",
+	"texture": "Bull's Eye Bill.png",
+	"emissionTexture": "Bull's Eye Bill_e.png",
+	"traits": ["KillsSurvivors"]
+}

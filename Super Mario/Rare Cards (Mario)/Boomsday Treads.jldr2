@@ -1,0 +1,15 @@
+{
+	"name": "Boomsday_Treads",
+	"modPrefix": "Mushroom",
+	"displayedName": "Boomsday Treads",
+	"baseAttack": 4,
+	"baseHealth": 6,
+	"energyCost": 0,
+	"abilities": ["bitty45.inscryption.sigils.Soul Link","ConduitNull","extraVoid.inscryption.voidSigils.Desperation","extraVoid.inscryption.voidSigils.Draw Card","extraVoid.inscryption.voidSigils.Trample","ExplodeOnDeath"],
+	"cardComplexity": "Intermediate",
+	"appearanceBehaviour": ["RareCardBackground"],
+	"temple": "Nature",
+	"description": "One of Bowser Jr's killer inventions, and very volatile. Make sure to build it correctly: cockpit followed by the other parts.",
+	"texture": "Boomsday Treads.png",
+	"emissionTexture": "Boomsday Treads_e.png"
+}

@@ -1,0 +1,22 @@
+{
+	"name": "Antasma",
+	"modPrefix": "Mushroom",
+	"displayedName": "Antasma",
+	"baseAttack": 3,
+	"baseHealth": 5,
+	"extensionProperties": {
+	       "LifeCost": "4"
+	},
+	"abilities": ["Evolve","org.memez4life.inscryption.customsigils.Song of sleep"],
+        "metaCategories": ["Rare"],
+	"appearanceBehaviour": ["RareCardBackground"],
+	"cardComplexity": "Advanced",
+	"temple": "Nature",
+	"description": "The Nightmarish Antasma. Notorious for haunting the Nightmares of those who oppose him...",
+	"texture": "Antasma.png",
+	"emissionTexture": "Antasma_e.png",
+	"tribes": ["None"],
+	"evolveIntoName": "Mushroom_Antasma_(Bat)",
+	"evolveTurns": 1,
+	"pixelTexture": "Antasma Act 2.png"
+}

@@ -1,0 +1,16 @@
+{
+	"name": "Mushroom_Thwimp",
+	"modPrefix": "Mushroom",
+	"displayedName": "Thwimp",
+	"baseAttack": 2,
+	"baseHealth": 1,
+	"bloodCost": 1,
+	"abilities": ["extraVoid.inscryption.voidSigils.Ambush","extraVoid.inscryption.voidSigils.Acidic Trail"],
+	"metaCategories": ["ChoiceNode","TraderOffer"],
+	"cardComplexity": "Intermediate",
+	"temple": "Nature",
+	"tribes": ["tribes.libary.stone"],
+	"description": "The stubborn Thwimp. while smaller than the average Thwomp, it's by no means less deadly",
+	"texture": "Thwimp.png",
+	"emissionTexture": "Thwimp_e.png"
+}

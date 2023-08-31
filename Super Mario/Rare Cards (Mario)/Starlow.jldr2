@@ -1,0 +1,16 @@
+{
+	"name": "Starlow",
+	"modPrefix": "Mushroom",
+	"displayedName": "Starlow",
+	"baseAttack": 2,
+	"baseHealth": 5,
+	"energyCost": 3,
+	"abilities": ["bitty45.inscryption.sigils.Replenish","bitty45.inscryption.sigils.Outcast","BuffNeighbours"],
+	"metaCategories": ["Rare"],
+	"cardComplexity": "Intermediate",
+	"temple": "Nature",
+	"description": "The sassy Starlow. A chippy star child who's always guiding heroes to their goals.",
+	"texture": "Starlow.png",
+	"emissionTexture": "Starlow_e.png",
+	"appearanceBehaviour": ["RareCardBackground"]
+}

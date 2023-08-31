@@ -1,0 +1,19 @@
+{
+	"name": "Bandit",
+	"modPrefix": "Mushroom",
+	"displayedName": "Bandit",
+	"baseAttack": 2,
+	"baseHealth": 4,
+    "extensionProperties": {
+           "MoneyCost": "4"
+	},
+	"abilities": ["Sentry","nevernamed.inscryption.sigils.Thief"],
+	"metaCategories": ["ChoiceNode","TraderOffer"],
+	"cardComplexity": "Simple",
+	"temple": "Nature",
+	"description": "The Rouge Bandit. A victim of greed, He will steal any coins unlucky enough to catch his eye.",
+	"texture": "Bandit.png",
+	"emissionTexture": "Bandit_e.png",
+	"tribes": ["None"],
+	"pixelTexture": "Bandit Act 2.png"
+}

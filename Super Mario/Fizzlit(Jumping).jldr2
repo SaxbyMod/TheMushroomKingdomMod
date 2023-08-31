@@ -1,0 +1,17 @@
+{
+	"name": "Mushroom_Fizzlit(Jumping)",
+	"modPrefix": "Mushroom",
+	"displayedName": "Fizzlit",
+	"baseAttack": 1,
+	"baseHealth": 3,
+	"bloodCost": 1,
+	"abilities": ["Evolve","extraVoid.inscryption.voidSigils.Agile"],
+	"metaCategories": ["ChoiceNode","TraderOffer"],
+	"cardComplexity": "Intermediate",
+	"temple": "Nature",
+	"description": "The timid Fizzlit. If it's not able to flee attackers, it'll discharge its electricity to ward them away.",
+	"texture": "Fizzlit.png",
+	"emissionTexture": "Fizzlit_e.png",
+	"evolveIntoName": "Mushroom_Fizzlit(Attacking)",
+	"evolveTurns": 1
+}

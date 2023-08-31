@@ -1,0 +1,16 @@
+{
+	"name": "Superbombomb",
+	"modPrefix": "Mushroom",
+	"displayedName": "Superbombomb",
+	"baseAttack": 0,
+	"baseHealth": 1,
+	"energyCost": 5,
+	"metaCategories": ["Rare"],
+	"cardComplexity": "Advanced",
+	"temple": "Nature",
+	"appearanceBehaviour": ["RareCardBackground"],
+	"abilities": ["ExplodeOnDeath","extraVoid.inscryption.voidSigils.Deathburst"],
+	"description": "Be gentle. This superbombomb could detonate at any moment...",
+	"texture": "Superbombomb.png",
+	"emissionTexture": "Superbombomb_e.png"
+}

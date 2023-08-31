@@ -1,0 +1,17 @@
+{
+	"name": "Mushroom_Podoboo",
+	"modPrefix": "Mushroom",
+	"displayedName": "Podoboo",
+	"baseAttack": 2,
+	"baseHealth": 1,
+	"bloodCost": 1,
+	"abilities": ["Submerge","nevernamed.inscryption.sigils.Ignition"],
+	"metaCategories": ["ChoiceNode","TraderOffer"],
+	"cardComplexity": "Intermediate",
+	"temple": "Nature",
+	"description": "The scorching podoboo. Resides within lava, only jumping out to ignite anyone who draws near.",
+	"texture": "Podoboo.png",
+	"emissionTexture": "Podoboo_e.png",
+	"tribes": ["None"],
+	"traits": ["KillsSurvivors"]
+}

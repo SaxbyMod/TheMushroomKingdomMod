@@ -1,0 +1,16 @@
+{
+	"name": "Mamar",
+	"modPrefix": "Mushroom",
+	"displayedName": "Mamar",
+	"baseAttack": 1,
+	"baseHealth": 3,
+	"energyCost": 1,
+	"abilities": ["org.memez4life.inscryption.customsigils.Song of sleep","GuardDog","Flying"],
+	"metaCategories": ["Rare"],
+	"cardComplexity": "Advanced",
+	"temple": "Nature",
+	"description": "The Star Sprit, Mamar. Her lullaby can even the most enegetic beast into a state of slumber...",
+	"texture": "Mamar.png",
+	"emissionTexture": "Mamar_e.png",
+	"appearanceBehaviour": ["RareCardBackground"]
+}

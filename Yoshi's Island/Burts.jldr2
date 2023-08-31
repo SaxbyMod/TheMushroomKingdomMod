@@ -1,0 +1,15 @@
+{
+	"name": "Burts",
+	"modPrefix": "Mushroom",
+	"displayedName": "Burts",
+	"baseAttack": 2,
+	"baseHealth": 4,
+	"bloodCost": 2,
+	"abilities": ["DrawCopy","Reach"],
+	"metaCategories": ["ChoiceNode","TraderOffer"],
+	"cardComplexity": "Intermediate",
+	"temple": "Nature",
+	"description": "The Bashful Burts. They hop around in pairs, hoping to clothesline flying victims.",
+	"texture": "Burts.png",
+	"emissionTexture": "Burts_e.png"
+}

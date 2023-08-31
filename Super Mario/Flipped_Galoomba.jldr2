@@ -1,0 +1,15 @@
+{
+	"name": "Flipped_Galoomba",
+	"modPrefix": "Mushroom",
+	"displayedName": "Flipped Galoomba",
+	"baseHealth": 1,
+	"abilities": ["Evolve"],
+	"cardComplexity": "Intermediate",
+	"temple": "Nature",
+	"description": "It'll get back up on it's own, but if it's hit in this state, it's down for real.",
+	"texture": "Flipped_Galoomba.png",
+	"emissionTexture": "Flipped_Galoomba_e.png",
+	"tribes": ["None"],
+	"evolveIntoName": "Mushroom_Galoomba",
+	"evolveTurns": 2
+}

@@ -1,0 +1,16 @@
+{
+	"name": "Digga",
+	"modPrefix": "Mushroom",
+	"displayedName": "Digga",
+	"baseAttack": 2,
+	"baseHealth": 4,
+	"energyCost": 4,
+	"abilities": ["WhackAMole","extraVoid.inscryption.voidSigils.Pierce"],
+	"metaCategories": ["ChoiceNode","TraderOffer"],
+	"cardComplexity": "Simple",
+	"temple": "Nature",
+	"description": "The sly Digga. Being built to cut into dirt, it can use it's drill to catch multiple intruders by suprise...",
+	"texture": "Digga.png",
+	"emissionTexture": "Digga_e.png",
+	"tribes": ["None"]
+}

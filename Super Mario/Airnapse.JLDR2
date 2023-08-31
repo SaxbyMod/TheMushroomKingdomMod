@@ -1,0 +1,23 @@
+{
+  "name": "Airnapse",
+  "modPrefix": "Mushroom",
+  "displayedName": "Airnapse",
+  "description": "The couragous Airnapse. Protecting Airways with everything they have...",
+  "metaCategories": [
+    "ChoiceNode",
+    "TraderOffer"
+  ],
+  "cardComplexity": "Intermediate",
+  "temple": "Nature",
+  "baseAttack": 2,
+  "baseHealth": 4,
+  "bloodCost": 2,
+  "tribes": [
+    "tribes.libary.unicellular"
+  ],
+  "abilities": [
+    "SplitStrike"
+  ],
+  "texture": "Airnapse.png",
+  "emissionTexture": "Airnapse_e.png"
+}

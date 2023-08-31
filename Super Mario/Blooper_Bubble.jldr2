@@ -1,0 +1,17 @@
+{
+	"name": "Blooper_Bubble",
+	"modPrefix": "Mushroom",
+	"displayedName": "Bubble Blooper",
+	"baseAttack": 3,
+	"baseHealth": 6,
+	"bloodCost": 3,
+	"abilities": ["Evolve","extraVoid.inscryption.voidSigils.Trample"],
+	"evolveIntoName": "Mushroom_Blooper_Dry",
+	"evolveTurns": 2,
+	"cardComplexity": "Advanced",
+	"temple": "Nature",
+	"description": "The plump Bubble Blooper. The water within won't last forever, you know...",
+	"texture": "Blooper_Bubble.png",
+	"emissionTexture": "Blooper_Bubble_e.png",
+	"tribes": ["None"]
+}

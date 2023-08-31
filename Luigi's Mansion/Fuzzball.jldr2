@@ -1,0 +1,18 @@
+{
+	"name": "Fuzzball",
+	"modPrefix": "Gallery",
+	"displayedName": "Fuzzball",
+	"baseAttack": 0,
+	"baseHealth": 3,
+	"bloodCost": 1,
+	"abilities": ["Strafe","Evolve","PreventAttack"],
+	"evolveIntoName": "Mushroom__Fuzzball_Asleep",
+	"evolveTurns": 3,
+	"metaCategories": ["ChoiceNode","TraderOffer"],
+	"cardComplexity": "Intermediate",
+	"temple": "Nature",
+	"tribes": ["tribes.libary.cryptid"],
+	"description": "The fluffy Fuzzball. Unable to be slain, but can can be a pest for both sides of the battle field...",
+	"texture": "Fuzzball.png",
+	"emissionTexture": "Fuzzball_e.png"
+}

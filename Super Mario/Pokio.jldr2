@@ -1,0 +1,16 @@
+{
+	"name": "Mushroom_Pokio",
+	"modPrefix": "Mushroom",
+	"displayedName": "Pokio",
+	"baseAttack": 2,
+	"baseHealth": 3,
+	"bloodCost": 2,
+	"abilities": ["extraVoid.inscryption.voidSigils.Pierce"],
+	"metaCategories": ["ChoiceNode","TraderOffer"],
+	"cardComplexity": "Intermediate",
+	"temple": "Nature",
+	"description": "The honorable Pokio. It's beak is able to extend, allowing it to pierce unworthy opponents hiding behind their comrades.",
+	"texture": "Pokio.png",
+	"emissionTexture": "Pokio_e.png",
+	"tribes": ["Bird"]
+}

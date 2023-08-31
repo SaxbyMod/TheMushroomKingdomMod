@@ -1,0 +1,16 @@
+{
+	"name": "Eerie",
+	"modPrefix": "Mushroom",
+	"displayedName": "Eerie",
+	"baseAttack": 1,
+	"baseHealth": 3,
+	"bonesCost": 3,
+	"abilities": ["Strafe"],
+	"tribes": ["tribes.libary.mreptile","Reptile","tribes.libary.spectral"],
+	"metaCategories": ["ChoiceNode","TraderOffer"],
+	"cardComplexity": "Intermediate",
+	"temple": "Nature",
+	"description": "The drowsy Eerie. These ghostly reptiles are known to fly and give chase to intruders in their sleep...",
+	"texture": "Eerie.png",
+	"emissionTexture": "Eerie_e.png"
+}

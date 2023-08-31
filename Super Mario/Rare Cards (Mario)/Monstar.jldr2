@@ -1,0 +1,18 @@
+{
+	"name": "Monstar",
+	"modPrefix": "Mushroom",
+	"displayedName": "Monstar",
+	"baseAttack": 1,
+	"baseHealth": 2,
+	"bonesCost": 3,
+	"energyCost": 5,
+	"abilities": ["IceCube","extraVoid.inscryption.voidSigils.Hourglass","extraVoid.inscryption.voidSigils.Frightful"],
+	"metaCategories": ["Rare"],
+	"cardComplexity": "Intermediate",
+	"temple": "Nature",
+	"description": "This creature actually looks rather horrifying, wouldn't you say?",
+	"appearanceBehaviour": ["RareCardBackground"],
+	"texture": "Monstar.png",
+	"emissionTexture": "Monstar_e.png",
+	"iceCubeName": "Mushroom_Star_Kid_Group"
+}

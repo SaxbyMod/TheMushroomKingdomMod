@@ -1,0 +1,15 @@
+{
+	"name": "Peach_Bot",
+	"modPrefix": "Mushroom",
+	"displayedName": "Peach Bot",
+	"baseAttack": 1,
+	"baseHealth": 1,
+	"energyCost": 1,
+	"abilities": ["SteelTrap","BuffEnemy"],
+	"metaCategories": ["ChoiceNode","TraderOffer"],
+	"cardComplexity": "Intermediate",
+	"temple": "Nature",
+	"description": "The annoying Peach Bot. Enemies will wish to shut her up, only to be put to silence as well...",
+	"texture": "Peach Bot.png",
+	"emissionTexture": "Peach Bot_e.png"
+}

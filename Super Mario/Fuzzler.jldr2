@@ -1,0 +1,16 @@
+{
+	"name": "Mushroom_Fuzzler",
+	"modPrefix": "Mushroom",
+	"displayedName": "Fuzzler",
+	"baseAttack": 4,
+	"baseHealth": 4,
+	"bloodCost": 3,
+	"abilities": ["Sharp","extraVoid.inscryption.voidSigils.Trample"],
+	"metaCategories": ["ChoiceNode","TraderOffer"],
+	"cardComplexity": "Simple",
+	"temple": "Nature",
+	"description": "The fuzzy Fuzzler. Its huge, sharp stature isn't the type to less excess damage go to waste...",
+	"texture": "Fuzzler.png",
+	"emissionTexture": "Fuzzler_e.png",
+	"tribes": ["Insect"]
+}

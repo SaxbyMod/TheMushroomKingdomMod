@@ -1,0 +1,19 @@
+{
+	"name": "Super_Peach's_Castle_of_Fury",
+	"modPrefix": "Mushroom",
+	"displayedName": "Super Peach's Castle of Fury",
+	"baseAttack": 3,
+	"baseHealth": 6,
+	"energyCost": 6,
+	"abilities": ["org.memez4life.inscryption.customsigils.Launcher","DeathShield"],
+	"metaCategories": ["Rare"],
+	"iceCubeName": "Mushroom_Black_Hole",
+	"cardComplexity": "Simple",
+	"temple": "Nature",
+	"description": "Super Peach's Castle of Fury. A mechanical monstrosity built by the same fury held by Fawful himself...",
+	"texture": "Super Peach's Castle of Fury.png",
+	"emissionTexture": "Super Peach's Castle of Fury_e.png",
+	"appearanceBehaviour": ["RareCardBackground"],
+	"tribes": ["None"],
+	"traits": ["KillsSurvivors"]
+}

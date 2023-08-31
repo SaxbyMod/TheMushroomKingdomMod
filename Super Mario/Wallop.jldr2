@@ -1,0 +1,15 @@
+{
+	"name": "Mushroom_Wallop",
+	"modPrefix": "Mushroom",
+	"displayedName": "Wallop",
+	"baseAttack": 1,
+	"baseHealth": 6,
+	"bloodCost": 1,
+	"abilities": ["Reach","WhackAMole","MadeOfStone"],
+	"metaCategories": ["ChoiceNode","TraderOffer"],
+	"cardComplexity": "Intermediate",
+	"temple": "Nature",
+	"description": "The malicious Wallop. It contains the power to deny anything access to your demise...",
+	"texture": "Wallop.png",
+	"emissionTexture": "Wallop_e.png"
+}

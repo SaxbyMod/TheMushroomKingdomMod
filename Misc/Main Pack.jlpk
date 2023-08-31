@@ -1,0 +1,7 @@
+{
+	"Title": "Mushroom Kingdom Expansion Pack",
+	"Description": "The creatures that roam the mushroom kingdom are yours to command! A total of [count] creatures await in this land. Can you find them all?",
+	"ModPrefix": "Mushroom",
+	"PackArt": "Pack Mushroom.png",
+    "ValidFor": ["LeshyPack"]
+}

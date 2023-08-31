@@ -1,0 +1,19 @@
+{
+	"name": "Dark_Mechawful.5",
+	"modPrefix": "Mushroom",
+	"displayedName": "Dark Mechawful.5",
+	"baseAttack": 3,
+	"baseHealth": 6,
+	"energyCost": 6,
+	"bloodCost": 2,
+	"abilities": ["extraVoid.inscryption.voidSigils.Box","DoubleStrike","extraVoid.inscryption.voidSigils.Pierce"],
+	"metaCategories": ["Rare"],
+	"cardComplexity": "Simple",
+	"temple": "Nature",
+	"tribes": ["tribes.libary.machine"],
+	"description": "The Upgraded Dark Mechawful.5. A unit of value that can carry a fight if deployed at the right time...",
+	"texture": "Dark Mechawful.5.png",
+	"emissionTexture": "Dark Mechawful_e.png",
+	"appearanceBehaviour": ["RareCardBackground"],
+	"iceCubeName": "Mushroom_Dark_Mechawful_Head"
+}

@@ -1,0 +1,15 @@
+{
+	"name": "Gummit",
+	"modPrefix": "Mushroom",
+	"displayedName": "Gummit",
+	"baseAttack": 0,
+	"baseHealth": 3,
+	"energyCost": 1,
+	"abilities": ["WhackAMole"],
+	"metaCategories": ["ChoiceNode","TraderOffer"],
+	"cardComplexity": "Intermediate",
+	"temple": "Nature",
+	"description": "The sugary Gummit. It's cost mimicks it's sub-par defense...",
+	"texture": "Gummit.png",
+	"emissionTexture": "Gummit_e.png"
+}

@@ -1,0 +1,19 @@
+{
+	"name": "Chain_Chomplet",
+	"modPrefix": "Mushroom",
+	"displayedName": "Chain Chomplet",
+	"baseAttack": 2,
+	"baseHealth": 1,
+	"bonesCost": 2,
+	"abilities": ["Evolve","IceCube"],
+	"cardComplexity": "Advanced",
+	"temple": "Nature",
+	"metaCategories": ["ChoiceNode","TraderOffer"],
+	"description": "The feral Chain Chomplet. Will you let it burn from death, or allow it to cool off and evolve?",
+	"texture": "Chain Chomplet.png",
+	"emissionTexture": "Chain Chomplet_e.png",
+	"iceCubeName": "Mushroom_Chain Chomplet_Fevered",
+	"evolveIntoName": "Mushroom_Chain Chomp",
+	"evolveTurns": 1,
+	"tribes": ["Canine"]
+}

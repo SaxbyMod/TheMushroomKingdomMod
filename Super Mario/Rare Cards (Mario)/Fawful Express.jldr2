@@ -1,0 +1,16 @@
+{
+	"name": "Fawful_Express",
+	"modPrefix": "Mushroom",
+	"displayedName": "Fawful Express",
+	"baseAttack": 0,
+	"baseHealth": 6,
+	"energyCost": 5,
+	"abilities": ["bitty45.inscryption.sigils.Super Sprinter","extraVoid.inscryption.voidSigils.Toothpuller"],
+	"metaCategories": ["Rare"],
+	"cardComplexity": "Advanced",
+	"temple": "Nature",
+	"description": "The speeding Fawful Express. It's very presence tells of approaching doom if it's not derailed quickly...",
+	"texture": "Fawful Express.png",
+	"emissionTexture": "Fawful Express_e.png",
+	"appearanceBehaviour": ["RareCardBackground"]
+}

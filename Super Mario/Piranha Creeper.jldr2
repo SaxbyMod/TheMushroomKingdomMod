@@ -1,0 +1,17 @@
+{
+	"name": "Piranha_Creeper",
+	"modPrefix": "Mushroom",
+	"displayedName": "Piranha Creeper",
+	"baseAttack": 1,
+	"baseHealth": 2,
+	"bloodCost": 1,
+	"abilities": ["TailOnHit","TailOnHit","extraVoid.inscryption.voidSigils.Power from Movement"],
+	"metaCategories": ["ChoiceNode","TraderOffer"],
+	"cardComplexity": "Intermediate",
+	"temple": "Nature",
+	"description": "The slithering Piranha Creeper. Its vine seems to stretch on for miles.",
+	"texture": "Piranha Creeper.png",
+	"emissionTexture": "Piranha Creeper_e.png",
+	"tailName": "Mushroom_Piranha_Creeper_Vine",
+	"tailLostPortrait": "Piranha Creeper Awake.png"
+}

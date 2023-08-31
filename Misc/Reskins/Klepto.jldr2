@@ -1,0 +1,17 @@
+{
+  "name": "Klepto",
+  "modPrefix": "Mushroom",
+  "displayedName": "Klepto",
+  "baseAttack": 0,
+  "baseHealth": 4,
+  "bloodCost": 2,
+  "tribes": [
+    "tribes.libary.mbird"
+  ],
+  "abilities": [
+    "Flying",
+    "Strafe"
+  ],
+  "texture": "Klepto.png",
+  "emissionTexture": "Klepto_e.png"
+}

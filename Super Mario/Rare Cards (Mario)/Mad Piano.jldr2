@@ -1,0 +1,15 @@
+{
+	"name": "Mad_Piano",
+	"modPrefix": "Mushroom",
+	"displayedName": "Mad Piano",
+	"baseHealth": 5,
+	"bloodCost": 1,
+	"abilities": ["extraVoid.inscryption.voidSigils.Vicious","extraVoid.inscryption.voidSigils.Predator"],
+	"metaCategories": ["Rare"],
+	"cardComplexity": "Intermediate",
+	"temple": "Nature",
+	"description": "The Mad Piano. What looks like an ordinary prop has let loose nightmares over the years...",
+	"appearanceBehaviour": ["RareCardBackground"],
+	"texture": "Mad Piano.png",
+	"emissionTexture": "Mad Piano_e.png"
+}

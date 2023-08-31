@@ -1,0 +1,16 @@
+{
+	"name": "G@M3R_Sl3dg3_Broz",
+	"modPrefix": "Mushroom",
+	"displayedName": "G@M3R_Sl3dg3_Broz",
+	"baseAttack": 2,
+	"baseHealth": 4,
+	"energyCost": 5,
+	"abilities": ["nevernamed.inscryption.sigils.Deadbeat"],
+	"cardComplexity": "Intermediate",
+	"metaCategories": ["ChoiceNode","TraderOffer"],
+	"temple": "Nature",
+	"description": "The G@M3R Sl3dg3 Broz. TEH ESCAPE IS IMPOSSIBLE. OPPRESSORS WILL GET FLATZORED BY R L33T HAMMERS. THEY R HOTNESS.",
+	"texture": "G@M3R Sl3dg3 Broz.png",
+	"emissionTexture": "G@M3R Sl3dg3 Broz_e.png",
+	"tribes": ["Reptile"]
+}

@@ -1,0 +1,16 @@
+{
+	"name": "Blokkablok",
+	"modPrefix": "Mushroom",
+	"displayedName": "Blokkablok",
+	"baseAttack": 1,
+	"baseHealth": 5,
+	"energyCost": 4,
+	"abilities": ["Flying","Sharp","extraVoid.inscryption.voidSigils.Thick Shell"],
+	"metaCategories": ["Rare"],
+	"cardComplexity": "Intermediate",
+	"temple": "Nature",
+	"description": "The durable Blokkablok. Attacking head on does nothing to it. It must be killed one block at a time.",
+	"appearanceBehaviour": ["RareCardBackground"],
+	"texture": "Blokkablok.png",
+	"emissionTexture": "Blokkablok_e.png"
+}

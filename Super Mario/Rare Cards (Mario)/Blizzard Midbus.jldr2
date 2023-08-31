@@ -1,0 +1,17 @@
+{
+	"name": "Blizzard_Midbus",
+	"modPrefix": "Mushroom",
+	"displayedName": "Blizzard Midbus",
+	"baseAttack": 3,
+	"baseHealth": 5,
+	"bloodCost": 2,
+	"abilities": ["DeathShield","extraVoid.inscryption.voidSigils.Bodyguard","org.memez4life.inscryption.customsigils.Launcher"],
+	"cardComplexity": "Intermediate",
+	"temple": "Nature",
+	"description": "The coldhearted Blizzard Midbus. Fawful's influence has empowered him, granting him mastery of the cold...",
+	"metaCategories": ["Rare"],
+	"appearanceBehaviour": ["RareCardBackground"],
+	"texture": "Blizzard Midbus.png",
+	"emissionTexture": "Blizzard Midbus_e.png",
+	"iceCubeName": "Mushroom_Snawful"
+}

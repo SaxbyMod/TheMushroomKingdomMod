@@ -1,0 +1,17 @@
+{
+	"name": "Shroobified_Toad",
+	"modPrefix": "Mushroom",
+	"displayedName": "Shroobified Toad",
+	"baseAttack": 0,
+	"baseHealth": 3,
+	"energyCost": 2,
+	"abilities": ["extraVoid.inscryption.voidSigils.Possessor"],
+	"metaCategories": ["ChoiceNode","TraderOffer"],
+	"cardComplexity": "Intermediate",
+	"temple": "Nature",
+	"traits": ["KillsSurvivors"],
+	"tribes": ["tribes.libary.fungus"],
+	"description": "Alas. Poor Shroobified Toad. They say the toad's soul remains in the mushroom despite it's transformation...",
+	"texture": "Shroobified Toad.png",
+	"emissionTexture": "Shroobified Toad_e.png"
+}

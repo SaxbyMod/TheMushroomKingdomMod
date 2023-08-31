@@ -1,0 +1,16 @@
+{
+	"name": "Vacuum_Helmet",
+	"modPrefix": "Mushroom",
+	"displayedName": "Vacuum Helmet",
+	"baseAttack": 2,
+	"baseHealth": 4,
+	"energyCost": 5,
+	"abilities": ["Flying","SplitStrike"],
+	"metaCategories": ["ChoiceNode","TraderOffer"],
+	"cardComplexity": "Intermediate",
+	"appearanceBehaviour": ["RareCardBackground"],
+	"temple": "Nature",
+	"description": "Fawful's Vacuum Helmet. It's just as deadly as that blasted bean himself...",
+	"texture": "Vacuum Helmet.png",
+	"emissionTexture": "Vacuum Helmet_e.png"
+}

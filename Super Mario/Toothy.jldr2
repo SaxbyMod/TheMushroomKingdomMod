@@ -1,0 +1,16 @@
+{
+	"name": "Mushroom_Toothy",
+	"modPrefix": "Mushroom",
+	"displayedName": "Toothy",
+	"baseAttack": 1,
+	"baseHealth": 3,
+	"bonesCost": 4,
+	"abilities": ["Reach","ActivatedStatsUp"],
+	"metaCategories": ["ChoiceNode","TraderOffer"],
+	"cardComplexity": "Intermediate",
+	"temple": "Nature",
+	"description": "The brittle Toothy. It can't seem to keep itself together. A strong force could easily scatter it's teeth across the battlefield.",
+	"texture": "Toothy.png",
+	"emissionTexture": "Toothy_e.png",
+	"tribes": ["tribes.libary.mskeletal","tribes.libary.pokey"]
+}

@@ -1,0 +1,16 @@
+{
+	"name": "Mushroom_Gunion",
+	"modPrefix": "Mushroom",
+	"displayedName": "Gunion",
+	"baseAttack": 2,
+	"baseHealth": 3,
+	"bloodCost": 2,
+	"abilities": ["extraVoid.inscryption.voidSigils.Deathburst","extraVoid.inscryption.voidSigils.Deathburst","extraVoid.inscryption.voidSigils.Gripper"],
+	"metaCategories": ["ChoiceNode","TraderOffer"],
+	"cardComplexity": "Advanced",
+	"temple": "Nature",
+	"description": "The twisted Gunion. It waits for the perfect time to reveal it's mastery of the kamakaze on would be predators...",
+	"texture": "Gunion.png",
+	"emissionTexture": "Gunion_e.png",
+	"tribes": ["None"]
+}

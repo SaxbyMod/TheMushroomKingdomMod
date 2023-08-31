@@ -1,0 +1,16 @@
+{
+	"name": "Mushroom_Koopatrol",
+	"modPrefix": "Mushroom",
+	"displayedName": "Koopatrol",
+	"baseAttack": 3,
+	"baseHealth": 2,
+	"bloodCost": 2,
+	"abilities": ["Sharp","Sentry"],
+	"metaCategories": ["ChoiceNode","TraderOffer"],
+	"cardComplexity": "Intermediate",
+	"temple": "Nature",
+	"description": "The gallant Koopatrol. Fully dedicated to protecting their lord, these turtles come equipped with the sharpest of armor.",
+	"texture": "Koopatrol.png",
+	"emissionTexture": "Koopatrol_e.png",
+	"tribes": ["Reptile"]
+}

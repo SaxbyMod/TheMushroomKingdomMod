@@ -1,0 +1,14 @@
+{
+	"name": "Banana_Peel",
+	"modPrefix": "Gallery",
+	"displayedName": "Banana Peel",
+	"baseAttack": 0,
+	"baseHealth": 1,
+	"abilities": ["Sharp","extraVoid.inscryption.voidSigils.Zapper"],
+	"cardComplexity": "Intermediate",
+	"temple": "Nature",
+	"traits": ["Terrain"],
+	"description": "Now, who left this Banana Peel on the ground?",
+	"texture": "Banana Peel.png",
+	"appearanceBehaviour": "TerrainBackground,TerrainLayout"
+}

@@ -1,0 +1,14 @@
+{
+	"name": "Creeper",
+	"modPrefix": "Gallery",
+	"displayedName": "Creeper",
+	"baseHealth": 4,
+	"abilities": ["Sharp","IceCube","DebuffEnemy"],
+	"cardComplexity": "Intermediate",
+	"temple": "Nature",
+	"description": "The friendly Creeper. It loves to cuddle, never wanting to let you go...",
+	"texture": "Creeper.png",
+	"emissionTexture": "Creeper_e.png",
+	"tribes": ["None"],
+	"iceCubeName": "Mushroom_Creeper_Small"
+}

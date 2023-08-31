@@ -1,0 +1,17 @@
+{
+	"name": "Mechawful_Head",
+	"modPrefix": "Mushroom",
+	"displayedName": "Mechawful Head",
+	"baseAttack": 1,
+	"baseHealth": 2,
+	"energyCost": 1,
+	"abilities": ["Flying","Evolve"],
+	"metaCategories": ["ChoiceNode","TraderOffer"],
+	"cardComplexity": "Simple",
+	"temple": "Nature",
+	"description": "The mindless Mechawful's Head. It'll be a while before all of it can join the fight...",
+	"texture": "Mechawful Head.png",
+	"emissionTexture": "Mechawful Head_e.png",
+	"evolveIntoName": "Mushroom_Mechawful",
+	"evolveTurns": 1
+}

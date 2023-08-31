@@ -1,0 +1,16 @@
+{
+	"name": "Mushroom_Conkdor",
+	"modPrefix": "Mushroom",
+	"displayedName": "Conkdor",
+	"baseAttack": 2,
+	"baseHealth": 3,
+	"bloodCost": 2,
+	"abilities": ["Reach","Sentry"],
+	"metaCategories": ["ChoiceNode","TraderOffer"],
+	"cardComplexity": "Intermediate",
+	"temple": "Nature",
+	"description": "The stalward Conkdor. It uses it's long neck to block flying creatures as well as hammer trespassers with its beak.",
+	"texture": "Conkdor.png",
+	"emissionTexture": "Conkdor_e.png",
+	"tribes": ["Bird"]
+}

@@ -1,0 +1,18 @@
+{
+	"name": "Ghost_Guy_Gallery",
+	"modPrefix": "Gallery",
+	"displayedName": "Ghost Guy",
+	"baseAttack": 3,
+	"baseHealth": 2,
+	"bonesCost": 5,
+	"energyCost": 0,
+	"abilities": ["extraVoid.inscryption.voidSigils.Pierce","extraVoid.inscryption.voidSigils.Multi-Strike"],
+	"metaCategories": ["Rare"],
+	"cardComplexity": "Intermediate",
+	"temple": "Nature",
+	"tribes": ["tribes.libary.spectral"],
+	"description": "The furious Ghost Guy. With it's hate unleashed, it weilds a spear to pierce the enemies that done it wrong...",
+	"appearanceBehaviour": ["RareCardBackground"],
+	"texture": "Ghost Guy.png",
+	"emissionTexture": "Ghost Guy_e.png"
+}

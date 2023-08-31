@@ -1,0 +1,15 @@
+{
+	"name": "Yux",
+	"modPrefix": "Mushroom",
+	"displayedName": "Yux",
+	"baseAttack": 2,
+	"baseHealth": 2,
+	"energyCost": 2,
+	"abilities": ["DeathShield","LatchDeathShield"],
+	"metaCategories": ["ChoiceNode","TraderOffer"],
+	"cardComplexity": "Intermediate",
+	"temple": "Nature",
+	"description": "The protective Yux. It's able to create a force field around others, but this defense doesn't last forever...",
+	"texture": "Yux.png",
+	"emissionTexture": "Yux_e.png"
+}

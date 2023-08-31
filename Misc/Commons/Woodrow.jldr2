@@ -1,0 +1,15 @@
+{
+	"name": "Woodrow",
+	"modPrefix": "Mushroom",
+	"displayedName": "Woodrow",
+	"baseAttack": 1,
+	"baseHealth": 3,
+	"bloodCost": 1,
+	"bonesCost: 4,
+	"tribes": ["tribes.libary.rodent"],
+	"metaCategories": ["Rare"],
+	"abilities": ["nevernamed.inscryption.sigils.Unlucky"],
+	"description": "Alas, poor Woodrow. His poetry seems to only bring misfortune and misery...",
+	"texture": "Woodrow.png",
+	"emissionTexture": "Woodrow_e.png"
+}

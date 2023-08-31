@@ -1,0 +1,15 @@
+{
+	"name": "Megahammer_Right_Hammer",
+	"modPrefix": "Mushroom",
+	"displayedName": "Megahammer Right Hammer",
+	"baseAttack": 1,
+	"baseHealth": 3,
+	"energyCost": 4,
+	"abilities": ["ConduitBuffAttack","ConduitBuffAttack","DrawCopyOnDeath"],
+	"appearanceBehaviour": ["RareCardBackground"],
+	"cardComplexity": "Intermediate",
+	"temple": "Nature",
+	"description": "One of Bowser Jr's killer inventions. Make sure to build it correctly for max power: cockpit in the center.",
+	"texture": "Megahammer Right Hammer.png",
+	"emissionTexture": "Megahammer Right Hammer_e.png"
+}

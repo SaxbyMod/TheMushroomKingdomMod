@@ -1,0 +1,13 @@
+{
+	"name": "Mushroom_Daisy",
+	"modPrefix": "Mushroom",
+	"displayedName": "Daisy",
+	"baseAttack": 1,
+	"baseHealth": 2,
+	"bloodCost": 1,
+	"abilities": ["Strafe","extraVoid.inscryption.voidSigils.Power from Movement","extraVoid.inscryption.voidSigils.Agile"],
+	"metaCategories": ["ChoiceNode","TraderOffer"],
+	"cardComplexity": "Intermediate",
+	"temple": "Nature",
+	"description": "Daisy is quite the character. She just can't seem to sit still, even as a card..."
+}

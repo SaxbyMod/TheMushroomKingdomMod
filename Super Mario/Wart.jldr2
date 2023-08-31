@@ -1,0 +1,17 @@
+{
+	"name": "Mushroom_Wart",
+	"modPrefix": "Mushroom",
+	"displayedName": "Wart",
+	"baseAttack": 2,
+	"baseHealth": 5,
+	"energyCost": 3,
+	"abilities": ["org.memez4life.inscryption.customsigils.Song of sleep","org.memez4life.inscryption.customsigils.Warper"],
+	"metaCategories": ["Rare"],
+	"cardComplexity": "Intermediate",
+	"temple": "Nature",
+	"description": "The great King Wart. Known to traverse dreams in hopes of ruling Subcon...",
+	"appearanceBehaviour": ["RareCardBackground"],
+	"texture": "Wart.png",
+	"emissionTexture": "Wart_e.png",
+	"tribes": ["Reptile"]
+}

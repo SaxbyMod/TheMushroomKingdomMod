@@ -1,0 +1,16 @@
+{
+	"name": "Waiter",
+	"modPrefix": "Mushroom",
+	"displayedName": "Waiter",
+	"baseAttack": 0,
+	"baseHealth": 2,
+	"bonesCost": 3,
+	"tribes": ["tribes.libary.ghoul"],
+	"abilities": ["extraVoid.inscryption.voidSigils.Medic","bitty45.inscryption.sigils.Fleeting"],
+	"metaCategories": ["ChoiceNode","TraderOffer"],
+	"cardComplexity": "Intermediate",
+	"temple": "Nature",
+	"description": "The sqeemish Waiter. More forced into healing than desired. They would rather just get away from Mr.Luggs!",
+	"texture": "Waiter.png",
+	"emissionTexture": "Waiter_e.png"
+}

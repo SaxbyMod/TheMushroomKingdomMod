@@ -1,0 +1,16 @@
+{
+	"name": "Sledge_Bro",
+	"modPrefix": "Mushroom",
+	"displayedName": "Sledge Bro.",
+	"baseAttack": 2,
+	"baseHealth": 3,
+	"bloodCost": 3,
+	"metaCategories": ["ChoiceNode","TraderOffer"],
+	"abilities": ["nevernamed.inscryption.sigils.Deadbeat"],
+	"cardComplexity": "Intermediate",
+	"temple": "Nature",
+	"description": "The Hefty Sledge Bro. The more hefty version of the Hammer Bro.",
+	"texture": "Sledge Bro.png",
+	"emissionTexture": "Sledge Bro_e.png",
+	"tribes": ["Reptile"]
+}

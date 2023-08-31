@@ -1,0 +1,17 @@
+{
+	"name": "Tamao",
+	"modPrefix": "Mushroom",
+	"displayedName": "Tamao",
+	"baseAttack": 0,
+	"baseHealth": 15,
+	"bloodCost": 1,
+	"abilities": ["extraVoid.inscryption.voidSigils.Bodyguard","WhackAMole"],
+	"cardComplexity": "Advanced",
+	"temple": "Nature",
+	"metaCategories": ["Rare"],
+	"description": "The loyal Tamao. It'll take about any hit if it means protecting it's allies.",
+	"texture": "Tamao.png",
+	"emissionTexture": "Tamao_e.png",
+       "appearanceBehaviour": ["RareCardBackground"],
+	"tribes": ["None"]
+}

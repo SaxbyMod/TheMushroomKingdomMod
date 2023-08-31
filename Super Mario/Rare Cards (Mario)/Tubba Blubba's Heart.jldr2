@@ -1,0 +1,17 @@
+{
+	"name": "Tubba_Blubba_Heart",
+	"modPrefix": "Mushroom",
+	"displayedName": "Tubba Blubba's Heart",
+	"baseHealth": 3,
+	"bloodCost": 2,
+	"abilities": ["extraVoid.inscryption.voidSigils.Draw Card"],
+	"metaCategories": ["Rare"],
+	"cardComplexity": "Intermediate",
+	"temple": "Nature",
+	"description": "The invincible Tubba Blubba. The only way to defeat this monstrosity is through its heart...",
+	"appearanceBehaviour": ["RareCardBackground"],
+	"texture": "Tubba Blubba Heart.png",
+	"emissionTexture": "Tubba Blubba Heart_e.png",
+	"tribes": ["Reptile"],
+	"iceCubeName": "Mushroom_Tubba_Blubba"
+}

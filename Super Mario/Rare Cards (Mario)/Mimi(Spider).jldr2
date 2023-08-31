@@ -1,0 +1,15 @@
+{
+	"name": "Mushroom_Mimi(Spider)",
+	"modPrefix": "Mushroom",
+	"displayedName": "Mimi",
+	"baseAttack": 3,
+	"baseHealth": 6,
+	"bloodCost": 2,
+	"abilities": ["TriStrike"],
+	"cardComplexity": "Intermediate",
+	"temple": "Nature",
+	"description": "The elegant Mimi. She's just as cute as a button, be beware, as a beast lies within...",
+	"appearanceBehaviour": ["RareCardBackground"],
+	"texture": "Mimi_Spider.png",
+	"emissionTexture": "Mimi_Spider_e.png"
+}

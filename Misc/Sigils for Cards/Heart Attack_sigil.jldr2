@@ -1,0 +1,23 @@
+{
+  "name": "Heart Attack",
+  "GUID": "Mushroom",
+  "description": "At the start of your turn, if Tubba Blubba's Heart is not present on your side of the board, any card bearing this sigil loses all it's sigils until it dies or the battle ends.",
+  "metaCategories": [
+    "Part1Rulebook"
+  ],
+  "texture": "ability_HeartAttack.png",
+  "powerLevel": 0,
+  "abilityBehaviour": [
+    {
+      "trigger": {
+        "triggerType": "OnStartOfTurn"
+      },
+      "buffCards": [
+        {
+          "runOnCondition": "(not ([PlayerSlot(0).Card.Info.name] = 'Mushroom_Tubba_Blubba_Heart' or [PlayerSlot(1).Card.Info.name] = 'Mushroom_Tubba_Blubba_Heart' or [PlayerSlot(2).Card.Info.name] = 'Mushroom_Tubba_Blubba_Heart' or [PlayerSlot(3).Card.Info.name] = 'Mushroom_Tubba_Blubba_Heart'))",
+          'removeAbilities': [ "extraVoid.inscryption.voidSigils.Thick Shell", "extraVoid.inscryption.voidSigils.Resistant", "MadeOfStone" ]
+        }
+      ]
+    }
+  ]
+}

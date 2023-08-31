@@ -1,0 +1,15 @@
+{
+	"name": "Mushroom_Sockop",
+	"modPrefix": "Mushroom",
+	"displayedName": "Sockop",
+	"baseAttack": 1,
+	"baseHealth": 3,
+	"bloodCost": 1,
+	"abilities": ["extraVoid.inscryption.voidSigils.BloodGuzzler","extraVoid.inscryption.voidSigils.Leech","extraVoid.inscryption.voidSigils.Entomophage"],
+	"metaCategories": ["ChoiceNode","TraderOffer"],
+	"cardComplexity": "Intermediate",
+	"temple": "Nature",
+	"description": "The adorable Sockop. This pitcher-plant seems to enjoy consuming anything that it can digest, even gaining HP from the act!",
+	"texture": "Sockop.png",
+	"emissionTexture": "Sockop_e.png"
+}

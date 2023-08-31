@@ -1,0 +1,16 @@
+{
+	"name": "Misstar",
+	"modPrefix": "Mushroom",
+	"displayedName": "Misstar",
+	"baseAttack": 2,
+	"baseHealth": 4,
+	"energyCost": 3,
+	"abilities": ["extraVoid.inscryption.voidSigils.Medic","extraVoid.inscryption.voidSigils.Medic","extraVoid.inscryption.voidSigils.Medic"],
+	"metaCategories": ["Rare"],
+	"cardComplexity": "Advanced",
+	"temple": "Nature",
+	"description": "The Star Sprit, Misstar. Her smooch can heal the deepest wounds...",
+	"texture": "Misstar.png",
+	"emissionTexture": "Misstar_e.png",
+	"appearanceBehaviour": ["RareCardBackground"]
+}

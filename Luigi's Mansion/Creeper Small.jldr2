@@ -1,0 +1,13 @@
+{
+	"name": "Creeper_Small",
+	"modPrefix": "Gallery",
+	"displayedName": "Creeper",
+	"baseHealth": 2,
+	"abilities": ["Sharp","DrawCopy","DebuffEnemy"],
+	"cardComplexity": "Intermediate",
+	"temple": "Nature",
+	"description": "The friendly Creeper. It loves to cuddle, never wanting to let you go...",
+	"texture": "Creeper.png",
+	"emissionTexture": "Creeper_e.png",
+	"tribes": ["None"]
+}

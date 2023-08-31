@@ -1,0 +1,14 @@
+{
+	"name": "Bee_hoss",
+	"modPrefix": "Mushroom",
+	"displayedName": "Bee",
+	"baseAttack": 1,
+	"baseHealth": 3,
+	"abilities": ["Flying","extraVoid.inscryption.voidSigils.Vicious"],
+	"cardComplexity": "Intermediate",
+	"temple": "Nature",
+	"description": "A new kind of bee? How strange...",
+	"texture": "Bee(hoss).png",
+	"emissionTexture": "Bee(hoss)_e.png",
+	"tribes": ["Insect"]
+}

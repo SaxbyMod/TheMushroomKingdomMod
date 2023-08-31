@@ -1,0 +1,19 @@
+{
+  "name": "Shark",
+  "modPrefix": "Mushroom",
+  "displayedName": "Sushi",
+  "description": "Hmmm... A shark.. but why is its name Sushi?",
+  "metaCategories": [
+    "ChoiceNode",
+    "TraderOffer"
+  ],
+  "bloodCost": 3,
+  "tribes": [
+    "tribes.libary.fish"
+  ],
+  "abilities": [
+    "Submerge"
+  ],
+  "texture": "Sushi.png",
+  "emissionTexture": "Sushi_e.png"
+}

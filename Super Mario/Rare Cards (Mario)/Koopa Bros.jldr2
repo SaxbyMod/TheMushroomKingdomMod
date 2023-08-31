@@ -1,0 +1,16 @@
+{
+	"name": "Koopa_Bros",
+	"modPrefix": "Mushroom",
+	"displayedName": "Koopa Bros",
+	"baseAttack": 4,
+	"baseHealth": 4,
+	"bloodCost": 2,
+	"abilities": ["AllStrike","org.memez4life.inscryption.customsigils.Exhaustion","extraVoid.inscryption.voidSigils.Resistant"],
+	"cardComplexity": "Advanced",
+	"temple": "Nature",
+	"description": "The coolest of cool Koopa Bros. They're teamwork is quite strong, but their form can be compromised...",
+	"texture": "Koopa Bros.png",
+	"emissionTexture": "Koopa Bros_e.png",
+	"appearanceBehaviour": ["RareCardBackground"],
+	"tribes": ["Reptile"]
+}

@@ -1,0 +1,16 @@
+{
+	"name": "Spiked_Beetle",
+	"modPrefix": "Gallery",
+	"displayedName": "Spiked Beetle",
+	"baseAttack": 1,
+	"baseHealth": 2,
+	"bloodCost": 2,
+	"abilities": ["Sharp","DrawCopy"],
+	"metaCategories": ["ChoiceNode","TraderOffer"],
+	"cardComplexity": "Intermediate",
+	"temple": "Nature",
+	"description": "The Spiked Beetle. A swarm of annoyances in the Clockwork Tower...",
+	"texture": "Spiked Beetle.png",
+	"emissionTexture": "Spiked Beetle_e.png",
+	"tribes": ["Insect"]
+}

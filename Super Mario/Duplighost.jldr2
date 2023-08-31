@@ -1,0 +1,15 @@
+{
+	"name": "Duplighost",
+	"modPrefix": "Mushroom",
+	"displayedName": "Duplighost",
+	"baseAttack": 1,
+	"baseHealth": 2,
+	"bonesCost": 2,
+	"abilities": ["nevernamed.inscryption.sigils.Hypermorphic"],
+	"metaCategories": ["ChoiceNode","TraderOffer"],
+	"cardComplexity": "Intermediate",
+	"temple": "Nature",
+	"description": "The shifty Duplighost. His form is ever changing...",
+	"texture": "Duplighost.png",
+	"emissionTexture": "Duplighost_e.png"
+}

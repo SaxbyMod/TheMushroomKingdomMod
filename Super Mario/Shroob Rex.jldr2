@@ -1,0 +1,16 @@
+{
+	"name": "Shroob_Rex",
+	"modPrefix": "Mushroom",
+	"displayedName": "Shroob Rex",
+	"baseAttack": 2,
+	"baseHealth": 3,
+	"energyCost": 1,
+	"abilities": ["extraVoid.inscryption.voidSigils.Resistant","extraVoid.inscryption.voidSigils.Familiar"],
+	"metaCategories": ["ChoiceNode","TraderOffer"],
+	"cardComplexity": "Intermediate",
+	"temple": "Nature",
+	"description": "The familiar Shroob Rex. Strangely never fights on it's own, joining other units in their brawls instead...",
+	"texture": "Shroob Rex.png",
+	"emissionTexture": "Shroob Rex_e.png",
+	"tribes": ["Reptile"]
+}

@@ -1,0 +1,16 @@
+{
+	"name": "Mushroom_Unagi",
+	"modPrefix": "Mushroom",
+	"displayedName": "Unagi",
+	"baseAttack": 2,
+	"baseHealth": 3,
+	"bloodCost": 2,
+	"abilities": ["extraVoid.inscryption.voidSigils.Predator"],
+	"cardComplexity": "Intermediate",
+	"temple": "Nature",
+	"description": "That thing was in the hole? Might of been best to keep it in there...",
+	"appearanceBehaviour": ["RareCardBackground"],
+	"texture": "Unagi.png",
+	"emissionTexture": "Unagi_e.png",
+	"tribes": ["None"]
+}

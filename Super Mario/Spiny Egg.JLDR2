@@ -1,0 +1,17 @@
+{
+	"name": "Spiny_Egg",
+	"modPrefix": "Mushroom",
+	"displayedName": "Spiny Egg",
+	"baseHealth": 2,
+	"bloodCost": 1,
+	"abilities": ["Evolve","Sharp"],
+	"metaCategories": ["ChoiceNode","TraderOffer"],
+	"cardComplexity": "Vanilla",
+	"temple": "Nature",
+	"description": "A sharpened Spiny Egg. It's still sharp even while incubating...",
+	"texture": "Spiny Egg.png",
+	"emissionTexture": "Spiny Egg_e.png",
+	"tribes": ["Reptile"],
+	"evolveIntoName": "Mushroom_Spiny",
+	"evolveTurns": 1
+}

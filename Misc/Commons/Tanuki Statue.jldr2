@@ -1,0 +1,18 @@
+{
+	"name": "Tanooki_Statue",
+	"modPrefix": "Mushroom",
+	"displayedName": "Tanuki Statue",
+	"baseAttack": 0,
+	"baseHealth": 2,
+	"bonesCost": 3,
+	"abilities": ["MadeOfStone"],
+	"metaCategories": ["ChoiceNode","TraderOffer"],
+	"cardComplexity": "Intermediate",
+	"temple": "Nature",
+	"description": "What a curious statue... It's said to have been made to honor the tanuki...",
+	"texture": "Tanooki Statue.png",
+	"emissionTexture": "Tanooki Statue_e.png",
+	"extensionProperties": { 
+	"MycoMerger": "Mushroom_Super_Leaf:Mushroom_Tanuki_Lord"},
+	"tribes": ["tribes.libary.stone"]
+}

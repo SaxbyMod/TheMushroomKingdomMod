@@ -1,0 +1,17 @@
+{
+	"name": "Mushroom_Snoodle",
+	"modPrefix": "Mushroom",
+	"displayedName": "Snoodle",
+	"baseAttack": 2,
+	"baseHealth": 4,
+	"bloodCost": 2,
+	"energyCost": 1,
+	"abilities": ["WhackAMole","extraVoid.inscryption.voidSigils.Regen 1","extraVoid.inscryption.voidSigils.Dive (Energy)"],
+	"metaCategories": ["ChoiceNode","TraderOffer"],
+	"cardComplexity": "Advanced",
+	"temple": "Nature",
+	"description": "The arrogant Snoodle. It's capable of regenerating health to deny attacks, but you may want to force it to stay put and heal when needed.",
+	"texture": "Snoodle.png",
+	"emissionTexture": "Snoodle_e.png",
+	"tribes": ["None"]
+}

@@ -1,0 +1,15 @@
+{
+	"name": "Mushroom_Topman",
+	"modPrefix": "Mushroom",
+	"displayedName": "Topman",
+	"baseAttack": 3,
+	"baseHealth": 3,
+	"energyCost": 3,
+	"abilities": ["Sharp","extraVoid.inscryption.voidSigils.Ram"],
+	"metaCategories": ["ChoiceNode","TraderOffer"],
+	"cardComplexity": "Intermediate",
+	"temple": "Nature",
+	"description": "The dizzy Topman. The spike on its head mixes well with its bouncy body, using kinectic energy to blash enemies away.",
+	"texture": "Topman.png",
+	"emissionTexture": "Topman_e.png"
+}

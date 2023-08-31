@@ -1,0 +1,17 @@
+{
+	"name": "Buried_Yoshi_egg",
+	"modPrefix": "Mushroom",
+	"displayedName": "Buried Yoshi egg",
+	"baseHealth": 5,
+	"bloodCost": 2,
+	"abilities": ["IceCube","CorpseEater"],
+	"metaCategories": ["Rare"],
+	"cardComplexity": "Advanced",
+	"temple": "Nature",
+	"description": "How strange. I don't remember yoshi eggs being part of this expansion pack. Let alone buried. Nonetheless, it is dealt.",
+	"texture": "Buried Yoshi Egg.png",
+	"emissionTexture": "Buried Yoshi Egg_e.png",
+	"tribes": ["Reptile"],
+	"traits": ["Terrain"],
+	"iceCubeName": "Mushroom_Snooze_a_koopa"
+}

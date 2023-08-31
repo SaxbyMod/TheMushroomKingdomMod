@@ -1,0 +1,17 @@
+{
+	"name": "Mushroom_Kretin",
+	"modPrefix": "Mushroom",
+	"displayedName": "Kretin",
+	"baseAttack": 1,
+	"baseHealth": 2,
+	"bloodCost": 1,
+	"abilities": ["nevernamed.inscryption.sigils.Reroute","Evolve"],
+	"cardComplexity": "Intermediate",
+	"temple": "Nature",
+	"description": "The proud Kretin. Do not weep for it's loss, for through evolution, it will return to its former glory...",
+	"appearanceBehaviour": ["RareCardBackground"],
+	"texture": "Kretin.png",
+	"emissionTexture": "Kretin_e.png",
+	"evolveIntoName": "Mushroom_Kretin_Alpha",
+	"evolveTurns": 3
+}

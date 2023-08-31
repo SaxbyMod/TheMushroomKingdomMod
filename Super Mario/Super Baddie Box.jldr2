@@ -1,0 +1,18 @@
+{
+  "name": "Super_Baddie_Box",
+  "modPrefix": "Mushroom",
+  "displayedName": "Super Baddie Box",
+  "description": "This baddie box seems to have been upgraded. Seemss now you have a choice of what it creates...",
+  "metaCategories": [
+    "Rare"
+  ],
+  "cardComplexity": "Intermediate",
+  "temple": "Nature",
+  "baseHealth": 1,
+  "energyCost": 6,
+  "abilities": [
+    "nevernamed.inscryption.sigils.Summoner"
+  ],
+  "texture": "Super Baddie Box.png",
+  "emissionTexture": "Super Baddie Box_e.png"
+}

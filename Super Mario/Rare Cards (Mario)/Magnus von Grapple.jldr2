@@ -1,0 +1,16 @@
+{
+	"name": "Magnus_von_Grapple",
+	"modPrefix": "Mushroom",
+	"displayedName": "Magnus von Grapple",
+	"baseAttack": 2,
+	"baseHealth": 4,
+	"energyCost": 6,
+	"abilities": ["DoubleStrike","TriStrike"],
+	"metaCategories": ["Rare"],
+	"cardComplexity": "Intermediate",
+	"appearanceBehaviour": ["RareCardBackground"],
+	"temple": "Nature",
+	"description": "Magnus von Grapple. Lord Crump's joy and pride of the X-Nauts...",
+	"texture": "Magnus von Grapple.png",
+	"emissionTexture": "Magnus von Grapple_e.png"
+}

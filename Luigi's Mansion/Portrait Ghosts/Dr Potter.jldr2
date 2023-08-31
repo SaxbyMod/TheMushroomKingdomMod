@@ -1,0 +1,18 @@
+{
+	"name": "Dr_Potter",
+	"modPrefix": "Gallery",
+	"displayedName": "Dr. Potter",
+	"baseAttack": 1,
+	"baseHealth": 3,
+	"gemsCost": ["Green"],
+	"abilities": ["org.memez4life.inscryption.customsigils.Spawner"],
+	"iceCubeName":"Mushroom_Piranha_Plant",
+	"metaCategories": ["ChoiceNode","TraderOffer"],
+	"onePerDeck": true,
+	"cardComplexity": "Intermediate",
+	"temple": "Nature",
+	"description": "The rouge gardener, Dr. Potter. His plants are known to get a bit... violent...",
+	"texture": "Dr Potter.png",
+	"emissionTexture": "Dr Potter_e.png",
+	"tribes": ["tribes.libary.ghoul"]
+}

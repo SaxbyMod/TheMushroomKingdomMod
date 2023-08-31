@@ -1,0 +1,16 @@
+{
+	"name": "O_Chunks",
+	"modPrefix": "Mushroom",
+	"displayedName": "O'Chunks",
+	"baseAttack": 3,
+	"baseHealth": 5,
+	"bloodCost": 2,
+	"abilities": ["extraVoid.inscryption.voidSigils.Multi-Strike","extraVoid.inscryption.voidSigils.Retaliate"],
+	"metaCategories": ["Rare"],
+	"cardComplexity": "Intermediate",
+	"temple": "Nature",
+	"description": "The boisterous O'Chunks. Best get out of he's way, lest ye be "Chunked"!",
+	"appearanceBehaviour": ["RareCardBackground"],
+	"texture": "O'Chunks.png",
+	"emissionTexture": "O'Chunks_e.png"
+}

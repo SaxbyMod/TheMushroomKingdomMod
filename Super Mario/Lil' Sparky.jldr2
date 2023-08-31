@@ -1,0 +1,20 @@
+{
+	"name": "Lil'_Sparky",
+	"modPrefix": "Mushroom",
+	"displayedName": "Lil' Sparky",
+	"baseAttack": 1,
+	"baseHealth": 3,
+	"energyCost": 4,
+	"abilities": ["GainBattery"],
+	"metaCategories": ["ChoiceNode","TraderOffer"],
+	"cardComplexity": "Simple",
+	"temple": "Nature",
+	"description": "The zippy Lil' Sparky. It's shocking body may be of use to those who require energy...",
+	"texture": "Lil' Sparky.png",
+	"emissionTexture": "Lil' Sparky_e.png",
+	"tribes": ["None"],
+	"traits": ["KillsSurvivors"],
+	"evolveIntoName": "Mushroom_Spark",
+	"evolveTurns": 1,
+	"pixelTexture": "Lil' Sparky Act 2.png"
+}

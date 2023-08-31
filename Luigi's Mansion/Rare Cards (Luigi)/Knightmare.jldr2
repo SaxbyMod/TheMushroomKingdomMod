@@ -1,0 +1,20 @@
+{
+	"name": "Knightmare",
+	"modPrefix": "Mushroom",
+	"displayedName": "Knightmare",
+	"baseAttack": 4,
+	"baseHealth": 2,
+	"bonesCost": 6,
+	"abilities": ["IceCube","extraVoid.inscryption.voidSigils.Resistant"],
+	"iceCubeName":"Mushroom_Possessor",
+	"metaCategories": ["Rare"],
+	"cardComplexity": "Intermediate",
+	"temple": "Nature",
+		"tribes": [
+  "tribes.libary.possessed"
+],
+	"traits": ["KillsSurvivors"],
+	"description": "The colossal Knightmare. An enlarged suit of armor that was once a last ditch resort to crush Luigi. Too bad it only took two rugs to destroy the golem for good...",
+	"texture": "Knightmare.png",
+	"emissionTexture": "Knightmare_e.png"
+}

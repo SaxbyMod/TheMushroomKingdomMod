@@ -1,0 +1,18 @@
+{
+	"name": "Frozen_Ghost",
+	"modPrefix": "Gallery",
+	"displayedName": "Frozen Ghost",
+	"baseAttack": 0,
+	"baseHealth": 6,
+	"gemsCost": ["Green"],
+	"metaCategories": ["ChoiceNode","TraderOffer"],
+	"onePerDeck": true,
+	"abilities": ["IceCube"],
+	"iceCubeName":"Mushroom_Sir_Weston",
+	"cardComplexity": "Simple",
+	"temple": "Nature",
+	"description": "A ghost who would rather be cold. I wonder what will happen should the ice melt...",
+	"texture": "Sir Weston_Frozen.png",
+	"emissionTexture": "Sir Weston_Frozen_e.png",
+	"tribes": ["tribes.libary.ghoul"]
+}

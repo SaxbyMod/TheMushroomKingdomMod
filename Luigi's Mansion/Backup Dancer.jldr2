@@ -1,0 +1,15 @@
+{
+	"name": "Backup_Dancer",
+	"modPrefix": "Gallery",
+	"displayedName": "Backup Dancer",
+	"baseAttack": 1,
+	"baseHealth": 1,
+	"abilities": ["GainGemBlue"],
+	"cardComplexity": "Intermediate",
+	"temple": "Nature",
+	"traits": ["Gem"],
+	"tribes": ["tribes.libary.spectral"],
+	"description": "A Goob starring as a Backup Dancer. The music helps amp up it's attacks...",
+	"texture": "Backup Dancer.png",
+	"emissionTexture": "Backup Dancer_e.png"
+}

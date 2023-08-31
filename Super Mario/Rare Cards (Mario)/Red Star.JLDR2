@@ -1,0 +1,15 @@
+{
+	"name": "Red_Star",
+	"modPrefix": "Mushroom",
+	"displayedName": "Red Star",
+	"baseHealth": 2,
+	"baseAttack": 0,
+	"metaCategories": ["Rare"],
+	"appearanceBehaviour": ["RareCardBackground"],
+	"abilities": ["Flying","TriStrike"],
+	"cardComplexity": "Intermediate",
+	"temple": "Nature",
+	"description": "The secret Red Star. Mastery of the sky is within reach, you just need to find a proper host...",
+	"texture": "Red Star.png",
+	"emissionTexture": "Red Star_e.png"
+}

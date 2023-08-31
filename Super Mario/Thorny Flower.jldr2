@@ -1,0 +1,16 @@
+{
+	"name": "Thorny_Flower",
+	"modPrefix": "Mushroom",
+	"displayedName": "Thorny Flower",
+	"baseAttack": 0,
+	"baseHealth": 2,
+	"energyCost": 2,
+	"abilities": ["Sharp"],
+	"metaCategories": ["ChoiceNode","TraderOffer"],
+	"cardComplexity": "Simple",
+	"temple": "Nature",
+	"description": "The Thorny Flower. A cheap defense you can plant if you're in a pinch...",
+	"texture": "Thorny Flower.png",
+	"emissionTexture": "Thorny Flower_e.png",
+	"tribes": ["None"]
+}

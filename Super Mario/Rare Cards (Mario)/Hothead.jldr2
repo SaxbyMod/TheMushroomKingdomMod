@@ -1,0 +1,16 @@
+{
+	"name": "Mushroom_Hothead",
+	"modPrefix": "Mushroom",
+	"displayedName": "Hothead",
+	"baseAttack": 2,
+	"baseHealth": 3,
+	"energyCost": 5,
+	"abilities": ["TriStrike","org.memez4life.inscryption.customsigils.Rushing march"],
+	"metaCategories": ["Rare"],
+	"cardComplexity": "Intermediate",
+	"temple": "Nature",
+	"description": "The sparkling Hothead. Its body electrocutes anyone who dares get too close. It's both a blessing and a curse.",
+	"appearanceBehaviour": ["RareCardBackground"],
+	"texture": "Hothead.png",
+	"emissionTexture": "Hothead_e.png"
+}

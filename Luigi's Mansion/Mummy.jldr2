@@ -1,0 +1,16 @@
+{
+	"name": "Mummy",
+	"modPrefix": "Mushroom",
+	"displayedName": "Mummy",
+	"baseAttack": 3,
+	"baseHealth": 1,
+	"bonesCost": 5,
+	"abilities": ["IceCube","DeathShield"],
+	"metaCategories": ["ChoiceNode","TraderOffer"],
+	"cardComplexity": "Intermediate",
+	"temple": "Nature",
+	"description": "The tricky Greenie. Known to steal sigils to use against their bewildered enemies.",
+	"texture": "Mummy.png",
+	"emissionTexture": "Mummy_e.png",
+	"iceCubeName": "Mushroom_Greenie"
+}

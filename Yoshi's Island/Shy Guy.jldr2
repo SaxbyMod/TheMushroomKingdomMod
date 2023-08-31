@@ -1,0 +1,17 @@
+{
+	"name": "Shy_Guy",
+	"modPrefix": "Mushroom",
+	"displayedName": "Shy Guy",
+	"baseAttack": 2,
+	"baseHealth": 3,
+	"bloodCost": 2,
+	"abilities": ["extraVoid.inscryption.voidSigils.Cowardly"],
+	"metaCategories": ["ChoiceNode","TraderOffer"],
+	"cardComplexity": "Intermediate",
+	"temple": "Nature",
+	"description": "The properly named Shy Guy. It refuses to strike those stronger than it, but "frozenwithin" lies hellish hate...",
+	"texture": "Shy Guy.png",
+	"emissionTexture": "Shy Guy_e.png",
+	"iceCubeName": "Mushroom_Ghost_Guy",
+	"pixelTexture": "Shy Guy Act 2.png"
+}

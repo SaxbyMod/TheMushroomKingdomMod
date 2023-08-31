@@ -1,0 +1,16 @@
+{
+	"name": "Sir_Grodus",
+	"modPrefix": "Mushroom",
+	"displayedName": "Sir Grodus",
+	"baseAttack": 2,
+	"baseHealth": 4,
+	"energyCost": 5,
+	"abilities": ["DrawCopyOnDeath","BuffNeighbours"],
+	"metaCategories": ["Rare"],
+	"cardComplexity": "Intermediate",
+	"appearanceBehaviour": ["RareCardBackground"],
+	"temple": "Nature",
+	"description": "The villanous Sir Grodus. As long as his head stays intact, not even the Shadow Queen can dispose of him...",
+	"texture": "Sir Grodus.png",
+	"emissionTexture": "Sir Grodus_e.png"
+}

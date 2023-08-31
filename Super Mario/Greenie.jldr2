@@ -1,0 +1,18 @@
+{
+	"name": "Greenie",
+	"modPrefix": "Gallery",
+	"displayedName": "Greenie",
+	"baseAttack": 0,
+	"baseHealth": 1,
+	"energyCost": 0,
+	"abilities": ["Flying","GainGemGreen"],
+	"cardComplexity": "Intermediate",
+	"temple": "Nature",
+	"description": "The tricky Greenie. Known to steal sigils to use against their bewildered enemies.",
+	"texture": "Greenie.png",
+	"emissionTexture": "Greenie_e.png",
+	"pixelTexture": "Greenie Act 2.png",
+	"tribes": [
+  "tribes.libary.spectral"
+]
+}

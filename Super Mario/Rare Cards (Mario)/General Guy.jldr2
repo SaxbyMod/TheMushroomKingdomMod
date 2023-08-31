@@ -1,0 +1,17 @@
+{
+	"name": "General_Guy",
+	"modPrefix": "Mushroom",
+	"displayedName": "General Guy",
+	"baseAttack": 2,
+	"baseHealth": 5,
+	"bloodCost": 2,
+	"energyCost": 4,
+	"abilities": ["extraVoid.inscryption.voidSigils.Zapper","extraVoid.inscryption.voidSigils.Resistant"],
+	"metaCategories": ["Rare"],
+	"cardComplexity": "Intermediate",
+	"temple": "Nature",
+	"description": "The fearless General Guy. He commands his tank to zap enemies into submission...",
+	"appearanceBehaviour": ["RareCardBackground"],
+	"texture": "General Guy.png",
+	"emissionTexture": "General Guy_e.png"
+}

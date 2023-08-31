@@ -1,0 +1,21 @@
+{
+  "name": "TrapFrog",
+  "modPrefix": "Mushroom",
+  "displayedName": "Mini Toad",
+  "description": "Where did the trader find this... did it stray away from the trappers clutches?",
+  "metaCategories": [
+    "ChoiceNode",
+    "TraderOffer"
+  ],
+  "baseAttack": 1,
+  "baseHealth": 2,
+  "energyCost": 4,
+  "abilities": [
+    "Reach"
+  ],
+    "tribes": [
+    "tribes.libary.machine"
+  ],
+  "texture": "Mini Toad.png",
+  "emissionTexture": "Mini Toad_e.png"
+}

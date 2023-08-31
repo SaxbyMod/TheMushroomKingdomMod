@@ -1,0 +1,17 @@
+{
+	"name": "Mushroom_Topmini",
+	"modPrefix": "Mushroom",
+	"displayedName": "Topmini",
+	"baseAttack": 1,
+	"baseHealth": 1,
+	"energyCost": 1,
+	"abilities": ["DrawCopy","extraVoid.inscryption.voidSigils.Ram"],
+	"metaCategories": ["ChoiceNode","TraderOffer"],
+	"cardComplexity": "Intermediate",
+	"temple": "Nature",
+	"description": "The bouncy Topmini. While its attack won't do much damage, the knockback from this swarm of tops is what really sends baddies flying.",
+	"texture": "Topmini.png",
+	"emissionTexture": "Topmini_e.png",
+	"evolveIntoName": "Mushroom_Topman",
+	"evolveTurns": 1
+}

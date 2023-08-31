@@ -1,0 +1,17 @@
+{
+	"name": "Hider",
+	"modPrefix": "Gallery",
+	"displayedName": "Hider",
+	"baseAttack": 2,
+	"baseHealth": 1,
+	"bonesCost": 3,
+	"energyCost": 0,
+	"abilities": ["Sniper","Submerge"],
+	"metaCategories": ["ChoiceNode","TraderOffer"],
+	"cardComplexity": "Intermediate",
+	"temple": "Nature",
+	"description": "The cowardly Hider. Known to only appear with intents to pelt beasts from afar...",
+	"texture": "Hider.png",
+	"emissionTexture": "Hider_e.png",
+	"pixelTexture": "Hider Act 2.png"
+}

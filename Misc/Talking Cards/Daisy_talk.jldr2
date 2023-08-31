@@ -1,0 +1,238 @@
+{
+  "cardName": "Mushroom_Daisy",
+  "faceSprite": "Daisy Base.png",
+  "eyeSprites": {
+    "open": "Daisy Eyes Open.png",
+    "closed": "Daisy Eyes Closed.png"
+  },
+  "mouthSprites": {
+    "open": "Daisy Mouth Open.png",
+    "closed": "Daisy Mouth Closed.png"
+  },
+  "emissionSprites": {
+    "open": "Daisy Emmisive Open.png",
+    "closed": "Daisy Emmisive Closed.png"
+  },
+  "faceInfo": {
+    "blinkRate": 0.5,
+    "customVoice": "Daisy_Talk.wav"
+  },
+  "dialogueEvents": [
+    {
+      "eventName": "OnDrawn",
+      "mainLines": [
+        "Yo! You've seen Luigi?",
+	"I hope they got through okay...",
+	"Or I'm gonna mess this guy up!"
+      ],
+      "repeatLines": [
+        [
+          "Hi!",
+        ],
+        [
+          "What's up?!"
+        ],
+        [
+          "Oh, hey!"
+        ]
+      ]
+    },
+    {
+      "eventName": "OnPlayFromHand",
+      "mainLines": [
+        "Ooh, so excited!"
+      ],
+      "repeatLines": [
+        [
+          "Comin' though!"
+        ],
+	[
+          "Got it!"
+        ]
+      ]
+    },
+    {
+      "eventName": "OnAttacked",
+      "mainLines": [
+        "Augh!,"
+      ],
+      "repeatLines": [
+        [
+          "OW! Brutal!"
+        ],
+        [
+          "Augh! Not cool!"
+        ]
+      ]
+    },
+    {
+      "eventName": "OnBecomeSelectablePositive",
+      "mainLines": [
+        "Oh-ho!",
+	"That looks fun!"
+      ],
+      "repeatLines": [
+        [
+          "I want it!"
+        ]
+      ]
+    },
+    {
+      "eventName": "OnBecomeSelectableNegative",
+      "mainLines": [
+        "Umm.. hey.",
+	"I'd.. rather not",
+	"try this. okay?"
+      ],
+      "repeatLines": [
+        [
+          "I'll sit this one out..."
+        ]
+      ]
+    },
+    {
+      "eventName": "OnSacrificed",
+      "mainLines": [
+        "Aw, man!"
+      ],
+      "repeatLines": [
+        [
+          "Aw, man!"
+        ],
+	[
+          "Brutal..."
+        ]
+      ]
+    },
+    {
+      "eventName": "OnSelectedForDeckTrial",
+      "mainLines": [
+        "Did we win?!"
+      ],
+      "repeatLines": [
+        [
+          "Did we win?!"
+        ]
+      ]
+    },
+    {
+      "eventName": "OnSelectedForCardMerge",
+      "mainLines": [
+        "Thanks for the",
+	"power up!"
+      ],
+      "repeatLines": [
+        [
+          "Power up? Neat-o!"
+        ]
+      ]
+    },
+    {
+      "eventName": "OnSelectedForCardRemove",
+      "mainLines": [
+        "Uh.. No."
+      ],
+      "repeatLines": [
+        [
+          "How about no?"
+        ]
+      ]
+    },
+    {
+      "eventName": "OnDiscoveredInExploration",
+      "mainLines": [
+        "Hi, I'm Daisy!",
+	"Look, this may seem odd...",
+	"But mind helping a princess out?"
+      ],
+      "repeatLines": [
+        [
+          "Let's rock and roll!"
+        ]
+      ]
+    },
+    {
+      "eventName": "ProspectorBoss",
+      "mainLines": [
+        "Ugh! Mining?",
+	"I'd rather just",
+	"snatch the mule!"
+      ],
+      "repeatLines": [
+        [
+          "Darn Prospector!",
+	 "That mule better",
+	 "have some use!"
+        ]
+      ]
+    },
+    {
+      "eventName": "OnDrawn",
+      "mainLines": [
+	"That hook might",
+	"tear up my dress!",
+	"Keep it away!"
+      ],
+      "repeatLines": [
+        [
+          "Keep that hook away!"
+        ]
+      ]
+    },
+    {
+      "eventName": "TrapperTraderBoss",
+      "mainLines": [
+        "Let me get this straight.",
+	"Those trapped become pelts.",
+	"Which we trade for new units?"
+      ],
+      "repeatLines": [
+        [
+          "I'm still having trouble",
+	  "understanding these two..."
+        ]
+      ]
+    },
+    {
+      "eventName": "LeshyBoss",
+      "mainLines": [
+	"Woah...That moon..",
+	"It's huge!",
+	"Glad Leshy isn't using it, right?"
+      ],
+      "repeatLines": [
+        [
+          "Okay, he may be able",
+	  "to use that moon...".
+	  "But we can play dirty too!"
+        ]
+      ]
+    },
+    {
+      "eventName": "OnDrawn",
+      "mainLines": [
+        "I ain't scared of those skeltons!", 
+	"I'd be more worried",
+	"about the cannons!"
+      ],
+      "repeatLines": [
+        [
+          "Teach this old",
+	  "man how a real",
+	  "ruler treats thier crew!"
+        ]
+      ]
+    },
+    {
+      "eventName": "DefaultOpponent",
+      "mainLines": [
+        "Hi!"
+      ],
+      "repeatLines": [
+        [
+          "Hi!"
+        ]
+      ]
+    }
+  ]
+}

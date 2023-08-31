@@ -1,0 +1,18 @@
+{
+	"name": "Bat_Blaster",
+	"modPrefix": "Mushroom",
+	"displayedName": "Bat Blaster",
+	"baseHealth": 0,
+	"energyCost": 3,
+	"abilities": ["creator.TooManySigils.Launcher"],
+	"metaCategories": ["ChoiceNode","TraderOffer"],
+	"cardComplexity": "Advanced",
+	"temple": "Nature",
+	"description": "Home of the vampiric Bullet Bat. It is known to have unlimited ammo, but no defenses if attacked head on...",
+	"appearanceBehaviour": ["TerrainLayout","TerrainBackground"],
+	"texture": "Bat Blaster.png",
+	"emissionTexture": "Bat Blaster_e.png",
+	"tribes": ["None"],
+	"traits": ["Terrain"],
+	"iceCubeName": "Mushroom_Bullet_Bat"
+}

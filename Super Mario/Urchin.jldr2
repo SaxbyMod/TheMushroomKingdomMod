@@ -1,0 +1,16 @@
+{
+	"name": "Mushroom_Urchin",
+	"modPrefix": "Mushroom",
+	"displayedName": "Urchin",
+	"baseAttack": 2,
+	"baseHealth": 2,
+	"bloodCost": 1,
+	"abilities": ["Submerge","extraVoid.inscryption.voidSigils.Submerged Ambush],
+	"metaCategories": ["ChoiceNode","TraderOffer"],
+	"cardComplexity": "Advanced",
+	"temple": "Nature",
+	"description": "The airheaded Urchin. It floats around aimlessly, causing the unobservant to be impaled by its spines...",
+	"texture": "Urchin.png",
+	"emissionTexture": "Urchin_e.png",
+	"tribes": ["None"]
+}

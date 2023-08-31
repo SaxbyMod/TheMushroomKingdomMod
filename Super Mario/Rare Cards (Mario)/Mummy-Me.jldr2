@@ -1,0 +1,17 @@
+{
+	"name": "Mummy_Me",
+	"modPrefix": "Mushroom",
+	"displayedName": "Mummy-Me",
+	"baseAttack": 2,
+	"baseHealth": 4,
+	"bonesCost": 4,
+	"energyCost": 0,
+	"abilities": ["GuardDog","BoneDigger","org.memez4life.inscryption.customsigils.Bone lord 5"],
+	"metaCategories": ["Rare"],
+	"cardComplexity": "Intermediate",
+	"temple": "Nature",
+	"description": "The deceptive Mummy-Me. It's not only a vicious stalker, but also a good source of bones.",
+	"appearanceBehaviour": ["RareCardBackground"],
+	"texture": "Mummy-Me.png",
+	"emissionTexture": "Mummy-Me_e.png"
+}

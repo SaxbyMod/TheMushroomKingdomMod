@@ -1,0 +1,17 @@
+{
+	"name": "Cluckboom",
+	"modPrefix": "Mushroom",
+	"displayedName": "Cluckboom",
+	"baseAttack": 2,
+	"baseHealth": 4,
+	"bonesCost": 3,
+	"abilities": ["org.memez4life.inscryption.customsigils.Launcher","Flying"],
+	"metaCategories": ["ChoiceNode","TraderOffer"],
+	"iceCubeName": "Mushroom_Mouser_Bomb",
+	"cardComplexity": "Simple",
+	"temple": "Nature",
+	"description": "The Coocoo Cluckboom. Known to drop bombs on passerby during their reckless flights...",
+	"texture": "Cluckboom.png",
+	"emissionTexture": "Cluckboom_e.png",
+	"tribes": ["Bird"]
+}

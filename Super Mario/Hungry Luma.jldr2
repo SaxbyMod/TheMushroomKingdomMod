@@ -1,0 +1,16 @@
+{
+	"name": "Hungry_Luma",
+	"modPrefix": "Mushroom",
+	"displayedName": "Hungry Luma",
+	"baseAttack": 1,
+	"baseHealth": 3,
+	"energyCost": 4,
+	"abilities": ["ActivatedStatsUpEnergy"],
+	"metaCategories": ["ChoiceNode","TraderOffer"],
+	"cardComplexity": "Simple",
+	"temple": "Nature",
+	"description": "The Hungry Luma. Feeding only makes it stronger...",
+	"texture": "Hungry Luma.png",
+	"emissionTexture": "Hungry Luma_e.png",
+	"tribes": ["None"]
+}

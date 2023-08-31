@@ -1,0 +1,17 @@
+{
+	"name": "Dino_Rhino",
+	"modPrefix": "Mushroom",
+	"displayedName": "Dino Rhino",
+	"baseAttack": 2,
+	"baseHealth": 3,
+	"bloodCost": 2,
+	"abilities": ["IceCube","org.memez4life.inscryption.customsigils.Charge"],
+	"metaCategories": ["ChoiceNode","TraderOffer"],
+	"cardComplexity": "Intermediate",
+	"temple": "Nature",
+	"description": "The hard-headed Dino Rhino. It charges headfirst into trespassers with a trick in its sleeve should it be outmatched.",
+	"texture": "Dino Rhino.png",
+	"emissionTexture": "Dino Rhino_e.png",
+	"tribes": ["Reptile"],
+	"iceCubeName": "Mushroom_Dino_Torch"
+}

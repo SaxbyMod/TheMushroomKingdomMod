@@ -1,0 +1,14 @@
+{
+	"name": "Yarn",
+	"modPrefix": "Gallery",
+	"displayedName": "Yarn",
+	"baseAttack": 1,
+	"baseHealth": 1,
+	"abilities": ["Brittle","extraVoid.inscryption.voidSigils.Zapper"],
+	"metaCategories": ["ChoiceNode","TraderOffer"],
+	"cardComplexity": "Advanced",
+	"temple": "Nature",
+	"description": "Some Yarn Nana brought along. Best not get hit...",
+	"texture": "Yarn.png",
+	"tribes": ["tribes.libary.haunted"]
+}

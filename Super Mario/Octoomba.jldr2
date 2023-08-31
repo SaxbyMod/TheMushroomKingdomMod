@@ -1,0 +1,15 @@
+{
+	"name": "Mushroom_Octoomba",
+	"modPrefix": "Mushroom",
+	"displayedName": "Octoomba",
+	"baseAttack": 2,
+	"baseHealth": 3,
+	"energyCost": 1,
+	"abilities": ["extraVoid.inscryption.voidSigils.Lure"],
+	"metaCategories": ["ChoiceNode","TraderOffer"],
+	"cardComplexity": "Intermediate",
+	"temple": "Nature",
+	"description": "The alien Octoomba. It will attack with its illuminated antennae to draw enemies out of the water.",
+	"texture": "Octoomba.png",
+	"emissionTexture": "Octoomba_e.png"
+}

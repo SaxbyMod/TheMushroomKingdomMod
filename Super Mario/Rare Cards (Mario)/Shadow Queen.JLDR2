@@ -1,0 +1,15 @@
+{
+	"name": "Shadow_Queen",
+	"modPrefix": "Mushroom",
+	"displayedName": "Shadow Queen",
+	"baseAttack": 4,
+	"baseHealth": 7,
+	"abilities": ["org.memez4life.inscryption.customsigils.Launcher"],
+	"cardComplexity": "Intermediate",
+	"temple": "Nature",
+	"description": "The Shadow Queen. Locked away for many years...",
+	"appearanceBehaviour": ["RareCardBackground"],
+	"texture": "Shadow Queen.png",
+	"emissionTexture": "Shadow Queen_e.png",
+	"iceCubeName": "Mushroom_Shadow_Hand"
+}

@@ -1,0 +1,15 @@
+{
+	"name": "Gringill",
+	"modPrefix": "Mushroom",
+	"displayedName": "Gringill",
+	"baseAttack": 1,
+	"baseHealth": 3,
+	"energyCost": 3,
+	"abilities": ["Submerge","DoubleStrike","DoubleStrike"],
+	"metaCategories": ["ChoiceNode","TraderOffer"],
+	"cardComplexity": "Intermediate",
+	"temple": "Nature",
+	"description": "The vicious Gringill. A violent sea-dweller known for biting at anything within sight...",
+	"texture": "Gringill.png",
+	"emissionTexture": "Gringill_e.png"
+}

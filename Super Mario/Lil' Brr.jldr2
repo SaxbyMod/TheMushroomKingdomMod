@@ -1,0 +1,16 @@
+{
+	"name": "Lil_Brr",
+	"modPrefix": "Mushroom",
+	"displayedName": "Lil' Brrr.",
+	"baseAttack": 1,
+	"baseHealth": 2,
+	"bonesCost": 2,
+	"abilities": ["extraVoid.inscryption.voidSigils.Zapper","nevernamed.inscryption.sigils.Sturdy"],
+	"metaCategories": ["ChoiceNode","TraderOffer"],
+	"cardComplexity": "Simple",
+	"temple": "Nature",
+	"description": "The iced Lil' Brr. A single touch can freeze any prey in their tracks...",
+	"texture": "Lil' Brrr..png",
+	"emissionTexture": "Lil' Brrr._e.png",
+	"tribes": ["None"]
+}

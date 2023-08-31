@@ -1,0 +1,19 @@
+{
+	"name": "Eely_Mouth",
+	"modPrefix": "Mushroom",
+	"displayedName": "Eely-Mouth",
+	"baseAttack": 1,
+	"baseHealth": 8,
+	"bloodCost": 2,
+	"abilities": ["org.memez4life.inscryption.customsigils.Host","extraVoid.inscryption.voidSigils.Resistant","Evolve"],
+	"iceCubeName":"Mushroom_Tooth",
+	"evolveIntoName": "Mushroom_Eely_Mouth_Rotten",
+	"evolveTurns": 1,
+	"metaCategories": ["Rare"],
+	"appearanceBehaviour": ["RareCardBackground"],
+	"cardComplexity": "Intermediate",
+	"temple": "Nature",
+	"description": "The suffering Eely-Mouth. A grim reminder to take proper care of your teeth...",
+	"texture": "Eely-Mouth.png",
+	"emissionTexture": "Eely-Mouth_e.png"
+}

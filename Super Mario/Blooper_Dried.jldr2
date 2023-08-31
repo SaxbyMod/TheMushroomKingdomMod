@@ -1,0 +1,18 @@
+{
+	"name": "Blooper_Dry",
+	"modPrefix": "Mushroom",
+	"displayedName": "Dry Blooper",
+	"baseAttack": 1,
+	"baseHealth": 1,
+	"bloodCost": 0,
+	"abilities": ["Submerge","Evolve"],
+	"evolveIntoName": "Mushroom_Blooper_Bubble",
+	"evolveTurns": 1,
+	"metaCategories": ["ChoiceNode","TraderOffer"],
+	"cardComplexity": "Advanced",
+	"temple": "Nature",
+	"description": "The crumpled Dry Blooper. You don't mind it submerging to get some water for a turn, do you?",
+	"texture": "Blooper_Dried.png",
+	"emissionTexture": "Blooper_Dried_e.png",
+	"tribes": ["None"]
+}

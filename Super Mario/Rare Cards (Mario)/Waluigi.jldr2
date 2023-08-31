@@ -1,0 +1,16 @@
+{
+	"name": "Mushroom_Waluigi",
+	"modPrefix": "Mushroom",
+	"displayedName": "Waluigi",
+	"baseAttack": 1,
+	"baseHealth": 3,
+	    "extensionProperties": {
+	           "MoneyCost": "3"
+	},
+	"abilities": ["org.memez4life.inscryption.customsigils.Right scratch","extraVoid.inscryption.voidSigils.Agile"],
+	"metaCategories": ["Rare"],
+	"cardComplexity": "Intermediate",
+	"temple": "Nature",
+	"description": "The sleezy Waluigi. His attack mirrors that of the symbol on his hat.",
+	"appearanceBehaviour": ["RareCardBackground"]
+}

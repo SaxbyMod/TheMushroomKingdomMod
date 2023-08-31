@@ -1,0 +1,17 @@
+{
+	"name": "Spark",
+	"modPrefix": "Mushroom",
+	"displayedName": "Spark",
+	"baseAttack": 3,
+	"baseHealth": 5,
+	"energyCost": 3,
+	"abilities": ["GainBattery","GainBattery","GainBattery"],
+	"metaCategories": ["ChoiceNode","TraderOffer"],
+	"cardComplexity": "Simple",
+	"temple": "Nature",
+	"description": "The Zappy Spark. The brighter adult of the Lil' Sparky...",
+	"texture": "Spark.png",
+	"emissionTexture": "Spark_e.png",
+	"tribes": ["None"],
+	"traits": ["KillsSurvivors"]
+}

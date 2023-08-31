@@ -1,0 +1,19 @@
+{
+	"name": "Whomp_King",
+	"modPrefix": "Mushroom",
+	"displayedName": "Whomp King",
+	"baseAttack": 6,
+	"baseHealth": 8,
+	"bloodCost": 3,
+	"abilities": ["Reach","org.memez4life.inscryption.customsigils.Launcher","MadeOfStone"],
+	"metaCategories": ["Rare"],
+	"cardComplexity": "Advanced",
+	"temple": "Nature",
+	"description": "The cruel Whomp King. Years of neglect have taught him that those who don't thank others for their deeds are enemies in themselves.",
+	"appearanceBehaviour": ["RareCardBackground"],
+	"texture": "Whomp King.png",
+	"emissionTexture": "Whomp King_e.png",
+	"tribes": ["tribes.libary.stone"],
+	"traits": ["KillsSurvivors"],
+	"iceCubeName": "Mushroom_Whimp"
+}

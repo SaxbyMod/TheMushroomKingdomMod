@@ -1,0 +1,16 @@
+{
+	"name": "Mushroom_Magmaargh",
+	"modPrefix": "Mushroom",
+	"displayedName": "Magmaargh",
+	"baseAttack": 2,
+	"baseHealth": 3,
+	"bloodCost": 2,
+	"abilities": ["Submerge","Deathtouch","extraVoid.inscryption.voidSigils.Submerged Ambush"],
+	"metaCategories": ["ChoiceNode","TraderOffer"],
+	"cardComplexity": "Intermediate",
+	"temple": "Nature",
+	"description": "The hot-headed Magmaargh. Known to ambush its prey in a river of fire and brimstone...",
+	"tribes": ["tribes.libary.pyro"],
+	"texture": "Magmaargh.png",
+	"emissionTexture": "Magmaargh_e.png"
+}

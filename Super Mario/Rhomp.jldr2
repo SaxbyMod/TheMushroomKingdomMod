@@ -1,0 +1,16 @@
+{
+	"name": "Rhomp",
+	"modPrefix": "Mushroom",
+	"displayedName": "Rhomp",
+	"baseAttack": 3,
+	"baseHealth": 4,
+	"energyCost": 5,
+	"abilities": ["Deathtouch","extraVoid.inscryption.voidSigils.Pierce","Brittle"],
+	"metaCategories": ["ChoiceNode","TraderOffer"],
+	"cardComplexity": "Simple",
+	"temple": "Nature",
+	"description": "The reckless Rhomp. As sooner the bell rings, the sooner it will roll away from the battle, crushing anything in it's path...",
+	"texture": "Rhomp.png",
+	"emissionTexture": "Rhomp_e.png",
+	"tribes": ["tribes.libary.stone"]
+}

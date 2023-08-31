@@ -1,0 +1,15 @@
+{
+	"name": "Slurple",
+	"modPrefix": "Mushroom",
+	"displayedName": "Slurple",
+	"baseAttack": 1,
+	"baseHealth": 3,
+	"energyCost": 2,
+	"metaCategories": ["ChoiceNode","TraderOffer"],
+	"cardComplexity": "Intermediate",
+	"temple": "Nature",
+	"abilities": ["extraVoid.inscryption.voidSigils.Leech","extraVoid.inscryption.voidSigils.Blood Growth"],
+	"description": "The hungry Slurple. Known to leap onto prey and leech blood out of their head...",
+	"texture": "Slurple.png",
+	"emissionTexture": "Slurple.png"
+}

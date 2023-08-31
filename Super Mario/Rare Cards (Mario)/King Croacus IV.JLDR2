@@ -1,0 +1,16 @@
+{
+	"name": "Croacus",
+	"modPrefix": "Mushroom",
+	"displayedName": "King Croacus IV",
+	"baseAttack": 2,
+	"baseHealth": 5,
+	"bloodCost": 3,
+	"abilities": ["org.memez4life.inscryption.customsigils.Launcher","extraVoid.inscryption.voidSigils.Fish Hook"],
+	"metaCategories": ["Rare"],
+	"appearanceBehaviour": ["RareCardBackground"],
+	"cardComplexity": "Intermediate",
+	"temple": "Nature",
+	"description": "The beautiful King Croacus. Known to brainwash whoever does him wrong...",
+	"texture": "King Croacus.png",
+	"emissionTexture": "King Croacus_e.png"
+}

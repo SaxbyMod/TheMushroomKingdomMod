@@ -1,0 +1,15 @@
+{
+	"name": "Mushroom_Groonda",
+	"modPrefix": "Mushroom",
+	"displayedName": "Groonda",
+	"baseAttack": 1,
+	"baseHealth": 3,
+	"bloodCost": 2,
+	"abilities": ["Sharp"],
+	"metaCategories": ["ChoiceNode","TraderOffer"],
+	"cardComplexity": "Intermediate",
+	"temple": "Nature",
+	"description": "This one brings back... memories. I'm not sure why though...",
+	"texture": "Groonda.png",
+	"emissionTexture": "Groonda_e.png"
+}

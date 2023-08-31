@@ -1,0 +1,16 @@
+{
+	"name": "Dr_Shroob",
+	"modPrefix": "Mushroom",
+	"displayedName": "Dr. Shroob",
+	"baseAttack": 1,
+	"baseHealth": 3,
+	"energyCost": 4,
+	"abilities": ["extraVoid.inscryption.voidSigils.Medic","extraVoid.inscryption.voidSigils.Toxin (Sickening)"],
+	"metaCategories": ["ChoiceNode","TraderOffer"],
+	"cardComplexity": "Simple",
+	"temple": "Nature",
+	"description": "The diabolical Dr. Shroob. It believes that the healing is not as rewarding as the hurting...",
+	"texture": "Dr Shroob.png",
+	"emissionTexture": "Dr Shroob_e.png",
+	"tribes": ["tribes.libary.shroob"]
+}

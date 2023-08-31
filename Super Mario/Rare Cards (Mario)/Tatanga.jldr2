@@ -1,0 +1,17 @@
+{
+	"name": "Mushroom_Tatanga",
+	"modPrefix": "Mushroom",
+	"displayedName": "Tatanga",
+	"baseAttack": 1,
+	"baseHealth": 2,
+	"bloodCost": 1,
+	"energyCost": 2,
+	"abilities": ["Sniper","SplitStrike"],
+	"metaCategories": ["Rare"],
+	"cardComplexity": "Intermediate",
+	"temple": "Nature",
+	"description": "The dastardly Tatanga. He pilots a machine capable of blasting down airplanes and beasts alike...",
+	"appearanceBehaviour": ["RareCardBackground"],
+	"texture": "Tatanga.png",
+	"emissionTexture": "Tatanga_e.png"
+}

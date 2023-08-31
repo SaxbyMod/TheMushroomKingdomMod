@@ -1,0 +1,16 @@
+{
+	"name": "Wind_Duppy",
+	"modPrefix": "Mushroom",
+	"displayedName": "Wind Duppy",
+	"baseAttack": 2,
+	"baseHealth": 3,
+	"bloodCost": 1,
+	"abilities": ["Flying","org.memez4life.inscryption.customsigils.Warper"],
+	"cardComplexity": "Advanced",
+	"temple": "Nature",
+	"metaCategories": ["ChoiceNode","TraderOffer"],
+	"description": "The tenacious Wind Duppy. Known to soar the skies and blow away anyone who dares its domain.",
+	"texture": "Wind Duppy.png",
+	"emissionTexture": "Wind Duppy_e.png",
+	"tribes": ["None"]
+}

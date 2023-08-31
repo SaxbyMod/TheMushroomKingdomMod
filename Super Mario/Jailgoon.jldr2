@@ -1,0 +1,17 @@
+{
+	"name": "Jailgoon_Goomba",
+	"modPrefix": "Mushroom",
+	"displayedName": "Jailgoon",
+	"baseAttack": 2,
+	"baseHealth": 4,
+	"energyCost": 5,
+	"abilities": ["IceCube","nevernamed.inscryption.sigils.Snare"],
+	"metaCategories": ["ChoiceNode","TraderOffer"],
+	"cardComplexity": "Simple",
+	"temple": "Nature",
+	"description": "The watchful Jailgoon. Such a poor soul trapped inside. Can you find a way to free it?",
+	"texture": "Jailgoon.png",
+	"emissionTexture": "Jailgoon_e.png",
+	"tribes": ["None"],
+	"iceCubeName": "Mushroom_Goomba"
+}

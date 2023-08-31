@@ -1,0 +1,15 @@
+{
+	"name": "RC_Bomb",
+	"modPrefix": "Mushroom",
+	"displayedName": "RC Bomb",
+	"baseAttack": 2,
+	"baseHealth": 2,
+	"energyCost": 2,
+	"abilities": ["GuardDog","ExplodeOnDeath"],
+	"cardComplexity": "Simple",
+	"temple": "Nature",
+	"description": "A Shroober's R.C. Bomb. You better hope it has autopilot...",
+	"texture": "RC Bomb.png",
+	"emissionTexture": "RC Bomb_e.png",
+	"tribes": ["None"]
+}

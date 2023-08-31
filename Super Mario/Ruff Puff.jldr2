@@ -1,0 +1,16 @@
+{
+	"name": "Ruff_Puff",
+	"modPrefix": "Mushroom",
+	"displayedName": "Ruff Puff",
+	"baseAttack": 2,
+	"baseHealth": 3,
+	"bloodCost": 2,
+	"abilities": ["extraVoid.inscryption.voidSigils.Familiar"],
+	"metaCategories": ["ChoiceNode","TraderOffer"],
+	"cardComplexity": "Intermediate",
+	"temple": "Nature",
+	"tribes": ["None"],
+	"description": "The cloudy Ruff Puff. These things are willing to help their leader attack whatever may threaten them.",
+	"texture": "Ruff Puff.png",
+	"emissionTexture": "Ruff Puff_e.png"
+}

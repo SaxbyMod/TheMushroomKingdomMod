@@ -1,0 +1,16 @@
+{
+	"name": "Doopliss",
+	"modPrefix": "Mushroom",
+	"displayedName": "Doopliss",
+	"baseAttack": 1,
+	"baseHealth": 3,
+	"bonesCost": 5,
+	"abilities": ["nevernamed.inscryption.sigils.Copier"],
+	"metaCategories": ["Rare"],
+	"appearanceBehaviour": ["RareCardBackground"],
+	"cardComplexity": "Intermediate",
+	"temple": "Nature",
+	"description": "The devious Doopliss. Fools tend to believe they bested him, when in reality, he's already taken their shape...",
+	"texture": "Doopliss.png",
+	"emissionTexture": "Doopliss_e.png"
+}

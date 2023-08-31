@@ -1,0 +1,18 @@
+{
+	"name": "Fawful",
+	"modPrefix": "Mushroom",
+	"displayedName": "Fawful",
+	"baseAttack": 2,
+	"baseHealth": 2,
+	"bloodCost": 1,
+	"abilities": ["BuffNeighbours","BuffEnemy"],
+	"metaCategories": ["Rare"],
+	"cardComplexity": "Advanced",
+	"temple": "Nature",
+	"description": "The furious Fawful. His gaze can either entrance allies, or anger enemies...",
+	"texture": "Fawful.png",
+	"emissionTexture": "Fawful_e.png",
+	"appearanceBehaviour": ["RareCardBackground"],
+	"extensionProperties": { 
+	"MycoMerger": "Mushroom_Dark_Star:Mushroom_Dark_Star_Core"}
+}

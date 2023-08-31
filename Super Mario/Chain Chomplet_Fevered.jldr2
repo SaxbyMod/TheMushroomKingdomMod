@@ -1,0 +1,17 @@
+{
+	"name": "Chain Chomplet_Fevered",
+	"modPrefix": "Mushroom",
+	"displayedName": "Fevered Chain Chomplet",
+	"baseAttack": 2,
+	"baseHealth": 3,
+	"bloodCost": 1,
+	"bonesCost": 3,
+	"abilities": ["extraVoid.inscryption.voidSigils.Burning"],
+	"cardComplexity": "Advanced",
+	"temple": "Nature",
+	"metaCategories": ["ChoiceNode","TraderOffer"],
+	"description": "The fevered Chain Chomplet. It's passion for battle burns bright, but letting fire run loose never ends well...",
+	"texture": "Chain Chomplet_Fevered.png",
+	"emissionTexture": "Chain Chomplet_Fevered_e.png",
+	"tribes": ["Canine"]
+}

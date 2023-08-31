@@ -1,0 +1,15 @@
+{
+	"name": "Dry_Bowser",
+	"modPrefix": "Mushroom",
+	"displayedName": "Dry Bowser",
+	"baseAttack": 2,
+	"baseHealth": 3,
+	"bonesCost": 4,
+	"energyCost": 0,
+	"abilities": ["org.memez4life.inscryption.customsigils.Bone lord 6","extraVoid.inscryption.voidSigils.Resistant"],
+	"cardComplexity": "Intermediate",
+	"temple": "Nature",
+	"description": "The shattered Dry Bowser. A revived skeleton? I can't help but feel that an old friend is behind why the koopa king still lives...",
+	"appearanceBehaviour": ["RareCardBackground"],
+	"tribes": ["Reptile",tribes.libary.mreptile", "tribes.library.koopa","tribes.library.noble"]
+}

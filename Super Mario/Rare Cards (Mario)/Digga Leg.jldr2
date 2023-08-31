@@ -1,0 +1,17 @@
+{
+	"name": "Digga_Leg",
+	"modPrefix": "Mushroom",
+	"displayedName": "Digga Leg",
+	"baseAttack": 4,
+	"baseHealth": 3,
+	"energyCost": 5,
+	"abilities": ["org.memez4life.inscryption.customsigils.Spawner"],
+	"metaCategories": ["Rare"],
+	"cardComplexity": "Intermediate",
+	"temple": "Nature",
+	"description": "The grounded Digga-Leg. The Man-Made Monster of Spin-Dig Galaxy...",
+	"appearanceBehaviour": ["RareCardBackground"],
+	"texture": "Digga Leg.png",
+	"emissionTexture": "Digga Leg_e.png",
+	"iceCubeName": "Mushroom_Digga"
+}

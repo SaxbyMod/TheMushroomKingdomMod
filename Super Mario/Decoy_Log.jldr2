@@ -1,0 +1,13 @@
+{
+	"name": "Decoy_Log",
+	"modPrefix": "Mushroom",
+	"displayedName": "Decoy Log",
+	"baseHealth": 3,
+	"cardComplexity": "Intermediate",
+	"temple": "Nature",
+	"description": "A decoy! The Ninji must of went elsewhere...",
+	"appearanceBehaviour": ["TerrainBackground"],
+	"texture": "Decoy Log.png",
+	"emissionTexture": "Decoy Log_e.png",
+	"traits": ["Terrain"]
+}

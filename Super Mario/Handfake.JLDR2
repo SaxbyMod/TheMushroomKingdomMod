@@ -1,0 +1,15 @@
+{
+	"name": "Handfake",
+	"modPrefix": "Mushroom",
+	"displayedName": "Handfake",
+	"baseAttack": 1,
+	"baseHealth": 2,
+	"bonesCost": 2,
+	"abilities": ["RandomAbility"],
+	"metaCategories": ["ChoiceNode","TraderOffer"],
+	"cardComplexity": "Intermediate",
+	"temple": "Nature",
+	"description": "The showoff Handfake. Like its sign, its sigils are ever changing...",
+	"texture": "Handfake.png",
+	"emissionTexture": "Handfake_e.png"
+}

@@ -1,0 +1,17 @@
+{
+	"name": "Chan",
+	"modPrefix": "Mushroom",
+	"displayedName": "Chan",
+	"baseAttack": 3,
+	"baseHealth": 5,
+	"bloodCost": 3,
+	"abilities": ["extraVoid.inscryption.voidSigils.Resistant"],
+	"metaCategories": ["Rare"],
+	"cardComplexity": "Intermediate",
+	"appearanceBehaviour": ["RareCardBackground"],
+	"temple": "Nature",
+	"tribes": ["Reptile"],
+	"description": "The hardened student, Chan. His shell has only gotten tougher through the Master's training...",
+	"texture": "Chan.png",
+	"emissionTexture": "Chan_e.png"
+}

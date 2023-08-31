@@ -1,0 +1,19 @@
+{
+	"name": "Mushroom_Ninji",
+	"modPrefix": "Mushroom",
+	"displayedName": "Ninji",
+	"baseAttack": 2,
+	"baseHealth": 3,
+	"bloodCost": 1,
+	"abilities": ["RandomAbility","extraVoid.inscryption.voidSigils.Ambush"],
+	"metaCategories": ["Rare"],
+	"cardComplexity": "Intermediate",
+	"temple": "Nature",
+	"description": "The unpredictable Ninji. one can never know what tatics it'll use in battle by looks alone.",
+	"appearanceBehaviour": ["RareCardBackground"],
+	"texture": "Ninji.png",
+	"emissionTexture": "Ninji_e.png",
+	"tailName": "Mushroom_Decoy_Log",
+	"tailLostPortrait": "Ninji.png",
+	"iceCubeName": "Mushroom_Ninji"
+}

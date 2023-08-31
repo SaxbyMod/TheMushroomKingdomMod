@@ -1,0 +1,16 @@
+{
+	"name": "Swoop_Attacking",
+	"modPrefix": "Mushroom",
+	"displayedName": "Swoop",
+	"baseAttack": 2,
+	"baseHealth": 5,
+	"extensionProperties": {
+	       "LifeCost": "1"
+	},
+	"abilities": ["extraVoid.inscryption.voidSigils.Take-Off (Bones)","extraVoid.inscryption.voidSigils.BloodGuzzler"],
+	"cardComplexity": "Intermediate",
+	"temple": "Nature",
+	"description": "The vamperic Swoop. Disturb it's slumber at your own risk...",
+	"texture": "Swoop_Attacking.png",
+	"emissionTexture": "Swoop_Attacking_e.png"
+}

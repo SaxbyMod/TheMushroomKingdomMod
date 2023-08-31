@@ -1,0 +1,16 @@
+{
+	"name": "Charging_Chuck",
+	"modPrefix": "Mushroom",
+	"displayedName": "Charging Chuck",
+	"baseAttack": 2,
+	"baseHealth": 4,
+	"bloodCost": 2,
+	"abilities": ["org.memez4life.inscryption.customsigils.Charge","extraVoid.inscryption.voidSigils.Thick Shell"],
+	"metaCategories": ["ChoiceNode","TraderOffer"],
+	"cardComplexity": "Intermediate",
+	"temple": "Nature",
+	"description": "The determined Charging Chuck. Give it a target, and it'll tackle them to the ground.",
+	"texture": "Charging Chuck.png",
+	"emissionTexture": "Charging Chuck_e.png",
+	"tribes": ["Reptile"]
+}

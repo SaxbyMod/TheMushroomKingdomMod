@@ -1,0 +1,16 @@
+{
+	"name": "Mushroom_Waddlewing",
+	"modPrefix": "Mushroom",
+	"displayedName": "Waddlewing",
+	"baseAttack": 1,
+	"baseHealth": 2,
+	"bloodCost": 1,
+	"abilities": ["Reach"],
+	"metaCategories": ["ChoiceNode","TraderOffer"],
+	"cardComplexity": "Intermediate",
+	"temple": "Nature",
+	"description": "The flighty Waddlewing. A Squirrel that has worked up the courage to strike foes. It's almost poetic...",
+	"texture": "Waddlewing.png",
+	"emissionTexture": "Waddlewing_e.png",
+	"tribes": ["Squirrel"]
+}

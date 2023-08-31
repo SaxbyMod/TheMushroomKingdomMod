@@ -1,0 +1,17 @@
+{
+	"name": "Megahammer_Cockpit",
+	"modPrefix": "Mushroom",
+	"displayedName": "Megahammer Cockpit",
+	"baseAttack": 0,
+	"baseHealth": 8,
+	"energyCost": 6,
+	"abilities": ["ConduitNull","BuffNeighbours","BuffNeighbours","TriStrike","Sniper","extraVoid.inscryption.voidSigils.Draw Card","ExplodeOnDeath"],
+	"metaCategories": ["Rare"],
+	"appearanceBehaviour": ["RareCardBackground"],
+	"cardComplexity": "Intermediate",
+	"temple": "Nature",
+	"description": "One of Bowser Jr's killer inventions. Make sure to build it correctly for max power: cockpit in the center.",
+	"texture": "Megahammer Cockpit.png",
+	"emissionTexture": "Megahammer Cockpit_e.png",
+	"iceCubeName": "Mushroom_Megahammer_Left_Hammer"
+}

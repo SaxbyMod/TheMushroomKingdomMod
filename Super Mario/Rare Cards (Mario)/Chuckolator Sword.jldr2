@@ -1,0 +1,19 @@
+{
+	"name": "Chuckolator_Sword",
+	"modPrefix": "Mushroom",
+	"displayedName": "Chuckolator",
+	"baseAttack": 2,
+	"baseHealth": 5,
+	"bloodCost": 2,
+	"abilities": ["Evolve","extraVoid.inscryption.voidSigils.Thick Shell","extraVoid.inscryption.voidSigils.Multi-Strike"],
+	"metaCategories": ["Rare"],
+	"cardComplexity": "Advanced",
+	"temple": "Nature",
+	"description": "The liquid gaurdian, Chuckolator. It's weapon of choice is ever-changing.",
+	"appearanceBehaviour": ["RareCardBackground"],
+	"texture": "Chuckolator (Sword).png",
+	"emissionTexture": "Chuckolator_e.png",
+	"tribes": ["None"],
+	"evolveIntoName": "Mushroom_Chuckolator_Rifle",
+	"evolveTurns": 1
+}

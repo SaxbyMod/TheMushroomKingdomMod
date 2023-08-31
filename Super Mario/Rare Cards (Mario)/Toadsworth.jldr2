@@ -1,0 +1,17 @@
+{
+	"name": "Toadsworth",
+	"modPrefix": "Mushroom",
+	"displayedName": "Toadsworth",
+	"baseAttack": 2,
+	"baseHealth": 3,
+	"bloodCost": 1,
+	"abilities": ["extraVoid.inscryption.voidSigils.Medic","BuffNeighbours"],
+	"metaCategories": ["Rare"],
+	"cardComplexity": "Advanced",
+	"temple": "Nature",
+	"tribes": ["tribes.libary.fungus","tribes.libary.human"],
+	"description": "The Elder Toadsworth. A Wise, old mushroom who knows his way around the Mushroom Kingdom...",
+	"texture": "Toadsworth.png",
+	"emissionTexture": "Toadsworth_e.png",
+	"appearanceBehaviour": ["RareCardBackground"]
+}

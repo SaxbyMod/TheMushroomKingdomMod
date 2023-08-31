@@ -1,0 +1,17 @@
+{
+	"name": "Mushroom_Hotfoot",
+	"modPrefix": "Mushroom",
+	"displayedName": "Hotfoot",
+	"baseAttack": 1,
+	"baseHealth": 4,
+	"bonesCost": 2,
+	"energyCost": 0,
+	"abilities": ["Sharp","extraVoid.inscryption.voidSigils.Burning"],
+	"metaCategories": ["ChoiceNode","TraderOffer"],
+	"cardComplexity": "Intermediate",
+	"temple": "Nature",
+	"description": "The burning Hotfoot. It's fire body lets it burn foes. Doesn't mean it's immune, though.",
+	"appearanceBehaviour": ["RareCardBackground"],
+	"texture": "Hotfoot.png",
+	"emissionTexture": "Hotfoot_e.png"
+}

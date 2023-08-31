@@ -1,0 +1,18 @@
+{
+	"name": "Pikmin",
+	"modPrefix": "Mushroom",
+	"displayedName": "Pikmin",
+	"baseHealth": 3,
+	"bloodCost": 1,
+	"abilities": ["extraVoid.inscryption.voidSigils.Herd"],
+	"specialAbilities": ["Ant"],
+	"specialStatIcon": "Ants",
+	"cardComplexity": "Simple",
+	"temple": "Nature",
+	"description": "The pikmin are a amry like race, using power in numbers to defeat their enemies.",
+	"texture": "Pikmin.png",
+	"emissionTexture": "Pikmin_e.png",
+	"appearanceBehaviour": ["RareCardBackground"],
+	"tribes": ["Insect"],
+	"traits": ["Ant"]
+}

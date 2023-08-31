@@ -1,0 +1,17 @@
+{
+	"name": "Lord_of_Lightning",
+	"modPrefix": "Mushroom",
+	"displayedName": "Lord of Lightning",
+	"baseAttack": 2,
+	"baseHealth": 5,
+	"bloodCost": 2,
+	"abilities": ["TriStrike","extraVoid.inscryption.voidSigils.Zapper"],
+	"metaCategories": ["Rare"],
+	"cardComplexity": "Intermediate",
+	"temple": "Nature",
+	"description": "The draconic Lord of Lightning. Its lightning breath will enure paralysis befalls transgressors...",
+	"appearanceBehaviour": ["RareCardBackground"],
+	"texture": "Lord of Lightning.png",
+	"emissionTexture": "Lord of Lightning_e.png",
+	"tribes": ["Reptile"]
+}

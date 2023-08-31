@@ -1,0 +1,13 @@
+{
+	"name": "Zombie_Goomba",
+	"modPrefix": "Mushroom",
+	"displayedName": "Zombie Goomba",
+	"baseAttack": 2,
+	"baseHealth": 2,
+	"bonesCost": 2,
+	"tribes": ["tribes.libary.zombie","tribes.libary.goomba"],
+	"metaCategories": ["ChoiceNode","TraderOffer"],
+	"description": "An undead Goomba? It would seem Grimora has taken an interest in the Mushroom Kingdom, after all...",
+	"texture": "Zombie Goomba.png",
+	"emissionTexture": "Zombie Goomba_e.png"
+}

@@ -1,0 +1,17 @@
+{
+	"name": "Lakitufo",
+	"modPrefix": "Mushroom",
+	"displayedName": "Lakitufo",
+	"baseAttack": 3,
+	"baseHealth": 5,
+	"energyCost": 2,
+	"abilities": ["org.memez4life.inscryption.customsigils.Launcher","Flying"],
+	"metaCategories": ["ChoiceNode","TraderOffer"],
+	"cardComplexity": "Advanced",
+	"temple": "Nature",
+	"description": "The unidentified Lakitufo. I fear what became of it's cloud, as well as what horrors lie within that craft...",
+	"texture": "Lakitufo.png",
+	"emissionTexture": "Lakitufo_e.png",
+	"tribes": ["Reptile"],
+	"iceCubeName": "Mushroom_Spiny_Egg_Shroopa"
+}

@@ -1,0 +1,15 @@
+{
+	"name": "Mushroom_Octoguy",
+	"modPrefix": "Mushroom",
+	"displayedName": "Octoguy",
+	"baseAttack": 2,
+	"baseHealth": 2,
+	"energyCost": 5,
+	"abilities": ["Sniper","extraVoid.inscryption.voidSigils.Ambush"],
+	"metaCategories": ["ChoiceNode","TraderOffer"],
+	"cardComplexity": "Intermediate",
+	"temple": "Nature",
+	"description": "The alert Octoguy. Easily spooked, it'll attack anything that dares approach it.",
+	"texture": "Octoguy.png",
+	"emissionTexture": "Octoguy_e.png"
+}

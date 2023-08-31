@@ -1,0 +1,17 @@
+{
+	"name": "Jam_o_War",
+	"modPrefix": "Mushroom",
+	"displayedName": "Jam-o'-War",
+	"baseAttack": 0,
+	"baseHealth": 7,
+	"bloodCost": 2,
+	"energyCost": 4,
+	"abilities": ["extraVoid.inscryption.voidSigils.Electric","extraVoid.inscryption.voidSigils.Zapper","Sharp","Sharp"],
+	"metaCategories": ["ChoiceNode","TraderOffer","Rare"],
+	"cardComplexity": "Simple",
+	"temple": "Nature",
+	"description": "The ignorant Jam-o'-War. Those who touch it suffer a great shock, unnoticed by the jelly behemoth...",
+	"texture": "Jam-o'-War.png",
+	"emissionTexture": "Jam-o'-War_e.png",
+	"appearanceBehaviour": ["RareCardBackground"]
+}

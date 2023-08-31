@@ -1,0 +1,18 @@
+{
+	"name": "DEF_Pep",
+	"modPrefix": "Mushroom",
+	"displayedName": "DEF Pep",
+	"baseAttack": 0,
+	"baseHealth": 5,
+	"energyCost": 3,
+	"abilities": ["Evolve","extraVoid.inscryption.voidSigils.Bodyguard","DeathShield"],
+	"metaCategories": ["ChoiceNode","TraderOffer"],
+	"evolveIntoName": "Mushroom_SPEED_Pep",
+	"evolveTurns": 2,
+	"cardComplexity": "Simple",
+	"temple": "Nature",
+	"description": "The adaptive DEF Pep. Able to endlessly evolve to meet its needs...",
+	"texture": "DEF Pep.png",
+	"emissionTexture": "DEF Pep_e.png",
+	"tribes": ["None"]
+}

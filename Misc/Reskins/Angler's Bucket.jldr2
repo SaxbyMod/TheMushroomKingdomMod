@@ -1,0 +1,19 @@
+{
+  "name": "BaitBucket",
+  "modPrefix": "Mushroom",
+  "displayedName": "Abandoned Bucket",
+  "description": "Peculiar where did this come from?",
+  "metaCategories": [
+    "Rare"
+  ],
+  "iceCubeName": "Mushroom_Shark"
+  "bonesCost": 2,
+  "abilities": [
+    "IceCube"
+  ]
+  "tribes": [
+    "tribes.libary.itembox"
+  ],
+  "texture": "Wario's Bucket.png",
+  "emissionTexture": "Wario's Bucket_e.png"
+}

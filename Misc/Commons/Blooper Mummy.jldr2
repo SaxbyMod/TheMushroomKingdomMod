@@ -1,0 +1,14 @@
+{
+	"name": "Blooper_Mummy",
+	"modPrefix": "Mushroom",
+	"displayedName": "Blooper Mummy",
+	"baseAttack": 2,
+	"baseHealth": 2,
+	"bonesCost": 4,
+	"metaCategories": ["ChoiceNode","TraderOffer"],
+	"cardComplexity": "Intermediate",
+	"temple": "Nature",
+	"description": "The wrapped Blooper Mummy. It would not be wise to mistake it for fresh sushi. Who knows how long it's been dead for...",
+	"texture": "Blooper Mummy.png",
+	"emissionTexture": "Blooper Mummy_e.png"
+}

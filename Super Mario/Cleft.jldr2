@@ -1,0 +1,15 @@
+{
+	"name": "Cleft",
+	"modPrefix": "Mushroom",
+	"displayedName": "Cleft",
+	"baseAttack": 1,
+	"baseHealth": 6,
+	"bloodCost": 2,
+	"abilities": ["Sharp","extraVoid.inscryption.voidSigils.Resistant"],
+	"metaCategories": ["ChoiceNode","TraderOffer"],
+	"cardComplexity": "Intermediate",
+	"temple": "Nature",
+	"description": "The rocky Cleft. It's spikes and stone structure make it a true defender of its land.",
+	"texture": "Cleft.png",
+	"emissionTexture": "Cleft_e.png"
+}

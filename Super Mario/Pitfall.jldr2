@@ -1,0 +1,13 @@
+{
+	"name": "Mushroom_Pitfall",
+	"modPrefix": "Mushroom",
+	"displayedName": "Pitfall",
+	"baseHealth": 1,
+	"abilities": ["Deathtouch","Sharp"],
+	"cardComplexity": "Intermediate",
+	"temple": "Nature",
+	"description": "Who left that Pitfall there?",
+	"texture": "Pitfall.png",
+	"traits": ["Terrain"],
+	"appearanceBehaviour": ["TerrainLayout","TerrainBackground"]
+}

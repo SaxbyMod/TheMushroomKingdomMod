@@ -1,0 +1,16 @@
+{
+	"name": "Snailicorn",
+	"modPrefix": "Mushroom",
+	"displayedName": "Snailicorn",
+	"baseAttack": 2,
+	"baseHealth": 3,
+	"bloodCost": 2,
+	"abilities": ["extraVoid.inscryption.voidSigils.Pierce","extraVoid.inscryption.voidSigils.Thick Shell"],
+	"metaCategories": ["ChoiceNode","TraderOffer"],
+	"cardComplexity": "Intermediate",
+	"temple": "Nature",
+	"tribes": ["Insect"],
+	"description": "The oddball Snailicorn. It's weird anatomy gives it edge on unsuspecting prey...",
+	"texture": "Snailicorn.png",
+	"emissionTexture": "Snailicorn_e.png"
+}

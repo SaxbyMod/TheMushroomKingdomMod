@@ -1,0 +1,14 @@
+{
+	"name": "Boomerang_Flower",
+	"modPrefix": "Mushroom",
+	"displayedName": "Boomerang Flower",
+	"baseAttack": 0,
+	"baseHealth": 2,
+	"abilities": ["DoubleStrike"],
+	"metaCategories": ["ChoiceNode","TraderOffer"],
+	"cardComplexity": "Intermediate",
+	"temple": "Nature",
+	"description": "The reliable Boomerang Flower. Those who fail to look behind after an attack will",
+	"texture": "Boomerang Flower.png",
+	"emissionTexture": "Boomerang Flower_e.png"
+}

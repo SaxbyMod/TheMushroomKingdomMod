@@ -1,0 +1,16 @@
+{
+	"name": "Geno",
+	"modPrefix": "Mushroom",
+	"displayedName": "Geno",
+	"baseAttack": 2,
+	"baseHealth": 5,
+	"energyCost": 4,
+	"abilities": ["Tutor","Tutor","BuffNeighbours"],
+	"metaCategories": ["Rare"],
+	"cardComplexity": "Intermediate",
+	"temple": "Nature",
+	"description": "The wishful Geno. Inhabiting a doll, this star brings forth a wish along with it's power...",
+	"texture": "Geno.png",
+	"emissionTexture": "Geno_e.png",
+	"appearanceBehaviour": ["RareCardBackground"]
+}

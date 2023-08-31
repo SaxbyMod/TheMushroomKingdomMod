@@ -1,0 +1,17 @@
+{
+	"name": "Mushroom_Koopa",
+	"modPrefix": "Mushroom",
+	"displayedName": "Koopa Troopa",
+	"baseAttack": 2,
+	"baseHealth": 4,
+	"bloodCost": 1,
+	"abilities": ["extraVoid.inscryption.voidSigils.Thick Shell"],
+	"metaCategories": ["ChoiceNode","TraderOffer"],
+	"cardComplexity": "Intermediate",
+	"temple": "Nature",
+	"description": "The bumbling Koopa Troopa. These turtles make up most of Bowser's army, fittingly named, the Koopa Troop.",
+	"texture": "Koopa.png",
+	"emissionTexture": "Koopa_e.png",
+	"tribes": ["Reptile"],
+	"pixelTexture": "Koopa Act 2.png"
+}

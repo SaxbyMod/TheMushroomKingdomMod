@@ -1,0 +1,14 @@
+{
+	"name": "Tanuki_Lord",
+	"modPrefix": "Mushroom",
+	"displayedName": "Tanuki Lord",
+	"baseAttack": 2,
+	"baseHealth": 1,
+	"bloodCost": 2,
+	"tribes": ["tribes.libary.rodent"],
+	"metaCategories": ["Rare"],
+	"abilities": ["nevernamed.inscryption.sigils.Unlucky"],
+	"description": "Alas, poor Woodrow. His poetry seems to only bring misfortune and misery...",
+	"texture": "Tanooki Lord.png",
+	"emissionTexture": "Tanooki Lord_e.png"
+}

@@ -1,0 +1,16 @@
+{
+	"name": "Mushroom_Spiketop",
+	"modPrefix": "Mushroom",
+	"displayedName": "Spiketop",
+	"baseAttack": 2,
+	"baseHealth": 4,
+	"bloodCost": 2,
+	"abilities": ["Sharp","extraVoid.inscryption.voidSigils.Thick Shell"],
+	"metaCategories": ["ChoiceNode","TraderOffer"],
+	"cardComplexity": "Intermediate",
+	"temple": "Nature",
+	"description": "The aggressive Spiketop. The perfect blend of the buzzy beetle's strength and the spiny's power...",
+	"texture": "Spiketop.png",
+	"emissionTexture": "Spiketop_e.png",
+	"tribes": ["Reptile"]
+}

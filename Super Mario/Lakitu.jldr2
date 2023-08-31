@@ -1,0 +1,17 @@
+{
+	"name": "Mushroom_Lakitu",
+	"modPrefix": "Mushroom",
+	"displayedName": "Lakitu",
+	"baseAttack": 2,
+	"baseHealth": 4,
+	"bloodCost": 2,
+	"abilities": ["org.memez4life.inscryption.customsigils.Launcher"],
+	"metaCategories": ["ChoiceNode","TraderOffer"],
+	"cardComplexity": "Advanced",
+	"temple": "Nature",
+	"description": "The intelligent Lakitu. Known to throw the eggs of spinies to hatch and fight for him...",
+	"texture": "Lakitu.png",
+	"emissionTexture": "Lakitu_e.png",
+	"tribes": ["Reptile"],
+	"iceCubeName": "Mushroom_Spiny_Egg"
+}

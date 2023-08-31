@@ -1,0 +1,16 @@
+{
+	"name": "Coin_Coffer",
+	"modPrefix": "Mushroom",
+	"displayedName": "Coin Coffer",
+	"baseAttack": 0,
+	"baseHealth": 2,
+	"bloodCost": 1,
+	"abilities": ["extraVoid.inscryption.voidSigils.Pathetic Sacrifice","Strafe","extraVoid.inscryption.voidSigils.Abundance","extraVoid.inscryption.voidSigils.Abundance","extraVoid.inscryption.voidSigils.Abundance","extraVoid.inscryption.voidSigils.Abundance","extraVoid.inscryption.voidSigils.Abundance","extraVoid.inscryption.voidSigils.Abundance"],
+	"metaCategories": ["ChoiceNode","TraderOffer"],
+	"cardComplexity": "Intermediate",
+	"temple": "Nature",
+	"description": "The greedy Coin Coffer. It would rather run away with coins lining it's maw than fight...",
+	"texture": "Coin Coffer.png",
+	"emissionTexture": "Coin Coffer_e.png",
+	"pixelTexture": "Coin Coffer Act 2.png"
+}

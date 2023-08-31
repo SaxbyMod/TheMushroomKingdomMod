@@ -1,0 +1,18 @@
+{
+	"name": "Mushroom_Virus",
+	"modPrefix": "Mushroom",
+	"displayedName": "Virus",
+	"baseAttack": 3,
+	"baseHealth": 3,
+	"bloodCost": 2,
+	"abilities": ["extraVoid.inscryption.voidSigils.Toxin","org.memez4life.inscryption.customsigils.Short"],
+	"metaCategories": ["Rare"],
+	"cardComplexity": "Advanced",
+	"temple": "Nature",
+	"description": "The Chill, Fever, and weird viruses. they make their foes regret not taking those multi-colored pills.",
+	"texture": "Viruses.png",
+	"emissionTexture": "Viruses_e.png",
+	"appearanceBehaviour": ["RareCardBackground"],
+	"tribes": ["None"],
+	"traits": ["KillsSurvivors"]
+}

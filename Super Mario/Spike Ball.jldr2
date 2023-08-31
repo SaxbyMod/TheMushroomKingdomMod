@@ -1,0 +1,13 @@
+{
+	"name": "Spike_Ball",
+	"modPrefix": "Mushroom",
+	"displayedName": "Spike Ball",
+	"baseHealth": 2,
+	"abilities": ["Sharp","extraVoid.inscryption.voidSigils.Velocity"],
+	"metaCategories": ["ChoiceNode","TraderOffer"],
+	"cardComplexity": "Intermediate",
+	"temple": "Nature",
+	"description": "A mere Spike Ball. Once it gets rolling, it's hard to stop...",
+	"texture": "Spike Ball.png",
+	"emissionTexture": "Spike Ball_e.png"
+}

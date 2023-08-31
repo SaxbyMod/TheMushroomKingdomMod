@@ -1,0 +1,27 @@
+{
+  "name": "1up_Mushroom",
+  "modPrefix": "Mushroom",
+  "displayedName": "1-Up Mushroom",
+  "description": "The miracle working 1-Up mushroom. This mushroom can give life to itself and fallen beasts, almost as if they can never die...",
+  "metaCategories": [
+    "Rare"
+  ],
+  "cardComplexity": "Intermediate",
+  "temple": "Nature",
+  "baseAttack": 0,
+  "baseHealth": 2,
+  "bloodCost": 1,
+  "tribes": [
+    "tribes.libary.power-up"
+  ],
+  "abilities": [
+    "nevernamed.inscryption.sigils.Immortal Coil",
+    "DrawCopyOnDeath"
+  ],
+  "iceCubeName": "Mushroom_Rotten_Mushroom",
+  "appearanceBehaviour": [
+    "RareCardBackground"
+  ],
+  "texture": "Super Mushroom.png",
+  "emissionTexture": "Super Mushroom_e.png"
+}

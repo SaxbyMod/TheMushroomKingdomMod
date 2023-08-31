@@ -1,0 +1,16 @@
+{
+	"name": "Biddybud",
+	"modPrefix": "Mushroom",
+	"displayedName": "Biddybud",
+	"baseAttack": 1,
+	"baseHealth": 2,
+	"bloodCost": 1,
+	"abilities": ["org.memez4life.inscryption.customsigils.Bond"],
+	"metaCategories": ["ChoiceNode","TraderOffer"],
+	"cardComplexity": "Intermediate",
+	"temple": "Nature",
+	"description": "The lonely Biddybud. Alone, it stands no chance, but in a group, there's a glimmer of potential...",
+	"texture": "Biddybud.png",
+	"emissionTexture": "Biddybud_e.png",
+	"tribes": ["Insect"]
+}

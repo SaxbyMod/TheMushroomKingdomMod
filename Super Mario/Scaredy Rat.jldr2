@@ -1,0 +1,15 @@
+{
+	"name": "Scaredy_Rat",
+	"modPrefix": "Mushroom",
+	"displayedName": "Scaredy Rat",
+	"baseAttack": 2,
+	"baseHealth": 4,
+	"bloodCost": 1,
+	"abilities": ["extraVoid.inscryption.voidSigils.Haste","org.memez4life.inscryption.customsigils.Fearful"],
+	"metaCategories": ["ChoiceNode","TraderOffer"],
+	"cardComplexity": "Intermediate",
+	"temple": "Nature",
+	"description": "The cowardly Scaredy Rat. This little mouse will strike fast and leave the field just as quick.",
+	"texture": "Scaredy Rat.png",
+	"emissionTexture": "Scaredy Rat_e.png"
+}

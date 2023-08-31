@@ -1,0 +1,16 @@
+{
+	"name": "Cackletta_Soul",
+	"modPrefix": "Mushroom",
+	"displayedName": "Cackletta Soul",
+	"baseAttack": 2,
+	"baseHealth": 4,
+	"bonesCost": 3,
+	"energyCost": 0,
+	"abilities": ["TriStrike","Deathtouch","extraVoid.inscryption.voidSigils.Possessor"],
+	"cardComplexity": "Intermediate",
+	"temple": "Nature",
+	"description": "The wicked soul of Cackletta. An evil scorceress whos soul persists after death, despite being frozen away...",
+	"appearanceBehaviour": ["RareCardBackground"],
+	"texture": "Cackletta Soul.png",
+	"emissionTexture": "Cackletta Soul_e.png"
+}

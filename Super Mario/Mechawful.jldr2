@@ -1,0 +1,16 @@
+{
+	"name": "Mechawful",
+	"modPrefix": "Mushroom",
+	"displayedName": "Mechawful",
+	"baseAttack": 2,
+	"baseHealth": 4,
+	"energyCost": 5,
+	"abilities": ["extraVoid.inscryption.voidSigils.Box","DoubleStrike"],
+	"metaCategories": ["ChoiceNode","TraderOffer"],
+	"cardComplexity": "Simple",
+	"temple": "Nature",
+	"description": "The mindless Mechawful. While it's head can safely escape a fight, the same cannot be said about it's body...",
+	"texture": "Mechawful.png",
+	"emissionTexture": "Mechawful_e.png",
+	"iceCubeName": "Mushroom_Mechawful_Head"
+}

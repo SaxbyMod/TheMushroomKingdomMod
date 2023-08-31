@@ -1,0 +1,16 @@
+{
+	"name": "Invisighoul",
+	"modPrefix": "Mushroom",
+	"displayedName": "Invisighoul",
+	"specialAbilities": ["Mirror"],
+	"baseHealth": 1,
+	"bonesCost": 3,
+	"metaCategories": ["ChoiceNode","TraderOffer"],
+	"abilities": ["nevernamed.inscryption.sigils.Immaterial"],
+	"cardComplexity": "Advanced",
+	"temple": "Nature",
+	"description": "The reflective Invisighoul. Only the mirror on the wall will tell you if it's even there at all...",
+	"texture": "Invisighoul.png",
+	"emissionTexture": "Invisighoul_e.png",
+	"tribes": ["tribes.libary.spirit"]
+}

@@ -1,0 +1,16 @@
+{
+	"name": "Fake_Peach",
+	"modPrefix": "Mushroom",
+	"displayedName": "Peach?",
+	"baseAttack": 1,
+	"baseHealth": 4,
+	"energyCost": 4,
+	"abilities": ["BuffNeighbours","Reach"],
+	"specialAbilities": ["TrapSpawner"],
+	"metaCategories": ["Rare"],
+	"cardComplexity": "Intermediate",
+	"temple": "Nature",
+	"description": "The lovely princess pea-. Something's not right...",
+	"texture": "Fake Peach.png",
+	"emissionTexture": "Fake Peach_e.png"
+}

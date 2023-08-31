@@ -1,0 +1,18 @@
+{
+	"name": "Ghoul_Guy",
+	"modPrefix": "Mushroom",
+	"displayedName": "Ghoul Guy",
+	"baseAttack": 1,
+	"baseHealth": 2,
+	"bonesCost": 1,
+	"energyCost": 0,
+	"abilities": ["nevernamed.inscryption.sigils.Remove","extraVoid.inscryption.voidSigils.Possessor"],
+	"iceCubeName": "Mushroom_Ghost_Guy",
+	"metaCategories": ["ChoiceNode","TraderOffer"],
+	"cardComplexity": "Intermediate",
+	"temple": "Nature",
+	"description": "The sorrowful Ghoul Guy. While not as vengeful as a ghost guy, it can enhance the strength of others at the cost of it's life...",
+	"appearanceBehaviour": ["RareCardBackground"],
+	"texture": "Ghoul Guy.png",
+	"emissionTexture": "Ghoul Guy_e.png"
+}

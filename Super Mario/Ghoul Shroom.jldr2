@@ -1,0 +1,16 @@
+{
+	"name": "Ghoul_Shroom",
+	"modPrefix": "Mushroom",
+	"displayedName": "Ghoul Shroom",
+	"baseAttack": 1,
+	"baseHealth": 4,
+	"bonesCost": 6,
+	"metaCategories": ["ChoiceNode","TraderOffer"],
+	"abilities": ["GuardDog","Deathtouch"],
+	"cardComplexity": "Simple",
+	"temple": "Nature",
+	"description": "The ghastly Ghoul Shroom. What was once eaten for a power-up, now hunts it's prey without mercy nor hesitation...",
+	"texture": "Ghoul Shroom.png",
+	"emissionTexture": "Ghoul Shroom_e.png",
+	"tribes": ["None"]
+}

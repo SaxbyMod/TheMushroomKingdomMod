@@ -1,0 +1,17 @@
+{
+	"name": "Garbage_Can_Ghost",
+	"modPrefix": "Gallery",
+	"displayedName": "Garbage Can Ghost",
+	"baseAttack": 0,
+	"baseHealth": 3,
+	"bonesCost": 2,
+	"abilities": ["org.memez4life.inscryption.customsigils.Launcher"],
+	"iceCubeName":"Gallery_Banana_Peel",
+	"metaCategories": ["ChoiceNode","TraderOffer"],
+	"cardComplexity": "Intermediate",
+	"temple": "Nature",
+	"tribes": ["tribes.libary.spectral"],
+	"description": "The trashy Garbage Can Ghost. It likes throwing banana peels out to trip up trespassers...",
+	"texture": "Garbage Can Ghost.png",
+	"emissionTexture": "Garbage Can Ghost_e.png"
+}

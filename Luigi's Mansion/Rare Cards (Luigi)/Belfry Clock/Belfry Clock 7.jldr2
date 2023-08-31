@@ -1,0 +1,19 @@
+{
+	"name": "Belfry_Clock_7",
+	"modPrefix": "Mushroom",
+	"displayedName": "Belfry Clock",
+	"baseHealth": 25,
+	"energyCost": 1,
+	"abilities": ["org.memez4life.inscryption.customsigils.Launcher","org.memez4life.inscryption.customsigils.Launcher","org.memez4life.inscryption.customsigils.Launcher","Evolve"],
+	"cardComplexity": "Advanced",
+	"temple": "Nature",
+	"description": "The possessed Belfry Clock. Each hour brings forth a new haunt...",
+	"appearanceBehaviour": ["TerrainLayout","RareCardBackground"],
+	"texture": "Belfry Clock.png",
+	"emissionTexture": "Belfry Clock_e.png",
+	"tribes": ["None"],
+	"traits": ["Terrain"],
+	"evolveIntoName": "Mushroom_Belfry_Clock_8",
+	"evolveTurns": 1,
+	"iceCubeName": "Mushroom_Greenie"
+}

@@ -1,0 +1,18 @@
+{
+	"name": "Boomsday_Cockpit",
+	"modPrefix": "Mushroom",
+	"displayedName": "Boomsday Cockpit",
+	"baseAttack": 0,
+	"baseHealth": 5,
+	"energyCost": 6,
+	"bloodCost": 2,
+	"abilities": ["bitty45.inscryption.sigils.Soul Link","ConduitNull","extraVoid.inscryption.voidSigils.Draw Card","ConduitHeal","ExplodeOnDeath"],
+	"metaCategories": ["Rare"],
+	"appearanceBehaviour": ["RareCardBackground"],
+	"cardComplexity": "Intermediate",
+	"temple": "Nature",
+	"description": "One of Bowser Jr's killer inventions, and very volatile. Make sure to build it correctly: cockpit followed by the other parts.",
+	"texture": "Boomsday Cockpit.png",
+	"emissionTexture": "Boomsday Cockpit_e.png",
+	"iceCubeName": "Mushroom_Boomsday_Tower"
+}

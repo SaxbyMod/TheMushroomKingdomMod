@@ -1,0 +1,16 @@
+{
+	"name": "Petey_Piranaha",
+	"modPrefix": "Mushroom",
+	"displayedName": "Petey Piranaha",
+	"baseAttack": 3,
+	"baseHealth": 4,
+	"bloodCost": 2,
+	"abilities": ["extraVoid.inscryption.voidSigils.Caustic"],
+	"metaCategories": ["Rare"],
+	"appearanceBehaviour": ["RareCardBackground"],
+	"cardComplexity": "Intermediate",
+	"temple": "Nature",
+	"description": "The sloppy Petey Piranaha. Its bite is nasty in terms of both damage and just making a darn mess!",
+	"texture": "Petey Piranaha.png",
+	"emissionTexture": "Petey Piranaha_e.png"
+}

@@ -1,0 +1,16 @@
+{
+	"name": "Bahamutt",
+	"modPrefix": "Mushroom",
+	"displayedName": "Bahamutt",
+	"baseAttack": 5,
+	"baseHealth": 7,
+	"bloodCost": 4,
+	"metaCategories": ["Rare"],
+	"cardComplexity": "Intermediate",
+	"temple": "Nature",
+	"description": "The menacing Bahamutt. Despite being very strong, it doubts itself in battle...",
+	"texture": "Bahamutt.png",
+	"emissionTexture": "Bahamutt_e.png",
+	"appearanceBehaviour": ["RareCardBackground"],
+	"tribes": ["Reptile"]
+}

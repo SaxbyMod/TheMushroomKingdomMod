@@ -1,0 +1,17 @@
+{
+	"name": "Super_Dimentio",
+	"modPrefix": "Mushroom",
+	"displayedName": "Super Dimentio",
+	"baseAttack": 2,
+	"baseHealth": 3,
+	"extensionProperties": {
+	       "LifeCost": "5"
+	},
+	"abilities": ["TriStrike","extraVoid.inscryption.voidSigils.Toothpuller"],
+	"cardComplexity": "Intermediate",
+	"temple": "Nature",
+	"description": "The joker, Dimentio. He may be of assistance, but keep an eye on him. He's known to stab his friends in the back...",
+	"appearanceBehaviour": ["RareCardBackground"],
+	"texture": "Super Dimentio.png",
+	"emissionTexture": "Super Dimentio_e.png"
+}

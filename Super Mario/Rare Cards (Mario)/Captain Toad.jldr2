@@ -1,0 +1,19 @@
+{
+	"name": "Captain_Toad",
+	"modPrefix": "Mushroom",
+	"displayedName": "Captain Toad",
+	"baseAttack": 1,
+	"baseHealth": 5,
+	    "extensionProperties": {
+	           "MoneyCost": "3"
+	},
+	"abilities": ["RandomConsumable","org.memez4life.inscryption.customsigils.Support call","extraVoid.inscryption.voidSigils.Draw Blood","extraVoid.inscryption.voidSigils.Draw Bone"],
+	"metaCategories": ["Rare"],
+	"cardComplexity": "Intermediate",
+	"tribes": ["tribes.libary.fungus","tribes.libary.human"],
+	"temple": "Nature",
+	"description": "Poor Captain Toad. Once a free explorer, he now works for the prospector. Maybe you could help him?",
+	"appearanceBehaviour": ["RareCardBackground"],
+	"texture": "Captain Toad.png",
+	"emissionTexture": "Captain Toad_e.png"
+}

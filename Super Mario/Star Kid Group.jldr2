@@ -1,0 +1,15 @@
+{
+	"name": "Star_Kid_Group",
+	"modPrefix": "Mushroom",
+	"displayedName": "Star Kid Group",
+	"baseAttack": 1,
+	"baseHealth": 4,
+	"bloodCost": 1,
+	"energyCost": 2,
+	"metaCategories": ["ChoiceNode","TraderOffer"],
+	"cardComplexity": "Intermediate",
+	"temple": "Nature",
+	"description": "A group of Star Kids, willing to prove themselves.",
+	"texture": "Star Kid Group.png",
+	"emissionTexture": "Star Kid Group.png"
+}

@@ -1,0 +1,17 @@
+{
+	"name": "Johnny_Deepend",
+	"modPrefix": "Gallery",
+	"displayedName": "Johnny Deepend",
+	"baseAttack": 2,
+	"baseHealth": 1,
+	"gemsCost": ["Green"],
+	"metaCategories": ["ChoiceNode","TraderOffer"],
+	"onePerDeck": true,
+	"abilities": ["Sniper","Submerge"],
+	"cardComplexity": "Simple",
+	"temple": "Nature",
+	"description": "The well fit Johnny Deepend. Master of treading water and ain't afraid of a game of dodgeball...",
+	"texture": "Johnny Deepend.png",
+	"emissionTexture": "Johnny Deepend_e.png",
+	"tribes": ["tribes.libary.ghoul"]
+}

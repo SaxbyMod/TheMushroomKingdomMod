@@ -1,0 +1,17 @@
+{
+	"name": "Baron_Brr",
+	"modPrefix": "Mushroom",
+	"displayedName": "Baron Brr",
+	"baseAttack": 2,
+	"baseHealth": 4,
+	"bonesCost": 6,
+	"abilities": ["extraVoid.inscryption.voidSigils.Zapper","nevernamed.inscryption.sigils.Sturdy"],
+	"metaCategories": ["Rare"],
+	"cardComplexity": "Simple",
+	"temple": "Nature",
+	"description": "The Crystalized Baron Brr. The Cold-Hearted ruler of Freezeflame Galaxy. Well.. at least the cold side of it...",
+	"texture": "Baron Brr.png",
+	"emissionTexture": "Baron Brr_e.png",
+	"appearanceBehaviour": ["RareCardBackground"],
+	"tribes": ["None"]
+}

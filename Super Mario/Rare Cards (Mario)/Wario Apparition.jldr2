@@ -1,0 +1,17 @@
+{
+	"name": "Wario_Apparition",
+	"modPrefix": "Mushroom",
+	"displayedName": "Wario Apparition",
+	"baseAttack": 3,
+	"baseHealth": 6,
+	"bonesCost": 5,
+	"abilities": ["RandomAbility","bitty45.inscryption.sigils.Nonexistent Soul"],
+	"metaCategories": ["Rare"],
+	"cardComplexity": "Intermediate",
+	"temple": "Nature",
+	"appearanceBehaviour": ["RareCardBackground"],
+	"tribes": ["tribes.libary.ghoul"],
+	"description": "The Fun-Loving(?) Wario Apparition. It's sigils are personalized for each one drawn...",
+	"texture": "Wario Apparition.png",
+	"emissionTexture": "Wario Apparition_e.png"
+}

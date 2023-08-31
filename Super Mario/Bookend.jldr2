@@ -1,0 +1,16 @@
+{
+	"name": "Bookend",
+	"modPrefix": "Mushroom",
+	"displayedName": "Bookend",
+	"baseAttack": 2,
+	"baseHealth": 3,
+	"bonesCost": 4,
+	"abilities": ["Flying"],
+	"metaCategories": ["ChoiceNode","TraderOffer"],
+	"cardComplexity": "Intermediate",
+	"temple": "Nature",
+	"description": "The intelligent Bookend. You hit these books, They hit back.",
+	"texture": "Bookend.png",
+	"emissionTexture": "Bookend_e.png",
+	"tribes": ["tribes.libary.haunted"]
+}

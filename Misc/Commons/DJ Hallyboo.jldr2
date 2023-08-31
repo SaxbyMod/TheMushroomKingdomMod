@@ -1,0 +1,18 @@
+{
+	"name": "DJ_Hallyboo",
+	"modPrefix": "Mushroom",
+	"displayedName": "DJ Hallyboo",
+	"baseAttack": 2,
+	"baseHealth": 4,
+	"extensionProperties": {
+	           "MoneyCost": "8"
+	},
+	"abilities": ["nevernamed.inscryption.sigils.Artistic License"],
+	"metaCategories": ["Rare"],
+	"cardComplexity": "Simple",
+	"temple": "Nature",
+	"description": "As the host, he takes it personally when someone plays for free...",
+	"texture": "DJ Hallyboo.png",
+	"emissionTexture": "DJ Hallyboo_e.png",
+	"tribes": ["None"]
+}

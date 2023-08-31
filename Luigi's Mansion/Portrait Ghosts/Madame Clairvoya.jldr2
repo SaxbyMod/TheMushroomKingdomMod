@@ -1,0 +1,17 @@
+{
+	"name": "Madame_Clairvoya",
+	"modPrefix": "Gallery",
+	"displayedName": "Madame Clairvoya",
+	"baseAttack": 0,
+	"baseHealth": 4,
+	"gemsCost": ["Green","Orange"],
+	"metaCategories": ["ChoiceNode","TraderOffer"],
+	"onePerDeck": true,
+	"abilities": ["GainGemTriple"],
+	"cardComplexity": "Simple",
+	"temple": "Nature",
+	"description": "Madame Clairvoya, the Freaky Fortune Teller. The wisest of the portrait ghosts, and probably one of the more peaceful ones to boot.",
+	"texture": "Madame Clairvoya.png",
+	"emissionTexture": "Madame Clairvoya_e.png",
+	"tribes": ["tribes.libary.ghoul"]
+}

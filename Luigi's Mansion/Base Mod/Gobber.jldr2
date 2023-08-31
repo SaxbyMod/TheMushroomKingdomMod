@@ -1,0 +1,17 @@
+{
+	"name": "Gobber",
+	"modPrefix": "Gallery",
+	"displayedName": "Gobber",
+	"baseAttack": 1,
+	"baseHealth": 3,
+	"bonesCost": 4,
+	"energyCost": 0,
+	"abilities": ["Sniper","extraVoid.inscryption.voidSigils.Resistant"],
+	"metaCategories": ["ChoiceNode","TraderOffer"],
+	"cardComplexity": "Intermediate",
+	"temple": "Nature",
+	"description": "The blubbery Gobber. Known to take a hit or two whilst launching spit at potential ghost hunters.",
+	"texture": "Gobber.png",
+	"emissionTexture": "Gobber_e.png",
+	"pixelTexture": "Gobber Act 2.png"
+}

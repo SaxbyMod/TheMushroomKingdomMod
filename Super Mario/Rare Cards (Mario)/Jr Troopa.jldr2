@@ -1,0 +1,19 @@
+{
+	"name": "Jr_Troopa",
+	"modPrefix": "Mushroom",
+	"displayedName": "Jr Troopa",
+	"baseAttack": 2,
+	"baseHealth": 4,
+	"bloodCost": 1,
+	"abilities": ["Evolve","DoubleStrike"],
+	"evolveIntoName": "Mushroom_Jr_Troopa_Hiding",
+	"evolveTurns": 1,
+	"metaCategories": ["Rare"],
+	"cardComplexity": "Advanced",
+	"temple": "Nature",
+	"tribes": ["Reptile"],
+	"description": "The persistant Jr Troopa. He won't stop at nothing to claim the revenge he so deserves...",
+	"texture": "Jr Troopa.png",
+	"emissionTexture": "Jr Troopa_e.png",
+	"appearanceBehaviour": ["RareCardBackground"]
+}

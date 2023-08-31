@@ -1,0 +1,16 @@
+{
+	"name": "Dry_Piranha_Plant",
+	"modPrefix": "Mushroom",
+	"displayedName": "Dry_Piranha Plant",
+	"baseAttack": 1,
+	"baseHealth": 3,
+	"bonesCost": 3,
+	"abilities": ["extraVoid.inscryption.voidSigils.Predator","nevernamed.inscryption.sigils.Crossbones"],
+	"metaCategories": ["ChoiceNode","TraderOffer"],
+	"cardComplexity": "Intermediate",
+	"temple": "Nature",
+	"tribes": ["tribes.libary.piranhaplant","tribes.libary.mskeletal"],
+	"description": "The rattled Dry Piranha Plant. While still vicious, it's more frail than the average Piranha Plant...",
+	"texture": "Dry Piranha Plant.png",
+	"emissionTexture": "Dry Piranha Plant_e.png"
+}

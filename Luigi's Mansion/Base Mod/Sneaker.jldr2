@@ -1,0 +1,17 @@
+{
+	"name": "Sneaker",
+	"modPrefix": "Gallery",
+	"displayedName": "Sneaker",
+	"baseAttack": 2,
+	"baseHealth": 2,
+	"bonesCost": 2,
+	"energyCost": 0,
+	"abilities": ["extraVoid.inscryption.voidSigils.Ambush"],
+	"metaCategories": ["ChoiceNode","TraderOffer"],
+	"cardComplexity": "Intermediate",
+	"temple": "Nature",
+	"description": "The shifty Sneaker. Known to sneak up on unsuspecting beasts to deliver a frightening blow...",
+	"texture": "Sneaker.png",
+	"emissionTexture": "Sneaker_e.png",
+	"pixelTexture": "Sneaker Act 2.png"
+}

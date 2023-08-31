@@ -1,0 +1,16 @@
+{
+	"name": "Blue_Twirler",
+	"modPrefix": "Mushroom",
+	"displayedName": "Blue Twirler",
+	"baseAttack": 1,
+	"baseHealth": 2,
+	"bonesCost": 2,
+	"abilities": ["SplitStrike","Flying"],
+	"cardComplexity": "Advanced",
+	"temple": "Nature",
+	"metaCategories": ["ChoiceNode","TraderOffer"],
+	"description": "The ghoulish Blue Twirler. It is known to attck from above, spinning its arms to and fro...",
+	"texture": "Blue Twirler.png",
+	"emissionTexture": "Blue Twirler_e.png",
+	"tribes": ["None"]
+}

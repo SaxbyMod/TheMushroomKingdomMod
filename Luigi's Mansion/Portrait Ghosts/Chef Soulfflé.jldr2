@@ -1,0 +1,17 @@
+{
+	"name": "Chef_Soulfflé",
+	"modPrefix": "Gallery",
+	"displayedName": "Chef Soulfflé",
+	"baseAttack": 1,
+	"baseHealth": 2,
+	"gemsCost": ["Orange"],
+	"abilities": ["Sentry","DeathShield"],
+	"metaCategories": ["ChoiceNode","TraderOffer"],
+	"onePerDeck": true,
+	"cardComplexity": "Intermediate",
+	"temple": "Nature",
+	"description": "The smokey Chef Soulfflé. He...doesn't take kindly to those who enter his kitchen while he's cooking...",
+	"texture": "Chef Soulffle.png",
+	"emissionTexture": "Chef Soulffle_e.png",
+	"tribes": ["tribes.libary.ghoul"]
+}

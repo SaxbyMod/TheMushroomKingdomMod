@@ -1,0 +1,18 @@
+{
+	"name": "Mushroom_Nabbit",
+	"modPrefix": "Mushroom",
+	"displayedName": "Nabbit",
+	"baseAttack": 2,
+	"baseHealth": 3,
+	    "extensionProperties": {
+	           "MoneyCost": "3"
+	},
+	"abilities": ["extraVoid.inscryption.voidSigils.Thief","extraVoid.inscryption.voidSigils.Coin Finder"],
+	"metaCategories": ["ChoiceNode","TraderOffer"],
+	"cardComplexity": "Intermediate",
+	"temple": "Nature",
+	"description": "I caught this thing trying to steal my camera. Unfortunatly, he forgot the reel, and was swiftly punished...",
+	"texture": "Nabbit.png",
+	"emissionTexture": "Nabbit_e.png",
+	"tribes": ["Squirrel"]
+}

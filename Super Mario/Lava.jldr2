@@ -1,0 +1,16 @@
+{
+	"name": "Lava",
+	"modPrefix": "Mushroom",
+	"displayedName": "Lava",
+	"baseHealth": 1,
+	"abilities": ["Submerge","extraVoid.inscryption.voidSigils.Submerged Ambush","extraVoid.inscryption.voidSigils.Dying"],
+	"extensionProperties": { "void_dying_count": "3" },
+	"cardComplexity": "Intermediate",
+	"temple": "Nature",
+	"description": "Lava can burn the skin off even the most resilitent reptile, but heat doesn't last forever...",
+	"texture": "Lava.png",
+	"emissionTexture": "Lava_e.png",
+	"traits": ["Terrain"],
+	"tribes": ["tribes.libary.pyro"],
+	"appearanceBehaviour": ["TerrainLayout","TerrainBackground"]
+}

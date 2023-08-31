@@ -1,0 +1,16 @@
+{
+	"name": "Mushroom_Topmaniac",
+	"modPrefix": "Mushroom",
+	"displayedName": "Topmaniac",
+	"baseAttack": 5,
+	"baseHealth": 7,
+	"energyCost": 4,
+	"abilities": ["extraVoid.inscryption.voidSigils.Vicious","extraVoid.inscryption.voidSigils.Haste"],
+	"metaCategories": ["Rare"],
+	"cardComplexity": "Intermediate",
+	"temple": "Nature",
+	"description": "The twisted Topmaniac. It has forsaken the art of knockback in return of full offense thanks to its razor-sharp blades...",
+	"appearanceBehaviour": ["RareCardBackground"],
+	"texture": "Topmaniac.png",
+	"emissionTexture": "Topmaniac_e.png"
+}

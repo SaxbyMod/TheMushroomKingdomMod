@@ -1,0 +1,20 @@
+{
+	"name": "Boo",
+	"modPrefix": "Mushroom",
+	"displayedName": "Boo",
+	"baseAttack": 1,
+	"baseHealth": 2,
+	"bonesCost": 3,
+	"energyCost": 0,
+	"abilities": ["extraVoid.inscryption.voidSigils.Opportunist"],
+	"metaCategories": ["ChoiceNode","TraderOffer"],
+	"cardComplexity": "Intermediate",
+	"temple": "Nature",
+	"description": "The sly Boo. When unobserved, it's a dangerous ghost, but that don't mean one being watched is safe to attack.",
+	"texture": "Boo.png",
+	"emissionTexture": "Boo_e.png",
+	"evolveIntoName": "Mushroom_King_Boo",
+	"evolveTurns": 1,
+	"pixelTexture": "Boo Act 2.png",
+	"tribes": ["tribes.libary.spectral","tribes.libary.boo"]
+}

@@ -1,0 +1,16 @@
+{
+	"name": "Urchin_Land",
+	"modPrefix": "Mushroom",
+	"displayedName": "Land Urchin",
+	"baseAttack": 2,
+	"baseHealth": 4,
+	"bloodCost": 1,
+	"abilities": ["extraVoid.inscryption.voidSigils.Bodyguard","Sharp"],
+	"cardComplexity": "Advanced",
+	"temple": "Nature",
+	"metaCategories": ["ChoiceNode","TraderOffer"],
+	"description": "The pesky Land Urchin. Enemies get to urge to strike it besides its friends. And they always regret it...",
+	"texture": "Urchin_Land.png",
+	"emissionTexture": "Urchin_Land_e.png",
+	"tribes": ["None"]
+}

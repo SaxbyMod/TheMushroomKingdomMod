@@ -1,0 +1,17 @@
+{
+	"name": "Blorbed_Toad",
+	"modPrefix": "Mushroom",
+	"displayedName": "Blorbed Toad",
+	"baseAttack": 3,
+	"baseHealth": 8,
+	"bloodCost": 3,
+	"abilities": ["StrafePush","extraVoid.inscryption.voidSigils.Resistant"],
+	"metaCategories": ["Rare"],
+	"appearanceBehaviour": ["RareCardBackground"],
+	"cardComplexity": "Simple",
+	"temple": "Nature",
+	"description": "The rounded Blorbed Toad. Perhaps it's burden can be used to your advantage?",
+	"texture": "Blorbed Toad.png",
+	"emissionTexture": "Blorbed Toad_e.png",
+	"tribes": ["tribes.libary.fungus","tribes.libary.human"]
+}

@@ -1,0 +1,16 @@
+{
+	"name": "Crystal_King",
+	"modPrefix": "Mushroom",
+	"displayedName": "Crystal King",
+	"baseAttack": 2,
+	"baseHealth": 4,
+	"bonesCost": 4,
+	"abilities": ["extraVoid.inscryption.voidSigils.Midas","extraVoid.inscryption.voidSigils.Pierce","DoubleStrike"],
+	"metaCategories": ["Rare"],
+	"cardComplexity": "Intermediate",
+	"appearanceBehaviour": ["RareCardBackground"],
+	"temple": "Nature",
+	"description": "The cold-hearted Crystal King. The statues he leaves behind could be of some value...",
+	"texture": "Crystal King.png",
+	"emissionTexture": "Crystal King_e.png"
+}

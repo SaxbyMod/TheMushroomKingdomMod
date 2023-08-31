@@ -1,0 +1,16 @@
+{
+	"name": "King_Kailiente",
+	"modPrefix": "Mushroom",
+	"displayedName": "King Kaliente",
+	"baseAttack": 2,
+	"baseHealth": 4,
+	"bloodCost": 1,
+	"abilities": ["Submerge","Sniper"],
+	"metaCategories": ["Rare"],
+	"cardComplexity": "Intermediate",
+	"temple": "Nature",
+	"description": "The scorching King Kaliente. Residing within lava, this octopus makes full use of launching fireballs at foes.",
+	"appearanceBehaviour": ["RareCardBackground"],
+	"texture": "King Kaliente.png",
+	"emissionTexture": "King Kaliente_e.png"
+}
