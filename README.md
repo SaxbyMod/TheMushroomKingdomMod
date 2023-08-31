@@ -70,3 +70,4 @@ v3.0
 v2.5.0
 
 - Fixed an issue where the game would softlock when you got to the second phase of the Trapper/Trader fight.
+
