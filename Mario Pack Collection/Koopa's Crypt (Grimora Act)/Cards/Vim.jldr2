@@ -1,0 +1,15 @@
+{
+	"name": "Vim",
+	"modPrefix": "Koopa",
+	"displayedName": "Vim",
+	"baseAttack": 2,
+	"baseHealth": 3,
+	"bonesCost": 4,
+	"metaCategories": ["arackulele.inscryption.grimoramod.GrimoraModChoiceNode"],
+	"abilities": ["extraVoid.inscryption.voidSigils.Possessor"],
+	"cardComplexity": "Advanced",
+	"temple": "Nature",
+	"description": "The drained Vim. The energy of a poor Toad, taken away by force...",
+	"texture": "Grimora Vim.png",
+	"emissionTexture": "Grimora Vim_e.png"
+}

@@ -1,0 +1,23 @@
+{
+	"name": "Antasma",
+	"modPrefix": "Mushroom",
+	"displayedName": "Antasma",
+	"baseAttack": 1,
+	"baseHealth": 3,
+	"extensionProperties": {
+	       "LifeCost": "3"
+	},
+	"abilities": ["nevernamed.inscryption.sigils.Bloodborn"],
+	"extensionProperties": {
+    	"BloodBornTransformation": "Mushroom_Antasma_(Bat)"
+  	},
+        "metaCategories": ["Rare"],
+	"appearanceBehaviour": ["RareCardBackground"],
+	"cardComplexity": "Advanced",
+	"temple": "Nature",
+	"description": "The Nightmarish Antasma. Notorious for haunting the Nightmares of those who oppose him...",
+	"texture": "Antasma.png",
+	"emissionTexture": "Antasma_e.png",
+	"tribes": ["tribes.libary.nightmare"],
+	"pixelTexture": "Antasma Act 2.png"
+}

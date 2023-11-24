@@ -1,0 +1,21 @@
+{
+	"name": "Antasma_(Bat)",
+	"modPrefix": "Mushroom",
+	"displayedName": "Antasma",
+	"baseAttack": 1,
+	"baseHealth": 3,
+        "extensionProperties": {
+	       "LifeCost": "4"
+	},
+	"abilities": ["nevernamed.inscryption.sigils.Bloodborn", "Flying"],
+	"extensionProperties": {
+    	"BloodBornTransformation": "Mushroom_Antasma_(Bat)"
+  	},
+	"cardComplexity": "Advanced",
+	"temple": "Nature",
+	"texture": "Antasma Bat.png",
+	"emissionTexture": "Antasma Bat_e.png",
+	"tribes": ["tribes.libary.nightmare"],
+	"appearanceBehaviour": ["RareCardBackground"],
+	"pixelTexture": "Antasma Bat Act 2.png"
+}

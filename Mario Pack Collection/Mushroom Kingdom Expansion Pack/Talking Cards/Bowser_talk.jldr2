@@ -1,0 +1,214 @@
+{
+  "cardName": "Mushroom_Bowser",
+  "faceSprite": "Bowser Base.png",
+  "eyeSprites": {
+    "open": "Bowser Eyes Open.png",
+    "closed": "Bowser Eyes Closed.png"
+  },
+  "mouthSprites": {
+    "open": "Bowser Mouth Open.png",
+    "closed": "Bowser Mouth Closed.png"
+  },
+  "emissionSprites": {
+    "open": "Bowser Emmisive Open.png",
+    "closed": "Bowser Emmisive Closed.png"
+  },
+  "faceInfo": {
+    "blinkRate": 0.5,
+    "customVoice": "Bowser_Talk.wav"
+  },
+  "dialogueEvents": [
+    {
+      "eventName": "OnDrawn",
+      "mainLines": [
+        "You made a good choice choosing me.",
+	"Is Peaches around?",
+	"Mario and Green-Stache?"
+      ],
+      "repeatLines": [
+        [
+          "What's next?!",
+        ],
+        [
+          "My minions serving you well?"
+        ],
+        [
+          "Let me at them!"
+        ]
+      ]
+    },
+    {
+      "eventName": "OnPlayFromHand",
+      "mainLines": [
+        "Kneel before me!"
+      ],
+      "repeatLines": [
+        [
+          "Make way! Or die..."
+        ],
+	[
+          "Showtime!"
+        ]
+      ]
+    },
+    {
+      "eventName": "OnAttacked",
+      "mainLines": [
+        "Grrr!,"
+      ],
+      "repeatLines": [
+        [
+          "You dare?!"
+        ],
+        [
+          "Grrr!"
+        ]
+      ]
+    },
+    {
+      "eventName": "OnBecomeSelectablePositive",
+      "mainLines": [
+        "Pick me! NOW!"
+      ],
+      "repeatLines": [
+        [
+          "You know what to do!"
+        ]
+      ]
+    },
+    {
+      "eventName": "OnBecomeSelectableNegative",
+      "mainLines": [
+        "I don't trust this one bit."
+      ],
+      "repeatLines": [
+        [
+          "Grrr..."
+        ]
+      ]
+    },
+    {
+      "eventName": "OnSacrificed",
+      "mainLines": [
+        "This had BETTER be worth it!"
+      ],
+      "repeatLines": [
+        [
+          "Really, chump?!"
+        ]
+      ]
+    },
+    {
+      "eventName": "OnSelectedForDeckTrial",
+      "mainLines": [
+        "This had BETTER work!"
+      ],
+      "repeatLines": [
+        [
+          "This had BETTER work!"
+        ]
+      ]
+    },
+    {
+      "eventName": "OnSelectedForCardMerge",
+      "mainLines": [
+        "Yes... YES!"
+      ],
+      "repeatLines": [
+        [
+          "Empower your king!"
+        ]
+      ]
+    },
+    {
+      "eventName": "OnSelectedForCardRemove",
+      "mainLines": [
+        "This is treason!"
+      ],
+      "repeatLines": [
+        [
+          "DON'T."
+        ]
+      ]
+    },
+    {
+      "eventName": "OnDiscoveredInExploration",
+      "mainLines": [
+        "Bua ha ha ha! I'm here!",
+	"With Bowser on the scene...",
+	"Leshy's on a one-way trip to pain!"
+      ],
+      "repeatLines": [
+        [
+          "Let's rule the world, together!"
+        ]
+      ]
+    },
+    {
+      "eventName": "ProspectorBoss",
+      "mainLines": [
+        "Prospector, eh? What a joke!"
+      ],
+      "repeatLines": [
+        [
+          "Let's crush that mule!"
+        ]
+      ]
+    },
+    {
+      "eventName": "OnDrawn",
+      "mainLines": [
+	"The Angler's Buckets seem like bad news."
+      ],
+      "repeatLines": [
+        [
+          "Pay the buckets no heed!"
+        ]
+      ]
+    },
+    {
+      "eventName": "TrapperTraderBoss",
+      "mainLines": [
+        "Trap MY minions, huh?! Bad move!"
+      ],
+      "repeatLines": [
+        [
+	  "Make 'em cough up the goods!"
+        ]
+      ]
+    },
+    {
+      "eventName": "LeshyBoss",
+      "mainLines": [
+	"I don't tolorate some chump making cards of my minions!"
+      ],
+      "repeatLines": [
+        [
+          "Give him what for!"
+        ]
+      ]
+    },
+    {
+      "eventName": "OnDrawn",
+      "mainLines": [
+        "Alright, who invited the skull?!"
+      ],
+      "repeatLines": [
+        [
+          "Again with that pirate?!"
+        ]
+      ]
+    },
+    {
+      "eventName": "DefaultOpponent",
+      "mainLines": [
+        "Bowser's here!"
+      ],
+      "repeatLines": [
+        [
+          "Who needs roasting?"
+        ]
+      ]
+    }
+  ]
+}

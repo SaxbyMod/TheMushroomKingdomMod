@@ -1,0 +1,16 @@
+{
+	"name": "Hell_Valley_Sky_Trees",
+	"modPrefix": "Koopa",
+	"displayedName": "Hell Valley Sky Trees",
+	"baseAttack": 0,
+	"baseHealth": 3,
+	"bonesCost": 6,
+	"abilities": ["nevernamed.inscryption.sigils.Woodsie Lord"],
+	"cardComplexity": "Advanced",
+	"temple": "Undead",
+	"metaCategories": ["arackulele.inscryption.grimoramod.GrimoraModChoiceNode"],
+	"description": "The Sky Trees of Hell Valley. Some say they bear a striking resemblance to the kodama...",
+	"texture": "Grimora Sky Trees.png",
+	"emissionTexture": "Grimora Sky Trees_e.png",
+	"appearanceBehaviour": ["RareCardBackground"]
+}

@@ -1,0 +1,13 @@
+{
+	"name": "Spooky_Bee",
+	"modPrefix": "Koopa",
+	"displayedName": "Spooky Bee",
+	"baseAttack": 1,
+	"baseHealth": 2,
+	"abilities": ["Flying"],
+	"cardComplexity": "Intermediate",
+	"temple": "Nature",
+	"description": "A species of bee assumed to be related to the Buzzy Boo",
+	"texture": "Grimora Spooky Bee.png",
+	"emissionTexture": "Grimora Spooky Bee_e.png"
+}

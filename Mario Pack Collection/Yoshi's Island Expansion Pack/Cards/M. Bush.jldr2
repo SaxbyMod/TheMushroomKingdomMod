@@ -1,0 +1,15 @@
+{
+	"name": "M_Bush",
+	"modPrefix": "Yoshi",
+	"displayedName": "M. Bush",
+	"baseAttack": 1,
+	"baseHealth": 3,
+	"bloodCost": 1,
+	"abilities": ["Deathtouch","extraVoid.inscryption.voidSigils.Ambush"],
+	"metaCategories": ["ChoiceNode","TraderOffer"],
+	"cardComplexity": "Intermediate",
+	"temple": "Nature",
+	"description": "The venomous M. Bush. What looks like a regular bush is capable of unleashing a deadly toxin on its victims.",
+	"texture": "M. Bush.png",
+	"emissionTexture": "M. Bush_e.png"
+}

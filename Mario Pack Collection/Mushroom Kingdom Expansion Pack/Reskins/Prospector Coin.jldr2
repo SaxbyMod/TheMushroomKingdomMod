@@ -1,0 +1,12 @@
+{
+    "name": "GoldNugget",
+    "modPrefix": "Mushroom",
+    "abilities": ["extraVoid.inscryption.voidSigils.Abundance"],
+    "description": "A coin for your troubles?",
+    "displayedName": "Golden Coin",
+    "texture": "Golden Coin.png",
+    "baseAttack": 0,
+    "baseHealth": 1,
+    "emissionTexture": "Golden Coin_e.png",
+    "pixelTexture": "Coin_Act 2.png"
+}

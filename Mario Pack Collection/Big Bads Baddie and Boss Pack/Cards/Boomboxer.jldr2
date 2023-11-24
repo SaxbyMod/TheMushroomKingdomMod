@@ -1,0 +1,15 @@
+{
+	"name": "Boomboxer",
+	"modPrefix": "Mushroom",
+	"displayedName": "Boomboxer",
+	"baseAttack": 1,
+	"baseHealth": 2,
+	"energyCost": 4,
+	"abilities": ["BuffNeighbours"],
+	"metaCategories": ["ChoiceNode","TraderOffer"],
+	"cardComplexity": "Intermediate",
+	"temple": "Nature",
+	"description": "The sonic Boomboxer. It's known to create music with its head the raises morale for its allies.",
+	"texture": "Boomboxer.png",
+	"emissionTexture": "Boomboxer_e.png"
+}

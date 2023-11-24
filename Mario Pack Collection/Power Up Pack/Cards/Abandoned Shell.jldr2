@@ -1,0 +1,25 @@
+{
+  "name": "Koopa_Shell",
+  "modPrefix": "Mushroom",
+  "displayedName": "Abandoned Shell",
+  "description": "Seems a koopa abandoned its shell. Maybe it can be of use to us on the altar?",
+  "metaCategories": [
+    "ChoiceNode",
+    "TraderOffer"
+  ],
+  "cardComplexity": "Intermediate",
+  "temple": "Nature",
+  "baseAttack": 0,
+  "baseHealth": 3,
+  "tribes": [
+    "tribes.libary.itembox", "tribes.libary.mreptile", "Reptile"
+  ],
+  "abilities": [
+    "creator.TooManySigils.Thick Shell"
+  ],
+  "appearanceBehaviour": [
+    "TerrainLayout"
+  ],
+  "texture": "Koopa Shell.png",
+  "emissionTexture": "Koopa Shell_e.png"
+}

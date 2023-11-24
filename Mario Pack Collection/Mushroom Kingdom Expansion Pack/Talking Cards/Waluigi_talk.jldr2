@@ -1,0 +1,214 @@
+{
+    "cardName": "Mushroom_Waluigi",
+    "faceSprite": "Waluigi Base.png",
+    "eyeSprites": {
+        "open": "Waluigi Eyes Open.png",
+        "closed": "Waluigi Eyes Closed.png"
+    },
+    "mouthSprites": {
+        "open": "Waluigi Mouth Open.png",
+        "closed": "Waluigi Mouth Closed.png"
+    },
+    "emissionSprites": {
+        "open": "Waluigi Emmisive Open.png",
+        "closed": "Waluigi Emmisive Closed.png"
+    },
+    "faceInfo": {
+        "blinkRate": 0.5,
+        "customVoice": "Waluigi_Talk.wav"
+    },
+    "dialogueEvents": [
+        {
+            "eventName": "OnDrawn",
+            "mainLines": [
+                "That darn tree-man cheated!",
+                "Let me tell you. The only",
+                "one allowed to cheat is me!"
+            ],
+            "repeatLines": [
+                [
+                    "Let's go already!"
+                ],
+                [
+                    "I'm ready! Are you?"
+                ],
+                [
+                    "Lucky draw!"
+                ]
+            ]
+        },
+        {
+            "eventName": "OnPlayFromHand",
+            "mainLines": [
+                "This better be good!"
+            ],
+            "repeatLines": [
+                [
+                    "This'll be good!"
+                ],
+                [
+                    "This'll be too easy!"
+                ]
+            ]
+        },
+        {
+            "eventName": "OnAttacked",
+            "mainLines": [
+                "Cheater!,"
+            ],
+            "repeatLines": [
+                [
+                    "Ack!"
+                ],
+                [
+                    "Why you...!"
+                ]
+            ]
+        },
+        {
+            "eventName": "OnBecomeSelectablePositive",
+            "mainLines": [
+                "Oh! Pick me!"
+            ],
+            "repeatLines": [
+                [
+                    "You had better pick me!"
+                ]
+            ]
+        },
+        {
+            "eventName": "OnBecomeSelectableNegative",
+            "mainLines": [
+                "You want us to lose?!"
+            ],
+            "repeatLines": [
+                [
+                    "Again with this?"
+                ]
+            ]
+        },
+        {
+            "eventName": "OnSacrificed",
+            "mainLines": [
+                "Wha-?!"
+            ],
+            "repeatLines": [
+                [
+                    "You're cheating!"
+                ]
+            ]
+        },
+        {
+            "eventName": "OnSelectedForDeckTrial",
+            "mainLines": [
+                "Don't whiff!"
+            ],
+            "repeatLines": [
+                [
+                    "Having trouble? Hehe..."
+                ]
+            ]
+        },
+        {
+            "eventName": "OnSelectedForCardMerge",
+            "mainLines": [
+                "Good choice..."
+            ],
+            "repeatLines": [
+                [
+                    "This better be worth it!"
+                ]
+            ]
+        },
+        {
+            "eventName": "OnSelectedForCardRemove",
+            "mainLines": [
+                "Oh no you don't!"
+            ],
+            "repeatLines": [
+                [
+                    "Don't you dare!"
+                ]
+            ]
+        },
+        {
+            "eventName": "OnDiscoveredInExploration",
+            "mainLines": [
+                "Hey! You!",
+                "You better take me!",
+                "Or you'll regret it!"
+            ],
+            "repeatLines": [
+                [
+                    "Make room for me!"
+                ]
+            ]
+        },
+        {
+            "eventName": "ProspectorBoss",
+            "mainLines": [
+                "That mule has extra cards! Cheater!"
+            ],
+            "repeatLines": [
+                [
+                    "He's cheating with that mule again!"
+                ]
+            ]
+        },
+        {
+            "eventName": "OnDrawn",
+            "mainLines": [
+                "Hey! They're taking our cards!"
+            ],
+            "repeatLines": [
+                [
+                    "Show him only cheaters mess up!"
+                ]
+            ]
+        },
+        {
+            "eventName": "TrapperTraderBoss",
+            "mainLines": [
+                "Cheat on us, eh, shopkeepers?!"
+            ],
+            "repeatLines": [
+                [
+                    "At least these two don't cheat."
+                ]
+            ]
+        },
+        {
+            "eventName": "LeshyBoss",
+            "mainLines": [
+                "Payback time, cheater!"
+            ],
+            "repeatLines": [
+                [
+                    "Don't whiff now!"
+                ]
+            ]
+        },
+        {
+            "eventName": "OnDrawn",
+            "mainLines": [
+                "Blasted pirates never play fair!"
+            ],
+            "repeatLines": [
+                [
+                    "Don't let them cheat again!"
+                ]
+            ]
+        },
+        {
+            "eventName": "DefaultOpponent",
+            "mainLines": [
+                "*Wah, heh, heh!*"
+            ],
+            "repeatLines": [
+                [
+                    "Let's-a-party!"
+                ]
+            ]
+        }
+    ]
+}

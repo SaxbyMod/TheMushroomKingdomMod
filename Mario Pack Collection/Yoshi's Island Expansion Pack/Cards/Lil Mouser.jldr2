@@ -1,0 +1,19 @@
+{
+	"name": "Lil_Mouser",
+	"modPrefix": "Yoshi",
+	"displayedName": "Lil' Mouser",
+	"baseAttack": 1,
+	"baseHealth": 2,
+	    "extensionProperties": {
+	           "MoneyCost": "3"
+	},
+	"abilities": ["nevernamed.inscryption.sigils.Thief"],
+	"metaCategories": ["ChoiceNode","TraderOffer"],
+	"cardComplexity": "Intermediate",
+	"temple": "Nature",
+	"description": "The tricky lil' mouser. They can easily steal valuables off their opponents.",
+	"texture": "Little Mouser.png",
+	"emissionTexture": "Little Mouser_e.png",
+	"tribes": ["None"],
+	"pixelTexture": "Lil Mouser Act 2.png"
+}

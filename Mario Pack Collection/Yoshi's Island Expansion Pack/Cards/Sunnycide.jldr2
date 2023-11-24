@@ -1,0 +1,18 @@
+{
+	"name": "Sunnycide",
+	"modPrefix": "Yoshi",
+	"displayedName": "Sunnycide",
+	"baseAttack": 2,
+	"baseHealth": 3,
+	"bloodCost": 2,
+	"abilities": ["Sniper","bitty45.inscryption.sigils.Eggist","org.memez4life.inscryption.customsigils.Launcher],
+	"metaCategories": ["Rare"],
+	"cardComplexity": "Intermediate",
+	"temple": "Nature",
+	"description": "The Newborn Sunnycide. A bulkier sniper, not afraid to face danger head on.",
+	"appearanceBehaviour": ["RareCardBackground"],
+	"texture": "Sunnycide.png",
+	"emissionTexture": "Sunnycide_e.png",
+	"tribes": ["Reptile"],
+	"iceCubeName": "Mushroom_Sunnycide_Egg"
+}

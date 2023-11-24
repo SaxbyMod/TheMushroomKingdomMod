@@ -1,0 +1,17 @@
+{
+	"name": "Banzai_Bill",
+	"modPrefix": "Mushroom",
+	"displayedName": "Banzai Bill",
+	"baseAttack": 3,
+	"baseHealth": 1,
+	"energyCost": 6,
+	"abilities": ["Brittle","nevernamed.inscryption.sigils.Preemptive Strike","nevernamed.inscryption.sigils.Mauler"],
+	"cardComplexity": "Advanced",
+	"temple": "Nature",
+	"description": "The merciless banzai bill. Once released, this machine will keep on its course; destroying everything in its path...",
+	"texture": "Banzai Bill.png",
+	"emissionTexture": "Banzai Bill_e.png",
+	"appearanceBehaviour": ["RareCardBackground"],
+	"tribes": ["tribes.libary.blaster"],
+	"traits": ["KillsSurvivors"]
+}

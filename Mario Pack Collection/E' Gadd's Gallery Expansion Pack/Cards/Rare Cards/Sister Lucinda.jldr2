@@ -1,0 +1,17 @@
+{
+	"name": "Sister_Lucinda",
+	"modPrefix": "Mushroom",
+	"displayedName": "Sister Lucinda",
+	"baseAttack": 1,
+	"baseHealth": 3,
+	"bonesCost": 7,
+	"abilities": ["nevernamed.inscryption.sigils.Sigil Mimic"],
+	"metaCategories": ["Rare"],
+	"cardComplexity": "Intermediate",
+	"temple": "Nature",
+	"tribes": ["tribes.libary.ghoul"],
+	"description": "Lucinda, one of the fabled Three Sisters. Her mirror is both a tool of reflection and mimicry.",
+	"texture": "Sister Lucinda.png",
+	"emissionTexture": "Sister Lucinda_e.png"
+	
+}

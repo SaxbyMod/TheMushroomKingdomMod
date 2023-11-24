@@ -1,0 +1,16 @@
+{
+	"name": "Bob_omb",
+	"modPrefix": "Factory",
+	"displayedName": "Bob-omb",
+	"baseAttack": 1,
+	"baseHealth": 1,
+	"energyCost": 2,
+	"abilities": ["ExplodeOnDeath","Strafe"],
+	"metaCategories": ["zorro.inscryption.infiniscryption.p03kayceerun.NeutralRegionCards"],
+	"cardComplexity": "Simple",
+	"temple": "Tech",
+	"description": "I highly suggest you keep it away from your other cards. That alone is a misplay...",
+	"texture": "P03 Bob-omb.png",
+	"traits": ["KillsSurvivors"],
+	"pixelTexture": "Bob-omb Act 2.png"
+}

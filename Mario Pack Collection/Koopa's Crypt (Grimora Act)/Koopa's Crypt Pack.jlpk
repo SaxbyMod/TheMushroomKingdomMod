@@ -1,0 +1,7 @@
+{
+	"Title": "Koopa's Crypt Expansion Pack",
+	"Description": "Seems Grimora's taken a look into the haunted manors scattered across the Mushroom Kingdom, for better or worse. A total of [count] creatures await in the pack. Let's hope you can put them to good use...",
+	"ModPrefix": "Koopa",
+	"PackArt": "Pack Crypt.png",
+    "ValidFor": ["GrimoraPack"]
+}

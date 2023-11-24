@@ -1,0 +1,17 @@
+{
+	"name": "Naval_Piranha",
+	"modPrefix": "Mushroom",
+	"displayedName": "Naval Piranha",
+	"baseAttack": 2,
+	"baseHealth": 3,
+	"energyCost": 6,
+	"abilities": ["nevernamed.inscryption.sigils.Enemy Lines"],
+	"metaCategories": ["Rare"],
+	"cardComplexity": "Intermediate",
+	"temple": "Nature",
+	"description": "The towering Megaleg. Such power comes with a cost, as it lacks the ability to attack what's exactly below or above it...",
+	"appearanceBehaviour": ["RareCardBackground"],
+	"texture": "Naval Piranha.png",
+	"emissionTexture": "Naval Piranha_e.png",
+	"tribes": ["tribes.libary.piranha_plant","tribes.libary.giant"]
+}

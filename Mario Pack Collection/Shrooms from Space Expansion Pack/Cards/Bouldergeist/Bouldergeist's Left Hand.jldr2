@@ -1,0 +1,12 @@
+{
+	"name": "Bouldergeist_Hand_Left",
+	"modPrefix": "Mushroom",
+	"displayedName": "Bouldergeist's Left Hand",
+	"baseAttack": 2,
+	"baseHealth": 4,
+	"bonesCost": 4,
+	"cardComplexity": "Intermediate",
+	"temple": "Nature",
+	"description": "The Cruel Bouldergeist. Made of sprits and stone, this ghost can be considered a living graveyard...",
+	"texture": "Bouldergeist Hand_Left.png"
+}

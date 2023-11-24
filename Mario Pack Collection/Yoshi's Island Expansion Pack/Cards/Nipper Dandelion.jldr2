@@ -1,0 +1,17 @@
+{
+	"name": "Nipper_Dandelion",
+	"modPrefix": "Yoshi",
+	"displayedName": "Nipper Dandelion",
+	"baseHealth": 5,
+	"abilities": ["org.memez4life.inscryption.customsigils.Host","org.memez4life.inscryption.customsigils.Launcher"],
+	"metaCategories": ["ChoiceNode","TraderOffer"],
+	"cardComplexity": "Intermediate",
+	"temple": "Nature",
+	"description": "A Nipper Dandelion. It lacks a way to fight on its own, but maybe we can put its spores to good use?",
+	"appearanceBehaviour": ["TerrainLayout","TerrainBackground"],
+	"texture": "Nipper Dandelion.png",
+	"emissionTexture": "Nipper Dandelion_e.png",
+	"traits": ["Terrain"],
+	"iceCubeName": "Yoshi_Nipper_Spore",
+	"pixelTexture": "Nipper Dandelion Act 2.png"
+}

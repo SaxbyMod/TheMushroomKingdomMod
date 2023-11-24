@@ -1,0 +1,17 @@
+{
+	"name": "Mushroom_Poltergiest",
+	"modPrefix": "Gallery",
+	"displayedName": "Poltergiest",
+	"baseAttack": 1,
+	"baseHealth": 3,
+	"bonesCost": 5,
+	"abilities": ["nevernamed.inscryption.sigils.Telepathic"],
+	"metaCategories": ["Rare"],
+	"cardComplexity": "Intermediate",
+	"temple": "Nature",
+	"description": "The genius Poltergiest. One of the smarter kinds of ghosts, it'll use telekinesis to acheive its goals...",
+	"appearanceBehaviour": ["RareCardBackground"],
+	"texture": "Poltergiest.png",
+	"emissionTexture": "Poltergiest_e.png",
+	"tribes": ["tribes.libary.ghoul"]
+}

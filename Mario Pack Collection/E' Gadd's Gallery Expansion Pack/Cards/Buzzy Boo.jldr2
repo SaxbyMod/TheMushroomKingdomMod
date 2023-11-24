@@ -1,0 +1,18 @@
+{
+	"name": "Buzzy_Boo",
+	"modPrefix": "Mushroom",
+	"displayedName": "Buzzy Boo",
+	"baseAttack": 1,
+	"baseHealth": 3,
+	"bonesCost": 4,
+	"energyCost": 0,
+	"abilities": ["creator.TooManySigils.Host"],
+	"iceCubeName": "Mushroom_Spooky_Bee",
+	"metaCategories": ["ChoiceNode","TraderOffer"],
+	"cardComplexity": "Intermediate",
+	"temple": "Nature",
+	"description": "A boo that's even more shy than usual. It seems to have a connection insects, but tends to stray to bees the most...",
+	"texture": "Buzzy Boo.png",
+	"emissionTexture": "Buzzy Boo_e.png",
+	"tribes": ["tribes.libary.spectral","tribes.libary.boo","Insect","tribes.libary.minsect"]
+}

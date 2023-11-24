@@ -1,0 +1,214 @@
+{
+  "cardName": "Mushroom_Peach",
+  "faceSprite": "Peach Base.png",
+  "eyeSprites": {
+    "open": "Peach Eyes Open.png",
+    "closed": "Peach Eyes Closed.png"
+  },
+  "mouthSprites": {
+    "open": "Peach Mouth Open.png",
+    "closed": "Peach Mouth Closed.png"
+  },
+  "emissionSprites": {
+    "open": "Peach Emmisive Open.png",
+    "closed": "Peach Emmisive Closed.png"
+  },
+  "faceInfo": {
+    "blinkRate": 0.5,
+    "customVoice": "Peach_Talk.wav"
+  },
+  "dialogueEvents": [
+    {
+      "eventName": "OnDrawn",
+      "mainLines": [
+        "I hope you'll fare",
+	"better than the last one.",
+	"*sigh* poor little Toad..."
+      ],
+      "repeatLines": [
+        [
+          "Greetings.",
+        ],
+        [
+          "I hope we're winning..."
+        ],
+        [
+          "You doing alright?"
+        ]
+      ]
+    },
+    {
+      "eventName": "OnPlayFromHand",
+      "mainLines": [
+        "Very well."
+      ],
+      "repeatLines": [
+        [
+          "Got it!"
+        ],
+	[
+          "I'll fight if I have to."
+        ]
+      ]
+    },
+    {
+      "eventName": "OnAttacked",
+      "mainLines": [
+        "Gah..."
+      ],
+      "repeatLines": [
+        [
+          "Enough!"
+        ],
+        [
+          "Such Insolence!"
+        ]
+      ]
+    },
+    {
+      "eventName": "OnBecomeSelectablePositive",
+      "mainLines": [
+        "Pick me! NOW!"
+      ],
+      "repeatLines": [
+        [
+          "You know what to do!"
+        ]
+      ]
+    },
+    {
+      "eventName": "OnBecomeSelectableNegative",
+      "mainLines": [
+        "Well...I won't stop you."
+      ],
+      "repeatLines": [
+        [
+          "Hmm...."
+        ]
+      ]
+    },
+    {
+      "eventName": "OnSacrificed",
+      "mainLines": [
+        "Oh my...."
+      ],
+      "repeatLines": [
+        [
+          "Oh no..."
+        ]
+      ]
+    },
+    {
+      "eventName": "OnSelectedForDeckTrial",
+      "mainLines": [
+        "May fortune be with us."
+      ],
+      "repeatLines": [
+        [
+          "Best of luck!"
+        ]
+      ]
+    },
+    {
+      "eventName": "OnSelectedForCardMerge",
+      "mainLines": [
+        "A royal power-up."
+      ],
+      "repeatLines": [
+        [
+          "Truely, an honour."
+        ]
+      ]
+    },
+    {
+      "eventName": "OnSelectedForCardRemove",
+      "mainLines": [
+        "I wish it didn't come to this."
+      ],
+      "repeatLines": [
+        [
+          "Do the right thing..."
+        ]
+      ]
+    },
+    {
+      "eventName": "OnDiscoveredInExploration",
+      "mainLines": [
+        "Mario?!",
+	"Oh... Another victim?",
+	"Maybe you'll have better luck?"
+      ],
+      "repeatLines": [
+        [
+          "Here we are. Once again."
+        ]
+      ]
+    },
+    {
+      "eventName": "ProspectorBoss",
+      "mainLines": [
+        "Please, Prospector! Don't do this!"
+      ],
+      "repeatLines": [
+        [
+          "Like the mule, he's stubborn."
+        ]
+      ]
+    },
+    {
+      "eventName": "OnDrawn",
+      "mainLines": [
+	"Oh dear... Such a stench..."
+      ],
+      "repeatLines": [
+        [
+          "Please mind the hook."
+        ]
+      ]
+    },
+    {
+      "eventName": "TrapperTraderBoss",
+      "mainLines": [
+        "Such a morbid business..."
+      ],
+      "repeatLines": [
+        [
+          "Why not use coins instead..."
+        ]
+      ]
+    },
+    {
+      "eventName": "LeshyBoss",
+      "mainLines": [
+	"For the Mushroom Kingdom, we can't fail!"
+      ],
+      "repeatLines": [
+        [
+          "We're so close! Don't let up now!"
+        ]
+      ]
+    },
+    {
+      "eventName": "OnDrawn",
+      "mainLines": [
+        "Huh. Didn't see that coming."
+      ],
+      "repeatLines": [
+        [
+          "Guess he hasn't learned his lesson, huh?"
+        ]
+      ]
+    },
+    {
+      "eventName": "DefaultOpponent",
+      "mainLines": [
+        "Shall I be of assistance?"
+      ],
+      "repeatLines": [
+        [
+          "Greetings."
+        ]
+      ]
+    }
+  ]
+}

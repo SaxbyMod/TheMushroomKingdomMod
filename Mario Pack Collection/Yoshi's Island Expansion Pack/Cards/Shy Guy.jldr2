@@ -1,0 +1,17 @@
+{
+	"name": "Shy_Guy",
+	"modPrefix": "Yoshi",
+	"displayedName": "Shy Guy",
+	"baseAttack": 1,
+	"baseHealth": 2,
+	"bloodCost": 1,
+	"metaCategories": ["ChoiceNode","TraderOffer"],
+	"tribes": ["tribes.libary.shyguy"],
+	"cardComplexity": "Intermediate",
+	"temple": "Nature",
+	"description": "The properly named Shy Guy. A weaking compared to others, but within lies hellish hate...",
+	"texture": "Shy Guy.png",
+	"emissionTexture": "Shy Guy_e.png",
+	"iceCubeName": "Yoshi_Ghoul_Guy",
+	"pixelTexture": "Shy Guy Act 2.png"
+}

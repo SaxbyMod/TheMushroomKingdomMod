@@ -1,0 +1,14 @@
+{
+    "decks": [
+        {
+            "name": "ShyGuy",
+            "iconTexture": "Starter Deck Shy.png",
+            "cards": [ "Yoshi_Shy_Guy", "Yoshi_Shy_Squad", "Yoshi_Snifit" ]
+        },
+	{
+            "name": "Money",
+            "iconTexture": "Starter Deck Bandit.png",
+            "cards": [ "Yoshi_Bandit", "Yoshi_Lil_Mouser", "Yoshi_Whirly_Fly_Guy" ]
+        }
+    ]
+}

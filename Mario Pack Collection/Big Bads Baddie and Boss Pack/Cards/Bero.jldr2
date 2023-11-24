@@ -1,0 +1,16 @@
+{
+	"name": "Bero",
+	"modPrefix": "Mushroom",
+	"displayedName": "Bero",
+	"baseAttack": 1,
+	"baseHealth": 3,
+	"bonesCost": 5,
+	"abilities": ["nevernamed.inscryption.sigils.Waterbird"],
+	"metaCategories": ["ChoiceNode","TraderOffer"],
+	"cardComplexity": "Intermediate",
+	"temple": "Nature",
+	"tribes": ["tribes.libary.ghoul"],
+	"description": "The lazy Bero. Known to let their tounges drop, hoping to lure victims from the deep.",
+	"texture": "Bero.png",
+	"emissionTexture": "Bero_e.png"
+}

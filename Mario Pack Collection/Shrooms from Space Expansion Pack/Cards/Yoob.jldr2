@@ -1,0 +1,17 @@
+{
+	"name": "Yoob",
+	"modPrefix": "Yoshi",
+	"displayedName": "Yoob",
+	"baseAttack": 1,
+	"baseHealth": 2,
+	"bloodCost": 1,
+	"metaCategories": ["Rare"],
+	"abilities": ["org.memez4life.inscryption.customsigils.Wild hunger"],
+	"appearanceBehaviour": ["RareCardBackground"],
+	"cardComplexity": "Intermediate",
+	"temple": "Nature",
+	"tribes": ["Reptile"],
+	"description": "The Gluttonous Yoob. It gets stronger with what it eats, but sacrifices must be made...",
+	"texture": "Yoob.png",
+	"emissionTexture": "Yoob_e.png"
+}

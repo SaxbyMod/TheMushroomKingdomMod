@@ -1,0 +1,17 @@
+{
+	"name": "Blooper_Nanny",
+	"modPrefix": "Mushroom",
+	"displayedName": "Blooper Nanny",
+	"baseAttack": 1,
+	"baseHealth": 3,
+	"bloodCost": 2,
+	"abilities": ["creator.TooManySigils.Host"],
+	"metaCategories": ["ChoiceNode","TraderOffer"],
+	"cardComplexity": "Intermediate",
+	"temple": "Nature",
+	"tribes": ["tribes.libary.blooper","tribes.libary.tentacle"],
+	"description": "The caring Blooper Nanny. Should she be struck, her children will join the fight in retaliation.",
+	"texture": "Blooper Nanny.png",
+	"emissionTexture": "Blooper Nanny_e.png",
+	"iceCubeName": "Mushroom_Baby_Blooper"
+}

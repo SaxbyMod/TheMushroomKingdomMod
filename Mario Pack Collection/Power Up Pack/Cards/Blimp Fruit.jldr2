@@ -1,0 +1,14 @@
+{
+	"name": "Blimp_Fruit",
+	"modPrefix": "Mushroom",
+	"displayedName": "Blimp Fruit",
+	"baseHealth": 2,
+	"baseAttack": 0,
+	"abilities": ["creator.TooManySigils.Rotting","Flying"],
+	"cardComplexity": "Intermediate",
+	"temple": "Nature",
+	"description": "The airheaded Blimp Fruit. Once sacrificed, it'll grant the bearer the ability to fly how long they can hold their breath...",
+	"metaCategories": ["ChoiceNode","TraderOffer"],
+	"texture": "Blimp Fruit.png",
+	"emissionTexture": "Blimp Fruit_e.png"
+}

@@ -1,0 +1,21 @@
+{
+	"name": "Mushroom_Kamek",
+	"modPrefix": "Mushroom",
+	"displayedName": "Yoshi",
+	"baseAttack": 2,
+	"baseHealth": 4,
+	"bloodCost": 2,
+	"abilities": ["nevernamed.inscryption.sigils.Transmogrification"],
+	"extensionProperties": {
+    	"TransmogrificationOverride": "Yoshi_Shy_Guy"
+  	},
+	"metaCategories": ["Rare"],
+	"cardComplexity": "Intermediate",
+	"temple": "Nature",
+	"description": "The magical Kamek. Caretaker of King Bowser, They'll stop at nothing to protect their home...",
+	"appearanceBehaviour": ["RareCardBackground"],
+	"texture": "Kamek.png",
+	"emissionTexture": "Kamek_e.png",
+	"tribes": ["Reptile"],
+	"traits": ["Gem"]
+}

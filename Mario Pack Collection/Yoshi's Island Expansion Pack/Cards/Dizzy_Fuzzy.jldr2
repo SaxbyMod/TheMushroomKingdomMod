@@ -1,0 +1,14 @@
+{
+	"name": "Dizzy_Fuzzy",
+	"modPrefix": "Yoshi",
+	"displayedName": "Fuzzy",
+	"baseAttack": 1,
+	"baseHealth": 1,
+	"abilities": ["DrawCopyOnDeath","Brittle","extraVoid.inscryption.voidSigils.Toxin (Sickening)"],
+	"metaCategories": ["ChoiceNode","TraderOffer"],
+	"cardComplexity": "Intermediate",
+	"temple": "Nature",
+	"description": "Touch Fuzzy, get dizzy...",
+	"texture": "Dizzy_Fuzzy.png",
+	"emissionTexture": "Dizzy_Fuzzy_e.png"
+}

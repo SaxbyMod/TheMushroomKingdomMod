@@ -1,0 +1,17 @@
+{
+	"name": "Bloopurn",
+	"modPrefix": "Koopa",
+	"displayedName": "Bloopurn",
+	"baseAttack": 0,
+	"baseHealth": 3,
+	"bonesCost": 6,
+	"abilities": ["org.memez4life.inscryption.customsigils.Launcher"],
+	"metaCategories": ["arackulele.inscryption.grimoramod.GrimoraModChoiceNode"],
+	"cardComplexity": "Intermediate",
+	"temple": "Nature",
+	"description": "It confuses me how Grimora was able to create this before I caught her. Did she discover the Mushroom Kingdom before me?",
+	"texture": "Grimora Bloopurn.png",
+	"emissionTexture": "Grimora Bloopurn_e.png",
+	"tribes": ["None"],
+	"iceCubeName": "Koopa_Blooper_Mummy"
+}

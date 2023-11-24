@@ -1,0 +1,17 @@
+{
+	"name": "Inviso",
+	"modPrefix": "Yoshi",
+	"displayedName": "Inviso",
+	"baseAttack": 2,
+	"baseHealth": 1,
+	"bonesCost": 5,
+	"metaCategories": ["Rare"],
+	"abilities": ["nevernamed.inscryption.sigils.Immaterial","nevernamed.inscryption.sigils.Haunter"],
+	"cardComplexity": "Advanced",
+	"temple": "Nature",
+	"description": "The trickster Inviso. It's invisibility allows it to avoid attacks, for better or worse...",
+	"texture": "Inviso.png",
+	"emissionTexture": "Inviso_e.png",
+	"appearanceBehaviour": ["RareCardBackground"],
+	"tribes": ["tribes.libary.spirit"]
+}

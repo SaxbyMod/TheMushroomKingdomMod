@@ -1,0 +1,7 @@
+{
+	"Title": "Bob-omb Factory Expansion Pack",
+	"Description": "Yikes! Looks like P03 somehow snatched Bowsers schematics, and is now making a new legion of robotic cards! A total of [count] creatures await in the pack. WARNING: Not Misplay Proof.",
+	"ModPrefix": "Factory",
+	"PackArt": "Pack Factory.png",
+    "ValidFor": ["P03Pack"]
+}

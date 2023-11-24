@@ -1,0 +1,15 @@
+{
+	"name": "Nipper_Plant",
+	"modPrefix": "Yoshi",
+	"displayedName": "Nipper Plant",
+	"baseAttack": 1,
+	"baseHealth": 3,
+	"bloodCost": 1,
+	"abilities": ["extraVoid.inscryption.voidSigils.Predator"],
+	"metaCategories": ["ChoiceNode","TraderOffer"],
+	"cardComplexity": "Intermediate",
+	"temple": "Nature",
+	"description": "The peckish Nipper Plant. Although just a juvenile, their jaws pack a mean bite.",
+	"texture": "Nipper Plant.png",
+	"emissionTexture": "Nipper Plant_e.png"
+}

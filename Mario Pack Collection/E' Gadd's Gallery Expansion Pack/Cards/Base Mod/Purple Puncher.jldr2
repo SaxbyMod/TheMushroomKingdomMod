@@ -1,0 +1,16 @@
+{
+	"name": "Purple_Puncher",
+	"modPrefix": "Mushroom",
+	"displayedName": "Purple Puncher",
+	"baseAttack": 2,
+	"baseHealth": 1,
+	"bonesCost": 4,
+	"abilities": ["Flying","nevernamed.inscryption.sigils.Lash Out"],
+	"cardComplexity": "Advanced",
+	"temple": "Nature",
+	"metaCategories": ["ChoiceNode","TraderOffer"],
+	"description": "The devilish Purple Puncher. It's uppercuts are as deceiving as its name, being pink rather than purple...",
+	"texture": "Purple Puncher.png",
+	"emissionTexture": "Purple Puncher_e.png",
+	"tribes": ["None"]
+}

@@ -1,0 +1,20 @@
+{
+	"name": "Boo_Blah",
+	"modPrefix": "Yoshi",
+	"displayedName": "Boo Blah",
+	"baseAttack": 0,
+	"baseHealth": 2,
+	"bonesCost": 1,
+	"abilities": ["Strafe","Evolve"],
+	"evolveIntoName": "Boo_Blah_Stretched",
+	"evolveTurns": 1,
+	"metaCategories": ["ChoiceNode","TraderOffer"],
+	"cardComplexity": "Intermediate",
+	"temple": "Nature",
+	"description": "The sly Boo Blah. Known to slink up to prey before lunging out to frighten their prey...",
+	"texture": "Boo Blah.png",
+	"emissionTexture": "Boo Blah_e.png",
+		"tribes": [
+  "tribes.libary.spectral"
+]
+}

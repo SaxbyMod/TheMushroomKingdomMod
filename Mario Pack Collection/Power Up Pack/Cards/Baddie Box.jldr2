@@ -1,0 +1,19 @@
+{
+  "name": "Baddie_Box",
+  "modPrefix": "Mushroom",
+  "displayedName": "Baddie Box",
+  "description": "The mysterious Baddie Box. Known to summon a random creature to hinder their target's progress.",
+  "metaCategories": ["ChoiceNode", "TraderOffer"],
+  "cardComplexity": "Intermediate",
+  "temple": "Nature",
+   "tribes": [
+    "tribes.libary.itembox"
+  ],
+  "baseHealth": 1,
+  "energyCost": 3,
+  "abilities": [
+    "nevernamed.inscryption.sigils.Summoner","nevernamed.inscryption.sigils.Instant Effect"
+  ],
+  "texture": "Baddie Box.png",
+  "emissionTexture": "Baddie Box_e.png"
+}

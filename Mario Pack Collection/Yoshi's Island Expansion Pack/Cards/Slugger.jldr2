@@ -1,0 +1,17 @@
+{
+	"name": "Slugger",
+	"modPrefix": "Yoshi",
+	"displayedName": "Slugger",
+	"baseAttack": 1,
+	"baseHealth": 2,
+	"bloodCost": 2,
+	"abilities": ["nevernamed.inscryption.sigils.Home Run","nevernamed.inscryption.sigils.Erratic"],
+	"metaCategories": ["ChoiceNode","TraderOffer"],
+	"tribes": ["tribes.libary.shyguy"],
+	"cardComplexity": "Intermediate",
+	"temple": "Nature",
+	"description": "Up to bat, the Slugger. Known partner of the Green Glove, They will always swing for the fences, if not a specific target.",
+	"texture": "Slugger.png",
+	"emissionTexture": "Slugger_e.png",
+	"iceCubeName": "Yoshi_Ghoul_Guy"
+}

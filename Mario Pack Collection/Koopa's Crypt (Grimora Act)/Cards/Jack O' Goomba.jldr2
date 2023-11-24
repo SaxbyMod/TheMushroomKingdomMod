@@ -1,0 +1,17 @@
+{
+	"name": "Jack_O_Goomba",
+	"modPrefix": "Koopa",
+	"displayedName": "Jack O'Goomba",
+	"baseAttack": 1,
+	"baseHealth": 3,
+	"bonesCost": 4,
+	"abilities": ["creator.TooManySigils.Spawner"],
+	"iceCubeName":"Koopa_Wisp",
+	"metaCategories": ["arackulele.inscryption.grimoramod.GrimoraModChoiceNode"],
+	"cardComplexity": "Intermediate",
+	"temple": "Nature",
+	"description": "A Lit up Jack-O-Goomba. Rumor has it that wearing the pumpkin allows Goomba's to traverse the spirit world while alive...",
+	"texture": "Grimora Jack-o-Goomba.png",
+	"emissionTexture": "Grimora Jack-o-Goomba_e.png",
+	"pixelTexture": "Jack-O-Goomba Act 2.png"
+}

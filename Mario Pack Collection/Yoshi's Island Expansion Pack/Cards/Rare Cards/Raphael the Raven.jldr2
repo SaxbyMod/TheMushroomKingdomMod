@@ -1,0 +1,17 @@
+{
+	"name": "Raphael_Raven",
+	"modPrefix": "Yoshi",
+	"displayedName": "Raphael the Raven",
+	"baseAttack": 2,
+	"baseHealth": 4,
+	"bloodCost": 2,
+	"abilities": ["BuffNeighbours","extraVoid.inscryption.voidSigils.Enforcer"],
+	"metaCategories": ["Rare"],
+	"cardComplexity": "Intermediate",
+	"temple": "Nature",
+	"description": "The enigmatic Raphael the Raven. Leader of the Ravens, he has been deemed a legend on Yoshi's Island ever since his dissappearance...",
+	"appearanceBehaviour": ["RareCardBackground"],
+	"texture": "Raphael the Raven.png",
+	"emissionTexture": "Raphael the Raven_e.png",
+	"tribes": ["Bird"]
+}

@@ -1,0 +1,17 @@
+{
+	"name": "Dry_Bones",
+	"modPrefix": "Koopa",
+	"displayedName": "Dry Bones",
+	"baseAttack": 1,
+	"baseHealth": 1,
+	"bonesCost": 2,
+	"energyCost": 0,
+	"abilities": ["QuadrupleBones","Brittle"],
+	"metaCategories": ["arackulele.inscryption.grimoramod.GrimoraModChoiceNode"],
+	"cardComplexity": "Simple",
+	"temple": "Nature",
+	"description": "A Koopa that has defied death. Won't stay together for long, however...",
+	"texture": "Grimora Dry Bones.png",
+	"emissionTexture": "Grimora Dry Bones_e.png",
+	"pixelTexture": "Dry Bones Act 2.png"
+}

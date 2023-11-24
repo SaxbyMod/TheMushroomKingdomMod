@@ -1,0 +1,16 @@
+{
+	"name": "Gooper_Blooper",
+	"modPrefix": "Mushroom",
+	"displayedName": "Gooper Blooper",
+	"baseAttack": 2,
+	"baseHealth": 4,
+	"bloodCost": 2,
+	"abilities": ["nevernamed.inscryption.sigils.Divisibility Strike"],
+	"metaCategories": ["Rare"],
+	"cardComplexity": "Intermediate",
+	"temple": "Nature",
+	"description": "The inky Gooper Blooper. Its tenticles allow it to attack all sides...",
+	"appearanceBehaviour": ["RareCardBackground"],
+	"texture": "Gooper Blooper.png",
+	"emissionTexture": "Gooper Blooper_e.png"
+}

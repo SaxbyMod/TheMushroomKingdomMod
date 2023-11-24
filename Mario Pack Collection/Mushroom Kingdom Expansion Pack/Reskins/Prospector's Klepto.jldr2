@@ -1,0 +1,12 @@
+{
+	"name": "Mule",
+	"modPrefix": "Mushroom",
+	"displayedName": "Klepto",
+	"texture": "Klepto.png",
+	"baseAttack": 0,
+	"baseHealth": 4,
+	"bloodCost": 2,
+	"abilities": ["Flying","Strafe"],
+	"emissionTexture": "Klepto_e.png",
+	"tribes": ["Bird"]
+}

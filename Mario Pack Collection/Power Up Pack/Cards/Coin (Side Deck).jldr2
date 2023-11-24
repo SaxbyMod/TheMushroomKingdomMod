@@ -1,0 +1,25 @@
+{
+    "name": "Coin",
+    "modPrefix": "Mushroom",
+    "extensionProperties": {
+	"CSDIsSideDeck": "true",
+  "CSDSideDeckType": "Configurable",
+  "CSDNumCards": "15",
+  "CSDNumOptions": "5",
+  "CSDOption1": "Mushroom_Goombrat",
+  "CSDOption2": "Mushroom_Fireball",
+  "CSDOption3": "Mushroom_Mini_Star",
+  "CSDOption4": "Mushroom_Mini_Ztar",
+  "CSDOption5": "Mushroom_Coin"	
+    },
+    "abilities": ["nevernamed.inscryption.sigils.Valuable"],
+    "description": "A coin for your troubles?",
+    "displayedName": "Coin",
+    "texture": "Golden Coin.png",
+    "baseAttack": 0,
+    "baseHealth": 1,
+    "emissionTexture": "Golden Coin_e.png",
+    "pixelTexture": "Coin_Act 2.png",
+    "traits": ["Terrain"],
+    "appearanceBehaviour": ["TerrainLayout","TerrainBackground"]
+}

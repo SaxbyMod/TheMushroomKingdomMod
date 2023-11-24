@@ -1,0 +1,14 @@
+{
+    "decks": [
+	{
+            "name": "Ghostly",
+            "iconTexture": "Starter Deck Ghosts.png",
+            "cards": [ "Gallery_Slammer", "Gallery_Sneaker", "Gallery_Hider","Gallery_Gobber" ]
+        },
+	{
+            "name": "Boo",
+            "iconTexture": "Starter Deck Boo.png",
+            "cards": [ "Gallery_King_Boo", "Gallery_Boo", "Gallery_Boo_Ring" ]
+        }
+    ]
+}

@@ -1,0 +1,22 @@
+{
+	"name": "Shy_Squad",
+	"modPrefix": "Yoshi",
+	"displayedName": "Shy Squad",
+	"baseAttack": 2,
+	"baseHealth": 4,
+	"bloodCost": 2,
+	"abilities": ["nevernamed.inscryption.sigils.Legion"],
+	"extensionProperties": {
+    	"LegionOverride": "Yoshi_Shy_Guy"
+  	},
+	"metaCategories": ["ChoiceNode","TraderOffer"],
+	"cardComplexity": "Intermediate",
+	"temple": "Nature",
+	"tribes": ["tribes.libary.shy_guy"],
+	"description": "A banded up Shy Squad. They stand united, but break formation easily.",
+	"appearanceBehaviour": ["RareCardBackground"],
+	"texture": "Shy Squad.png",
+	"iceCubeName": "Mushroom_Shy_Guy",
+	"emissionTexture": "Shy Squad_e.png",
+	"pixelTexture": "Shy Squad Act 2.png"
+}

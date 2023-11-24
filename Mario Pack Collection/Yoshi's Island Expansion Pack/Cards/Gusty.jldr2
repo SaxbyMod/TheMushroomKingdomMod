@@ -1,0 +1,16 @@
+{
+	"name": "Mushroom_Gusty",
+	"modPrefix": "Yoshi",
+	"displayedName": "Gusty",
+	"baseAttack": 2,
+	"baseHealth": 2,
+	"bonesCost": 1,
+	"energyCost": 0,
+	"abilities": ["Flying","extraVoid.inscryption.voidSigils.Haste"],
+	"metaCategories": ["ChoiceNode","TraderOffer"],
+	"cardComplexity": "Intermediate",
+	"temple": "Nature",
+	"description": "The windy Gusty. Known to soar the skies without a care in the world...",
+	"texture": "Gusty.png",
+	"emissionTexture": "Gusty_e.png"
+}

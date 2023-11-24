@@ -1,0 +1,15 @@
+{
+	"name": "Blockhopper",
+	"modPrefix": "Mushroom",
+	"displayedName": "Blockhopper",
+	"baseAttack": 1,
+	"baseHealth": 2,
+	"bloodCost": 2,
+	"abilities": ["Reach","nevernamed.inscryption.sigils.Resilient"],
+	"metaCategories": ["ChoiceNode","TraderOffer"],
+	"cardComplexity": "Intermediate",
+	"temple": "Nature",
+	"description": "The sly Blockhopper. Known to block attackers with it's block stack hat.",
+	"texture": "Blockhopper.png",
+	"emissionTexture": "Blockhopper_e.png"
+}

@@ -1,0 +1,16 @@
+{
+	"name": "Mr_I",
+	"modPrefix": "Koopa",
+	"displayedName": "Mr.I",
+	"baseAttack": 1,
+	"baseHealth": 3,
+	"bonesCost": 4,
+	"energyCost": 0,
+	"abilities": ["Sniper"],
+	"metaCategories": ["arackulele.inscryption.grimoramod.GrimoraModChoiceNode"],
+	"cardComplexity": "Intermediate",
+	"temple": "Nature",
+	"description": "The all-seeing Mr.I. those who witness its stare told of being paralized with fear...",
+	"texture": "Grimora Mr I.png",
+	"emissionTexture": "Grimora Mr I_e.png"
+}

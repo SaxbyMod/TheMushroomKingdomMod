@@ -1,0 +1,16 @@
+{
+	"name": "Fish_Bone",
+	"modPrefix": "Koopa",
+	"displayedName": "Fish Bone",
+	"baseAttack": 3,
+	"baseHealth": 1,
+	"bonesCost": 2,
+	"energyCost": 0,
+	"abilities": ["Brittle","Sniper"],
+	"metaCategories": ["arackulele.inscryption.grimoramod.GrimoraModChoiceNode"],
+	"cardComplexity": "Intermediate",
+	"temple": "Undead",
+	"description": "The unsettling Fish Bone. It's capable of only one powerful attack before shattering. Choose its target wisely...",
+	"texture": "Grimora Fish Bone.png",
+	"emissionTexture": "Grimora Fish Bone_e.png"
+}

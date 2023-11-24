@@ -1,0 +1,7 @@
+{
+  "maskName": "Mushroom_Buzzar",
+  "type": "Override",
+  "texturePath": "mask_buzzar.png",
+  "maskType": "Prospector",
+  "modelType": "FlatMask"
+}

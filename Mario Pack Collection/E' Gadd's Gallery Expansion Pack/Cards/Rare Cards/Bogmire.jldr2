@@ -1,0 +1,22 @@
+{
+	"name": "Bogmire",
+	"modPrefix": "Gallery",
+	"displayedName": "Bogmire",
+	"baseAttack": 2,
+	"baseHealth": 3,
+	"bonesCost": 6,
+	"abilities": ["nevernamed.inscryption.sigils.Harbinger"],
+	"extensionProperties": {
+    	"HarbingerLeaveBehind": "Gallery_Bogmire_Shadow"
+  	},
+	"cardComplexity": "Advanced",
+	"temple": "Nature",
+	"metaCategories": ["Rare"],
+	"onePerDeck": true,
+	"description": "The miserable Bogmire. It is told this spirit is the product of a manor's fear and dispair...",
+	"texture": "Bogmire.png",
+	"emissionTexture": "Bogmire_e.png",
+	"appearanceBehaviour": ["RareCardBackground"],
+	"iceCubeName": "Mushroom_Bogmire_Shadow",
+	"tribes": ["None"]
+}

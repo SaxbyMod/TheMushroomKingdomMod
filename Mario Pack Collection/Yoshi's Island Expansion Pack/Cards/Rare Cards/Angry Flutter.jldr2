@@ -1,0 +1,16 @@
+{
+	"name": "Angry_Flutter",
+	"modPrefix": "Mushroom",
+	"displayedName": "Angry Flutter",
+	"baseAttack": 3,
+	"baseHealth": 3,
+	"abilities": ["Evolve","Flying"],
+	"evolveIntoName": "Mushroom_Flutter",
+	"evolveTurns": 2,
+	"cardComplexity": "Advanced",
+	"temple": "Nature",
+	"appearanceBehaviour": ["RareCardBackground"],
+	"texture": "Angry_Flutter.png",
+	"emissionTexture": "Angry_Flutter_e.png",
+	"tribes": ["Insect"]
+}

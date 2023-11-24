@@ -1,0 +1,208 @@
+{
+  "cardName": "Mushroom_Weasel_Kid",
+  "faceSprite": "Weasel Kid Base.png",
+  "mouthSprites": {
+    "open": "Weasel Kid Mouth Open.png",
+    "closed": "Weasel Kid Mouth Closed.png"
+  },
+  "emissionSprites": {
+    "open": "Weasel Kid Emmisive.png"
+  },
+  "faceInfo": {
+    "customVoice": "Weasel Kid_Talk.wav"
+  },
+  "dialogueEvents": [
+    {
+      "eventName": "OnDrawn",
+      "mainLines": [
+        "This place...",
+	"It seems familiar to me...",
+	"Though I'm not sure why.."
+      ],
+      "repeatLines": [
+        [
+          "Again?",
+        ],
+        [
+          "It's me."
+        ],
+        [
+          "Let's get this done."
+        ]
+      ]
+    },
+    {
+      "eventName": "OnPlayFromHand",
+      "mainLines": [
+        "I can at least try."
+      ],
+      "repeatLines": [
+        [
+          "Back in the game..."
+        ],
+	[
+          "Here we go..."
+        ]
+      ]
+    },
+    {
+      "eventName": "OnAttacked",
+      "mainLines": [
+        "I've felt worse."
+      ],
+      "repeatLines": [
+        [
+          "I've felt worse."
+        ],
+        [
+          "Stop this..."
+        ]
+      ]
+    },
+    {
+      "eventName": "OnBecomeSelectablePositive",
+      "mainLines": [
+        "Hmmm...."
+      ],
+      "repeatLines": [
+        [
+          "It's your call."
+        ]
+      ]
+    },
+    {
+      "eventName": "OnBecomeSelectableNegative",
+      "mainLines": [
+        "Go on..."
+      ],
+      "repeatLines": [
+        [
+          "I won't blame you..."
+        ]
+      ]
+    },
+    {
+      "eventName": "OnSacrificed",
+      "mainLines": [
+        "I die once more."
+      ],
+      "repeatLines": [
+        [
+          "Very well then."
+        ]
+      ]
+    },
+    {
+      "eventName": "OnSelectedForDeckTrial",
+      "mainLines": [
+        "Sorry, in advance..."
+      ],
+      "repeatLines": [
+        [
+          "Sorry, in advance..."
+        ]
+      ]
+    },
+    {
+      "eventName": "OnSelectedForCardMerge",
+      "mainLines": [
+        "Very well..."
+      ],
+      "repeatLines": [
+        [
+          "If you say so..."
+        ]
+      ]
+    },
+    {
+      "eventName": "OnSelectedForCardRemove",
+      "mainLines": [
+        "Oh..."
+      ],
+      "repeatLines": [
+        [
+          "Stop this..."
+        ]
+      ]
+    },
+    {
+      "eventName": "OnDiscoveredInExploration",
+      "mainLines": [
+        "Hm?",
+	"Where am I? Last thing I remember...",
+	"I was waiting for a room at Six Pint Inn..."
+      ],
+      "repeatLines": [
+        [
+          "Here I am. Again..."
+        ]
+      ]
+    },
+    {
+      "eventName": "ProspectorBoss",
+      "mainLines": [
+        "Here I thought I've seen crazy..."
+      ],
+      "repeatLines": [
+        [
+          "Mind it I wait until phase 2?"
+        ]
+      ]
+    },
+    {
+      "eventName": "OnDrawn",
+      "mainLines": [
+	"I got a bad feeling about this guy."
+      ],
+      "repeatLines": [
+        [
+          "No hook, no buckets. Alright?"
+        ]
+      ]
+    },
+    {
+      "eventName": "TrapperTraderBoss",
+      "mainLines": [
+        "Such a betrayal. I pity you player."
+      ],
+      "repeatLines": [
+        [
+	  "If we must slay them, so be it."
+        ]
+      ]
+    },
+    {
+      "eventName": "LeshyBoss",
+      "mainLines": [
+	"Let's get this over with.",
+      ],
+      "repeatLines": [
+        [
+	  "I tire of this game..."
+        ]
+      ]
+    },
+    {
+      "eventName": "OnDrawn",
+      "mainLines": [
+        "Wait. What happened? Who's that?"
+      ],
+      "repeatLines": [
+        [
+          "Again with the pirates?"
+        ]
+      ]
+    },
+    {
+      "eventName": "DefaultOpponent",
+      "mainLines": [
+        "What's up?"
+      ],
+      "repeatLines": [
+        [
+          "Hey..."
+        ]
+      ]
+    }
+  ]
+}

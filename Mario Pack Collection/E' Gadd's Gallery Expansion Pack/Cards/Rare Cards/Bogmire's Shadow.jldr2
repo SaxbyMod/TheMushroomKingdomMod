@@ -1,0 +1,15 @@
+{
+	"name": "Bogmire_Shadow",
+	"modPrefix": "Gallery",
+	"displayedName": "Bogmire's Shadow",
+	"baseAttack": 1,
+	"baseHealth": 2,
+	"bonesCost": 3,
+	"cardComplexity": "Advanced",
+	"temple": "Nature",
+	"description": "A shadow of the miserable Bogmire. It is told this spirit is the product of a manor's fear and dispair...",
+	"texture": "Bogmire's Shadow.png",
+	"emissionTexture": "Bogmire's Shadow_e.png",
+	"appearanceBehaviour": ["RareCardBackground"],
+	"tribes": ["None"]
+}

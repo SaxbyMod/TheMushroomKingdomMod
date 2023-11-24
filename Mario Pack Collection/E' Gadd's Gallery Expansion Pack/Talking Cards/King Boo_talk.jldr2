@@ -1,0 +1,214 @@
+{
+  "cardName": "Gallery_King_Boo",
+  "faceSprite": "King Boo Base.png",
+  "eyeSprites": {
+    "open": "King Boo Eyes Open.png",
+    "closed": "King Boo Eyes Closed.png"
+  },
+  "mouthSprites": {
+    "open": "King Boo Mouth Open.png",
+    "closed": "King Boo Mouth Closed.png"
+  },
+  "emissionSprites": {
+    "open": "King Boo Emmisive Open.png",
+    "closed": "King Boo Emmisive Closed.png"
+  },
+  "faceInfo": {
+    "blinkRate": 0.5,
+    "customVoice": "King Boo test_Talk.wav"
+  },
+  "dialogueEvents": [
+    {
+      "eventName": "OnDrawn",
+      "mainLines": [
+        "Hehe... Why, hello player...",
+	"Don't worry, you aren't in danger.",
+	"Well, not from me at least..."
+      ],
+      "repeatLines": [
+        [
+          "We meet again...",
+        ],
+        [
+          "I'll make this quick."
+        ],
+        [
+          "E.Gaad?! Oh, it's you."
+        ]
+      ]
+    },
+    {
+      "eventName": "OnPlayFromHand",
+      "mainLines": [
+        "I'll fight like a TRUE Boo!"
+      ],
+      "repeatLines": [
+        [
+          "They're all going in a painting!"
+        ],
+	[
+          "Time to paint the town RED!"
+        ]
+      ]
+    },
+    {
+      "eventName": "OnAttacked",
+      "mainLines": [
+        "How DARE you?!,"
+      ],
+      "repeatLines": [
+        [
+          "Boo to you!"
+        ],
+        [
+          "How foolish!"
+        ]
+      ]
+    },
+    {
+      "eventName": "OnBecomeSelectablePositive",
+      "mainLines": [
+        "I like where this is going..."
+      ],
+      "repeatLines": [
+        [
+          "Hehehe..."
+        ]
+      ]
+    },
+    {
+      "eventName": "OnBecomeSelectableNegative",
+      "mainLines": [
+        "Would this be double death?"
+      ],
+      "repeatLines": [
+        [
+          "I'd rather not..."
+        ]
+      ]
+    },
+    {
+      "eventName": "OnSacrificed",
+      "mainLines": [
+        "Boo to you!"
+      ],
+      "repeatLines": [
+        [
+          "See you soon!"
+        ]
+      ]
+    },
+    {
+      "eventName": "OnSelectedForDeckTrial",
+      "mainLines": [
+        "Surprised to see me?"
+      ],
+      "repeatLines": [
+        [
+          "BOO! Hehehe..."
+        ]
+      ]
+    },
+    {
+      "eventName": "OnSelectedForCardMerge",
+      "mainLines": [
+        "Yes! Empower me!"
+      ],
+      "repeatLines": [
+        [
+          "Hehe... Good choice."
+        ]
+      ]
+    },
+    {
+      "eventName": "OnSelectedForCardRemove",
+      "mainLines": [
+        "DOUBLE DEATH?!"
+      ],
+      "repeatLines": [
+        [
+	  "I WILL haunt you!"
+        ]
+      ]
+    },
+    {
+      "eventName": "OnDiscoveredInExploration",
+      "mainLines": [
+        "Hehehe....",
+	"Hello, player...",
+	"Mind if I tag along?"
+      ],
+      "repeatLines": [
+        [
+          "Care for a haunt?"
+        ]
+      ]
+    },
+    {
+      "eventName": "ProspectorBoss",
+      "mainLines": [
+        "That banging's gonna haunt ME!"
+      ],
+      "repeatLines": [
+        [
+          "Let's take the Mule's soul!"
+        ]
+      ]
+    },
+    {
+      "eventName": "OnDrawn",
+      "mainLines": [
+	"First a vaccum, now a HOOK?!"
+      ],
+      "repeatLines": [
+        [
+          "Redirect that retched hook!"
+        ]
+      ]
+    },
+    {
+      "eventName": "TrapperTraderBoss",
+      "mainLines": [
+        "I hope you brought some pelts."
+      ],
+      "repeatLines": [
+        [
+          "You brought the pelts like I asked, yes?"
+        ]
+      ]
+    },
+    {
+      "eventName": "LeshyBoss",
+      "mainLines": [
+	"We shall fear no mere photographer!"
+      ],
+      "repeatLines": [
+        [
+          "Mind the ghosts of our past!"
+        ]
+      ]
+    },
+    {
+      "eventName": "OnDrawn",
+      "mainLines": [
+        "Now THIS is my kind of game!"
+      ],
+      "repeatLines": [
+        [
+          "Player beware... of the cannons!"
+        ]
+      ]
+    },
+    {
+      "eventName": "DefaultOpponent",
+      "mainLines": [
+        "Hehehe..."
+      ],
+      "repeatLines": [
+        [
+          "Ready to haunt!"
+        ]
+      ]
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+	"name": "Spooky_Bandit",
+	"modPrefix": "Yoshi",
+	"displayedName": "Spooky",
+	"baseAttack": 2,
+	"baseHealth": 3,
+	"bonesCost": 3,
+	"abilities": ["IceCube"],
+	"iceCubeName":"Yoshi_Bandit",
+	"cardComplexity": "Advanced",
+	"temple": "Nature",
+	"description": "The spooky, well, Spooky. You never know what's under the cloak until it's cover is blown...",
+	"texture": "Spooky.png",
+	"emissionTexture": "Spooky.png",
+	"tribes": ["tribes.libary.ghoul"]
+}

@@ -1,0 +1,17 @@
+{
+	"name": "Mr_I",
+	"modPrefix": "Mushroom",
+	"displayedName": "Mr.I",
+	"baseAttack": 1,
+	"baseHealth": 3,
+	"bonesCost": 4,
+	"energyCost": 0,
+	"abilities": ["Sniper"],
+	"metaCategories": ["ChoiceNode","TraderOffer"],
+	"cardComplexity": "Intermediate",
+	"temple": "Nature",
+	"description": "The all-seeing Mr.I. those who witness its stare told of being paralized with fear...",
+	"texture": "Mr. I.png",
+	"emissionTexture": "Mr. I_e.png",
+	"tribes": ["None"]
+}

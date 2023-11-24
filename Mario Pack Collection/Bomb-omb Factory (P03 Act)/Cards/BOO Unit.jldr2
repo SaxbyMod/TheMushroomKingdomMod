@@ -1,0 +1,15 @@
+{
+	"name": "BOO_Unit",
+	"modPrefix": "Factory",
+	"displayedName": "B.O.O. Unit",
+	"baseAttack": 1,
+	"baseHealth": 2,
+	"energyCost": 6,
+	"abilities": ["extraVoid.inscryption.voidSigils.Opportunist"],
+	"metaCategories": ["zorro.inscryption.infiniscryption.p03kayceerun.UndeadRegionCards"],
+	"cardComplexity": "Intermediate",
+	"temple": "Tech",
+	"description": "Yes. It's a ghost... and a machine. Don't get any funny ideas...",
+	"texture": "BOO Unit.png",
+	"pixelTexture": "Boo Act 2.png"
+}

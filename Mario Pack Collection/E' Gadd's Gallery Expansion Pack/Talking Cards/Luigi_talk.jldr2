@@ -1,0 +1,218 @@
+{
+  "cardName": "Gallery_Luigi",
+  "faceSprite": "Luigi Base.png",
+  "eyeSprites": {
+    "open": "Luigi Eyes Open.png",
+    "closed": "Luigi Eyes Closed.png"
+  },
+  "mouthSprites": {
+    "open": "Luigi Mouth Open.png",
+    "closed": "Luigi Mouth Closed.png"
+  },
+  "emissionSprites": {
+    "open": "Luigi Emmisive Open.png",
+    "closed": "Luigi Emmisive Closed.png"
+  },
+  "faceInfo": {
+    "blinkRate": 0.5,
+    "customVoice": "Luigi_Talk.wav"
+  },
+  "dialogueEvents": [
+    {
+      "eventName": "OnDrawn",
+      "mainLines": [
+        "I knew that photographer",
+	"was bad news...",
+	"I-Is my brother okay? Mario?"
+      ],
+      "repeatLines": [
+        [
+          "Hi...",
+        ],
+        [
+          "Uh oh... What now?"
+        ],
+        [
+          "Gulp..."
+        ]
+      ]
+    },
+    {
+      "eventName": "OnPlayFromHand",
+      "mainLines": [
+        "L-Let's a go..."
+      ],
+      "repeatLines": [
+        [
+          "I got a bad feeling about this."
+        ],
+	[
+          "This spot?",
+	  "Are you sure?"
+        ]
+      ]
+    },
+    {
+      "eventName": "OnAttacked",
+      "mainLines": [
+        "AH!,"
+      ],
+      "repeatLines": [
+        [
+          "No no no!"
+        ],
+        [
+          "Eeek!"
+        ]
+      ]
+    },
+    {
+      "eventName": "OnBecomeSelectablePositive",
+      "mainLines": [
+        "This... seems good?"
+      ],
+      "repeatLines": [
+        [
+          "Hmm...."
+        ]
+      ]
+    },
+    {
+      "eventName": "OnBecomeSelectableNegative",
+      "mainLines": [
+        "Oh no...."
+      ],
+      "repeatLines": [
+        [
+          "Not again..."
+        ]
+      ]
+    },
+    {
+      "eventName": "OnSacrificed",
+      "mainLines": [
+        "Mama mia!!"
+      ],
+      "repeatLines": [
+        [
+          "I'm sorry!"
+        ]
+      ]
+    },
+    {
+      "eventName": "OnSelectedForDeckTrial",
+      "mainLines": [
+        "Me?! It picked me?!"
+      ],
+      "repeatLines": [
+        [
+          "Oh... Oops?"
+        ]
+      ]
+    },
+    {
+      "eventName": "OnSelectedForCardMerge",
+      "mainLines": [
+        "What a relief..."
+      ],
+      "repeatLines": [
+        [
+          "Thank you..."
+        ]
+      ]
+    },
+    {
+      "eventName": "OnSelectedForCardRemove",
+      "mainLines": [
+        "Anything but this!"
+      ],
+      "repeatLines": [
+        [
+          "Please don't choose me!"
+        ]
+      ]
+    },
+    {
+      "eventName": "OnDiscoveredInExploration",
+      "mainLines": [
+        "Oh! Erm... hello.",
+	"Wait...Who are you?",
+	"W-Where am I?!"
+      ],
+      "repeatLines": [
+        [
+          "Hello... again..."
+        ]
+      ]
+    },
+    {
+      "eventName": "ProspectorBoss",
+      "mainLines": [
+        "This guy's giving me the creeps."
+      ],
+      "repeatLines": [
+        [
+          "Not the Pickaxe again!"
+        ]
+      ]
+    },
+    {
+      "eventName": "OnDrawn",
+      "mainLines": [
+	"Did anyone else see the bucket cards move?"
+      ],
+      "repeatLines": [
+        [
+          "EEK! Don't release any sharks!"
+        ]
+      ]
+    },
+    {
+      "eventName": "TrapperTraderBoss",
+      "mainLines": [
+        "Why do they have two faces?"
+      ],
+      "repeatLines": [
+        [
+	  "Please say you have pelts."
+        ]
+      ]
+    },
+    {
+      "eventName": "LeshyBoss",
+      "mainLines": [
+	"At least the moon is calming."
+      ],
+      "repeatLines": [
+        [
+          "Moon's not calming anymore!"
+        ]
+      ]
+    },
+    {
+      "eventName": "OnDrawn",
+      "mainLines": [
+        "EEK! Skeletons!"
+      ],
+      "repeatLines": [
+        [
+          "M-Mind the cannons!"
+        ]
+      ]
+    },
+    {
+      "eventName": "DefaultOpponent",
+      "mainLines": [
+        "*Gulp...*"
+      ],
+      "repeatLines": [
+        [
+          "..."
+        ],
+	[
+          "Here we go again..."
+        ]
+      ]
+    }
+  ]
+}

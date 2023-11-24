@@ -1,0 +1,16 @@
+{
+	"name": "Wisp",
+	"modPrefix": "Koopa",
+	"displayedName": "Wisp",
+	"baseAttack": 0,
+	"baseHealth": 1,
+	"abilities": ["Sharp"],
+	"cardComplexity": "Intermediate",
+	"temple": "Nature",
+	"traits": ["KillsSurvivors"],
+	"description": "A wisp left behind. It's embers are long gone, but still can burn...",
+	"texture": "Grimora Wisp.png",
+		"tribes": [
+  "tribes.libary.spirit"
+]
+}

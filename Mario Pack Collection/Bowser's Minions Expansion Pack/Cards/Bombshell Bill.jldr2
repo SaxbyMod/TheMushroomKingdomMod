@@ -1,0 +1,17 @@
+{
+	"name": "Bombshell_Bill",
+	"modPrefix": "Mushroom",
+	"displayedName": "Bombshell Bill",
+	"baseAttack": 2,
+	"baseHealth": 1,
+	"energyCost": 5,
+	"abilities": ["Brittle","nevernamed.inscryption.sigils.Preemptive Strike"],
+	"metaCategories": ["ChoiceNode","TraderOffer"],
+	"cardComplexity": "Advanced",
+	"temple": "Nature",
+	"description": "The brutal bombshell bill. A stronger, yet more costly bullet of the Koopa Troop.",
+	"texture": "Bombshell Bill.png",
+	"emissionTexture": "Bombshell Bill_e.png",
+	"tribes": ["tribes.libary.blaster"],
+	"traits": ["KillsSurvivors"]
+}

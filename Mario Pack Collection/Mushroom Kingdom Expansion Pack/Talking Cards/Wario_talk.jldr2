@@ -1,0 +1,215 @@
+{
+  "cardName": "Mushroom_Wario",
+  "faceSprite": "Wario Base.png",
+  "eyeSprites": {
+    "open": "Wario Eyes Open.png",
+    "closed": "Wario Eyes Closed.png"
+  },
+  "mouthSprites": {
+    "open": "Wario Mouth Open.png",
+    "closed": "Wario Mouth Closed.png"
+  },
+  "emissionSprites": {
+    "open": "Wario Emmisive Open.png",
+    "closed": "Wario Emmisive Closed.png"
+  },
+  "faceInfo": {
+    "blinkRate": 0.5,
+    "customVoice": "Wario_Talk.wav"
+  },
+  "dialogueEvents": [
+    {
+      "eventName": "OnDrawn",
+      "mainLines": [
+        "I can't belive I was tricked",
+	"by a loser like this guy!",
+	"All because he said",
+	"he had gold in his cabin!"
+      ],
+      "repeatLines": [
+        [
+          "It's-a me!",
+        ],
+        [
+          "What's up, chump?!"
+        ],
+        [
+          "What now?!"
+        ]
+      ]
+    },
+    {
+      "eventName": "OnPlayFromHand",
+      "mainLines": [
+        "Heh! Too easy!"
+      ],
+      "repeatLines": [
+        [
+          "I better get paid!"
+        ],
+	[
+          "I'm-a gonna win!"
+        ]
+      ]
+    },
+    {
+      "eventName": "OnAttacked",
+      "mainLines": [
+        "WAH!,"
+      ],
+      "repeatLines": [
+        [
+          "Now I'll get you..."
+        ],
+        [
+          "Oo-ooo! That hurts!"
+        ]
+      ]
+    },
+    {
+      "eventName": "OnBecomeSelectablePositive",
+      "mainLines": [
+        "This should be an easy choice!"
+      ],
+      "repeatLines": [
+        [
+          "Hurry up, will ya?!"
+        ]
+      ]
+    },
+    {
+      "eventName": "OnBecomeSelectableNegative",
+      "mainLines": [
+        "Grrr...."
+      ],
+      "repeatLines": [
+        [
+          "Not me, pal!"
+        ]
+      ]
+    },
+    {
+      "eventName": "OnSacrificed",
+      "mainLines": [
+        "I hate you..."
+      ],
+      "repeatLines": [
+        [
+          "Have a rotten day!"
+        ]
+      ]
+    },
+    {
+      "eventName": "OnSelectedForDeckTrial",
+      "mainLines": [
+        "Good luck. To ME!"
+      ],
+      "repeatLines": [
+        [
+          "Good luck! Heheh..."
+        ]
+      ]
+    },
+    {
+      "eventName": "OnSelectedForCardMerge",
+      "mainLines": [
+        "Good choice!"
+      ],
+      "repeatLines": [
+        [
+          "Yeah, baby!"
+        ]
+      ]
+    },
+    {
+      "eventName": "OnSelectedForCardRemove",
+      "mainLines": [
+        "Don't you dare!"
+      ],
+      "repeatLines": [
+        [
+          "You pick me, I hate you!"
+        ]
+      ]
+    },
+    {
+      "eventName": "OnDiscoveredInExploration",
+      "mainLines": [
+        "Finally!",
+	"About time you showed up!",
+	"Now get me outta here!"
+      ],
+      "repeatLines": [
+        [
+          "Hey! Pick me, chump!"
+        ]
+      ]
+    },
+    {
+      "eventName": "ProspectorBoss",
+      "mainLines": [
+        "Ooo~! I sense gold nearby!"
+      ],
+      "repeatLines": [
+        [
+          "Gimme the gold, Prospector!"
+        ]
+      ]
+    },
+    {
+      "eventName": "OnDrawn",
+      "mainLines": [
+	"Something stinks and it ain't me!"
+      ],
+      "repeatLines": [
+        [
+          "Maybe DON'T Hit the buckets."
+        ]
+      ]
+    },
+    {
+      "eventName": "TrapperTraderBoss",
+      "mainLines": [
+        "That freak's a real good scammer!"
+      ],
+      "repeatLines": [
+        [
+          "I outta learn from these two..."
+        ]
+      ]
+    },
+    {
+      "eventName": "LeshyBoss",
+      "mainLines": [
+	"Finally! Let's make him pay up!"
+      ],
+      "repeatLines": [
+        [
+          "You still owe me gold, Leshy!"
+        ]
+      ]
+    },
+    {
+      "eventName": "OnDrawn",
+      "mainLines": [
+        "Pirates? HAH! Dime a Dozen!"
+      ],
+      "repeatLines": [
+        [
+          "Heh! Reminds me of Captain Syrup."
+        ]
+      ]
+    },
+    {
+      "eventName": "DefaultOpponent",
+      "mainLines": [
+        "Wario Time!"
+      ],
+      "repeatLines": [
+        [
+          "It's on!"
+        ]
+      ]
+    }
+  ]
+}

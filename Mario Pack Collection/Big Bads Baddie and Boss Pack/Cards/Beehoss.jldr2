@@ -1,0 +1,17 @@
+{
+	"name": "Beehoss",
+	"modPrefix": "Mushroom",
+	"displayedName": "Beehoss",
+	"baseAttack": 1,
+	"baseHealth": 3,
+	"bloodCost": 2,
+	"abilities": ["creator.TooManySigils.Host"],
+	"metaCategories": ["ChoiceNode","TraderOffer"],
+	"cardComplexity": "Intermediate",
+	"temple": "Nature",
+	"description": "The aggravated Beehoss. Getting struck would only cause it to unleash the bees within.",
+	"texture": "Beehoss.png",
+	"emissionTexture": "Beehoss_e.png",
+	"tribes": ["Insect"],
+	"iceCubeName": "Mushroom_Bee_hoss"
+}

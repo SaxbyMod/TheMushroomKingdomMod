@@ -1,0 +1,18 @@
+{
+	"name": "Tap_Tap_Red_Nose",
+	"modPrefix": "Yoshi",
+	"displayedName": "Tap-Tap the Red Nose",
+	"baseAttack": 1,
+	"baseHealth": 3,
+	"bloodCost": 2,
+	"abilities": ["nevernamed.inscryption.sigils.Sharper Quills","nevernamed.inscryption.sigils.Sturdy"],
+	"metaCategories": ["Rare"],
+	"cardComplexity": "Intermediate",
+	"temple": "Nature",
+	"description": "The boisterous Tap-Tap the Red Nose. Thanks to Kamek, this Tap-Tap is nigh invincible and laughs in the face of fear..",
+	"appearanceBehaviour": ["RareCardBackground"],
+	"texture": "Tap-Tap The Red Nose.png",
+	"emissionTexture": "Tap-Tap The Red Nose_e.png",
+	"evolveIntoName": "Yoshi_Tap_Tap_Golden",
+	"evolveTurns": 1
+}

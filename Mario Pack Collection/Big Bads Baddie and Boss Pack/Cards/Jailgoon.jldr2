@@ -1,0 +1,16 @@
+{
+	"name": "Jailgoon_Goomba",
+	"modPrefix": "Mushroom",
+	"displayedName": "Jailgoon",
+	"baseAttack": 2,
+	"baseHealth": 3,
+	"energyCost": 5,
+	"abilities": ["nevernamed.inscryption.sigils.Snare"],
+	"metaCategories": ["ChoiceNode","TraderOffer"],
+	"cardComplexity": "Simple",
+	"temple": "Nature",
+	"description": "The watchful Jailgoon. Built to lock away potential troublemakers.",
+	"texture": "Jailgoon.png",
+	"emissionTexture": "Jailgoon_e.png",
+	"tribes": ["None"]
+}

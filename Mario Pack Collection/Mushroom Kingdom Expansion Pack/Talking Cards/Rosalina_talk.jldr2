@@ -1,0 +1,213 @@
+{
+  "cardName": "Mushroom_Rosalina",
+  "faceSprite": "Rosalina Base.png",
+  "eyeSprites": {
+    "open": "Rosalina Eyes Open.png",
+    "closed": "Rosalina Eyes Closed.png"
+  },
+  "mouthSprites": {
+    "open": "Rosalina Mouth Open.png",
+    "closed": "Rosalina Mouth Closed.png"
+  },
+  "emissionSprites": {
+    "open": "Rosalina Emmisive Open.png",
+    "closed": "Rosalina Emmisive Closed.png"
+  },
+  "faceInfo": {
+    "blinkRate": 0.5,
+    "customVoice": "Rosalina_Talk.wav"
+  },
+  "dialogueEvents": [
+    {
+      "eventName": "OnDrawn",
+      "mainLines": [
+        "So... I see you're trapped too?",
+	"I wonder what drives this",
+	"man to perform this breed of madness..."
+      ],
+      "repeatLines": [
+        [
+          "Greetings..."
+        ],
+        [
+          "Ah, we meet again."
+        ],
+        [
+          "Our fates have aligned."
+        ]
+      ]
+    },
+    {
+      "eventName": "OnPlayFromHand",
+      "mainLines": [
+        "Let us begin..."
+      ],
+      "repeatLines": [
+        [
+          "Let us begin..."
+        ],
+	[
+          "Very well."
+        ]
+      ]
+    },
+    {
+      "eventName": "OnAttacked",
+      "mainLines": [
+        "Hmph!,"
+      ],
+      "repeatLines": [
+        [
+          "Such insolence..."
+        ],
+        [
+          "Hmph!"
+        ]
+      ]
+    },
+    {
+      "eventName": "OnBecomeSelectablePositive",
+      "mainLines": [
+        "Go on..."
+      ],
+      "repeatLines": [
+        [
+          "Follow your spirit..."
+        ]
+      ]
+    },
+    {
+      "eventName": "OnBecomeSelectableNegative",
+      "mainLines": [
+        "It's your choice."
+      ],
+      "repeatLines": [
+        [
+          "It's your choice."
+        ]
+      ]
+    },
+    {
+      "eventName": "OnSacrificed",
+      "mainLines": [
+        "May the stars shine down on you."
+      ],
+      "repeatLines": [
+        [
+          "Farewell..."
+        ]
+      ]
+    },
+    {
+      "eventName": "OnSelectedForDeckTrial",
+      "mainLines": [
+        "May the stars be aligned."
+      ],
+      "repeatLines": [
+        [
+          "May the stars be aligned."
+        ]
+      ]
+    },
+    {
+      "eventName": "OnSelectedForCardMerge",
+      "mainLines": [
+        "How kind!"
+      ],
+      "repeatLines": [
+        [
+          "A blessing!"
+        ]
+      ]
+    },
+    {
+      "eventName": "OnSelectedForCardRemove",
+      "mainLines": [
+        "A sacrifice must be made."
+      ],
+      "repeatLines": [
+        [
+          "Who shall it be?"
+        ]
+      ]
+    },
+    {
+      "eventName": "OnDiscoveredInExploration",
+      "mainLines": [
+        "Greetings, player",
+	"I hope to be of service."
+      ],
+      "repeatLines": [
+        [
+          "Greetings, once more."
+        ]
+      ]
+    },
+    {
+      "eventName": "ProspectorBoss",
+      "mainLines": [
+        "Such a greedy man.."
+      ],
+      "repeatLines": [
+        [
+          "Puty them, a victim of greed..."
+        ]
+      ]
+    },
+    {
+      "eventName": "OnDrawn",
+      "mainLines": [
+	"I sense pure intentions in this one."
+      ],
+      "repeatLines": [
+        [
+          "That poor soul, the Angler..."
+        ]
+      ]
+    },
+    {
+      "eventName": "TrapperTraderBoss",
+      "mainLines": [
+        "Such a confusing pair."
+      ],
+      "repeatLines": [
+        [
+          "Two sides of the same coin."
+        ]
+      ]
+    },
+    {
+      "eventName": "LeshyBoss",
+      "mainLines": [
+	"The final battle awaits."
+      ],
+      "repeatLines": [
+        [
+          "May the stars be in our favor."
+        ]
+      ]
+    },
+    {
+      "eventName": "OnDrawn",
+      "mainLines": [
+        "I sense anger from those long passed."
+      ],
+      "repeatLines": [
+        [
+          "The Limoncello sails once again..."
+        ]
+      ]
+    },
+    {
+      "eventName": "DefaultOpponent",
+      "mainLines": [
+        "Greetings."
+      ],
+      "repeatLines": [
+        [
+          "We meet again."
+        ]
+      ]
+    }
+  ]
+}

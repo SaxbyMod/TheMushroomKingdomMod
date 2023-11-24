@@ -1,0 +1,15 @@
+{
+	"name": "Blitty",
+	"modPrefix": "Mushroom",
+	"displayedName": "Blitty",
+	"baseAttack": 1,
+	"baseHealth": 2,
+	"abilities": ["nevernamed.inscryption.sigils.Double Tap"],
+	"metaCategories": ["ChoiceNode","TraderOffer"],
+	"cardComplexity": "Intermediate",
+	"temple": "Nature",
+	"description": "You found a Blitty! Broque Monsieur will be very pleased!",
+	"appearanceBehaviour": ["RareCardBackground"],
+	"texture": "Blitty.png",
+	"emissionTexture": "Blitty_e.png"
+}

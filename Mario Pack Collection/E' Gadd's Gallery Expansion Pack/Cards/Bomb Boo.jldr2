@@ -1,0 +1,16 @@
+{
+	"name": "Bomb_Boo",
+	"modPrefix": "Gallery",
+	"displayedName": "Bomb Boo",
+	"baseAttack": 1,
+	"baseHealth": 3,
+	"bonesCost": 3,
+	"abilities": ["ExplodeOnDeath"],
+	"metaCategories": ["ChoiceNode","TraderOffer"],
+	"cardComplexity": "Intermediate",
+	"temple": "Nature",
+	"description": "The psycho Bomb Boo. It's less shy than it's regular counterpart. In fact, it has quite the explosive personality...",
+	"texture": "Bomb Boo.png",
+	"emissionTexture": "Bomb Boo_e.png",
+		"tribes": ["tribes.libary.spectral", "tribes.libary.boo", "tribes.libary.bombomb"]
+}

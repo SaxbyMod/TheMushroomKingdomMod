@@ -1,0 +1,19 @@
+{
+	"name": "Boomerang_Bro",
+	"modPrefix": "Mushroom",
+	"displayedName": "Boomerang Bro.",
+	"baseAttack": 1,
+	"baseHealth": 2,
+	"bloodCost": 2,
+	"abilities": ["Sniper","DoubleStrike"],
+	"metaCategories": ["ChoiceNode","TraderOffer"],
+	"cardComplexity": "Intermediate",
+	"temple": "Nature",
+	"description": "The dubious Boomerang Bro. There's nothing more reliable than a tossed boomerang...",
+	"texture": "Boomerang Bro.png",
+	"emissionTexture": "Boomerang Bro_e.png",
+	"tribes": ["Reptile"],
+	"evolveIntoName": "Mushroom_Sledge_Bro",
+	"evolveTurns": 1,
+	"pixelTexture": "Hammer Bro Act 2.png"
+}

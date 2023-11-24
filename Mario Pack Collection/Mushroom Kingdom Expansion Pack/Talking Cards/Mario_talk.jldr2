@@ -1,0 +1,214 @@
+{
+  "cardName": "Mushroom_Mario",
+  "faceSprite": "Mario Base.png",
+  "eyeSprites": {
+    "open": "Mario Eyes Open.png",
+    "closed": "Mario Eyes Closed.png"
+  },
+  "mouthSprites": {
+    "open": "Mario Mouth Open.png",
+    "closed": "Mario Mouth Closed.png"
+  },
+  "emissionSprites": {
+    "open": "Mario Emmisive Open.png",
+    "closed": "Mario Emmisive Closed.png"
+  },
+  "faceInfo": {
+    "blinkRate": 0.5,
+    "customVoice": "Mario_Talk.wav"
+  },
+  "dialogueEvents": [
+    {
+      "eventName": "OnDrawn",
+      "mainLines": [
+        "So this is where everyone went.",
+	"I should of listened to Luigi...",
+	"Please tell me he's alright!"
+      ],
+      "repeatLines": [
+        [
+          "It's-a me."
+        ],
+        [
+          "Any luck so far?"
+        ],
+        [
+          "What's the situation?"
+        ]
+      ]
+    },
+    {
+      "eventName": "OnPlayFromHand",
+      "mainLines": [
+        "Alright... Let's-a go."
+      ],
+      "repeatLines": [
+        [
+          "I'll handle this."
+        ],
+	[
+          "Let's-a go."
+        ]
+      ]
+    },
+    {
+      "eventName": "OnAttacked",
+      "mainLines": [
+        "Mama mia!,"
+      ],
+      "repeatLines": [
+        [
+          "Okay, that hurt."
+        ],
+        [
+          "Mama mia!"
+        ]
+      ]
+    },
+    {
+      "eventName": "OnBecomeSelectablePositive",
+      "mainLines": [
+        "Is this their version of a Power-up?"
+      ],
+      "repeatLines": [
+        [
+          "Who needs it most?"
+        ]
+      ]
+    },
+    {
+      "eventName": "OnBecomeSelectableNegative",
+      "mainLines": [
+        "This doesn't look good."
+      ],
+      "repeatLines": [
+        [
+          "Hmmm..."
+        ]
+      ]
+    },
+    {
+      "eventName": "OnSacrificed",
+      "mainLines": [
+        "Ugh... Very well, then."
+      ],
+      "repeatLines": [
+        [
+          "Another life lost..."
+        ]
+      ]
+    },
+    {
+      "eventName": "OnSelectedForDeckTrial",
+      "mainLines": [
+        "Good luck..."
+      ],
+      "repeatLines": [
+        [
+          "Good luck, player."
+        ]
+      ]
+    },
+    {
+      "eventName": "OnSelectedForCardMerge",
+      "mainLines": [
+        "Let's hope this works."
+      ],
+      "repeatLines": [
+        [
+          "I can find use for this."
+        ]
+      ]
+    },
+    {
+      "eventName": "OnSelectedForCardRemove",
+      "mainLines": [
+        "Mama mia!"
+      ],
+      "repeatLines": [
+        [
+          "Choose carefully..."
+        ]
+      ]
+    },
+    {
+      "eventName": "OnDiscoveredInExploration",
+      "mainLines": [
+        "Hm? Oh!",
+	"Hello, player.",
+	"Mind getting me outta here?"
+      ],
+      "repeatLines": [
+        [
+          "It's nice to see you again."
+        ]
+      ]
+    },
+    {
+      "eventName": "ProspectorBoss",
+      "mainLines": [
+        "And here I thought Wario was greedy!"
+      ],
+      "repeatLines": [
+        [
+          "Not this psycho again..."
+        ]
+      ]
+    },
+    {
+      "eventName": "OnDrawn",
+      "mainLines": [
+	"That hook looks dangerous."
+      ],
+      "repeatLines": [
+        [
+          "Watch out for that hook!"
+        ]
+      ]
+    },
+    {
+      "eventName": "TrapperTraderBoss",
+      "mainLines": [
+        "Trapper...Trader...Why?"
+      ],
+      "repeatLines": [
+        [
+          "Alright. Let's think for this one."
+        ]
+      ]
+    },
+    {
+      "eventName": "LeshyBoss",
+      "mainLines": [
+	"Use what we learned on your journey, player."
+      ],
+      "repeatLines": [
+        [
+          "Come on! We can do this!"
+        ]
+      ]
+    },
+    {
+      "eventName": "OnDrawn",
+      "mainLines": [
+        "Augh... Luigi would hate this!"
+      ],
+      "repeatLines": [
+        [
+          "I see the pirates raided again."
+        ]
+      ]
+    },
+    {
+      "eventName": "DefaultOpponent",
+      "mainLines": [
+        "Here we go again!"
+      ],
+      "repeatLines": [
+        [
+          "Need some help?"
+        ]
+      ]
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+	"name": "Crazee_Dayzee",
+	"modPrefix": "Yoshi",
+	"displayedName": "Crazee Dayzee",
+	"baseAttack": 1,
+	"baseHealth": 2,
+	"bloodCost": 1,
+	"abilities": ["BuffNeighbours"],
+	"metaCategories": ["ChoiceNode","TraderOffer"],
+	"cardComplexity": "Simple",
+	"temple": "Nature",
+	"description": "The carefree Crazee Dayzee. Their song can rally up troops to do the dirty work for her...",
+	"texture": "Crazee Dayzee.png",
+	"emissionTexture": "Crazee Dayzee_e.png",
+	"tribes": ["None"]
+}

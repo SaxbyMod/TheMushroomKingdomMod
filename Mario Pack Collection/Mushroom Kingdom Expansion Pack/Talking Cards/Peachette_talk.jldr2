@@ -1,0 +1,214 @@
+{
+  "cardName": "Mushroom_Peachette",
+  "faceSprite": "Peachette Base.png",
+  "eyeSprites": {
+    "open": "Peachette Eyes Open.png",
+    "closed": "Peachette Eyes Closed.png"
+  },
+  "mouthSprites": {
+    "open": "Peachette Mouth Open.png",
+    "closed": "Peachette Mouth Closed.png"
+  },
+  "emissionSprites": {
+    "open": "Peachette Emmisive Open.png",
+    "closed": "Peachette Emmisive Closed.png"
+  },
+  "faceInfo": {
+    "blinkRate": 0.5,
+    "customVoice": "Peachette_Talk.wav"
+  },
+  "dialogueEvents": [
+    {
+      "eventName": "OnDrawn",
+      "mainLines": [
+        "This is quite a suprise...",
+	"Could the be one of the",
+	"secrets of the crown?"
+      ],
+      "repeatLines": [
+        [
+          "Hey!",
+        ],
+        [
+          "I'm ready when you are!"
+        ],
+        [
+          "Let me at them!"
+        ]
+      ]
+    },
+    {
+      "eventName": "OnPlayFromHand",
+      "mainLines": [
+        "Here goes nothing!"
+      ],
+      "repeatLines": [
+        [
+          "Here I go!"
+        ],
+	[
+          "Princess Power!"
+        ]
+      ]
+    },
+    {
+      "eventName": "OnAttacked",
+      "mainLines": [
+        "Ouch!"
+      ],
+      "repeatLines": [
+        [
+          "That hurt!"
+        ],
+        [
+          "No!"
+        ]
+      ]
+    },
+    {
+      "eventName": "OnBecomeSelectablePositive",
+      "mainLines": [
+        "This looks tempting..."
+      ],
+      "repeatLines": [
+        [
+          "It's your choice."
+        ]
+      ]
+    },
+    {
+      "eventName": "OnBecomeSelectableNegative",
+      "mainLines": [
+        "Are you sure about this?"
+      ],
+      "repeatLines": [
+        [
+          "Uh oh..."
+        ]
+      ]
+    },
+    {
+      "eventName": "OnSacrificed",
+      "mainLines": [
+        "Not peachy..."
+      ],
+      "repeatLines": [
+        [
+          "Awww..."
+        ]
+      ]
+    },
+    {
+      "eventName": "OnSelectedForDeckTrial",
+      "mainLines": [
+        "Did we pass?"
+      ],
+      "repeatLines": [
+        [
+          "Here's hoping!"
+        ]
+      ]
+    },
+    {
+      "eventName": "OnSelectedForCardMerge",
+      "mainLines": [
+        "How Peachy!"
+      ],
+      "repeatLines": [
+        [
+          "Just Lovely!"
+        ]
+      ]
+    },
+    {
+      "eventName": "OnSelectedForCardRemove",
+      "mainLines": [
+        "Oh...."
+      ],
+      "repeatLines": [
+        [
+          "Oh no..."
+        ]
+      ]
+    },
+    {
+      "eventName": "OnDiscoveredInExploration",
+      "mainLines": [
+        "Oh! Hey! Suprised to see me?"
+      ],
+      "repeatLines": [
+        [
+          "Hello again!"
+        ]
+      ]
+    },
+    {
+      "eventName": "ProspectorBoss",
+      "mainLines": [
+        "He's blocking the way? How rude!"
+      ],
+      "repeatLines": [
+        [
+          "Be honest.",
+	 "How many times has he done this boss?"
+        ]
+      ]
+    },
+    {
+      "eventName": "OnDrawn",
+      "mainLines": [
+	"Blech! I can't stand the smell!"
+      ],
+      "repeatLines": [
+        [
+          "Not again with the foul odor!"
+        ]
+      ]
+    },
+    {
+      "eventName": "TrapperTraderBoss",
+      "mainLines": [
+        "Wait.",
+	"Which one of them's the real threat?"
+      ],
+      "repeatLines": [
+        [
+          "Still don't know who's more evil..."
+        ]
+      ]
+    },
+    {
+      "eventName": "LeshyBoss",
+      "mainLines": [
+	"Let's put this crown to good use!"
+      ],
+      "repeatLines": [
+        [
+          "C'mon! Let's teach 'em a lesson!"
+        ]
+      ]
+    },
+    {
+      "eventName": "OnDrawn",
+      "mainLines": [
+        "I wasn't expecting this..."
+      ],
+      "repeatLines": [
+        [
+          "So many skeletons..."
+        ]
+      ]
+    },
+    {
+      "eventName": "DefaultOpponent",
+      "mainLines": [
+        "Ready when you are!"
+      ],
+      "repeatLines": [
+        [
+          "Let's do this!"
+        ]
+      ]
+    }
+  ]
+}

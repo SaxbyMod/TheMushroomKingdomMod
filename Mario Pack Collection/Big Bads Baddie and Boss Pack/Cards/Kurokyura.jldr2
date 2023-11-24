@@ -1,0 +1,20 @@
+{
+	"name": "Kurokyura",
+	"modPrefix": "Mushroom",
+	"displayedName": "Kurokyura",
+	"baseAttack": 1,
+	"baseHealth": 3,
+	"extensionProperties": {
+	       "LifeCost": "2"
+	},
+	"abilities": ["creator.TooManySigils.Launcher"],
+	"iceCubeName":"Mushroom_Minikyura",
+	"metaCategories": ["ChoiceNode","TraderOffer"],
+	"cardComplexity": "Intermediate",
+	"temple": "Nature",
+	"tribes": ["tribes.libary.vampire"],
+	"description": "The vampiric Kurokyura. Sends out bats to feast on enemies, but he's not afraid to grab a bite as well...",
+	"texture": "Kurokyura.png",
+	"emissionTexture": "Kurokyura_e.png",
+	"pixelTexture": "Kurokyura Act 2.png"
+}

@@ -1,0 +1,21 @@
+{
+	"name": "B-Bill_Blaster",
+	"modPrefix": "Mushroom",
+	"displayedName": "Bill Blaster",
+	"baseHealth": 3,
+	"energyCost": 4,
+	"abilities": ["creator.TooManySigils.Launcher"],
+	"metaCategories": ["ChoiceNode","TraderOffer"],
+	"cardComplexity": "Advanced",
+	"temple": "Nature",
+	"description": "Home of the brutal bombshell bill. A stronger, yet more costly blaster of the Koopa Troop.",
+	"appearanceBehaviour": ["TerrainLayout","TerrainBackground"],
+	"texture": "B. Bill Blaster.png",
+	"emissionTexture": "B. Bill Blaster_e.png",
+	"tribes": [
+    "tribes.libary.blaster"
+  ],
+	"evolveIntoName": "Mushroom_Banzai_Bill_Cannon",
+	"evolveTurns": 1,
+	"iceCubeName": "Mushroom_Bombshell_Bill"
+}

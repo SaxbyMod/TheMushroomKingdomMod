@@ -1,0 +1,17 @@
+{
+	"name": "Bat_Blaster",
+	"modPrefix": "Koopa",
+	"displayedName": "Bat Blaster",
+	"baseHealth": 0,
+	"energyCost": 3,
+	"abilities": ["creator.TooManySigils.Launcher"],
+	"metaCategories": ["arackulele.inscryption.grimoramod.GrimoraModChoiceNode"],
+	"cardComplexity": "Advanced",
+	"temple": "Undead",
+	"description": "Home of the vampiric Bullet Bat. It is known to have unlimited ammo, but no defenses if attacked head on...",
+	"appearanceBehaviour": ["TerrainLayout","TerrainBackground"],
+	"texture": "Grimora Bat Blaster.png",
+	"emissionTexture": "Grimora Bat Blaster_e.png",
+	"traits": ["Terrain"],
+	"iceCubeName": "Koopa_Bullet_Bat"
+}

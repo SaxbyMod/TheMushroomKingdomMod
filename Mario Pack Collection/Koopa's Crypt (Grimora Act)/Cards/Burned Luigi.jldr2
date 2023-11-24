@@ -1,0 +1,18 @@
+{
+	"name": "Burned_Luigi",
+	"modPrefix": "Koopa",
+	"displayedName": "Burned Luigi",
+	"baseAttack": 2,
+	"baseHealth": 3,
+	"bloodCost": 1,
+	"bonesCost": 3,
+	"abilities": ["nevernamed.inscryption.sigils.Ignition"],
+	"metaCategories": ["arackulele.inscryption.grimoramod.GrimoraModChoiceNode"],
+	"appearanceBehaviour": ["nevernamed.inscryption.sigils.GreyCardBackground"],
+	"cardComplexity": "Intermediate",
+	"temple": "Undead",
+	"description": "I sense a disturbing amount of hatred emitting from this one. Hope it's not pointed at you...",
+	"texture": "Grimora Burned Luigi.png",
+	"emissionTexture": "Grimora Burned Luigi_e.png",
+	"traits": ["KillsSurvivors"]
+}

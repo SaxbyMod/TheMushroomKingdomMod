@@ -1,0 +1,7 @@
+{
+	"Title": "Yoshi's Island Expansion Pack",
+	"Description": "Do you have what it takes to tame the wilderness that is Yoshi's Island? A total of [count] cards await you in this pack.",
+	"ModPrefix": "Yoshi",
+	"PackArt": "Pack Yoshi.png",
+    "ValidFor": ["LeshyPack"]
+}
