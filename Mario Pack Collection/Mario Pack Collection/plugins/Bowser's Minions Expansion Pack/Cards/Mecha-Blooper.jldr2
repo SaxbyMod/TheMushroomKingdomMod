@@ -1,0 +1,16 @@
+{
+	"name": "Mecha_Blooper",
+	"modPrefix": "Mushroom",
+	"displayedName": "Mecha-Blooper",
+	"baseAttack": 2,
+	"baseHealth": 2,
+	"energyCost": 4,
+	"abilities": ["Sniper","extraVoid.inscryption.voidSigils.Dive (Energy)"],
+	"cardComplexity": "Advanced",
+	"temple": "Nature",
+	"metaCategories": ["ChoiceNode","TraderOffer"],
+	"description": "The water-proof Mecha-blooper. It's cheaper than most snipers, but careless abuse of the diving could end costly...",
+	"texture": "Mecha-Blooper.png",
+	"emissionTexture": "Mecha-Blooper_e.png",
+	"tribes": ["mushroom.pelts.blooper"]
+}

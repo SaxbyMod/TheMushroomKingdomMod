@@ -1,0 +1,17 @@
+{
+	"name": "Mini_Shroob_omb",
+	"modPrefix": "Mushroom",
+	"displayedName": "Mini Shroob-omb",
+	"baseAttack": 1,
+	"baseHealth": 1,
+	"energyCost": 1,
+	"abilities": ["ExplodeOnDeath","extraVoid.inscryption.voidSigils.Deathburst"],
+	"metaCategories": ["ChoiceNode","TraderOffer"],
+	"cardComplexity": "Simple",
+	"temple": "Nature",
+	"description": "The Mini Shroob-omb. Not as volitile as it's bigger kin, but you'd best still handle with care...",
+	"texture": "Mini Shroob-omb.png",
+	"emissionTexture": "Mini Shroob-omb_e.png",
+	"tribes": ["mushroom.pelts.shroob","mushroom.pelts.bomb-omb"],
+	"traits": ["KillsSurvivors"]
+}

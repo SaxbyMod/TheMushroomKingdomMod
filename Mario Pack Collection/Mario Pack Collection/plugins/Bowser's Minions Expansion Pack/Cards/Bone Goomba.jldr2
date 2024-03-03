@@ -1,0 +1,16 @@
+{
+	"name": "Bone_Goomba",
+	"modPrefix": "Mushroom",
+	"displayedName": "Bone Goomba",
+	"baseAttack": 1,
+	"baseHealth": 2,
+	"bonesCost": 3,
+	"abilities": ["creator.TooManySigils.Thick Shell"],
+	"metaCategories": ["ChoiceNode","TraderOffer"],
+	"tribes": ["mushroom.pelts.goomba","mushroom.pelts.mskeleton"],
+	"cardComplexity": "Intermediate",
+	"temple": "Nature",
+	"description": "The not so dry Bone Goomba. Is it dead or alive? I cannot say...",
+	"texture": "Bone Goomba.png",
+	"emissionTexture": "Bone Goomba_e.png"
+}

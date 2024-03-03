@@ -1,0 +1,15 @@
+{
+	"name": "Bramball_Fruit",
+	"modPrefix": "Mushroom",
+	"displayedName": "Bramball",
+	"baseAttack": 1,
+	"baseHealth": 2,
+	"bloodCost": 2,
+	"abilities": ["Sharp","TripleBlood","Strafe"],
+	"cardComplexity": "Intermediate",
+	"temple": "Nature",
+	"tribes": ["mushroom.pelts.pokey"],
+	"description": "The shifting Bramball. Its spiky legs protect the head, which is said to bear a delicious fruit.",
+	"texture": "Bramball Fruit.png",
+	"emissionTexture": "Bramball Fruit_e.png"
+}

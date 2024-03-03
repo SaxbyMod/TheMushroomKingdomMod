@@ -1,0 +1,16 @@
+{
+	"name": "Electro_Koopa",
+	"modPrefix": "Mushroom",
+	"displayedName": "Electro Koopa",
+	"baseAttack": 1,
+	"baseHealth": 2,
+	"bloodCost": 1,
+	"abilities": ["nevernamed.inscryption.sigils.Trajectile Quills"],
+	"metaCategories": ["ChoiceNode","TraderOffer"],
+	"cardComplexity": "Intermediate",
+	"temple": "Nature",
+	"tribes": ["mushroom.pelts.koopa"],
+	"description": "The stingy Electro Koopa. Its electric shell isn't just useful for defense.",
+	"texture": "Electro Koopa.png",
+	"emissionTexture": "Electro Koopa_e.png"
+}

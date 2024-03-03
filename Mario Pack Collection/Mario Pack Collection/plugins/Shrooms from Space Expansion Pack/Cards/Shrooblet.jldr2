@@ -1,0 +1,16 @@
+{
+	"name": "Shrooblet",
+	"modPrefix": "Mushroom",
+	"displayedName": "Shrooblet",
+	"baseAttack": 1,
+	"baseHealth": 2,
+	"energyCost": 1,
+	"metaCategories": ["ChoiceNode","TraderOffer"],
+	"cardComplexity": "Intermediate",
+	"temple": "Nature",
+	"tribes": ["mushroom.pelts.shroob","mushroom.pelts.goomba"],
+	"abilities": [],
+	"description": "The young Shrooblet. No stronger than a goomba, but will do anything to help its species survive...",
+	"texture": "Shrooblet.png",
+	"emissionTexture": "Shrooblet.png"
+}

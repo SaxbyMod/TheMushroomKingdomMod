@@ -1,0 +1,16 @@
+{
+	"name": "Sharkbone",
+	"modPrefix": "Mushroom",
+	"displayedName": "Sharkbone",
+	"baseAttack": 1,
+	"baseHealth": 3,
+	"bonesCost": 7,
+	"abilities": ["extraVoid.inscryption.voidSigils.Bone Shard","QuadrupleBones"],
+	"cardComplexity": "Advanced",
+	"temple": "Nature",
+	"metaCategories": ["ChoiceNode","TraderOffer"],
+	"description": "The vile Sharkbone. Terror of the sands, but you can't swim in sand...",
+	"texture": "Sharkbone.png",
+	"emissionTexture": "Sharkbone_e.png",
+	"tribes": ["mushroom.pelts.mskeletal","mushroom.pelts.cheep_cheep"]
+}

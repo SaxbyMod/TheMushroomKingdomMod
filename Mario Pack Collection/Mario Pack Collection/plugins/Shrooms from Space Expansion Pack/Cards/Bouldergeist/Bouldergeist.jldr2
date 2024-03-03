@@ -1,0 +1,20 @@
+{
+	"name": "Bouldergeist",
+	"modPrefix": "Mushroom",
+	"displayedName": "Bouldergeist",
+	"baseAttack": 0,
+	"baseHealth": 5,
+	"bonesCost": 7,
+	"metaCategories": ["Rare"],
+	"abilities": ["nevernamed.inscryption.sigils.Clawed", "IceCube],
+	"extensionProperties": {
+    	"ClawedLeftClawOverride": "Mushroom_Bouldergeist_Hand_Left",
+	"ClawedRightClawOverride": "Mushroom_Bouldergeist_Hand_Right"
+  	},
+	"temple": "Nature",
+	"description": "The Cruel Bouldergeist. Made of sprits and stone, this ghost can be considered a living graveyard...",
+	"texture": "Bouldergeist.png",
+	"emissionTexture": "Bouldergeist_e.png",
+	"iceCubeName": "Mushroom_Bouldergeist_Spirit",
+	"tribes": ["mushroom.pelts.boo"]
+}

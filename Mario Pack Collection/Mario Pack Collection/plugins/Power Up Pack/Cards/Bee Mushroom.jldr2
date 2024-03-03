@@ -1,0 +1,16 @@
+{
+	"name": "Bee_Mushroom",
+	"modPrefix": "Mushroom",
+	"displayedName": "Bee Mushroom",
+	"baseHealth": 2,
+	"baseAttack": 0,
+	"bloodCost": 1,
+	"abilities": ["Sharp","Deathtouch"],
+	"cardComplexity": "Intermediate",
+	"temple": "Nature",
+	"description": "The stingy Bee Mushroom. Able to embue the bee's dreaded stinger on whoever accepts its sacrifice...",
+	"metaCategories": ["ChoiceNode","TraderOffer"],
+	"tribes": ["mushroom.pelts.power_up","mushroom.pelts.wriggler"],
+	"texture": "Bee Mushroom.png",
+	"emissionTexture": "Bee Mushroom_e.png"
+}

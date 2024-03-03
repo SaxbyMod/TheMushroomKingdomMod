@@ -1,0 +1,18 @@
+{
+	"name": "Yogan_Lift",
+	"modPrefix": "Mushroom",
+	"displayedName": "Yogan Lift",
+	"baseAttack": 0,
+	"baseHealth": 6,
+	"bonesCost": 8,
+	"abilities": ["org.memez4life.inscryption.customsigils.Spawner"],
+	"iceCubeName": "Mushroom_Lava",
+	"metaCategories": ["ChoiceNode","TraderOffer"],
+	"cardComplexity": "Intermediate",
+	"temple": "Nature",
+	"tribes": ["mushroom.pelts.mskeleton","mushroom.pelts.dinosaur"],
+	"appearanceBehaviour": ["RareCardBackground"],
+	"description": "The Stalward Yogan Lift. The kinder Dry Bones, willing to help other's across the burning lava...",
+	"texture": "Yogan Lift.png",
+	"emissionTexture": "Yogan Lift_e.png"
+}

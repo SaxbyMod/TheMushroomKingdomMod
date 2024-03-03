@@ -1,0 +1,22 @@
+{
+  "name": "Baby_Blooper",
+  "modPrefix": "Mushroom",
+  "displayedName": "Baby Blooper",
+  "description": "The young Baby Blooper. While weak to start, give it time and it'll become a reliable Blooper.",
+  "metaCategories": [
+    "ChoiceNode",
+    "TraderOffer"
+  ],
+  "cardComplexity": "Intermediate",
+  "temple": "Nature",
+  "baseHealth": 1,
+  "tribes": ["mushroom.pelts.blooper"],
+  "abilities": [
+    "Evolve",
+    "Submerge"
+  ],
+  "evolveIntoName": "Mushroom_Blooper_Front",
+  "evolveTurns": 1,
+  "texture": "Baby Blooper.png",
+  "emissionTexture": "Baby Blooper_e.png"
+}

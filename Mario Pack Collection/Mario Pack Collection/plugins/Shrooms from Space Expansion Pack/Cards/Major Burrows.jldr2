@@ -1,0 +1,19 @@
+{
+	"name": "Major_Burrows",
+	"modPrefix": "Mushroom",
+	"displayedName": "Major Burrows",
+	"baseAttack": 2,
+	"baseHealth": 8,
+	"bloodCost": 2,
+	"bonesCost": 4,
+	"energyCost": 0,
+	"abilities": ["WhackAMole","Sharp","Sharp","Sharp"],
+	"metaCategories": ["Rare"],
+	"cardComplexity": "Intermediate",
+	"temple": "Nature",
+	"tribes": ["mushroom.pelts.waddlewing"],
+	"description": "The furious Major Burrows. A tyrant amonst the moles...",
+	"texture": "Major Burrows.png",
+	"emissionTexture": "Major Burrows_e.png",
+	"appearanceBehaviour": ["RareCardBackground"]
+}

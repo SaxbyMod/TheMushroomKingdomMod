@@ -1,0 +1,14 @@
+{
+	"name": "Plauged_Toad_Crushed",
+	"modPrefix": "Mushroom",
+	"displayedName": "Plauged Toad",
+	"baseHealth": 1,
+	"abilities": ["PreventAttack","extraVoid.inscryption.voidSigils.Dying"],
+	"cardComplexity": "Intermediate",
+	"temple": "Nature",
+	"description": "Best leave it to die. Who knows what would happen if it gets touched again...",
+	"texture": "Plauged Toad_Crushed.png",
+	"emissionTexture": "Plauged Toad_Crushed_e.png",
+	"tribes": ["mushroom.pelts.mskeleton"],
+	"extensionProperties": { "void_dying_count": "2" }
+}

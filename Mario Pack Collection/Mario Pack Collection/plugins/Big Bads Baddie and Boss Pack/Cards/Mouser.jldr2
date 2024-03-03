@@ -1,0 +1,18 @@
+{
+	"name": "Mushroom_Mouser",
+	"modPrefix": "Mushroom",
+	"displayedName": "Mouser",
+	"baseAttack": 2,
+	"baseHealth": 4,
+	"bloodCost": 2,
+	"abilities": ["org.memez4life.inscryption.customsigils.Launcher"],
+	"metaCategories": ["Rare"],
+	"cardComplexity": "Intermediate",
+	"temple": "Nature",
+	"tribes": ["mushroom.pelts.waddlewing"],
+	"description": "The generous Mouser. Willing to give up bombs if it means defeating the enemy. Too bad that the fuse is already lit...",
+	"appearanceBehaviour": ["RareCardBackground"],
+	"texture": "Mouser.png",
+	"emissionTexture": "Mouser_e.png",
+	"iceCubeName": "Mushroom_Mouser_Bomb"
+}

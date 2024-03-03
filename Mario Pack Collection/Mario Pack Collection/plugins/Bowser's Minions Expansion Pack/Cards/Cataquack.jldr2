@@ -1,0 +1,16 @@
+{
+	"name": "Cataquack",
+	"modPrefix": "Mushroom",
+	"displayedName": "Cataquack",
+	"baseAttack": 1,
+	"baseHealth": 1,
+	"bloodCost": 2,
+	"abilities": ["nevernamed.inscryption.sigils.Fan Tailed"],
+	"metaCategories": ["ChoiceNode","TraderOffer"],
+	"cardComplexity": "Intermediate",
+	"temple": "Nature",
+	"description": "The mischevious cataquack. Maybe its habit of launching others skyward could be of use?",
+	"texture": "Cataquack.png",
+	"emissionTexture": "Cataquack_e.png",
+	"tribes": ["mushroom.pelts.conkdor"]
+}

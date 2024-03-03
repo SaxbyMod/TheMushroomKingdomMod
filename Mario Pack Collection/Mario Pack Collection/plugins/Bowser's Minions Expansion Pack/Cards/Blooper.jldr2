@@ -1,0 +1,16 @@
+{
+	"name": "Blooper",
+	"modPrefix": "Mushroom",
+	"displayedName": "Blooper",
+	"baseAttack": 1,
+	"baseHealth": 3,
+	"bloodCost": 1,
+	"abilities": ["nevernamed.inscryption.sigils.Wavering Strike"],
+	"metaCategories": ["ChoiceNode","TraderOffer"],
+	"cardComplexity": "Intermediate",
+	"temple": "Nature",
+	"description": "The tricky Blooper. You never know which way it will strike...",
+	"tribes": ["mushroom.pelts.blooper"],
+	"texture": "Blooper.png",
+	"emissionTexture": "Blooper_e.png"
+}

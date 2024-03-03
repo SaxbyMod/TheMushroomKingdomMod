@@ -1,0 +1,16 @@
+{
+	"name": "Fuzzipede",
+	"modPrefix": "Mushroom",
+	"displayedName": "Fuzzipede",
+	"baseAttack": 2,
+	"baseHealth": 4,
+	"bloodCost": 1,
+	"abilities": ["bitty45.inscryption.sigils.Outcast"],
+	"metaCategories": ["ChoiceNode","TraderOffer"],
+	"cardComplexity": "Advanced",
+	"temple": "Nature",
+	"tribes": ["mushroom.pelts.wriggler"],
+	"description": "The arrogant Fuzzipede. I don't think this one will take kindly to being bait...",
+	"texture": "Fuzzipede.png",
+	"emissionTexture": "Fuzzipede_e.png"
+}

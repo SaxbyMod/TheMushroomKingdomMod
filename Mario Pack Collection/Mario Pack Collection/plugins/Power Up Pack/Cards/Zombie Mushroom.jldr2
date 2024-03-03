@@ -1,0 +1,16 @@
+{
+	"name": "Zombie_Mushroom",
+	"modPrefix": "Mushroom",
+	"displayedName": "Zombie Mushroom",
+	"baseAttack": 2,
+	"baseHealth": 3,
+	"bonesCost": 3,
+	"metaCategories": ["ChoiceNode","TraderOffer"],
+	"abilities": ["GuardDog","extraVoid.inscryption.voidSigils.Poisonous"],
+	"cardComplexity": "Simple",
+	"temple": "Nature",
+	"description": "The venomous Zombie Mushroom. Known to hunt down the fool to release it from it's block.",
+	"texture": "Zombie Mushroom.png",
+	"emissionTexture": "Zombie Mushroom_e.png",
+	"tribes": ["mushroom.pelts.power_up","mushroom.pelts.mskeleton"]
+}

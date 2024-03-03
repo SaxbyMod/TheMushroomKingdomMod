@@ -1,0 +1,16 @@
+{
+	"name": "Angry_Wiggler",
+	"modPrefix": "Mushroom",
+	"displayedName": "Angry Wiggler",
+	"baseAttack": 3,
+	"baseHealth": 3,
+	"bloodCost": 3,
+	"evolveIntoName": "Mushroom_Wiggler",
+	"evolveTurns": 2,
+	"cardComplexity": "Advanced",
+	"temple": "Nature",
+	"description": "The ill-tempered Wiggler. It's usually a kind soul, but woe to thee who succeeds in angering this beast.",
+	"texture": "Angry_Wiggler.png",
+	"emissionTexture": "Angry_Wiggler_e.png",
+	"tribes": ["mushroom.pelts.wriggler"]
+}

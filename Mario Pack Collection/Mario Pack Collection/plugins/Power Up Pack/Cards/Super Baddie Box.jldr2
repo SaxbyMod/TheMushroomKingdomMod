@@ -1,0 +1,20 @@
+{
+  "name": "Super_Baddie_Box",
+  "modPrefix": "Mushroom",
+  "displayedName": "Super Baddie Box",
+  "description": "This baddie box seems to have been upgraded. Seems now you have more choice of what it creates...",
+  "metaCategories": [
+    "Rare"
+  ],
+  "cardComplexity": "Intermediate",
+  "temple": "Nature",
+  "tribes": ["mushroom.pelts.itembox"],
+  "baseHealth": 1,
+  "energyCost": 6,
+  "abilities": [
+    "nevernamed.inscryption.sigils.Summoner","nevernamed.inscryption.sigils.Instant Effect"
+  ],
+  "extensionProperties": {"NumberOfSummonerOptions": 6},
+  "texture": "Super Baddie Box.png",
+  "emissionTexture": "Super Baddie Box_e.png"
+}

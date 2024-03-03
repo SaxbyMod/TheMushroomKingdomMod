@@ -1,0 +1,16 @@
+{
+	"name": "Elite_Octoomba",
+	"modPrefix": "Mushroom",
+	"displayedName": "Elite Octoomba",
+	"baseAttack": 2,
+	"baseHealth": 4,
+	"energyCost": 3,
+	"abilities": ["TriStrike","extraVoid.inscryption.voidSigils.Lure"],
+	"metaCategories": ["ChoiceNode","TraderOffer"],
+	"cardComplexity": "Simple",
+	"temple": "Nature",
+	"tribes": ["mushroom.pelts.goomba"],
+	"description": "The Elite Octoomba. It lures enemy out of the darkness with ease before sending forth it's rocky punishment.",
+	"texture": "Elite Octoomba.png",
+	"emissionTexture": "Elite Octoomba_e.png"
+}

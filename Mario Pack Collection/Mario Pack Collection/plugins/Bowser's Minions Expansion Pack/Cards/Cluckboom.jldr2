@@ -1,0 +1,16 @@
+{
+	"name": "Cluckboom",
+	"modPrefix": "Mushroom",
+	"displayedName": "Cluckboom",
+	"baseAttack": 1,
+	"baseHealth": 2,
+	"bonesCost": 5,
+	"abilities": ["nevernamed.inscryption.sigils.Bombs Away,"Flying"],
+	"metaCategories": ["ChoiceNode","TraderOffer"],
+	"cardComplexity": "Simple",
+	"temple": "Nature",
+	"description": "The Coocoo Cluckboom. Known to drop bombs on passerby during their reckless flights...",
+	"texture": "Cluckboom.png",
+	"emissionTexture": "Cluckboom_e.png",
+	"tribes": ["mushroom.pelts.conkdor"]
+}

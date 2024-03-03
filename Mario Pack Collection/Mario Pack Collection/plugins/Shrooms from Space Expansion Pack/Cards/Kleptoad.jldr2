@@ -1,0 +1,18 @@
+{
+	"name": "Kleptoad",
+	"modPrefix": "Mushroom",
+	"displayedName": "Kleptoad",
+	"baseAttack": 1,
+	"baseHealth": 4,
+    "extensionProperties": {
+           "MoneyCost": "3"
+	},
+	"abilities": ["extraVoid.inscryption.voidSigils.Thief","extraVoid.inscryption.voidSigils.Midas"],
+	"metaCategories": ["ChoiceNode","TraderOffer"],
+	"cardComplexity": "Simple",
+	"temple": "Nature",
+	"description": "The mental Kleptoad. It won't easily give up it's stolen trasure...",
+	"texture": "Kleptoad.png",
+	"emissionTexture": "Kleptoad_e.png",
+	"tribes": ["mushroom.pelts.koopa"]
+}

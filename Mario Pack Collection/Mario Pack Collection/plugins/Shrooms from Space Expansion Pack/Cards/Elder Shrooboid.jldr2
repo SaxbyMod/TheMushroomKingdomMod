@@ -1,0 +1,16 @@
+{
+	"name": "Elder_Shrooboid",
+	"modPrefix": "Mushroom",
+	"displayedName": "Elder Shrooboid",
+	"baseAttack": 2,
+	"baseHealth": 4,
+	"energyCost": 5,
+	"abilities": ["DoubleStrike"],
+	"metaCategories": ["ChoiceNode","TraderOffer"],
+	"cardComplexity": "Simple",
+	"temple": "Nature",
+	"description": "The Elder Shrooboid. As it's body aged and sharpen, so did it's senses and claws...",
+	"texture": "Elder Shrooboid.png",
+	"emissionTexture": "Shrooboid_e.png",
+	"tribes": ["mushroom.pelts.shroob"]
+}

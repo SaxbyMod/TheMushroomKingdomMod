@@ -1,0 +1,16 @@
+{
+	"name": "Stretch",
+	"modPrefix": "Mushroom",
+	"displayedName": "Stretch",
+	"baseAttack": 0,
+	"baseHealth": 5,
+	"bonesCost": 2,
+	"abilities": ["WhackAMole"],
+	"metaCategories": ["ChoiceNode","TraderOffer"],
+	"cardComplexity": "Intermediate",
+	"temple": "Nature",
+	"tribes": ["mushroom.pelts.boo"],
+	"description": "The sinful Stretch. They revel in catching unsuspecting prey off gaurd by forming from the ground...",
+	"texture": "Stretch.png",
+	"emissionTexture": "Stretch_e.png"
+}

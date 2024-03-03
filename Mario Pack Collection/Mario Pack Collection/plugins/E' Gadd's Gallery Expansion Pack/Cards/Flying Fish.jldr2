@@ -1,0 +1,16 @@
+{
+	"name": "Flying_Fish",
+	"modPrefix": "Mushroom",
+	"displayedName": "Flying Fish",
+	"baseAttack": 1,
+	"baseHealth": 2,
+	"bonesCost": 2,
+	"metaCategories": ["ChoiceNode","TraderOffer"],
+	"abilities": ["DrawCopy","DrawCopyOnDeath"],
+	"cardComplexity": "Simple",
+	"temple": "Nature",
+	"description": "A school of Flying Fish. Though weak, their numbers seem endless...",
+	"texture": "Flying Fish.png",
+	"emissionTexture": "Flying Fish_e.png",
+	"tribes": ["mushroom.pelts.boo","mushroom.pelts.cheep_cheep"]
+}

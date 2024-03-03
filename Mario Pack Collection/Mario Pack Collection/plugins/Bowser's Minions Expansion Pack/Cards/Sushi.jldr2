@@ -1,0 +1,16 @@
+{
+	"name": "Sushi",
+	"modPrefix": "Mushroom",
+	"displayedName": "Sushi",
+	"baseAttack": 4,
+	"baseHealth": 2,
+	"bloodCost": 3,
+	"abilities": ["Submerge"],
+	"metaCategories": ["ChoiceNode","TraderOffer"],
+	"cardComplexity": "Intermediate",
+	"temple": "Nature",
+	"tribes": ["mushroom.pelts.cheep_cheep"],
+	"description": "The dangerous Sushi. The terror of the seas...",
+	"texture": "Sushi.png",
+	"emissionTexture": "Sushi_e.png"
+}

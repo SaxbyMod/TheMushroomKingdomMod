@@ -1,0 +1,16 @@
+{
+	"name": "Boo_Mushroom",
+	"modPrefix": "Mushroom",
+	"displayedName": "Boo Mushroom",
+	"baseHealth": 1,
+	"bloodCost": 1,
+	"abilities": ["nevernamed.inscryption.sigils.Immaterial"],
+	"metaCategories": ["ChoiceNode","TraderOffer"],
+	"cardComplexity": "Intermediate",
+	"temple": "Nature",
+	"description": "The ghastly Boo Mushroom. A bite won't kill you, but it will grant you the invisibility of the sly Boo...",
+	"texture": "Boo Mushroom.png",
+	"emissionTexture": "Boo Mushroom_e.png",
+	"tribes": ["mushroom.pelts.power_up","mushroom.pelts.boo"],
+	"iceCubeName": "Mushroom_Zombie_Mushroom"
+}

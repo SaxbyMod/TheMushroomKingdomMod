@@ -1,0 +1,19 @@
+{
+	"name": "Mushroom_Dimentio",
+	"modPrefix": "Mushroom",
+	"displayedName": "Dimentio",
+	"baseAttack": 1,
+	"baseHealth": 4,
+	"bloodCost": 1,
+	"energyCost": 2,
+	"abilities": ["nevernamed.inscryption.sigils.Tooth Puller","nevernamed.inscryption.sigils.Traitor"],
+	"metaCategories": ["Rare"],
+	"cardComplexity": "Intermediate",
+	"temple": "Nature",
+	"description": "The joker, Dimentio. He may be of assistance, but keep an eye on him. He's known to stab his friends in the back...",
+	"appearanceBehaviour": ["RareCardBackground"],
+	"texture": "Dimentio.png",
+	"emissionTexture": "Dimentio_e.png",
+	"evolveIntoName": "Super_Dimentio",
+	"evolveTurns": 1
+}

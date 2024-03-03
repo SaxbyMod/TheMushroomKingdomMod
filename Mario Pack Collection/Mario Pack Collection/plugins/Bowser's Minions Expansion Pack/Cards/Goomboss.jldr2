@@ -1,0 +1,18 @@
+{
+	"name": "Mushroom_Goomboss",
+	"modPrefix": "Mushroom",
+	"displayedName": "Goomboss",
+	"baseAttack": 1,
+	"baseHealth": 3,
+	"bloodCost": 2,
+	"abilities": ["nevernamed.inscryption.sigils.Enraged"],
+	"tribes": ["mushroom.pelts.goomba"],
+	"metaCategories": ["Rare"],
+	"cardComplexity": "Intermediate",
+	"temple": "Nature",
+	"description": "The regal Goomboss. It command the goombas with a merciless, if not insane, demeanor.",
+	"appearanceBehaviour": ["RareCardBackground"],
+	"texture": "Goomboss.png",
+	"emissionTexture": "Goomboss_e.png",
+	"pixelTexture": "Goomboss Act 2.png"
+}

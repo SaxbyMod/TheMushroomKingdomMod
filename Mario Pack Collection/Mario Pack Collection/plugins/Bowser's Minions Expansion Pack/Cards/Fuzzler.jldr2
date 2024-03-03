@@ -1,0 +1,16 @@
+{
+	"name": "Mushroom_Fuzzler",
+	"modPrefix": "Mushroom",
+	"displayedName": "Fuzzler",
+	"baseAttack": 1,
+	"baseHealth": 4,
+	"bloodCost": 2,
+	"abilities": ["nevernamed.inscryption.sigils.Surging Quills"],
+	"metaCategories": ["ChoiceNode","TraderOffer"],
+	"cardComplexity": "Simple",
+	"temple": "Nature",
+	"description": "The fuzzy Fuzzler. A beast best described as the sharpened fusion of Wiggler and Fuzzy...",
+	"texture": "Fuzzler.png",
+	"emissionTexture": "Fuzzler_e.png",
+	"tribes": ["mushroom.pelts.wriggler"]
+}

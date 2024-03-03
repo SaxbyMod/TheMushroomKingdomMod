@@ -1,0 +1,16 @@
+{
+	"name": "Mushroom_Mushroom",
+	"modPrefix": "Mushroom",
+	"displayedName": "Mushroom",
+	"baseHealth": 1,
+	"abilities": ["Evolve"],
+	"metaCategories": ["ChoiceNode","TraderOffer"],
+	"cardComplexity": "Intermediate",
+	"temple": "Nature",
+	"tribes": ["mushroom.pelts.power_up"],
+	"description": "The fungal mushroom. Sacrifice it at the altar to give a card the ability to evolve.",
+	"texture": "Mushroom.png",
+	"emissionTexture": "Mushroom_e.png",
+	"evolveIntoName": "Mushroom_Super_Mushroom",
+	"evolveTurns": 1
+}

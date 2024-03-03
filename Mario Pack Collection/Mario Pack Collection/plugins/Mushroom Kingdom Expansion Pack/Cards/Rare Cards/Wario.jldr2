@@ -1,0 +1,15 @@
+{
+	"name": "Mushroom_Wario",
+	"modPrefix": "Mushroom",
+	"displayedName": "Wario",
+	"baseAttack": 2,
+	"baseHealth": 3,
+	    "extensionProperties": {
+	           "MoneyCost": "6"
+	},
+	"abilities": ["extraVoid.inscryption.voidSigils.Repellant","extraVoid.inscryption.LifeCost.Greedy Strength"],
+	"metaCategories": ["ChoiceNode"],
+	"cardComplexity": "Intermediate",
+	"temple": "Nature",
+	"description": "Greedy ol' Wario. If you're gonna summon him, teeth from the scale won't cut it. It must be GOLD."
+}

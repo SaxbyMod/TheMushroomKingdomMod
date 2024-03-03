@@ -1,0 +1,15 @@
+{
+	"name": "Mushroom_Grrrol",
+	"modPrefix": "Mushroom",
+	"displayedName": "Grrrol",
+	"baseHealth": 2,
+	"bonesCost": 6,
+	"abilities": ["nevernamed.inscryption.sigils.Sharper Quills","Strafe"],
+	"metaCategories": ["ChoiceNode","TraderOffer"],
+	"cardComplexity": "Intermediate",
+	"temple": "Nature",
+	"tribes": ["mushroom.pelts.crusher"],
+	"description": "The roundabout Grrrol. When it gets rolling, it's extremly hard to stop...",
+	"texture": "Grrrol.png",
+	"emissionTexture": "Grrrol_e.png"
+}

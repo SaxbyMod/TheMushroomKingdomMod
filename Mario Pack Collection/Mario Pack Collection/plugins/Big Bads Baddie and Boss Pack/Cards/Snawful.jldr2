@@ -1,0 +1,15 @@
+{
+	"name": "Mushroom_Snawful",
+	"modPrefix": "Mushroom",
+	"displayedName": "Snawful",
+	"baseAttack": 1,
+	"baseHealth": 2,
+	"bonesCost": 4,
+	"abilities": ["nevernamed.inscryption.sigils.Healer"],
+	"metaCategories": ["ChoiceNode","TraderOffer"],
+	"cardComplexity": "Intermediate",
+	"temple": "Nature",
+	"description": "The refreshing Snawful. Their freezing breath can heal and power up their allies in a fight.",
+	"texture": "Snawful.png",
+	"emissionTexture": "Snawful_e.png"
+}

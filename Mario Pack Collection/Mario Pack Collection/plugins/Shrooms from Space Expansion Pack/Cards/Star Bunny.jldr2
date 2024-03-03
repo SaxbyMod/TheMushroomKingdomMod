@@ -1,0 +1,16 @@
+{
+	"name": "Star_Bunny",
+	"modPrefix": "Mushroom",
+	"displayedName": "Star Bunny",
+	"baseAttack": 2,
+	"baseHealth": 1,
+	"energyCost": 5,
+	"abilities": ["Strafe","extraVoid.inscryption.voidSigils.Agile","extraVoid.inscryption.voidSigils.Abundance","extraVoid.inscryption.voidSigils.Abundance","extraVoid.inscryption.voidSigils.Abundance"],
+	"metaCategories": ["ChoiceNode","TraderOffer"],
+	"cardComplexity": "Simple",
+	"temple": "Nature",
+	"description": "The energetic Star Bunny. It's a shining beacon that rewards greatly if caught.",
+	"texture": "Star Bunny.png",
+	"emissionTexture": "Star Bunny_e.png",
+	"tribes": ["mushroom.pelts.star"]
+}

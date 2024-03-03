@@ -1,0 +1,20 @@
+{
+	"name": "Bill_Blaster",
+	"modPrefix": "Mushroom",
+	"displayedName": "Bill Blaster",
+	"baseHealth": 2,
+	"energyCost": 3,
+	"abilities": ["creator.TooManySigils.Launcher"],
+	"metaCategories": ["ChoiceNode","TraderOffer"],
+	"cardComplexity": "Advanced",
+	"temple": "Nature",
+	"description": "Home of the relentless bullet bill. It is known to have unlimited ammo, but no defenses if attacked head on...",
+	"appearanceBehaviour": ["TerrainLayout","TerrainBackground"],
+	"texture": "Bill Blaster.png",
+	"emissionTexture": "Bill Blaster_e.png",
+	"tribes": ["mushroom.pelts.blaster"],
+	"traits": ["Terrain"],
+	"evolveIntoName": "Mushroom_B-Bill_Blaster",
+	"evolveTurns": 1,
+	"iceCubeName": "Mushroom_Bullet_Bill"
+}

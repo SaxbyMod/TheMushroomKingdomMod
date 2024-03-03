@@ -1,0 +1,16 @@
+{
+	"name": "Mushroom_Porcupuffer",
+	"modPrefix": "Mushroom",
+	"displayedName": "Porcupuffer",
+	"baseAttack": 2,
+	"baseHealth": 1,
+	"bloodCost": 2,
+	"abilities": ["nevernamed.inscryption.sigils.Coastguard","nevernamed.inscryption.sigils.Subaquatic Spines"],
+	"metaCategories": ["ChoiceNode","TraderOffer"],
+	"cardComplexity": "Intermediate",
+	"temple": "Nature",
+	"tribes": ["mushroom.pelts.cheep_cheep"],
+	"description": "The sadistic Porcupuffer. Cares not for the deep, but rather lurks the surface with it's quills at the ready...",
+	"texture": "Porcupuffer.png",
+	"emissionTexture": "Porcupuffer_e.png"
+}

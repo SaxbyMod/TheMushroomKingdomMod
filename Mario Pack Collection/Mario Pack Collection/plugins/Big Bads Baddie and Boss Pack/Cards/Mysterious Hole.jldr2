@@ -1,0 +1,18 @@
+{
+	"name": "Mysterious_Hole",
+	"modPrefix": "Mushroom",
+	"displayedName": "Mysterious Hole",
+	"baseHealth": 1,
+	"bloodCost": 2,
+	"abilities": ["IceCube"],
+	"metaCategories": ["Rare"],
+	"cardComplexity": "Intermediate",
+	"temple": "Nature",
+	"description": "Strange... I thought I saw something in the hole when I photographed it...",
+	"appearanceBehaviour": ["TerrainBackground","TerrainLayout"],
+	"texture": "Mysterious Hole.png",
+	"emissionTexture": "Mysterious Hole_e.png",
+	"tribes": ["None"],
+	"traits": ["Terrain"],
+	"iceCubeName": "Mushroom_Unagi"
+}

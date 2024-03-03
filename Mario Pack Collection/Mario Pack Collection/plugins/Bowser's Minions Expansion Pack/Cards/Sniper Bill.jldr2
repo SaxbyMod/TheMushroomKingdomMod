@@ -1,0 +1,17 @@
+{
+	"name": "Sniper_Bill",
+	"modPrefix": "Mushroom",
+	"displayedName": "Sniper Bill",
+	"baseAttack": 2,
+	"baseHealth": 2,
+	"energyCost": 5,
+	"abilities": ["DoubleStrike","Sniper"],
+	"metaCategories": ["ChoiceNode","TraderOffer"],
+	"cardComplexity": "Simple",
+	"temple": "Nature",
+	"description": "The dead-eyed Sniper Bill. A merciless machine who has mastered the Super Scope. Pray you aren't next in it's sights...",
+	"texture": "Sniper Bill.png",
+	"emissionTexture": "Sniper Bill_e.png",
+	"tribes": ["mushroom.pelts.blaster"],
+	"traits": ["KillsSurvivors"]
+}

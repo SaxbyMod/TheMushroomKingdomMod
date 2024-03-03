@@ -1,0 +1,16 @@
+{
+	"name": "Mushroom_Walleye",
+	"modPrefix": "Mushroom",
+	"displayedName": "Walleye",
+	"baseAttack": 1,
+	"baseHealth": 4,
+	"bloodCost": 1,
+	"abilities": ["Sharp","WhackAMole","MadeOfStone"],
+	"metaCategories": ["ChoiceNode","TraderOffer"],
+	"cardComplexity": "Intermediate",
+	"temple": "Nature",
+	"tribes": ["mushroom.pelts.crusher"],
+	"description": "The brutish Walleye. Those who dare try to get past will instead recieve a spiky interruption...",
+	"texture": "Walleye.png",
+	"emissionTexture": "Walleye_e.png"
+}

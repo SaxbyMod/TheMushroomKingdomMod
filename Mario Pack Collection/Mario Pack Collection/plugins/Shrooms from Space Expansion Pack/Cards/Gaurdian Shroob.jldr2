@@ -1,0 +1,16 @@
+{
+	"name": "Gaurdian_Shroob",
+	"modPrefix": "Mushroom",
+	"displayedName": "Gaurdian Shroob",
+	"baseAttack": 1,
+	"baseHealth": 4,
+	"energyCost": 6,
+	"abilities": ["SplitStrike","extraVoid.inscryption.voidSigils.Bodyguard"],
+	"metaCategories": ["ChoiceNode","TraderOffer"],
+	"cardComplexity": "Simple",
+	"temple": "Nature",
+	"description": "The loyal Gaurdian Shroob. The final line of defense of the Shroob's Mothership...",
+	"texture": "Gaurdian Shroob.png",
+	"emissionTexture": "Gaurdian Shroob_e.png",
+	"tribes": ["mushroom.pelts.shroob"]
+}

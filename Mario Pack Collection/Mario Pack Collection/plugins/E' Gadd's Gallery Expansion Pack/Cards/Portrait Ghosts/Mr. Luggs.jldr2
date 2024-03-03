@@ -1,0 +1,18 @@
+{
+	"name": "Mr_Luggs",
+	"modPrefix": "Gallery",
+	"displayedName": "Mr. Luggs",
+	"baseAttack": 0,
+	"baseHealth": 3,
+	"gemsCost": ["Orange"],
+	"metaCategories": ["ChoiceNode","TraderOffer"],
+	"onePerDeck": true,
+	"abilities": ["org.memez4life.inscryption.customsigils.Launcher","extraVoid.inscryption.voidSigils.Vicious"],
+	"iceCubeName":"Mushroom_Waiter",
+	"cardComplexity": "Simple",
+	"temple": "Nature",
+	"description": "Mr. Luggs, the Glutton. Even eating himself to death wasn't enough to satiate his hunger...",
+	"texture": "Mr. Luggs.png",
+	"emissionTexture": "Mr. Luggs_e.png",
+	"tribes": ["mushroom.pelts.boo"]
+}

@@ -1,0 +1,17 @@
+{
+	"name": "Chakron",
+	"modPrefix": "Mushroom",
+	"displayedName": "Chakron",
+	"baseAttack": 0,
+	"baseHealth": 7,
+	"bloodCost": 1,
+	"energyCost": 5,
+	"abilities": ["MadeOfStone","nevernamed.inscryption.sigils.Abstain"],
+	"metaCategories": ["Rare"],
+	"appearanceBehaviour": ["RareCardBackground"],
+	"cardComplexity": "Simple",
+	"temple": "Nature",
+	"description": "The meditative Chakron. It's stance is said to be unbreakable, not even by it's own will...",
+	"texture": "Chakron.png",
+	"emissionTexture": "Chakron_e.png"
+}

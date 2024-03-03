@@ -1,0 +1,15 @@
+{
+	"name": "Torpedo_Ted",
+	"modPrefix": "Mushroom",
+	"displayedName": "Torpedo Ted",
+	"baseAttack": 2,
+	"baseHealth": 2,
+	"energyCost": 2,
+	"abilities": ["Submerge","extraVoid.inscryption.voidSigils.Maneuver"],
+	"cardComplexity": "Intermediate",
+	"temple": "Nature",
+	"tribes": ["mushroom.pelts.blaster"],
+	"description": "The malicious Torpedo Ted. The bullet bills of the deep, and built more hardy than their land dwelling kind...",
+	"texture": "Torpedo Ted.png",
+	"emissionTexture": "Torpedo Ted_e.png"
+}

@@ -1,0 +1,17 @@
+{
+	"name": "Mushroom_Protobatter",
+	"modPrefix": "Mushroom",
+	"displayedName": "Protobatter",
+	"baseAttack": 2,
+	"baseHealth": 5,
+	"bonesCost": 2,
+	"energyCost": 0,
+	"abilities": ["ActivatedStatsUp"],
+	"metaCategories": ["ChoiceNode","TraderOffer"],
+	"cardComplexity": "Intermediate",
+	"temple": "Nature",
+	"tribes": ["mushroom.pelts.organ"],
+	"description": "The ever-growing Protobatter. It is able to change its size, and become even stronger. At a cost...",
+	"texture": "Protobatter.png",
+	"emissionTexture": "Protobatter_e.png"
+}

@@ -1,0 +1,18 @@
+{
+	"name": "Kamella",
+	"modPrefix": "Mushroom",
+	"displayedName": "Kamella",
+	"baseAttack": 2,
+	"baseHealth": 5,
+	"bloodCost": 2,
+	"abilities": ["org.memez4life.inscryption.customsigils.Launcher","org.memez4life.inscryption.customsigils.Warper"],
+	"metaCategories": ["Rare"],
+	"cardComplexity": "Intermediate",
+	"temple": "Nature",
+	"description": "The great and powerful Kamella.The wicked witch leader of the Magikoopas...",
+	"appearanceBehaviour": ["RareCardBackground"],
+	"texture": "Kamella.png",
+	"emissionTexture": "Kamella_e.png",
+	"tribes": ["mushroom.pelts.koopa"],
+	"iceCubeName": "Mushroom_Blue_Magikoopa"
+}

@@ -1,0 +1,17 @@
+{
+	"name": "Spiny_Egg_Shroopa",
+	"modPrefix": "Mushroom",
+	"displayedName": "Spiny Egg?",
+	"baseHealth": 1,
+	"energyCost": 2,
+	"abilities": ["Evolve","Sharp"],
+	"metaCategories": ["ChoiceNode","TraderOffer"],
+	"cardComplexity": "Vanilla",
+	"temple": "Nature",
+	"description": "Something's wrong with this egg. Did the Spiny inside catch an illness?",
+	"texture": "Spiny Egg.png",
+	"emissionTexture": "Spiny Egg_e.png",
+	"tribes": ["mushroom.pelts.shroob","mushroom.pelts.koopa"],
+	"evolveIntoName": "Mushroom_Spiny_Shroopa",
+	"evolveTurns": 1
+}

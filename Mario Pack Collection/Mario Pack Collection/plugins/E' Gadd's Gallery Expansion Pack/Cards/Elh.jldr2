@@ -1,0 +1,18 @@
+{
+	"name": "Mushroom_Elh",
+	"modPrefix": "Mushroom",
+	"displayedName": "Elh",
+	"baseAttack": 3,
+	"baseHealth": 3,
+	"bonesCost": 2,
+	"energyCost": 0,
+	"abilities": ["RandomAbility","TriStrike"],
+	"metaCategories": ["Rare"],
+	"cardComplexity": "Intermediate",
+	"temple": "Nature",
+	"description": "I have no words for... whatever this is...",
+	"appearanceBehaviour": ["RareCardBackground","RareCardColors"],
+	"texture": "Elh.png",
+	"emissionTexture": "Elh_e.png",
+	"tribes": ["mushroom.pelts.boo"]
+}

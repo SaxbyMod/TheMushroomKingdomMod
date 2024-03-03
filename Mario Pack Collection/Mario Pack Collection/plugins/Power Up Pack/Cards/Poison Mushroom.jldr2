@@ -1,0 +1,19 @@
+{
+	"name": "Mushroom_Poison Mushroom",
+	"modPrefix": "Mushroom",
+	"displayedName": "Poison Mushroom",
+	"baseHealth": 1,
+	"bloodCost": 1,
+	"abilities": ["nevernamed.inscryption.sigils.Caustic","nevernamed.inscryption.sigils.Frail Sacrifice"],
+	"metaCategories": ["ChoiceNode","TraderOffer"],
+	"cardComplexity": "Intermediate",
+	"temple": "Nature",
+	"description": "The sly Poison Mushroom. I'm afraid this shroom would rather kill your allies then aid them. Perhaps you can redirect the venom somewhere else?",
+	"texture": "Poison Mushroom.png",
+	"emissionTexture": "Poison Mushroom_e.png",
+	"tribes": ["mushroom.pelts.power_up"],
+	"traits": ["KillsSurvivors"],
+	"evolveIntoName": "Mushroom_Zombie_Mushroom",
+	"evolveTurns": 1,
+	"pixelTexture": "Poison Mushroom Act 2.png"
+}

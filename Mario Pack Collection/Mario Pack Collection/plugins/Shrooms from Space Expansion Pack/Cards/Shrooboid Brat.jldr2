@@ -1,0 +1,17 @@
+{
+	"name": "Shrooboid_Brat",
+	"modPrefix": "Mushroom",
+	"displayedName": "Shrooboid Brat",
+	"baseAttack": 2,
+	"baseHealth": 3,
+	"energyCost": 2,
+	"metaCategories": ["Rare"],
+	"cardComplexity": "Intermediate",
+	"temple": "Nature",
+	"tribes": ["mushroom.pelts.shroob"],
+	"abilities": ["extraVoid.inscryption.voidSigils.Life Gambler","extraVoid.inscryption.voidSigils.Tooth Bargain"],
+	"description": "The Egotistical Shrooboid Brat. Give some of your life away, and you can make a difference on if it lives or dies...",
+	"texture": "Shrooboid Brat.png",
+	"emissionTexture": "Shrooboid Brat.png",
+	"appearanceBehaviour": ["RareCardBackground"]
+}

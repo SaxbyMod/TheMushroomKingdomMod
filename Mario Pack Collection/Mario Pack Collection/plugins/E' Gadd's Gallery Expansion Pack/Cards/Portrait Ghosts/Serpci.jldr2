@@ -1,0 +1,19 @@
+{
+	"name": "Serpci",
+	"modPrefix": "Gallery",
+	"displayedName": "Serpci",
+	"baseAttack": 2,
+	"baseHealth": 3,
+	"gemsCost": ["Orange"],
+	"metaCategories": ["ChoiceNode","TraderOffer"],
+	"onePerDeck": true,
+	"abilities": ["TailOnHit","extraVoid.inscryption.voidSigils.Draw Card"],
+	"tailName": "Mushroom_Pitfall",
+	"iceCubeName": "Mushroom_Pitfall,
+	"cardComplexity": "Simple",
+	"temple": "Nature",
+	"description": "The tricky Serpci. There's nothing she likes more than pranking others with traps for her amusement...",
+	"texture": "Serpci.png",
+	"emissionTexture": "Serpci_e.png",
+	"tribes": ["mushroom.pelts.boo"]
+}

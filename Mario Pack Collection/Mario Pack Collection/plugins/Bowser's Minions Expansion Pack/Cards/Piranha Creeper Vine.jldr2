@@ -1,0 +1,14 @@
+{
+	"name": "Piranha_Creeper_Vine",
+	"modPrefix": "Mushroom",
+	"displayedName": "Piranha Creeper Vine",
+	"baseHealth": 2,
+	"abilities": ["Sharp"],
+	"cardComplexity": "Intermediate",
+	"temple": "Nature",
+	"tribes": ["mushroom.pelts.piranha_plant"],
+	"description": "The slithering Piranha Creeper's Vine. Spiky to the touch...",
+	"texture": "Piranha_Creeper_Vine.png",
+	"emissionTexture": "Piranha_Creeper_Vine_e.png",
+	"tailName": "Piranha_Creeper_Vine"
+}

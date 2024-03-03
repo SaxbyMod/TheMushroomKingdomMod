@@ -1,0 +1,16 @@
+{
+	"name": "Bowling_Ghost",
+	"modPrefix": "Gallery",
+	"displayedName": "Bowling Ghost",
+	"baseAttack": 2,
+	"baseHealth": 1,
+	"bonesCost": 6,
+	"abilities": ["Sniper","Submerge"],
+	"metaCategories": ["ChoiceNode","TraderOffer"],
+	"cardComplexity": "Intermediate",
+	"temple": "Nature",
+	"tribes": ["mushroom.pelts.boo"],
+	"description": "The Lofting Bowling Ghost. Would rather want to strike passerby than the pins...",
+	"texture": "Bowling Ghost.png",
+	"emissionTexture": "Bowling Ghost_e.png"
+}

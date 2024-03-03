@@ -1,0 +1,13 @@
+{
+	"name": "Mushroom_Rosalina",
+	"modPrefix": "Mushroom",
+	"displayedName": "Rosalina",
+	"baseAttack": 2,
+	"baseHealth": 3,
+	"energyCost": 2,
+	"abilities": ["DrawCopyOnDeath","Flying"],
+	"metaCategories": ["ChoiceNode"],
+	"cardComplexity": "Intermediate",
+	"temple": "Nature",
+	"description": "The beautiful Rosalina. Mother of the Lumas, and ruler of the cosmos..."
+}

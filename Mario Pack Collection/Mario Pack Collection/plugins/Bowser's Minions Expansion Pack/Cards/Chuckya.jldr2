@@ -1,0 +1,16 @@
+{
+	"name": "Chuckya",
+	"modPrefix": "Mushroom",
+	"displayedName": "Chuckya",
+	"baseAttack": 2,
+	"baseHealth": 3,
+	"energy": 4,
+	"abilities": ["nevernamed.inscryption.sigils.Reroute"],
+	"metaCategories": ["ChoiceNode","TraderOffer"],
+	"tribes": ["mushroom.pelts.bomb-omb"],
+	"cardComplexity": "Intermediate",
+	"temple": "Nature",
+	"description": "The mighty Chuckya. A Bob-omb more known for its throwing prowess than its explosive power.",
+	"texture": "Chuckya.png",
+	"emissionTexture": "Chuckya_e.png"
+}

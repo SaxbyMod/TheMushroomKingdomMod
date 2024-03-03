@@ -1,0 +1,15 @@
+{
+	"name": "Dark_Moon",
+	"modPrefix": "Gallery",
+	"displayedName": "Dark Moon",
+	"baseHealth": 5,
+	"bloodCost": 1,
+	"abilities": ["GainGemTriple"],
+	"metaCategories": ["Rare"],
+	"cardComplexity": "Intermediate",
+	"temple": "Nature",
+	"description": "The ghostly Dark Moon. Known to control the minds off everyghost within Evershade Valley...",
+	"texture": "Dark Moon.png",
+	"emissionTexture": "Dark Moon_e.png",
+	"tribes": ["mushroom.pelts.boo","mushroom.pelts.star"]
+}

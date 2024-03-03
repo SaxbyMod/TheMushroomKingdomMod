@@ -1,0 +1,12 @@
+{
+    "name": "Mini_Ztar",
+    "modPrefix": "Mushroom",
+    "abilities": ["ActivatedStatsUpEnergy"],
+    "description": "A star that takes. The more light it drains, the stronger it becomes...",
+    "displayedName": "Mini Ztar",
+    "texture": "Mini Ztar.png",
+    "pixelTexture": "Mini Ztar Act 2.png",
+    "tribes": ["mushroom.pelts.star"],
+    "baseAttack": 0,
+    "baseHealth": 1
+}

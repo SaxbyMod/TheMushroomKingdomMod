@@ -1,0 +1,15 @@
+{
+	"name": "Brolder",
+	"modPrefix": "Mushroom",
+	"displayedName": "Brolder",
+	"baseAttack": 1,
+	"baseHealth": 2,
+	"bloodCost": 2,
+	"abilities": ["creator.TooManySigils.Resistant","MadeOfStone"],
+	"metaCategories": ["ChoiceNode","TraderOffer"],
+	"cardComplexity": "Intermediate",
+	"description": "The Brute Brolder. Mighty stones given life by the volcano they call home, though I'm still puzzled as to how...",
+	"temple": "Nature",
+	"texture": "Brolder.png",
+	"emissionTexture": "Brolder_e.png"
+}

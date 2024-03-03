@@ -1,0 +1,17 @@
+{
+	"name": "Mushroom_Goomdiver",
+	"modPrefix": "Mushroom",
+	"displayedName": "Goomdiver",
+	"baseAttack": 1,
+	"baseHealth": 1,
+	"bloodCost": 1,
+	"energyCost": 2,
+	"abilities": ["Submerge","nevernamed.inscryption.sigils.Diver"],
+	"metaCategories": ["ChoiceNode","TraderOffer"],
+	"cardComplexity": "Advanced",
+	"temple": "Nature",
+	"description": "The clever Goomdiver. It uses its knowledge of the deep to ambush those who hide on its turf.",
+	"texture": "Goomdiver.png",
+	"emissionTexture": "Goomdiver_e.png",
+	"tribes": ["mushroom.pelts.goomba"]
+}

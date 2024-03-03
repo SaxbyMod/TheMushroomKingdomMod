@@ -1,0 +1,16 @@
+{
+	"name": "Spoing",
+	"modPrefix": "Mushroom",
+	"displayedName": "Spoing",
+	"baseAttack": 1,
+	"baseHealth": 2,
+	"bloodCost": 2,
+	"abilities": ["Deathtouch","Reach"],
+	"metaCategories": ["ChoiceNode","TraderOffer"],
+	"cardComplexity": "Intermediate",
+	"temple": "Nature",
+	"description": "The dastardly Spoing. Unlike Spranglers, they prefer leaping towards their prey...",
+	"texture": "Spoing.png",
+	"emissionTexture": "Spoing_e.png",
+	"tribes": ["mushroom.pelts.wriggler"]
+}

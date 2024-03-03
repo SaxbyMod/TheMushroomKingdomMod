@@ -1,0 +1,17 @@
+{
+	"name": "Choomba",
+	"modPrefix": "Mushroom",
+	"displayedName": "Choomba",
+	"baseAttack": 2,
+	"baseHealth": 4,
+	"energyCost": 5,
+	"abilities": ["nevernamed.inscryption.sigils.Running Strike"],
+	"metaCategories": ["ChoiceNode","TraderOffer"],
+	"cardComplexity": "Advanced",
+	"temple": "Nature",
+	"description": "The hardy Choomba. A word of caution, never fight this contraption head on if you can't get out of the way.",
+	"texture": "Choomba.png",
+	"emissionTexture": "Choomba_e.png",
+	"tribes": ["mushroom.pelts.goomba"],
+	"traits": ["KillsSurvivors"]
+}

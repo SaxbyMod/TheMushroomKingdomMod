@@ -1,0 +1,21 @@
+{
+    "name": "MushroomKingdomExpansionPack",
+    "version_number": "4.0.0",
+    "website_url": "",
+    "description": "The Mushroom Kingdom Expansion Pack comes with over 700 cards for your creative treks through Act 1 of Inscryption. (In progress of a rework) [Kaycee's Mod compatible]",
+    "dependencies": [
+        "Void_Slime-Life_Cost_API-2.2.2",
+        "MADH95Mods-JSONCardLoader-2.3.1",
+        "BepInEx-BepInExPack_Inscryption-5.4.1901",
+        "API_dev-API-2.13.3",
+	    "RykeDaxter-MycoMerger-1.0.1",
+	    "bitty45-BittysSigils-1.4.0",
+	    "KellyBetty-JSON_Boss_Dialogue-1.1.1",
+    	"Nevernamed-Nevernameds_Sigilarium-1.13.0",
+    	"TVFLabs-CustomSideDeck-1.1.0",
+        "The_Unwanted_but_Useful_Libraries-Tribal_Libary-1.14.0",
+        "Infiniscryption-Pack_Management_API-1.0.7",
+        "Too_Many_Sigils_Team-Too_Many_Sigils-2.1.0",
+        "Nevernamed-Opponent_Bones-1.0.0"
+    ]
+}

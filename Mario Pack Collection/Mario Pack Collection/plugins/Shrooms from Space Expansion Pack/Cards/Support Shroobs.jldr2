@@ -1,0 +1,18 @@
+{
+	"name": "Support_Shroobs",
+	"modPrefix": "Mushroom",
+	"displayedName": "Support Shroobs",
+	"baseAttack": 2,
+	"baseHealth": 3,
+	"energyCost": 3,
+	"metaCategories": ["Rare"],
+	"cardComplexity": "Intermediate",
+	"temple": "Nature",
+	"tribes": ["mushroom.pelts.shroob","mushroom.pelts.bomb-omb"],
+	"abilities": ["IceCube","extraVoid.inscryption.voidSigils.Injured"],
+	"iceCubeName": "Mushroom_Shroob_omb",
+	"description": "The support shroobs. The weapon they wield is powerful, but they can't hold it forever...",
+	"texture": "Support Shroobs.png",
+	"appearanceBehaviour": ["RareCardBackground"],
+	"emissionTexture": "Support Shroobs_e.png"
+}

@@ -1,0 +1,16 @@
+{
+	"name": "Charging_Chuck",
+	"modPrefix": "Mushroom",
+	"displayedName": "Charging Chuck",
+	"baseAttack": 2,
+	"baseHealth": 3,
+	"bloodCost": 2,
+	"abilities": ["nevernamed.inscryption.sigils.Eye for Battle","creator.TooManySigils.Thick Shell"],
+	"metaCategories": ["ChoiceNode","TraderOffer"],
+	"cardComplexity": "Intermediate",
+	"temple": "Nature",
+	"description": "The sportsman Charging Chuck. A koopa with a love for sports, it usually lies in wait for a worthy foe before charging.",
+	"texture": "Charging Chuck.png",
+	"emissionTexture": "Charging Chuck_e.png",
+	"tribes": ["mushroom.pelts.koopa"]
+}

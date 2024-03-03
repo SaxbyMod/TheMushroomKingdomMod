@@ -1,0 +1,19 @@
+{
+	"name": "Neville",
+	"modPrefix": "Gallery",
+	"displayedName": "Neville",
+	"baseAttack": 1,
+	"baseHealth": 3,
+	"energyCost": 2,
+	"gemsCost": ["Orange"],
+	"metaCategories": ["ChoiceNode","TraderOffer"],
+	"onePerDeck": true,
+	"abilities": ["org.memez4life.inscryption.customsigils.Asleep","org.memez4life.inscryption.customsigils.Launcher"],
+	"iceCubeName":"Mushroom_Bookend",
+	"cardComplexity": "Simple",
+	"temple": "Nature",
+	"description": "Neville, the Bookish Father. He spends the time reading books he missed while living...",
+	"texture": "Neville.png",
+	"emissionTexture": "Neville_e.png",
+	"tribes": ["mushroom.pelts.boo"]
+}

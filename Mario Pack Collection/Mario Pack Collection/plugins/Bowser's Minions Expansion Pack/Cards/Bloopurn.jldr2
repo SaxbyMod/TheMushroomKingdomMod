@@ -1,0 +1,17 @@
+{
+	"name": "Bloopurn",
+	"modPrefix": "Mushroom",
+	"displayedName": "Bloopurn",
+	"baseAttack": 0,
+	"baseHealth": 3,
+	"bonesCost": 6,
+	"abilities": ["creator.TooManySigils.Launcher"],
+	"metaCategories": ["ChoiceNode","TraderOffer"],
+	"cardComplexity": "Intermediate",
+	"temple": "Nature",
+	"description": "It confuses me how Grimora was able to create this before I caught her. Did she discover the Mushroom Kingdom before me?",
+	"texture": "Bloopurn.png",
+	"emissionTexture": "Bloopurn_e.png",
+	"tribes": ["mushroom.pelts.blooper"],
+	"iceCubeName": "Mushroom_Blooper_Mummy"
+}

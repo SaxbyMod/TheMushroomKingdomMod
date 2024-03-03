@@ -1,0 +1,17 @@
+{
+	"name": "Onion",
+	"modPrefix": "Mushroom",
+	"displayedName": "Onion",
+	"baseHealth": 5,
+	"energyCost": 3,
+	"abilities": ["org.memez4life.inscryption.customsigils.Host","extraVoid.inscryption.voidSigils.Draw Card"],
+	"metaCategories": ["Rare"],
+	"appearanceBehaviour": ["RareCardBackground"],
+	"cardComplexity": "Intermediate",
+	"temple": "Nature",
+	"description": "Pesky Pikmin. I tried to make sure they didn't infest the pack, but the onion proves my efforts were in vain. Nontheless, it is dealt.",
+	"texture": "Onion.png",
+	"emissionTexture": "Onion_e.png",
+	"tribes": ["mushroom.pelts.wriggler","mushroom.pelts.itembox"],
+	"iceCubeName": "Mushroom_Pikmin"
+}

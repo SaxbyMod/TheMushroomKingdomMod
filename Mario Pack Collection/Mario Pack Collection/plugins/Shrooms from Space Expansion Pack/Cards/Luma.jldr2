@@ -1,0 +1,17 @@
+{
+	"name": "Mushroom_Luma",
+	"modPrefix": "Mushroom",
+	"displayedName": "Luma",
+	"baseAttack": 2,
+	"baseHealth": 2,
+	"bloodCost": 1,
+	"abilities": ["DrawCopy","RandomAbility"],
+	"metaCategories": ["Rare"],
+	"cardComplexity": "Intermediate",
+	"temple": "Nature",
+	"tribes": ["mushroom.pelts.star"],
+	"description": "The childish Luma. Children of the stars, these creatures have the ability to shapeshift to fit any situation and call apon more of their kind.",
+	"appearanceBehaviour": ["GoldEmission","RareCardBackground"],
+	"texture": "Luma.png",
+	"emissionTexture": "Luma_e.png"
+}

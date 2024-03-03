@@ -1,0 +1,14 @@
+{
+	"name": "Ug_Weakened",
+	"modPrefix": "Gallery",
+	"displayedName": "Ug",
+	"baseAttack": 2,
+	"baseHealth": 3,
+	"gemsCost": ["Orange"],
+	"cardComplexity": "Intermediate",
+	"temple": "Nature",
+	"description": "The simple minded Ug. His links to the prehistoric are unmatched, in more ways than one...",
+	"texture": "Ug.png",
+	"emissionTexture": "Ug_e.png",
+	"tribes": ["mushroom.pelts.boo"]
+}

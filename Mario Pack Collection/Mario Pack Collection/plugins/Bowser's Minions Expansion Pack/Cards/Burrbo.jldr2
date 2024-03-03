@@ -1,0 +1,15 @@
+{
+	"name": "Burrbo",
+	"modPrefix": "Mushroom",
+	"displayedName": "Burrbo",
+	"baseAttack": 1,
+	"baseHealth": 1,
+	"metaCategories": ["ChoiceNode","TraderOffer","Rare"],
+	"cardComplexity": "Simple",
+	"temple": "Nature",
+	"description": "The pitiful Burrbo. I'll let you play it for free, but don't expect much from it.",
+	"appearanceBehaviour": ["RareCardBackground"],
+	"texture": "Burrbo.png",
+	"emissionTexture": "Burrbo_e.png",
+	"tribes": ["mushroom.pelts.wriggler"]
+}

@@ -1,0 +1,14 @@
+{
+	"name": "Fire_Flower",
+	"modPrefix": "Mushroom",
+	"displayedName": "Fire Flower",
+	"baseHealth": 2,
+	"abilities": ["Sniper"],
+	"metaCategories": ["ChoiceNode","TraderOffer"],
+	"cardComplexity": "Intermediate",
+	"temple": "Nature",
+	"tribes": ["mushroom.pelts.power_up"],
+	"description": "The flickering Fire Flower. Sacrificing it at the altar will grant an ally the ability to throw fire at their enemies.",
+	"texture": "Fire Flower.png",
+	"emissionTexture": "Fire Flower_e.png"
+}

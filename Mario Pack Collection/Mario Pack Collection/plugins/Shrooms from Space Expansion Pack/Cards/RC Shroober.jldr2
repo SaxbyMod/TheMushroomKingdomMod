@@ -1,0 +1,17 @@
+{
+	"name": "RC_Shroober",
+	"modPrefix": "Mushroom",
+	"displayedName": "RC Shroober",
+	"baseAttack": 2,
+	"baseHealth": 3,
+	"energyCost": 4,
+	"abilities": ["org.memez4life.inscryption.customsigils.Launcher"],
+	"metaCategories": ["ChoiceNode","TraderOffer"],
+	"cardComplexity": "Simple",
+	"temple": "Nature",
+	"description": "The robust RC Shroober. Know to send out bombs to do it's dirty work...",
+	"texture": "RC Shroober.png",
+	"emissionTexture": "RC Shroober_e.png",
+	"tribes": ["mushroom.pelts.shroob"],
+	"iceCubeName": "Mushroom_RC_Bomb"
+}

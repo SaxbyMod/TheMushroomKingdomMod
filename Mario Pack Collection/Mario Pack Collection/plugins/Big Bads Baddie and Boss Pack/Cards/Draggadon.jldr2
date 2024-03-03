@@ -1,0 +1,17 @@
+{
+	"name": "Mushroom_Draggadon",
+	"modPrefix": "Mushroom",
+	"displayedName": "Draggadon",
+	"baseAttack": 2,
+	"baseHealth": 1,
+	"bloodCost": 2,
+	"abilities": ["TriStrike","Submerge","extraVoid.inscryption.voidSigils.Submerged Ambush"],
+	"metaCategories": ["Rare"],
+	"cardComplexity": "Intermediate",
+	"temple": "Nature",
+	"description": "The regal Draggadon. They submerge in the lava, awaiting trespassers to roast in a hail of fire.",
+	"appearanceBehaviour": ["RareCardBackground"],
+	"texture": "Draggadon.png",
+	"emissionTexture": "Draggadon_e.png",
+	"tribes": ["mushroom.pelts.dinosaur"]
+}

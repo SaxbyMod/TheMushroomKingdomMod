@@ -1,0 +1,18 @@
+{
+	"name": "Trapdragon",
+	"modPrefix": "Mushroom",
+	"displayedName": "Trapdragon",
+	"baseAttack": 1,
+	"baseHealth": 4,
+	"bloodCost": 0,
+	"bonesCost": 0,
+	"energyCost": 4,
+	"abilities": ["nevernamed.inscryption.sigils.Snare"],
+	"metaCategories": ["ChoiceNode","TraderOffer"],
+	"cardComplexity": "Intermediate",
+	"temple": "Nature",
+	"description": "The patient Trapdragon. It's attack may be lacking, but that won't matter if the enemy can't attack either...",
+	"texture": "Trapdragon.png",
+	"emissionTexture": "Trapdragon_e.png",
+	"pixelTexture": "Trapdragon Act 2.png"
+}

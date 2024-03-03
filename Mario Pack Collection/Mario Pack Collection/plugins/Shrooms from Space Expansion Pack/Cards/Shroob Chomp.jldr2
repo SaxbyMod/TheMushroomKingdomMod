@@ -1,0 +1,17 @@
+{
+	"name": "Shroob_Chomp",
+	"modPrefix": "Mushroom",
+	"displayedName": "Shroob Chomp",
+	"baseAttack": 2,
+	"baseHealth": 5,
+	"bonesCost": 3,
+	"energyCost": 4,
+	"abilities": ["GuardDog","Sentry"],
+	"metaCategories": ["ChoiceNode","TraderOffer"],
+	"cardComplexity": "Intermediate",
+	"temple": "Nature",
+	"description": "The loyal Shroob Chomp. Ever serving the Elder Princess Shroob...",
+	"texture": "Shroob Chomp.png",
+	"emissionTexture": "Shroob Chomp_e.png",
+	"tribes": ["mushroom.pelts.shroob","mushroom.pelts.chomp"]
+}

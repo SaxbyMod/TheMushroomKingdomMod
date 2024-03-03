@@ -1,0 +1,16 @@
+{
+	"name": "Chain_Chomplet_Fevered",
+	"modPrefix": "Mushroom",
+	"displayedName": "Fevered Chain Chomplet",
+	"baseAttack": 1,
+	"baseHealth": 3,
+	"bonesCost": 5,
+	"abilities": ["nevernamed.inscryption.sigils.Ignition"],
+	"cardComplexity": "Advanced",
+	"temple": "Nature",
+	"metaCategories": ["ChoiceNode","TraderOffer"],
+	"description": "The fevered Chain Chomplet. Careful, that thing will spread its fire should it find an opening...",
+	"texture": "Chain Chomplet_Fevered.png",
+	"emissionTexture": "Chain Chomplet_Fevered_e.png",
+	"tribes": ["mushroom.pelts.chomp"]
+}

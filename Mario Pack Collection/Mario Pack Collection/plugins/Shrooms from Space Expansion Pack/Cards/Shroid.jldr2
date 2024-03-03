@@ -1,0 +1,17 @@
+{
+	"name": "Shroid",
+	"modPrefix": "Mushroom",
+	"displayedName": "Shroid",
+	"baseAttack": 4,
+	"baseHealth": 2,
+	"energyCost": 6,
+	"abilities": ["Sniper","extraVoid.inscryption.voidSigils.Box"],
+	"metaCategories": ["ChoiceNode","TraderOffer"],
+	"cardComplexity": "Simple",
+	"temple": "Nature",
+	"description": "A robotic Shroob? Yet it is prone to malfunctions. P03's getting rusty...",
+	"texture": "Shroid.png",
+	"emissionTexture": "Shroid_e.png",
+	"tribes": ["mushroom.pelts.shroob"],
+	"iceCubeName": "Mushroom_Malfunctioning_Shroid"
+}

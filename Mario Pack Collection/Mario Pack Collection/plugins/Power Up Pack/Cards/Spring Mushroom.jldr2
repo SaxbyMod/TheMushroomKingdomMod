@@ -1,0 +1,15 @@
+{
+	"name": "Spring_Mushroom",
+	"modPrefix": "Mushroom",
+	"displayedName": "Spring Mushroom",
+	"baseHealth": 1,
+	"bloodCost": 1,
+	"abilities": ["Reach"],
+	"metaCategories": ["ChoiceNode","TraderOffer"],
+	"cardComplexity": "Intermediate",
+	"temple": "Nature",
+	"description": "The bouncy Spring Mushroom. Dare to eat one, you'd best be ready to bounce non-stop...",
+	"texture": "Spring Mushroom.png",
+	"emissionTexture": "Spring Mushroom_e.png",
+	"tribes": ["mushroom.pelts.power_up"]
+}

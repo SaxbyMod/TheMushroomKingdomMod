@@ -1,0 +1,22 @@
+{
+  "name": "AngrySun",
+  "modPrefix": "Mushroom",
+  "displayedName": "Angry Sun",
+  "description": "The heated hatred that is the Angry Sun. Known to swoop down on unsuspecting passerby in the desert...",
+  "metaCategories": [
+    "ChoiceNode",
+    "TraderOffer"
+  ],
+  "cardComplexity": "Advanced",
+  "temple": "Nature",
+  "baseAttack": 1,
+  "baseHealth": 3,
+  "energyCost": 3,
+  "tribes": ["mushroom.pelts.star"],
+  "abilities": [
+    "Sharp",
+    "nevernamed.inscryption.sigils.Swooping Strike"
+  ],
+  "texture": "Angry Sun.png",
+  "emissionTexture": "Angry Sun_e.png"
+}

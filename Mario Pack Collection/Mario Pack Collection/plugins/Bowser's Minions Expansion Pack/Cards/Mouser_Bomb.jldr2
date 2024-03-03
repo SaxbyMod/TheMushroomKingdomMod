@@ -1,0 +1,13 @@
+{
+	"name": "Mouser_Bomb",
+	"modPrefix": "Mushroom",
+	"displayedName": "Bomb",
+	"baseHealth": 1,
+	"abilities": ["extraVoid.inscryption.voidSigils.Deathburst","extraVoid.inscryption.voidSigils.Dying"],
+	"cardComplexity": "Intermediate",
+	"temple": "Nature",
+	"tribes": ["mushroom.pelts.bomb-omb"],
+	"description": "Here. Have some bombs!",
+	"appearanceBehaviour": ["TerrainBackground"],
+	"texture": "Bomb.png"
+}

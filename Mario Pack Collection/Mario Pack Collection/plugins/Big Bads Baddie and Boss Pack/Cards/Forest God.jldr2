@@ -1,0 +1,17 @@
+{
+	"name": "Forest_God",
+	"modPrefix": "Mushroom",
+	"displayedName": "Forest God",
+	"baseAttack": 1,
+	"baseHealth": 3,
+	"bloodCost": 2,
+	"abilities": ["Deathtouch","nevernamed.inscryption.sigils.Swooping Strike"],
+	"metaCategories": ["Rare"],
+	"cardComplexity": "Intermediate",
+	"temple": "Nature",
+	"description": "The self-proclaimed God of this forest, who underestimated my power. Are you looking for her?",
+	"texture": "Forest God.png",
+	"altTexture": "Forest God Alt.png",
+	"emissionTexture": "Forest God_e.png",
+	"appearanceBehaviour": ["RareCardBackground","SexyGoat"]
+}

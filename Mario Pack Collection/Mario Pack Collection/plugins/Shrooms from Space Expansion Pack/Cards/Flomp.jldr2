@@ -1,0 +1,16 @@
+{
+	"name": "Flomp",
+	"modPrefix": "Mushroom",
+	"displayedName": "Flomp",
+	"baseAttack": 3,
+	"baseHealth": 5,
+	"bloodCost": 2,
+	"abilities": ["bitty45.inscryption.sigils.Flipper"],
+	"metaCategories": ["ChoiceNode","TraderOffer"],
+	"cardComplexity": "Simple",
+	"temple": "Nature",
+	"description": "The impatient Flomp. Fools who attempt to use it as a platform are in for a nasty flight...",
+	"texture": "Flomp.png",
+	"emissionTexture": "Flomp_e.png",
+	"tribes": ["mushroom.pelts.crusher"]
+}

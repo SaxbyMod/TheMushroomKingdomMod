@@ -1,0 +1,20 @@
+{
+	"name": "Cosmic_Clone",
+	"modPrefix": "Mushroom",
+	"displayedName": "Cosmic Clone",
+	"specialAbilities": ["Mirror"],
+	"specialStatIcon": "Mirror",
+	"baseHealth": 2,
+	"energyCost": 3,
+	"abilities": ["DrawCopy"],
+	"metaCategories": ["Rare"],
+	"appearanceBehaviour": ["RareCardBackground"],
+	"cardComplexity": "Intermediate",
+	"temple": "Nature",
+	"description": "The wicked Cosmic Clone. Once it has spotted potential prey, it'll follow its target's every move...",
+	"appearanceBehaviour": ["RareCardBackground"],
+	"texture": "Cosmic Clone.png",
+	"emissionTexture": "Cosmic Clone_e.png",
+	"decals": [ "Cosmic Clone_decal.png" ],
+	"iceCubeName": "Mushroom_Cosmic_Clone"
+}

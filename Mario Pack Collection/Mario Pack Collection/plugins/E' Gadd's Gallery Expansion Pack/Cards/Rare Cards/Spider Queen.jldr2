@@ -1,0 +1,17 @@
+{
+	"name": "Spider_Queen",
+	"modPrefix": "Mushroom",
+	"displayedName": "Spider Queen",
+	"baseAttack": 1,
+	"baseHealth": 3,
+	"bloodCost": 2,
+	"abilities": ["nevernamed.inscryption.sigils.Weaver"],
+	"metaCategories": ["Rare"],
+	"cardComplexity": "Intermediate",
+	"temple": "Nature",
+	"description": "The regal Spider Queen. Her lair is tangled in many webs...",
+	"appearanceBehaviour": ["RareCardBackground"],
+	"texture": "Spider Queen.png",
+	"emissionTexture": "Spider Queen_e.png",
+	"tribes": ["mushroom.pelts.boo","mushroom.pelts.wriggler"]
+}

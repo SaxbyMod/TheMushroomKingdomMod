@@ -1,0 +1,16 @@
+{
+	"name": "Mushroom_Draglet",
+	"modPrefix": "Mushroom",
+	"displayedName": "Draglet",
+	"baseAttack": 1,
+	"baseHealth": 1,
+	"bloodCost": 2,
+	"abilities": ["nevernamed.inscryption.sigils.Ignition"],
+	"metaCategories": ["ChoiceNode","TraderOffer"],
+	"cardComplexity": "Intermediate",
+	"temple": "Nature",
+	"description": "The mischevious Draglet. Though small, they're just as much as a threat as the other creatures lurking in the Dark Lands.",
+	"texture": "Draglet.png",
+	"emissionTexture": "Draglet_e.png",
+	"tribes": ["mushroom.pelts.dinosaur"]
+}

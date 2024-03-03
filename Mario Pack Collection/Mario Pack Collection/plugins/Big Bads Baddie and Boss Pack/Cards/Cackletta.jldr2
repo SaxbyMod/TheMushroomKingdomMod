@@ -1,0 +1,17 @@
+{
+	"name": "Cackletta",
+	"modPrefix": "Mushroom",
+	"displayedName": "Cackletta",
+	"baseAttack": 1,
+	"baseHealth": 3,
+	"bloodCost": 2,
+	"abilities": ["extraVoid.inscryption.voidSigils.Possessor","extraVoid.inscryption.voidSigils.Electric"],
+	"metaCategories": ["Rare"],
+	"cardComplexity": "Intermediate",
+	"temple": "Nature",
+	"description": "The wicked Cackletta. An evil scorceress whos soul persists after death, despite being frozen away...",
+	"appearanceBehaviour": ["RareCardBackground"],
+	"texture": "Cackletta.png",
+	"emissionTexture": "Cackletta_e.png",
+	"iceCubeName": "Mushroom_Cackletta_Soul"
+}

@@ -1,0 +1,18 @@
+{
+	"name": "Jr_Troopa_Hiding",
+	"modPrefix": "Mushroom",
+	"displayedName": "Jr Troopa",
+	"baseAttack": 2,
+	"baseHealth": 4,
+	"bloodCost": 1,
+	"abilities": ["Evolve","DeathShield"],
+	"evolveIntoName": "Mushroom_Jr_Troopa",
+	"evolveTurns": 1,
+	"cardComplexity": "Advanced",
+	"temple": "Nature",
+	"tribes": ["mushroom.pelts.koopa"],
+	"description": "The persistant Jr Troopa. He won't stop at nothing to claim the revenge he so deserves...",
+	"texture": "Jr Troopa Hiding.png",
+	"emissionTexture": "Jr Troopa Hiding_e.png",
+	"appearanceBehaviour": ["RareCardBackground"]
+}

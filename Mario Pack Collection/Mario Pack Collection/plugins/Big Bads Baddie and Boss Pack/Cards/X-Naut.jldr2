@@ -1,0 +1,16 @@
+{
+	"name": "X_Naut",
+	"modPrefix": "Mushroom",
+	"displayedName": "X-Naut",
+	"baseAttack": 2,
+	"baseHealth": 3,
+	"energyCost": 3,
+	"bloodCost": 1,
+	"metaCategories": ["ChoiceNode","TraderOffer"],
+	"abilities": ["DrawCopy"],
+	"cardComplexity": "Advanced",
+	"temple": "Nature",
+	"description": "The Crossed X-Naut. One of many soldiers of an army. A cult, if you will...",
+	"texture": "X-Naut.png",
+	"emissionTexture": "X-Naut_e.png"
+}

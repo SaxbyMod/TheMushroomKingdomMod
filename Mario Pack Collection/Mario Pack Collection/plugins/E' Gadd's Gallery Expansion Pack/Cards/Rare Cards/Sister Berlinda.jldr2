@@ -1,0 +1,17 @@
+{
+	"name": "Sister_Berlinda",
+	"modPrefix": "Mushroom",
+	"displayedName": "Sister Berlinda",
+	"baseAttack": 2,
+	"baseHealth": 1,
+	"bonesCost": 7,
+	"abilities": ["nevernamed.inscryption.sigils.Dupeglitch"],
+	"metaCategories": ["Rare"],
+	"cardComplexity": "Intermediate",
+	"temple": "Nature",
+	"tribes": ["mushroom.pelts.boo"],
+	"description": "Berlinda, one of the fabled Three Sisters. The reflections in her mirror look almost too real...",
+	"texture": "Sister Berlinda.png",
+	"emissionTexture": "Sister Berlinda_e.png"
+	
+}

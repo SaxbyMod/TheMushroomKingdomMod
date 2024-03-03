@@ -1,0 +1,18 @@
+{
+	"name": "Ghoul_Guy",
+	"modPrefix": "Yoshi",
+	"displayedName": "Ghoul Guy",
+	"baseAttack": 1,
+	"baseHealth": 2,
+	"bonesCost": 3,
+	"energyCost": 0,
+	"abilities": ["nevernamed.inscryption.sigils.Remove","extraVoid.inscryption.voidSigils.Possessor"],
+	"metaCategories": ["ChoiceNode","TraderOffer"],
+	"cardComplexity": "Intermediate",
+	"temple": "Nature",
+	"tribes": ["mushroom.pelts.shy_guy","mushroom.pelts.boo"],
+	"description": "The sorrowful Ghoul Guy. While not as vengeful as a ghost guy, it can enhance the strength of others at the cost of it's life...",
+	"appearanceBehaviour": ["RareCardBackground"],
+	"texture": "Ghoul Guy.png",
+	"emissionTexture": "Ghoul Guy_e.png"
+}

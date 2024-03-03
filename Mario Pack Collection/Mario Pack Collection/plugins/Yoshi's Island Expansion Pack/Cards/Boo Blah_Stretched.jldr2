@@ -1,0 +1,17 @@
+{
+	"name": "Boo_Blah_Stretched",
+	"modPrefix": "Yoshi",
+	"displayedName": "Boo Blah",
+	"baseAttack": 2,
+	"baseHealth": 5,
+	"bonesCost": 6,
+	"abilities": ["Reach","Evolve"],
+	"evolveIntoName": "Boo_Blah",
+	"evolveTurns": 1,
+	"cardComplexity": "Intermediate",
+	"temple": "Nature",
+	"description": "The sly Boo Blah. Known to slink up to prey before lunging out to frighten their prey...",
+	"texture": "Boo Blah Stretched.png",
+	"emissionTexture": "Boo Blah Stretched_e.png",
+	"tribes": ["mushroom.pelts.boo"]
+}

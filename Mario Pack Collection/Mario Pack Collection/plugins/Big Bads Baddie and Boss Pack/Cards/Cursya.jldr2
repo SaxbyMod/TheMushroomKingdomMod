@@ -1,0 +1,15 @@
+{
+	"name": "Cursya",
+	"modPrefix": "Mushroom",
+	"displayedName": "Cursya",
+	"baseAttack": 0,
+	"baseHealth": 5,
+	"bloodCost": 2,
+	"abilities": ["Sharp","extraVoid.inscryption.voidSigils.Zapper","GuardDog"],
+	"metaCategories": ["ChoiceNode","TraderOffer"],
+	"cardComplexity": "Intermediate",
+	"temple": "Nature"
+	"description": "The wicked Cursya. Should you strike it, cursed are thou...",
+	"texture": "Cursya.png",
+	"emissionTexture": "Cursya_e.png"
+}

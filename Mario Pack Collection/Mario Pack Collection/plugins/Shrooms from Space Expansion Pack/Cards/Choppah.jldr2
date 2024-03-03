@@ -1,0 +1,16 @@
+{
+	"name": "Choppah",
+	"modPrefix": "Mushroom",
+	"displayedName": "Choppah",
+	"baseAttack": 1,
+	"baseHealth": 4,
+	"bloodCost": 1,
+	"abilities": ["Sharp","Flying"],
+	"metaCategories": ["ChoiceNode","TraderOffer"],
+	"cardComplexity": "Intermediate",
+	"temple": "Nature",
+	"description": "The laid-back Choppah. It floats in the air, minding it's own business. If you end up landing on it whilst jumping, expect to be impaled.",
+	"texture": "Choppah.png",
+	"emissionTexture": "Choppah_e.png",
+	"tribes": ["mushroom.pelts.koopa"]
+}

@@ -1,0 +1,8 @@
+{
+	"name": "DausBell",
+	"modPrefix": "Mushroom",
+	"displayedName": "Super Bell",
+	"tribes": ["mushroom.pelts.power_up"],
+	"description": "A Super Bell. Their ringing signal danger for baddies nearby...",
+	"texture": "Super Bell.png"
+}

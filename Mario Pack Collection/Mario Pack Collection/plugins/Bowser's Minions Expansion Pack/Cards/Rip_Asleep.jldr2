@@ -1,0 +1,17 @@
+{
+	"name": "Mushroom_Rip_Asleep",
+	"modPrefix": "Mushroom",
+	"displayedName": "Rip Van Fish",
+	"baseAttack": 0,
+	"baseHealth": 4,
+	"bloodCost": 1,
+	"abilities": ["org.memez4life.inscryption.customsigils.Shapeshifter","extraVoid.inscryption.voidSigils.Grazing"],
+	"metaCategories": ["ChoiceNode","TraderOffer"],
+	"cardComplexity": "Advanced",
+	"temple": "Nature",
+	"description": "The lethargic Rip Van Fish. Keep this fish asleep or there will be hell to pay...",
+	"texture": "Rip Van Fish Asleep.png",
+	"emissionTexture": "Rip Van Fish Asleep_e.png",
+	"iceCubeName": "Mushroom_Rip_Awake",
+	"tribes": ["mushroom.pelts.cheep_cheep"]
+}

@@ -1,0 +1,19 @@
+{
+	"name": "POW_Pep",
+	"modPrefix": "Mushroom",
+	"displayedName": "POW Pep",
+	"baseAttack": 1,
+	"baseHealth": 3,
+	"bloodCost": 1,
+	"energyCost": 4,
+	"abilities": ["Evolve","DoubleStrike"],
+	"metaCategories": ["ChoiceNode","TraderOffer"],
+	"evolveIntoName": "Mushroom_DEF_Pep",
+	"evolveTurns": 2,
+	"cardComplexity": "Simple",
+	"temple": "Nature",
+	"description": "The adaptive POW Pep. Able to endlessly evolve to meet its needs...",
+	"texture": "POW Pep.png",
+	"emissionTexture": "POW Pep_e.png",
+	"tribes": ["mushroom.pelts.organ"]
+}

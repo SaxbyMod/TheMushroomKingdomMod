@@ -1,0 +1,16 @@
+{
+	"name": "Mushroom_Rex",
+	"modPrefix": "Mushroom",
+	"displayedName": "Rex",
+	"baseAttack": 2,
+	"baseHealth": 3,
+	"bloodCost": 2,
+	"abilities": ["extraVoid.inscryption.voidSigils.Resistant"],
+	"metaCategories": ["ChoiceNode","TraderOffer"],
+	"cardComplexity": "Intermediate",
+	"temple": "Nature",
+	"description": "The resistant Rex. It's able to take a hit, and empower from it.",
+	"texture": "Rex.png",
+	"emissionTexture": "Rex_e.png",
+	"tribes": ["mushroom.pelts.dinosaur"]
+}

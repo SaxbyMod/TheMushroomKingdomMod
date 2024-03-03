@@ -1,0 +1,16 @@
+{
+	"name": "Rotten_Mushroom",
+	"modPrefix": "Mushroom",
+	"displayedName": "Rotten Mushroom",
+	"baseAttack": 2,
+	"baseHealth": 3,
+	"bloodCost": 2,
+	"abilities": ["WhackAMole","Reach","extraVoid.inscryption.voidSigils.Poisonous"],
+	"cardComplexity": "Simple",
+	"temple": "Nature",
+	"description": "The cruel Rotten Mushroom. It hunts it's prey at the dead of night.",
+	"appearanceBehaviour": ["RareCardBackground"],
+	"texture": "Rotten Mushroom.png",
+	"emissionTexture": "Rotten Mushroom_e.png",
+	"tribes": ["mushroom.pelts.power_up","mushroom.pelts.mskeleton"]
+}

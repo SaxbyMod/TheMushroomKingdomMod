@@ -1,0 +1,17 @@
+{
+	"name": "Saucer_Swarm",
+	"modPrefix": "Mushroom",
+	"displayedName": "Saucer Swarm",
+	"baseAttack": 2,
+	"baseHealth": 5,
+	"energyCost": 4,
+	"abilities": ["Flying","org.memez4life.inscryption.customsigils.Spawner"],
+	"metaCategories": ["ChoiceNode","TraderOffer"],
+	"cardComplexity": "Simple",
+	"temple": "Nature",
+	"description": "A swarm of Shroob Saucers. A whole armada just waiting to be deployed...",
+	"texture": "Saucer Swarm.png",
+	"emissionTexture": "Saucer Swarm_e.png",
+	"tribes": ["mushroom.pelts.shroob"],
+	"iceCubeName": "Mushroom_Shroob_Saucer"
+}

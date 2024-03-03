@@ -1,0 +1,16 @@
+{
+	"name": "Ota_Rok",
+	"modPrefix": "Mushroom",
+	"displayedName": "Ota Rok",
+	"baseAttack": 2,
+	"baseHealth": 3,
+	"energyCost": 5,
+	"abilities": ["DrawCopy","extraVoid.inscryption.voidSigils.Ambush"],
+	"metaCategories": ["ChoiceNode","TraderOffer"],
+	"cardComplexity": "Intermediate",
+	"temple": "Nature",
+	"tribes": ["mushroom.pelts.goomba"],
+	"description": "The humble Ota Rok. Defenders of planets far beyond the stars...",
+	"texture": "Ota Rok.png",
+	"emissionTexture": "Ota Rok_e.png"
+}

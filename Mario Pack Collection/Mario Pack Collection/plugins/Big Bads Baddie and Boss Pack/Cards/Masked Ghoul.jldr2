@@ -1,0 +1,15 @@
+{
+	"name": "Masked_Ghoul",
+	"modPrefix": "Mushroom",
+	"displayedName": "Masked Ghoul",
+	"baseAttack": 1,
+	"baseHealth": 3,
+	"bonesCost": 6,
+	"temple": "Nature",
+	"metaCategories": ["ChoiceNode","TraderOffer"],
+	"tribes": ["mushroom.pelts.goomba"],
+	"abilities": ["GainAttackOnKill","bitty45.inscryption.sigils.Hollow Barrage"],
+	"description": "A Masked Ghoul. It pledges loyalty to none, and it's lust for blood is one not to be trifled with...",
+	"texture": "Masked Ghoul.png",
+	"emissionTexture": "Masked Ghoul_e.png"
+}

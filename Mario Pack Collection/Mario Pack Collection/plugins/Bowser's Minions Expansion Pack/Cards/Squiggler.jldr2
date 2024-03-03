@@ -1,0 +1,18 @@
+{
+	"name": "Squiggler",
+	"modPrefix": "Mushroom",
+	"displayedName": "Squiggler",
+	"baseAttack": 1,
+	"baseHealth": 1,
+	"bloodCost": 1,
+	"abilities": ["Evolve"],
+	"cardComplexity": "Advanced",
+	"temple": "Nature",
+	"metaCategories": ["ChoiceNode","TraderOffer"],
+	"description": "The darling Squiggler. It's nowhere as tempermental as its adult counterpart. For now...",
+	"texture": "Squiggler.png",
+	"emissionTexture": "Squiggler_e.png",
+	"evolveIntoName": "Mushroom_Wiggler",
+	"evolveTurns": 1,
+	"tribes": ["mushroom.pelts.wriggler"]
+}

@@ -1,0 +1,17 @@
+{
+	"name": "Mushroom_Spike",
+	"modPrefix": "Mushroom",
+	"displayedName": "Spike",
+	"baseAttack": 2,
+	"baseHealth": 4,
+	"bloodCost": 2,
+	"abilities": ["org.memez4life.inscryption.customsigils.Launcher"],
+	"metaCategories": ["ChoiceNode","TraderOffer"],
+	"cardComplexity": "Intermediate",
+	"temple": "Nature",
+	"description": "The abhorrant Spike. Known to vomit spiky spheres to lob at foes.",
+	"texture": "Spike.png",
+	"emissionTexture": "Spike_e.png",
+	"tribes": ["mushroom.pelts.spike"],
+	"iceCubeName": "Mushroom_Spike_Ball"
+}

@@ -1,0 +1,17 @@
+{
+	"name": "Mushroom_Paratroopa",
+	"modPrefix": "Mushroom",
+	"displayedName": "Koopa Paratroopa",
+	"baseAttack": 3,
+	"baseHealth": 3,
+	"bloodCost": 2,
+	"abilities": ["Flying","org.memez4life.inscryption.customsigils.Shapeshifter"],
+	"metaCategories": ["ChoiceNode","TraderOffer"],
+	"cardComplexity": "Intermediate",
+	"temple": "Nature",
+	"description": "The flighty Koopa Paratroopa. Their wings aren't the strongest, falling apart when hit, but are a threat when in the air.",
+	"texture": "Paratroopa.png",
+	"emissionTexture": "Paratroopa_e.png",
+	"tribes": ["mushroom.pelts.koopa"],
+	"iceCubeName": "Mushroom_Koopa"
+}

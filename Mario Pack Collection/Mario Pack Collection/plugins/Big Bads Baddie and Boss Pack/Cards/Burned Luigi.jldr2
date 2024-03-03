@@ -1,0 +1,19 @@
+{
+	"name": "Burned_Luigi",
+	"modPrefix": "Mushroom",
+	"displayedName": "Burned Luigi",
+	"baseAttack": 1,
+	"baseHealth": 3,
+	"bloodCost": 1,
+	"bonesCost": 3,
+	"abilities": ["nevernamed.inscryption.sigils.Ignition"],
+	"metaCategories": ["Rare"],
+	"appearanceBehaviour": ["nevernamed.inscryption.sigils.GreyCardBackground"],
+	"cardComplexity": "Intermediate",
+	"temple": "Nature",
+	"description": "I sense a disturbing amount of hatred emitting from this one. Pray that it's not pointed at you...",
+	"texture": "Burned Luigi.png",
+	"emissionTexture": "Burned Luigi_e.png",
+	"traits": ["KillsSurvivors"],
+	"decals": [ "Burned Luigi_decal.png" ]
+}

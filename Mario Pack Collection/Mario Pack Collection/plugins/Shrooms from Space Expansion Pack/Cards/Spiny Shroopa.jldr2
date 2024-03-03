@@ -1,0 +1,16 @@
+{
+	"name": "Spiny_Shroopa",
+	"modPrefix": "Mushroom",
+	"displayedName": "Spiny Shroopa",
+	"baseAttack": 1,
+	"baseHealth": 3,
+	"energyCost": 4,
+	"abilities": ["Sharp"],
+	"metaCategories": ["ChoiceNode","TraderOffer"],
+	"cardComplexity": "Simple",
+	"temple": "Nature",
+	"description": "The vicious Spiny Shroopa. Not from this world, but still as loathsome as their Earthling counterpart.",
+	"texture": "Spiny Shroopa.png",
+	"emissionTexture": "Spiny Shroopa_e.png",
+	"tribes": ["mushroom.pelts.shroob","mushroom.pelts.koopa"]
+}

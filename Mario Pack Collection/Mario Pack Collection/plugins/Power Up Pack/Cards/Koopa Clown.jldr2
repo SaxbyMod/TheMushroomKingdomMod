@@ -1,0 +1,16 @@
+{
+	"name": "Koopa_Clown",
+	"modPrefix": "Mushroom",
+	"displayedName": "Koopa Clown",
+	"baseAttack": 2,
+	"baseHealth": 3,
+	"energyCost": 1,
+	"abilities": ["Flying"],
+	"metaCategories": ["ChoiceNode","TraderOffer"],
+	"cardComplexity": "Intermediate",
+	"temple": "Nature",
+	"tribes": ["mushroom.pelts.koopa"],
+	"description": "The fittinly named Koopa Clown. This car(?) may not be the most powerful machine Bowser has, but it helps somewhat...",
+	"texture": "Koopa Clown.png",
+	"emissionTexture": "Koopa Clown_e.png"
+}

@@ -1,0 +1,19 @@
+{
+	"name": "Mushroom_Mattermouth",
+	"modPrefix": "Mushroom",
+	"displayedName": "Mattermouth",
+	"baseAttack": 2,
+	"baseHealth": 4,
+	"bonesCost": 4,
+	"energyCost": 0,
+	"abilities": ["org.memez4life.inscryption.customsigils.Spawner"],
+	"metaCategories": ["ChoiceNode","TraderOffer"],
+	"cardComplexity": "Intermediate",
+	"temple": "Nature",
+	"description": "The starving Mattermouth... OY! Stop eating that card, you two! I didn't take a picture of you only to have y'all snack on it!",
+	"texture": "Mattermouth.png",
+	"emissionTexture": "Mattermouth_e.png",
+	"tribes": ["mushroom.pelts.mskeleton","mushroom.pelts.koopa"],
+	"decals": [ "Mattermouth_decal.png" ],
+	"iceCubeName": "Mushroom_Pitfall"
+}

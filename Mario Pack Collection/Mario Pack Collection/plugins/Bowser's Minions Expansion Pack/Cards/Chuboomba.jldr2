@@ -1,0 +1,15 @@
+{
+	"name": "Chuboomba",
+	"modPrefix": "Mushroom",
+	"displayedName": "Chuboomba",
+	"baseAttack": 2,
+	"baseHealth": 5,
+	"bloodCost": 2,
+	"tribes": ["mushroom.pelts.goomba"],
+	"metaCategories": ["ChoiceNode","TraderOffer"],
+	"abilities": ["nevernamed.inscryption.sigils.Docile"],
+	"description": "The sluggish Chuboomba. Though it's chubby body allows it to be a tank, there's no denying that it's running out of breath...",
+	"texture": "Chuboomba.png",
+	"emissionTexture": "Chuboomba_e.png",
+	"pixelTexture": "Chuboomba Act 2.png"
+}

@@ -1,0 +1,19 @@
+{
+	"name": "Flame_Chomp",
+	"modPrefix": "Mushroom",
+	"displayedName": "Flame Chomp",
+	"baseAttack": 2,
+	"baseHealth": 5,
+	"bloodCost": 2,
+	"abilities": ["Evolve","Sniper"],
+	"metaCategories": ["Rare"],
+	"cardComplexity": "Intermediate",
+	"temple": "Nature",
+	"tribes": ["mushroom.pelts.chomp"],
+	"description": "The volitile Flame Chomp. If it's not hurling fireballs, it's probably best you stay away...",
+	"appearanceBehaviour": ["RareCardBackground"],
+	"texture": "Flame Chomp.png",
+	"emissionTexture": "Flame Chomp_e.png",
+	"evolveIntoName": "Mushroom_Flame_Chomp(Bomb)",
+	"evolveTurns": 3
+}

@@ -1,0 +1,18 @@
+{
+	"name": "Ug",
+	"modPrefix": "Gallery",
+	"displayedName": "Ug",
+	"baseAttack": 2,
+	"baseHealth": 3,
+	"gemsCost": ["Orange"],
+	"abilities": ["org.memez4life.inscryption.customsigils.Instant","IceCube"],
+	"iceCubeName":"Mushroom_T_Rex_Skeleton_Ug",
+	"metaCategories": ["ChoiceNode","TraderOffer"],
+	"onePerDeck": true,
+	"cardComplexity": "Intermediate",
+	"temple": "Nature",
+	"description": "The simple minded Ug. His links to the prehistoric are unmatched, in more ways than one...",
+	"texture": "Ug.png",
+	"emissionTexture": "Ug_e.png",
+	"tribes": ["mushroom.pelts.boo"]
+}

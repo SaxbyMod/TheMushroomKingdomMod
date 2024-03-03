@@ -1,0 +1,17 @@
+{
+	"name": "Stuffwell",
+	"modPrefix": "Mushroom",
+	"displayedName": "Stuffwell",
+	"baseAttack": 2,
+	"baseHealth": 3,
+	"energyCost": 3,
+	"abilities": ["RandomConsumable","extraVoid.inscryption.voidSigils.Medic"],
+	"metaCategories": ["Rare"],
+	"cardComplexity": "Advanced",
+	"temple": "Nature",
+	"tribes": ["mushroom.pelts.itembox"],
+	"description": "The well packed Stuffwell. Never underestimate the utility of a sentient pack...",
+	"texture": "Stuffwell.png",
+	"emissionTexture": "Stuffwell_e.png",
+	"appearanceBehaviour": ["RareCardBackground"]
+}

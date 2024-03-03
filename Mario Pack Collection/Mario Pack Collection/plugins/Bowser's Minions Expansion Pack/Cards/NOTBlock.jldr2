@@ -1,0 +1,22 @@
+{
+  "name": "NOTBlock",
+  "modPrefix": "Mushroom",
+  "displayedName": "Block?",
+  "description": "The brittle blo-. Something is off with this one...",
+  "metaCategories": [
+    "ChoiceNode",
+    "TraderOffer"
+  ],
+  "cardComplexity": "Intermediate",
+  "temple": "Nature",
+  "baseAttack": 0,
+  "baseHealth": 1,
+  "bonesCost": 2,
+  "tribes": ["mushroom.pelts.block"],
+  "abilities": [
+    "IceCube"
+  ],
+  "iceCubeName": "Mushroom_Fake_Block",
+  "texture": "Block.png",
+  "emissionTexture": "Block_e.png"
+}

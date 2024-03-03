@@ -1,0 +1,16 @@
+{
+	"name": "Coalbit",
+	"modPrefix": "Mushroom",
+	"displayedName": "Coalbit",
+	"baseAttack": 1,
+	"baseHealth": 1,
+	"bonesCost": 2,
+	"abilities": ["nevernamed.inscryption.sigils.Sprinter Latch"],
+	"metaCategories": ["ChoiceNode","TraderOffer"],
+	"cardComplexity": "Intermediate",
+	"temple": "Nature",
+	"tribes": ["mushroom.pelts.crusher"],
+	"description": "The smokey Coalbit. Known to sacrifice themselves to the Choombas to keep their fire burning and speed in top shape.",
+	"texture": "Coalbit.png",
+	"emissionTexture": "Coalbit_e.png"
+}

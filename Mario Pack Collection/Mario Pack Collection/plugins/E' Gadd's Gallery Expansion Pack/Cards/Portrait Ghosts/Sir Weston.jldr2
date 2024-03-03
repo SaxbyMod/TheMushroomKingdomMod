@@ -1,0 +1,16 @@
+{
+	"name": "Sir_Weston",
+	"modPrefix": "Gallery",
+	"displayedName": "Sir Weston",
+	"baseAttack": 2,
+	"baseHealth": 3,
+	"gemsCost": ["Green"],
+	"abilities": ["DoubleStrike"],
+	"iceCubeName":"Mushroom_Sir_Weston",
+	"cardComplexity": "Simple",
+	"temple": "Nature",
+	"description": "A ghost who would rather be cold. I wonder what will happen should the ice melt...",
+	"texture": "Sir Weston.png",
+	"emissionTexture": "Sir Weston_e.png",
+	"tribes": ["mushroom.pelts.boo"]
+}

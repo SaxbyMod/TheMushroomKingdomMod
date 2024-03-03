@@ -1,0 +1,18 @@
+{
+	"name": "Mushroom_Triclyde",
+	"modPrefix": "Mushroom",
+	"displayedName": "Triclyde",
+	"baseAttack": 1,
+	"baseHealth": 2,
+	"bloodCost": 2,
+	"abilities": ["TriStrike"],
+	"metaCategories": ["Rare"],
+	"cardComplexity": "Intermediate",
+	"temple": "Nature",
+	"description": "The terrible Triclyde. An example on why three heads are better than one...",
+	"appearanceBehaviour": ["RareCardBackground"],
+	"texture": "Triclyde.png",
+	"emissionTexture": "Triclyde_e.png",
+	"pixelTexture": "Triclyde Act 2.png",
+	"tribes": ["mushroom.pelts.dinosaur"]
+}

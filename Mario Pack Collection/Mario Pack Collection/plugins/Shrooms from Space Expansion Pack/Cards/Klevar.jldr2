@@ -1,0 +1,17 @@
+{
+	"name": "Klevar",
+	"modPrefix": "Mushroom",
+	"displayedName": "Klevar",
+	"baseAttack": 2,
+	"baseHealth": 4,
+	"energyCost": 5,
+	"abilities": ["extraVoid.inscryption.voidSigils.Hourglass"],
+	"metaCategories": ["Rare"],
+	"cardComplexity": "Advanced",
+	"temple": "Nature",
+	"tribes": ["mushroom.pelts.star"],
+	"description": "The Star Sprit, Klevar. When he calls for a time out, his enemies become frozen in place, as will I...",
+	"texture": "Klevar.png",
+	"emissionTexture": "Klevar_e.png",
+	"appearanceBehaviour": ["RareCardBackground"]
+}

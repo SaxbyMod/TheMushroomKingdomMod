@@ -1,0 +1,17 @@
+{
+	"name": "Green_Glove",
+	"modPrefix": "Yoshi",
+	"displayedName": "Green Glove",
+	"baseAttack": 1,
+	"baseHealth": 2,
+	"bloodCost": 2,
+	"abilities": ["Sniper","nevernamed.inscryption.sigils.Erratic"],
+	"metaCategories": ["ChoiceNode","TraderOffer"],
+	"tribes": ["mushroom.pelts.shy_guy"],
+	"cardComplexity": "Intermediate",
+	"temple": "Nature",
+	"description": "The fielding Green Glove. Their skills at the mound have no equal on Yoshi's Island.",
+	"texture": "Green Glove.png",
+	"emissionTexture": "Green Glove_e.png",
+	"iceCubeName": "Yoshi_Ghoul_Guy"
+}

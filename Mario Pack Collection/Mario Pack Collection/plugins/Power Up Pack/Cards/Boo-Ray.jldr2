@@ -1,0 +1,16 @@
+{
+	"name": "Boo_Ray",
+	"modPrefix": "Mushroom",
+	"displayedName": "Boo-Ray Machine",
+	"baseAttack": 0,
+	"baseHealth": 3,
+	"energyCost": 3,
+	"abilities": ["DeathShield","BoneDigger"],
+	"metaCategories": ["ChoiceNode"],
+	"cardComplexity": "Intermediate",
+	"temple": "Nature",
+	"tribes": ["mushroom.pelts.boo"],
+	"description": "The Boo-Ray machine. Constructed by the late Yikk, it allows you to see within anyone in it's gaze...",
+	"texture": "Boo-Ray.png",
+	"emissionTexture": "Boo-Ray_e.png"
+}

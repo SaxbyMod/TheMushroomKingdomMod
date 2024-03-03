@@ -1,0 +1,16 @@
+{
+	"name": "Sunnycide_Egg",
+	"modPrefix": "Yoshi",
+	"displayedName": "Sunnycide Egg",
+	"baseHealth": 6,
+	"bonesCost": 4,
+	"abilities": ["IceCube"],
+	"metaCategories": ["ChoiceNode","TraderOffer"],
+	"cardComplexity": "Intermediate",
+	"temple": "Nature",
+	"description": "A Yoshi trapped in an odd egg, eager to be freed.",
+	"texture": "Sunnycide Egg.png",
+	"emissionTexture": "Sunnycide Egg_e.png",
+	"tribes": ["mushroom.pelts.dinosaur","mushroom.pelts.shroob"],
+	"iceCubeName": "Mushroom_Yoshi"
+}

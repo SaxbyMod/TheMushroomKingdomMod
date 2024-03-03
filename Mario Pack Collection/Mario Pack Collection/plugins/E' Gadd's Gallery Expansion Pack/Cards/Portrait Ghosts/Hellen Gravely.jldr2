@@ -1,0 +1,17 @@
+{
+	"name": "Hellen Gravely",
+	"modPrefix": "Gallery",
+	"displayedName": "Hellen Gravely",
+	"baseAttack": 0,
+	"baseHealth": 4,
+	"gemsCost": ["Blue"],
+	"metaCategories": ["ChoiceNode","TraderOffer"],
+	"onePerDeck": true,
+	"abilities": ["BuffGems","extraVoid.inscryption.voidSigils.Vicious"],
+	"cardComplexity": "Simple",
+	"temple": "Nature",
+	"description": "The bewitching Hellen Gravely. Master of the Last Resort suite, who wishes to impress the great King Boo.",
+	"texture": "Hellen Gravely.png",
+	"emissionTexture": "Hellen Gravely_e.png",
+	"tribes": ["mushroom.pelts.boo"]
+}

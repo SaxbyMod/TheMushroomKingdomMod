@@ -1,0 +1,17 @@
+{
+	"name": "Fire_Snake",
+	"modPrefix": "Mushroom",
+	"displayedName": "Fire Snake",
+	"baseAttack": 1,
+	"baseHealth": 3,
+	"bloodCost": 2,
+	"abilities": ["nevernamed.inscryption.sigils.Ignition","Strafe","nevernamed.inscryption.sigils.Fire Resistant"],
+	"metaCategories": ["ChoiceNode","TraderOffer"],
+	"cardComplexity": "Intermediate",
+	"temple": "Nature",
+	"description": "The red-hot fire snake. Its body can ignite anyone it touches.",
+	"texture": "Fire Snake.png",
+	"emissionTexture": "Fire Snake_e.png",
+	"tribes": ["None"],
+	"traits": ["KillsSurvivors"]
+}

@@ -1,0 +1,16 @@
+{
+	"name": "Mushroom_Spiny",
+	"modPrefix": "Mushroom",
+	"displayedName": "Spiny",
+	"baseAttack": 1,
+	"baseHealth": 3,
+	"bloodCost": 2,
+	"abilities": ["Sharp"],
+	"metaCategories": ["ChoiceNode","TraderOffer"],
+	"cardComplexity": "Simple",
+	"temple": "Nature",
+	"description": "The Loathsome Spiny, known for their shells covered in many spikes to deter predators and plumbers alike.",
+	"texture": "Spiny.png",
+	"emissionTexture": "Spiny_e.png",
+	"tribes": ["mushroom.pelts.koopa"]
+}

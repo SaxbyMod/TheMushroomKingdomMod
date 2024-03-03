@@ -1,0 +1,16 @@
+{
+	"name": "Pupdozer",
+	"modPrefix": "Mushroom",
+	"displayedName": "Pupdozer",
+	"baseAttack": 1,
+	"baseHealth": 6,
+	"bloodCost": 2,
+	"abilities": ["Sharp","Sharp"],
+	"metaCategories": ["ChoiceNode","TraderOffer"],
+	"cardComplexity": "Simple",
+	"temple": "Nature",
+	"description": "The lazy Pupdozer. If it weren't for the beasts spikes, this pup would of been dead long before you arrived...",
+	"texture": "Pupdozer.png",
+	"emissionTexture": "Pupdozer_e.png",
+	"tribes": ["mushroom.pelts.dinosaur"]
+}

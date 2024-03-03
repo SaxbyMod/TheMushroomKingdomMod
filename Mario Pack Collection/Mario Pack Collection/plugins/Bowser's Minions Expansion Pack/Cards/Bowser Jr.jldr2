@@ -1,0 +1,18 @@
+{
+	"name": "Bowser_Jr",
+	"modPrefix": "Mushroom",
+	"displayedName": "Bowser Jr.",
+	"baseAttack": 2,
+	"baseHealth": 3,
+	"bloodCost": 2,
+	"energyCost": 4,
+	"abilities": ["Flying","nevernamed.inscryption.sigils.Artistic License"],
+	"metaCategories": ["Rare"],
+	"cardComplexity": "Intermediate",
+	"temple": "Nature",
+	"description": "The troublemaking Bowser Jr. Clown Car in tow, this little cretin causes trouble wherever his father goes.",
+	"appearanceBehaviour": ["RareCardBackground"],
+	"texture": "Bowser Jr..png",
+	"emissionTexture": "Bowser Jr._e.png",
+	"tribes": ["mushroom.pelts.koopa"]
+}

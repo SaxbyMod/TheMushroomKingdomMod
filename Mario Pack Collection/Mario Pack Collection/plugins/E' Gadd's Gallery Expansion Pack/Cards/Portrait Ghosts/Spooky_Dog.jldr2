@@ -1,0 +1,18 @@
+{
+	"name": "Spooky_Dog",
+	"modPrefix": "Gallery",
+	"displayedName": "Spooky",
+	"baseAttack": 2,
+	"baseHealth": 3,
+	"gemsCost": ["Blue","Green"],
+	"metaCategories": ["ChoiceNode","TraderOffer"],
+	"onePerDeck": true,
+	"abilities": ["org.memez4life.inscryption.customsigils.Launcher","BuffEnemy"],
+	"iceCubeName":"Mushroom_Mr_Bones",
+	"cardComplexity": "Simple",
+	"temple": "Nature",
+	"description": "Spooky, the Hungry Guard Dog. Though it seems more useful for annoying skeletons now...",
+	"texture": "Spooky(Dog).png",
+	"emissionTexture": "Spooky(Dog)_e.png",
+	"tribes": ["mushroom.pelts.boo","mushroom.pelts.chomp"]
+}

@@ -1,0 +1,18 @@
+{
+	"name": "Muskular",
+	"modPrefix": "Mushroom",
+	"displayedName": "Muskular",
+	"baseAttack": 2,
+	"baseHealth": 3,
+	"energyCost": 2,
+	"abilities": ["PreventAttack","extraVoid.inscryption.voidSigils.Bodyguard","extraVoid.inscryption.voidSigils.Dying"],
+	"extensionProperties": { "void_dying_count": "3" },
+	"metaCategories": ["Rare"],
+	"cardComplexity": "Advanced",
+	"temple": "Nature",
+	"tribes": ["mushroom.pelts.star"],
+	"description": "The Star Sprit, Muskular. A force to be reckoned with, but he can't save you forever...",
+	"texture": "Muskular.png",
+	"emissionTexture": "Muskular_e.png",
+	"appearanceBehaviour": ["RareCardBackground"]
+}

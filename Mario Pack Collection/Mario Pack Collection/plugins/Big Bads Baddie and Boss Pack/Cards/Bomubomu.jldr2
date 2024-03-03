@@ -1,0 +1,16 @@
+{
+	"name": "Bomubomu",
+	"modPrefix": "Mushroom",
+	"displayedName": "Bomubomu",
+	"baseAttack": 2,
+	"baseHealth": 1,
+	"bloodCost": 2,
+	"abilities": ["Sniper"],
+	"metaCategories": ["ChoiceNode","TraderOffer"],
+	"cardComplexity": "Intermediate",
+	"temple": "Nature",
+	"tribes": ["mushroom.pelts.ram"],
+	"description": "The trite Bomubomu. A strange specimen capable of launching cannonballs from its mouth.",
+	"texture": "Bomubomu.png",
+	"emissionTexture": "Bomubomu_e.png"
+}

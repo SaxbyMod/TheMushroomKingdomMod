@@ -1,0 +1,19 @@
+{
+	"name": "Black_Hole",
+	"modPrefix": "Mushroom",
+	"displayedName": "Black Hole",
+	"baseAttack": 1,
+	"baseHealth": 6,
+	"energyCost": 4,
+	"abilities": ["AllStrike","extraVoid.inscryption.voidSigils.Dying"],
+	"metaCategories": ["Rare"],
+	"appearanceBehaviour": ["RareCardBackground"],
+	"cardComplexity": "Simple",
+	"temple": "Nature",
+	"description": "The dying Black Hole. A cosmic entity that destroys all, including itself...",
+	"texture": "Black Hole.png",
+	"emissionTexture": "Black Hole_e.png",
+	"tribes": ["mushroom.pelts.star"],
+	"traits": ["KillsSurvivors"],
+	"extensionProperties": { "void_dying_count": "3" }
+}

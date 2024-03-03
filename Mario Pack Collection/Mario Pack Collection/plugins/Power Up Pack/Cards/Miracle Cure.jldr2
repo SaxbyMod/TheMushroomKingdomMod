@@ -1,0 +1,16 @@
+{
+	"name": "Miracle_Cure",
+	"modPrefix": "Mushroom",
+	"displayedName": "Miracle Cure",
+	"baseAttack": 30,
+	"baseHealth": 30,
+	"energyCost": 6,
+	"abilities": ["AllStrike","PreventAttack"],
+	"cardComplexity": "Simple",
+	"temple": "Nature",
+	"appearanceBehaviour": ["RareCardBackground"],
+	"description": "The Miracle Cure. It's quite effective at it's job...",
+	"texture": "Miracle Cure.png",
+	"emissionTexture": "Miracle Cure_e.png",
+	"tribes": ["mushroom.pelts.power_up","mushroom.pelts.star"]
+}

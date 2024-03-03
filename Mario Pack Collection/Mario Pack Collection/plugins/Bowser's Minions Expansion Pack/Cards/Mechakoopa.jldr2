@@ -1,0 +1,16 @@
+{
+	"name": "Mushroom_Mechakoopa",
+	"modPrefix": "Mushroom",
+	"displayedName": "Mechakoopa",
+	"baseAttack": 1,
+	"baseHealth": 4,
+	"energyCost": 4,
+	"abilities": ["creator.TooManySigils.Resistant"],
+	"metaCategories": ["ChoiceNode","TraderOffer"],
+	"cardComplexity": "Intermediate",
+	"temple": "Nature",
+	"description": "The wound up Mechakoopa. Its metallic body allows to to take a few blows unlike its fleshy kind.",
+	"texture": "Mechakoopa.png",
+	"emissionTexture": "Mechakoopa_e.png",
+	"tribes": ["mushroom.pelts.koopa"]
+}

@@ -1,0 +1,19 @@
+{
+	"name": "Cat_Snowpokey",
+	"modPrefix": "Mushroom",
+	"displayedName": "Cat Snowpokey",
+	"baseAttack": 1,
+	"baseHealth": 3,
+	"bloodCost": 1,
+	"bonesCost": 4,
+	"energyCost": 0,
+	"abilities": ["Sharp","Reach","creator.TooManySigils.Host"],
+	"metaCategories": ["ChoiceNode","TraderOffer"],
+	"cardComplexity": "Intermediate",
+	"temple": "Nature",
+	"tribes": ["mushroom.pelts.pokey"],
+	"description": "The slushy Cat Snowpokey. Facinating what its segments become when they melt. Perhaps they can be of use?",
+	"texture": "Cat Snow Pokey.png",
+	"emissionTexture": "Cat Snow Pokey_e.png",
+	"iceCubeName": "DausBell"
+}

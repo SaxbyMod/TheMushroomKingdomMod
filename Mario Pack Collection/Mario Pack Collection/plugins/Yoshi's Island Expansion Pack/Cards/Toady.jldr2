@@ -1,0 +1,16 @@
+{
+	"name": "Toady",
+	"modPrefix": "Yoshi",
+	"displayedName": "Toady",
+	"baseAttack": 2,
+	"baseHealth": 2,
+	"bloodCost": 2,
+	"abilities": ["DrawCopy","Flying"],
+	"metaCategories": ["ChoiceNode","TraderOffer"],
+	"cardComplexity": "Advanced",
+	"temple": "Nature",
+	"tribes": ["mushroom.pelts.koopa"],
+	"description": "The sly Toady. Attacks in swarms, mostly targeting the young...",
+	"texture": "Toady.png",
+	"emissionTexture": "Toady_e.png"
+}

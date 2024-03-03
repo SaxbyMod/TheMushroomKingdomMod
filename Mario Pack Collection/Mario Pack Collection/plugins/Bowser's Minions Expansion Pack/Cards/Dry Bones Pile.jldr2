@@ -1,0 +1,17 @@
+{
+	"name": "Dry_Bones_Pile",
+	"modPrefix": "Mushroom",
+	"displayedName": "Dry Bones Pile",
+	"baseHealth": 1,
+	"bonesCost": 2,
+	"abilities": ["Evolve","nevernamed.inscryption.sigils.Bone Duke"],
+	"evolveIntoName": "Mushroom_Dry_Bones",
+	"evolveTurns": 1,
+	"metaCategories": ["ChoiceNode","TraderOffer"],
+	"cardComplexity": "Intermediate",
+	"temple": "Nature",
+	"description": "A pile of Dry Bones. A profitable, yet crumbling, line of defense.",
+	"tribes": ["mushroom.pelts.koopa","mushroom.pelts.mskeleton"],
+	"texture": "Dry Bones Pile.png",
+	"emissionTexture": "Dry Bones Pile_e.png"
+}

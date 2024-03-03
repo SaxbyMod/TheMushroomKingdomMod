@@ -1,0 +1,19 @@
+{
+	"name": "Mushroom_Snowpokey",
+	"modPrefix": "Mushroom",
+	"displayedName": "Snowpokey",
+	"baseAttack": 1,
+	"baseHealth": 3,
+	"bloodCost": 1,
+	"bonesCost": 1,
+	"energyCost": 0,
+	"abilities": ["Sharp","Reach","org.memez4life.inscryption.customsigils.Host"],
+	"metaCategories": ["ChoiceNode","TraderOffer"],
+	"cardComplexity": "Intermediate",
+	"temple": "Nature",
+	"tribes": ["mushroom.pelts.pokey"],
+	"description": "The chilled Snowpokey. While less powerful, it makes up for it by supplying its segments as projectiles.",
+	"texture": "Snowpokey.png",
+	"emissionTexture": "Snowpokey_e.png",
+	"iceCubeName": "Mushroom_Snowball"
+}

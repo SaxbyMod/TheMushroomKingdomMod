@@ -1,0 +1,17 @@
+{
+	"name": "Cat_Goomba",
+	"modPrefix": "Mushroom",
+	"displayedName": "Cat Goomba",
+	"baseAttack": 2,
+	"baseHealth": 2,
+	"bloodCost": 1,
+	"abilities": ["TailOnHit"],
+	"tribes": ["mushroom.pelts.goomba"],
+	"metaCategories": ["ChoiceNode","TraderOffer"],
+	"cardComplexity": "Advanced",
+	"temple": "Nature",
+	"description": "The tenacious Cat Goomba. Known to wonder about aimlessly, but the ringing of a bell can turn him vicous in an instant...",
+	"texture": "Cat Goomba.png",
+	"emissionTexture": "Cat Goomba_e.png",
+	"tailName": "DausBell"
+}

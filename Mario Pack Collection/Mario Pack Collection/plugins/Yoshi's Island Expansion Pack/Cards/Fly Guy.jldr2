@@ -1,0 +1,17 @@
+{
+	"name": "Fly_Guy",
+	"modPrefix": "Yoshi",
+	"displayedName": "Fly Guy",
+	"baseAttack": 2,
+	"baseHealth": 3,
+	"bloodCost": 2,
+	"abilities": ["Flying"],
+	"metaCategories": ["ChoiceNode","TraderOffer"],
+	"cardComplexity": "Intermediate",
+	"temple": "Nature",
+	"tribes": ["mushroom.pelts.shy_guy"],
+	"description": "The timid Fly Guy. Seems flying's really lifted their spirits. No pun intended. This is serious.",
+	"texture": "Fly Guy.png",
+	"emissionTexture": "Fly Guy_e.png",
+	"iceCubeName": "Yoshi_Ghoul_Guy"
+}

@@ -1,0 +1,16 @@
+{
+	"name": "Goomba",
+	"modPrefix": "Mushroom",
+	"displayedName": "Goomba",
+	"baseAttack": 2,
+	"baseHealth": 1,
+	"bloodCost": 1,
+	"metaCategories": ["ChoiceNode","TraderOffer"],
+	"tribes": ["mushroom.pelts.goomba"],
+	"description": "The traitor Goomba. They may be weak in body, but they are strong with loyalty to their new king...",
+	"texture": "Goomba.png",
+	"emissionTexture": "Goomba_e.png",
+	"pixelTexture": "Goomba Act 2.png",
+	"extensionProperties": {
+	"MycoMerger": "Mushroom_Double_Cherry:Mushroom_Goomba_Tower, Mushroom_Super_Crown:Mushroom_Goomboss"}
+}

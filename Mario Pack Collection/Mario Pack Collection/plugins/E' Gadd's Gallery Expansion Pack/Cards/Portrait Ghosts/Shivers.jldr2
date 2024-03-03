@@ -1,0 +1,18 @@
+{
+	"name": "Shivers",
+	"modPrefix": "Gallery",
+	"displayedName": "Shivers",
+	"baseAttack": 1,
+	"baseHealth": 4,
+	"energyCost": 3,
+	"gemsCost": ["Green"],
+	"metaCategories": ["ChoiceNode","TraderOffer"],
+	"onePerDeck": true,
+	"abilities": ["Strafe","extraVoid.inscryption.voidSigils.Vicious"],
+	"cardComplexity": "Simple",
+	"temple": "Nature",
+	"description": "Shivers, the Wandering Butler. He yearns for the heart of Melody, who sadly doesn't even give him the time of day...",
+	"texture": "Shivers.png",
+	"emissionTexture": "Shivers_e.png",
+	"tribes": ["mushroom.pelts.boo"]
+}

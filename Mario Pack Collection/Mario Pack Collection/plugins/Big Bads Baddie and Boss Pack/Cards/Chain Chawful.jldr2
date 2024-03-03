@@ -1,0 +1,17 @@
+{
+	"name": "Chain_Chawful",
+	"modPrefix": "Mushroom",
+	"displayedName": "Chain Chawful",
+	"baseAttack": 1,
+	"baseHealth": 3,
+	"energyCost": 6,
+	"bonesCost": 2,
+	"abilities": ["GuardDog","Sentry","SplitStrike"],
+	"metaCategories": ["ChoiceNode","TraderOffer"],
+	"cardComplexity": "Simple",
+	"temple": "Nature",
+	"description": "The Entranced Chain Chawful. The beast's mind is not it's own, controlled by the worm that has dug into it's hide...",
+	"texture": "Chain Chawful.png",
+	"emissionTexture": "Chain Chawful_e.png",
+	"tribes": ["mushroom.pelts.chomp"]
+}

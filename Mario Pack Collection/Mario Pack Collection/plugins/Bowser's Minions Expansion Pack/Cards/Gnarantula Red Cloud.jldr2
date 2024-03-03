@@ -1,0 +1,19 @@
+{
+	"name": "Gnarantula_Cloud_Red",
+	"modPrefix": "Mushroom",
+	"displayedName": "Gnarantula",
+	"baseAttack": 2,
+	"baseHealth": 4,
+	"bloodCost": 2,
+	"abilities": ["nevernamed.inscryption.sigils.Twister","Evolve"],
+	"iceCubeName":"Mushroom_Gnarantula_Red",
+	"evolveIntoName": "Mushroom_Gnarantula_Cloud_Green",
+	"evolveTurns": 1,
+	"metaCategories": ["ChoiceNode","TraderOffer"],
+	"cardComplexity": "Intermediate",
+	"temple": "Nature",
+	"description": "The cloudy Gnarantula. Which one you play, nobody knows...",
+	"texture": "Gnarantula.png",
+	"emissionTexture": "Gnarantula_e.png",
+	"tribes": ["mushroom.pelts.wriggler"]
+}

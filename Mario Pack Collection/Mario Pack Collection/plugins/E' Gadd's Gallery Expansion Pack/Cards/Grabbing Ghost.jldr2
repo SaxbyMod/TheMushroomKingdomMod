@@ -1,0 +1,17 @@
+{
+	"name": "Grabbing_Ghost",
+	"modPrefix": "Mushroom",
+	"displayedName": "Grabbing Ghost",
+	"baseAttack": 1,
+	"baseHealth": 3,
+	"bonesCost": 4,
+	"energyCost": 0,
+	"abilities": ["extraVoid.inscryption.voidSigils.Gripper"],
+	"tribes": ["mushroom.pelts.boo"],
+	"metaCategories": ["ChoiceNode","TraderOffer"],
+	"cardComplexity": "Intermediate",
+	"temple": "Nature",
+	"description": "The grabby Grabbing Ghost. Their method of attack should be obvious if you read the names...",
+	"texture": "Grabbing Ghost.png",
+	"emissionTexture": "Grabbing Ghost_e.png"
+}

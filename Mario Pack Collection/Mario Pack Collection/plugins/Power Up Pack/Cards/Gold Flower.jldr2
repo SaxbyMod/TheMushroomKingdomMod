@@ -1,0 +1,15 @@
+{
+	"name": "Gold_Flower",
+	"modPrefix": "Mushroom",
+	"displayedName": "Gold Flower",
+	"baseHealth": 2,
+	"baseAttack": 0,
+	"metaCategories": ["Rare"],
+	"abilities": ["extraVoid.inscryption.voidSigils.Abundance","extraVoid.inscryption.voidSigils.Abundance","extraVoid.inscryption.voidSigils.Abundance","extraVoid.inscryption.voidSigils.Abundance","extraVoid.inscryption.voidSigils.Abundance","extraVoid.inscryption.voidSigils.Midas","extraVoid.inscryption.voidSigils.Midas","extraVoid.inscryption.voidSigils.Midas"],
+	"cardComplexity": "Intermediate",
+	"temple": "Nature",
+	"tribes": ["mushroom.pelts.power_up"],
+	"description": "The greedy Gold Flower. Greedy fools who touch it soon find themselves encased in the very thing they once sought...",
+	"texture": "Gold Flower.png",
+	"emissionTexture": "Gold Flower_e.png"
+}

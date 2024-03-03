@@ -1,0 +1,22 @@
+{
+	"name": "Mushroom_Wiggler",
+	"modPrefix": "Mushroom",
+	"displayedName": "Wiggler",
+	"baseAttack": 1,
+	"baseHealth": 3,
+	"bloodCost": 2,
+	"abilities": ["nevernamed.inscryption.sigils.Twister"],
+	"extensionProperties": {
+    	"TwisterTransformation": "Mushroom_Angry_Wiggler"
+  	},
+	"metaCategories": ["ChoiceNode", "TraderOffer"],
+	"cardComplexity": "Advanced",
+	"temple": "Nature",
+	"description": "The ill-tempered Wiggler. It's usually a kind soul, but woe to thee who succeeds in angering this beast.",
+	"texture": "Wiggler.png",
+	"emissionTexture": "Wiggler_e.png",
+	"tribes": ["mushroom.pelts.wriggler"],
+	"evolveIntoName": "Mushroom_Flutter",
+	"evolveTurns": 1,
+	"iceCubeName": "Mushroom_Angry_Wiggler"
+}

@@ -1,0 +1,19 @@
+{
+	"name": "Blockstepper",
+	"modPrefix": "Mushroom",
+	"displayedName": "Blockstepper",
+	"baseAttack": 1,
+	"baseHealth": 3,
+	"energyCost": 5,
+	"abilities": ["nevernamed.inscryption.sigils.Legion"],
+	"extensionProperties": {
+    	"LegionOverride": "Mushroom_Blockstepper"
+  	},
+	"metaCategories": ["ChoiceNode","TraderOffer"],
+	"cardComplexity": "Advanced",
+	"temple": "Nature",
+	"description": "The soldier-esque blockstepper. If you see one, be on your gaurd, for they never march alone...",
+	"texture": "Blockstepper.png",
+	"emissionTexture": "Blockstepper_e.png",
+	"tribes": ["mushroom.pelts.block"]
+}

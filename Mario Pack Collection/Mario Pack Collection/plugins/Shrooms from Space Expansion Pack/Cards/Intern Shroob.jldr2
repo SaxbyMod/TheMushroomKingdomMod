@@ -1,0 +1,16 @@
+{
+	"name": "Intern_Shroob",
+	"modPrefix": "Mushroom",
+	"displayedName": "Intern Shroob",
+	"baseAttack": 0,
+	"baseHealth": 3,
+	"energyCost": 3,
+	"metaCategories": ["ChoiceNode","TraderOffer"],
+	"cardComplexity": "Intermediate",
+	"temple": "Nature",
+	"tribes": ["mushroom.pelts.shroob"],
+	"abilities": ["DoubleDeath"],
+	"description": "The resourceful Intern Shroob. Its mushroom won't exactly bring allies back, but they can make use of the doubled remains...",
+	"texture": "Intern Shroob.png",
+	"emissionTexture": "Intern Shroob_e.png"
+}

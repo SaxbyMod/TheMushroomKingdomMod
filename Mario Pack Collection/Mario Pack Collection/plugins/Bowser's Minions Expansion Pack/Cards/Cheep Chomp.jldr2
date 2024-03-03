@@ -1,0 +1,16 @@
+{
+	"name": "Cheep_Chomp",
+	"modPrefix": "Mushroom",
+	"displayedName": "Cheep Chomp",
+	"baseAttack": 1,
+	"baseHealth": 3,
+	"bloodCost": 2,
+	"abilities": ["nevernamed.inscryption.sigils.Ravenous"],
+	"metaCategories": ["ChoiceNode","TraderOffer"],
+	"cardComplexity": "Intermediate",
+	"temple": "Nature",
+	"description": "The preditory Cheep Chomp. How cheerfully he seems to grin, welcoming creatures in with gently smiling jaws...",
+	"texture": "Cheep Chomp.png",
+	"emissionTexture": "Cheep Chomp_e.png",
+	"tribes": ["mushroom.pelts.cheep_cheep"]
+}

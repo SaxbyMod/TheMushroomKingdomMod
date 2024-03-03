@@ -1,0 +1,17 @@
+{
+	"name": "Captain_Fishook",
+	"modPrefix": "Gallery",
+	"displayedName": "Captain Fishook",
+	"baseAttack": 3,
+	"baseHealth": 1,
+	"gemsCost": ["Blue"],
+	"metaCategories": ["ChoiceNode","TraderOffer"],
+	"onePerDeck": true,
+	"abilities": ["extraVoid.inscryption.voidSigils.Fish Hook","Submerge"],
+	"cardComplexity": "Simple",
+	"temple": "Nature",
+	"description": "The swashbuckling Captain Fishook. That hook isn't for show. Just ask that Royal skeleton Grimora keeps around...",
+	"texture": "Captain Fishook.png",
+	"emissionTexture": "Captain Fishook_e.png",
+	"tribes": ["mushroom.pelts.boo"]
+}

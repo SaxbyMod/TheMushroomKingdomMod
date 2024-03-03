@@ -1,0 +1,19 @@
+{
+	"name": "Clockwork_Soldiers",
+	"modPrefix": "Gallery",
+	"displayedName": "Clockwork Soldier",
+	"baseAttack": 1,
+	"baseHealth": 3,
+	"energyCost": 5,
+	"energyCost: 3,
+	"abilities": ["nevernamed.inscryption.sigils.Trio"],
+	"cardComplexity": "Advanced",
+	"temple": "Nature",
+	"metaCategories": ["Rare"],
+	"onePerDeck": true,
+	"description": "The methodical Clockwork Soldiers. Where one soldier marches, the clock's chimes is bound to summon others...",
+	"texture": "Clockwork Soldier.png",
+	"emissionTexture": "Clockwork Soldier_e.png",
+	"appearanceBehaviour": ["RareCardBackground"],
+	"tribes": ["mushroom.pelts.boo"]
+}

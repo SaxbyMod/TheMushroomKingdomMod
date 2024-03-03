@@ -1,0 +1,15 @@
+{
+	"name": "Pokey_Mummy",
+	"modPrefix": "Mushroom",
+	"displayedName": "Pokey Mummy",
+	"baseAttack": 3,
+	"baseHealth": 3,
+	"bonesCost": 8,
+	"abilities": ["Sharp","Deathtouch"],
+	"cardComplexity": "Advanced",
+	"temple": "Nature",
+	"description": "The poisonus Pokey Mummy. Time has not been kind to their spikes. Not that they plan to be kind to you...",
+	"texture": "Pokey Mummy.png",
+	"emissionTexture": "Pokey Mummy_e.png",
+	"tribes": ["mushroom.pelts.pokey","mushroom.pelts.mskeleton"]
+}

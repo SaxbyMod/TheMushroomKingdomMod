@@ -1,0 +1,17 @@
+{
+	"name": "Shroobshroom",
+	"modPrefix": "Mushroom",
+	"displayedName": "Shroobshroom",
+	"baseAttack": 0,
+	"baseHealth": 1,
+	"energyCost": 1,
+	"abilities": [],
+	"metaCategories": ["ChoiceNode","TraderOffer"],
+	"cardComplexity": "Intermediate",
+	"temple": "Nature",
+	"tribes": ["mushroom.pelts.shroob"],
+	"traits": ["KillsSurvivors"],
+	"description": "The victimised Shroobshroom. Not much of use in combat. Where else can it be used?",
+	"texture": "Shroobshroom.png",
+	"emissionTexture": "Shroobshroom_e.png"
+}

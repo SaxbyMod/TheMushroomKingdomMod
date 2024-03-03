@@ -1,0 +1,17 @@
+{
+	"name": "Fishin_Boo",
+	"modPrefix": "Mushroom",
+	"displayedName": "Fishin' Boo",
+	"baseAttack": 1,
+	"baseHealth": 3,
+	"bonesCost": 6,
+	"energyCost": 0,
+	"abilities": ["nevernamed.inscryption.sigils.Hook Line and Sinker"],
+	"metaCategories": ["ChoiceNode","TraderOffer"],
+	"cardComplexity": "Advanced",
+	"temple": "Nature",
+	"description": "The Ghastly Fishing Boo. With a cursed hook, it sprits away those who fall for its bait...",
+	"texture": "Fishin' Boo.png",
+	"emissionTexture": "Fishin' Boo_e.png",
+	"tribes": ["mushroom.pelts.boo","mushroom.pelts.koopa"]
+}

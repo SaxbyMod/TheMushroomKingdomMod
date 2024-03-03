@@ -1,0 +1,17 @@
+{
+	"name": "Dark_Bowser",
+	"modPrefix": "Mushroom",
+	"displayedName": "Dark Bowser",
+	"baseAttack": 3,
+	"baseHealth": 6,
+	"bloodCost": 3,
+	"energyCost": 6,
+	"abilities": ["extraVoid.inscryption.voidSigils.Toothpuller","extraVoid.inscryption.voidSigils.Resistant"],
+	"cardComplexity": "Intermediate",
+	"temple": "Nature",
+	"description": "The cruel Dark Bowser. The power within demands all to fall to darkness...",
+	"appearanceBehaviour": ["RareCardBackground"],
+	"texture": "Dark Bowser.png",
+	"emissionTexture": "Dark Bowser_e.png",
+	"tribes": ["mushroom.pelts.koopa"]
+}

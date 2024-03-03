@@ -1,0 +1,14 @@
+{
+	"name": "Dry_Bowser",
+	"modPrefix": "Mushroom",
+	"displayedName": "Dry Bowser",
+	"baseAttack": 2,
+	"baseHealth": 3,
+	"bonesCost": 6,
+	"abilities": ["DrawCopyOnDeath","extraVoid.inscryption.voidSigils.Resistant"],
+	"cardComplexity": "Intermediate",
+	"temple": "Nature",
+	"description": "The shattered Dry Bowser. A revived skeleton? I can't help but feel that an old friend is behind why the koopa king still lives...",
+	"appearanceBehaviour": ["RareCardBackground"],
+	"tribes": ["mushroom.pelts.koopa","mushroom.pelts.mskeleton"]
+}

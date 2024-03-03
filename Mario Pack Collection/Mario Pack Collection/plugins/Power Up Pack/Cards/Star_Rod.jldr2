@@ -1,0 +1,17 @@
+{
+	"name": "Star_Rod",
+	"modPrefix": "Mushroom",
+	"displayedName": "Star Rod",
+    	"baseHealth": 2,
+	"energyCost": 6,
+	"abilities": [ "nevernamed.inscryption.sigils.Summoner","nevernamed.inscryption.sigils.Instant Effect"],
+  	"extensionProperties": {"SummonerGivesRareCards": 1},
+	"metaCategories": ["Rare"],
+	"cardComplexity": "Intermediate",
+	"temple": "Nature",
+	"tribes": ["mushroom.pelts.power_up","mushroom.pelts.star"],
+	"description": "The fabled Star Rod, capable of making wishes come true, no matter the user's intent.",
+	"appearanceBehaviour": ["GoldEmission","RareCardBackground"],
+	"texture": "Star Rod.png",
+	"emissionTexture": "Star Rod_e.png"
+}

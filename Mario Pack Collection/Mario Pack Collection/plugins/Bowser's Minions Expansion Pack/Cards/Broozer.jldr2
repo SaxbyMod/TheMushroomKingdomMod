@@ -1,0 +1,16 @@
+{
+	"name": "Broozer",
+	"modPrefix": "Mushroom",
+	"displayedName": "Broozer",
+	"baseAttack": 1,
+	"baseHealth": 3,
+	"bonesCost": 5,
+	"abilities": ["nevernamed.inscryption.sigils.Enraged"],
+	"metaCategories": ["ChoiceNode","TraderOffer"],
+	"cardComplexity": "Intermediate",
+	"temple": "Nature",
+	"tribes": ["mushroom.pelts.boo"],
+	"description": "The competetive Broozer. Every hit makes its flurry of punches more of a threat...",
+	"texture": "Broozer.png",
+	"emissionTexture": "Broozer_e.png"
+}

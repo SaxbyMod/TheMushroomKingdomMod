@@ -1,0 +1,15 @@
+{
+	"name": "Luigi",
+	"modPrefix": "Gallery",
+	"displayedName": "Luigi",
+	"baseAttack": 1,
+	"baseHealth": 3,
+	"bonesCost": 4,
+	"energyCost": 0,
+	"abilities": ["extraVoid.inscryption.voidSigils.Cowardly","extraVoid.inscryption.voidSigils.Desperation"],
+	"metaCategories": ["ChoiceNode"],
+	"onePerDeck": true,
+	"cardComplexity": "Intermediate",
+	"temple": "Nature",
+	"description": "The cowardly Luigi. Always in his brother's shadow, but has been known to lay waste to the undead..."
+}

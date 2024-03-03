@@ -1,0 +1,17 @@
+{
+	"name": "Mushroom_Pokey",
+	"modPrefix": "Mushroom",
+	"displayedName": "Pokey",
+	"baseAttack": 3,
+	"baseHealth": 3,
+	"bloodCost": 2,
+	"abilities": ["Sharp","Reach"],
+	"metaCategories": ["ChoiceNode","TraderOffer"],
+	"cardComplexity": "Intermediate",
+	"temple": "Nature",
+	"description": "The spiky pokey. Many tried to vault over this towering cactus, but oh the follies of men...",
+	"texture": "Pokey.png",
+	"emissionTexture": "Pokey_e.png",
+	"tribes": ["mushroom.pelts.pokey"],
+	"iceCubeName": "Mushroom_Mummipokey"
+}

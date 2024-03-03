@@ -1,0 +1,17 @@
+{
+	"name": "Melody",
+	"modPrefix": "Gallery",
+	"displayedName": "Melody Pianissima",
+	"baseAttack": 1,
+	"baseHealth": 3,
+	"gemsCost": ["Green"],
+	"abilities": ["org.memez4life.inscryption.customsigils.Song of sleep"],
+	"metaCategories": ["ChoiceNode","TraderOffer"],
+	"onePerDeck": true,
+	"cardComplexity": "Intermediate",
+	"temple": "Nature",
+	"description": "Melody Pianissima, the Beautiful Pianist. Her songs are moving, but beware her temper...",
+	"texture": "Melody.png",
+	"emissionTexture": "Melody_e.png",
+	"tribes": ["mushroom.pelts.boo"]
+}

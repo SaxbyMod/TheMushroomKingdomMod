@@ -1,0 +1,17 @@
+{
+	"name": "Nikki_Lindsey_Ginny",
+	"modPrefix": "Gallery",
+	"displayedName": "Nikki, Lindsey, & Ginny",
+	"baseAttack": 1,
+	"baseHealth": 3,
+	"gemsCost": ["Orange"],
+	"metaCategories": ["ChoiceNode","TraderOffer"],
+	"onePerDeck": true,
+	"abilities": ["SplitStrike"],
+	"cardComplexity": "Simple",
+	"temple": "Nature",
+	"description": "The magical trio. Known for their tricks and pranks that seem more real than magic I've come to know...",
+	"texture": "Nikki, Lindsey, & Ginny.png",
+	"emissionTexture": "Nikki, Lindsey, & Ginny_e.png",
+	"tribes": ["mushroom.pelts.boo"]
+}

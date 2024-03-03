@@ -1,0 +1,18 @@
+{
+	"name": "Ghost_T",
+	"modPrefix": "Mushroom",
+	"displayedName": "Ghost T.",
+	"baseAttack": 0,
+	"baseHealth": 4,
+	"bonesCost": 5,
+	"abilities": ["org.memez4life.inscryption.customsigils.Spawner"],
+	"specialAbilities": ["Daus"],
+	"metaCategories": ["Rare"],
+	"cardComplexity": "Advanced",
+	"temple": "Nature",
+	"description": "The haunting Ghost T.. Shy away from his diary, or there will be hell to pay...",
+	"texture": "Ghost T..png",
+	"emissionTexture": "Ghost T._e.png",
+	"appearanceBehaviour": ["RareCardBackground"],
+	"iceCubeName": "Mushroom_Bell_Ragged_Diary"
+}

@@ -1,0 +1,16 @@
+{
+	"name": "Chain_Chomp",
+	"modPrefix": "Mushroom",
+	"displayedName": "Chain Chomp",
+	"baseAttack": 2,
+	"baseHealth": 2,
+	"bonesCost": 7,
+	"abilities": ["GuardDog","Sentry"],
+	"metaCategories": ["ChoiceNode","TraderOffer"],
+	"cardComplexity": "Intermediate",
+	"temple": "Nature",
+	"description": "The dangerous Chain Chomp. All tremble thinking of what is to come should it escape its post...",
+	"texture": "Chain Chomp.png",
+	"emissionTexture": "Chain Chomp_e.png",
+	"tribes": ["mushroom.pelts.chomp"]
+}

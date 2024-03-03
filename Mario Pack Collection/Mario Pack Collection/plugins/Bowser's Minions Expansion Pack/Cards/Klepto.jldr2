@@ -1,0 +1,16 @@
+{
+  "name": "Klepto",
+  "modPrefix": "Mushroom",
+  "displayedName": "Klepto",
+  "baseAttack": 1,
+  "baseHealth": 3,
+  "bloodCost": 2,
+  "tribes": ["mushroom.pelts.conkdor"],
+  "abilities": [
+    "Flying",
+    "Strafe"
+  ],
+  "specialAbilities": "PackMule",
+  "texture": "Klepto.png",
+  "emissionTexture": "Klepto_e.png"
+}

@@ -1,0 +1,19 @@
+{
+	"name": "L33T_Hamm3r_Broz",
+	"modPrefix": "Mushroom",
+	"displayedName": "L33T Hamm3r Broz",
+	"baseAttack": 2,
+	"baseHealth": 2,
+	"energyCost": 5,
+	"abilities": ["DrawCopy"],
+	"metaCategories": ["ChoiceNode","TraderOffer"],
+	"cardComplexity": "Intermediate",
+	"temple": "Nature",
+	"description": "The L33T Hamm3r Broz. ALL NOOB OPPRESSORS 2 BE HAXORED AT MASTER SHROOBZORS COMMAND.",
+	"texture": "L33T Hamm3r Broz.png",
+	"emissionTexture": "L33T Hamm3r Broz_e.png",
+	"tribes": ["mushroom.pelts.shroob","mushroom.pelts.koopa"],
+	"evolveIntoName": "Mushroom_G@M3R_Sl3dg3_Broz",
+	"evolveTurns": 1,
+	"pixelTexture": "Hammer Bro Act 2.png"
+}

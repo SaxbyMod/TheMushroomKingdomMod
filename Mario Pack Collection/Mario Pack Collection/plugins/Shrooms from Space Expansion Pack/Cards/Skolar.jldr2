@@ -1,0 +1,17 @@
+{
+	"name": "Skolar",
+	"modPrefix": "Mushroom",
+	"displayedName": "Skolar",
+	"baseAttack": 1,
+	"baseHealth": 1,
+	"energyCost": 2,
+	"abilities": ["AllStrike"],
+	"metaCategories": ["Rare"],
+	"cardComplexity": "Advanced",
+	"temple": "Nature",
+	"tribes": ["mushroom.pelts.star"],
+	"description": "The Star Sprit, Skolar. He commands the flying stars to his will, creating meteor showers if need be...",
+	"texture": "Skolar.png",
+	"emissionTexture": "Skolar_e.png",
+	"appearanceBehaviour": ["RareCardBackground"]
+}

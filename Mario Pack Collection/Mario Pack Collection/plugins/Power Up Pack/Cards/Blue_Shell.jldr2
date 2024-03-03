@@ -1,0 +1,18 @@
+{
+	"name": "Blue_Shell",
+	"modPrefix": "Mushroom",
+	"displayedName": "Blue Shell",
+	"baseAttack": 6,
+	"baseHealth": 4,
+	"bloodCost": 3,
+	"abilities": ["Flying","Brittle","extraVoid.inscryption.voidSigils.Deathburst","extraVoid.inscryption.voidSigils.Deathburst","extraVoid.inscryption.voidSigils.Deathburst"],
+	"metaCategories": ["Rare"],
+	"appearanceBehaviour": ["RareCardBackground"],
+	"cardComplexity": "Advanced",
+	"temple": "Nature",
+	"description": "The single-minded Blue Shell. Should you see it soar in the sky, pray you are not near the first...",
+	"texture": "Blue Shell.png",
+	"emissionTexture": "Blue Shell_e.png",
+	"tribes": ["mushroom.pelts.itembox","mushroom.pelts.koopa"],
+	"traits": ["KillsSurvivors"]
+}

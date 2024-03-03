@@ -1,0 +1,16 @@
+{
+	"name": "Cheep Cheep",
+	"modPrefix": "Mushroom",
+	"displayedName": "Cheep Cheep",
+	"baseAttack": 2,
+	"baseHealth": 1,
+	"bloodCost": 1,
+	"abilities": ["Flying","Submerge"],
+	"metaCategories": ["ChoiceNode","TraderOffer"],
+	"cardComplexity": "Simple",
+	"temple": "Nature",
+	"description": "The floppy Cheep Cheep. The common fish of the Mushroom Kingdom. At least it can fly.",
+	"texture": "Cheep_Cheep.png",
+	"emissionTexture": "Cheep_Cheep_e.png",
+	"tribes": ["mushroom.pelts.cheep_cheep"],
+}

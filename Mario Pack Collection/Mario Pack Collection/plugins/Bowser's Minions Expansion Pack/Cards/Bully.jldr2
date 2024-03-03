@@ -1,0 +1,16 @@
+{
+	"name": "Bully",
+	"modPrefix": "Mushroom",
+	"displayedName": "Bully",
+	"baseAttack": 2,
+	"baseHealth": 2,
+	"bloodCost": 2,
+	"abilities": ["nevernamed.inscryption.sigils.Bully"],
+	"metaCategories": ["ChoiceNode","TraderOffer"],
+	"cardComplexity": "Intermediate",
+	"temple": "Nature",
+	"description": "The Blunt Bully. Anything it sees as weak is doomed to be rammed off its territory.",
+	"texture": "Bully.png",
+	"emissionTexture": "Bully_e.png",
+	"tribes": ["None"]
+}

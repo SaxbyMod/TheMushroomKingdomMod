@@ -1,0 +1,17 @@
+{
+	"name": "Mushroom_Rip_Awake",
+	"modPrefix": "Mushroom",
+	"displayedName": "Rip Van Fish",
+	"baseAttack": 1,
+	"baseHealth": 4,
+	"bloodCost": 1,
+	"abilities": ["DoubleStrike","Evolve"],
+	"cardComplexity": "Advanced",
+	"temple": "Nature",
+	"description": "The enraged Rip van Fish. I warned you not to wake it up, now you must pay...",
+	"texture": "Rip Van Fish Awake.png",
+	"emissionTexture": "Rip Van Fish Awake_e.png",
+	"evolveIntoName": "Mushroom_Rip_Asleep",
+	"evolveTurns": 3,
+	"tribes": ["mushroom.pelts.cheep_cheep"]
+}

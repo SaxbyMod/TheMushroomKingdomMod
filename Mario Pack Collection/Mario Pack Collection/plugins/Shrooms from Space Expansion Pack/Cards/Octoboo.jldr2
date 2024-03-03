@@ -1,0 +1,17 @@
+{
+	"name": "Mushroom_Octoboo",
+	"modPrefix": "Mushroom",
+	"displayedName": "Octoboo",
+	"baseAttack": 1,
+	"baseHealth": 3,
+	"bonesCost": 2,
+	"energyCost": 2,
+	"abilities": ["extraVoid.inscryption.voidSigils.Thick Shell"],
+	"metaCategories": ["ChoiceNode","TraderOffer"],
+	"cardComplexity": "Intermediate",
+	"temple": "Nature",
+	"description": "The depressed Octoboo. They are completly intangible, but their attack isn't much to speak of...",
+	"texture": "Octoboo.png",
+	"emissionTexture": "Octoboo_e.png",
+	"tribes": ["mushroom.pelts.boo","mushroom.pelts.goomba"],
+}

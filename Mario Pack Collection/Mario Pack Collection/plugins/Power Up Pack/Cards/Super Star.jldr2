@@ -1,0 +1,18 @@
+{
+	"name": "Super_Star",
+	"modPrefix": "Mushroom",
+	"displayedName": "Super Star",
+	"baseHealth": 1,
+	"bloodCost": 1,
+	"abilities": ["TripleBlood"],
+	"metaCategories": ["ChoiceNode","TraderOffer","Rare"],
+	"cardComplexity": "Intermediate",
+	"temple": "Nature",
+	"tribes": ["mushroom.pelts.power_up","mushroom.pelts.star"],
+	"description": "Behold the Super Star. With this sparkling vessel of power, not having enough blood for a unit is a thing of the past, but be warned, for evil lies Frozen within...",
+	"appearanceBehaviour": ["RareCardBackground"],
+	"texture": "Super Star.png",
+	"emissionTexture": "Super Star_e.png",
+	"iceCubeName": "Mushroom_Dark_Star",
+	"traits": ["Goat"]
+}

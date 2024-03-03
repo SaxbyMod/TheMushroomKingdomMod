@@ -1,0 +1,18 @@
+{
+	"name": "Banekiti",
+	"modPrefix": "Mushroom",
+	"displayedName": "Banekiti",
+	"baseAttack": 1,
+	"baseHealth": 1,
+	"energyCost": 2,
+	"abilities": ["Strafe"],
+	"metaCategories": ["ChoiceNode","TraderOffer"],
+	"cardComplexity": "Intermediate",
+	"temple": "Nature",
+	"tribes": [
+    "mushroom.pelts.itembox"
+  ],
+	"description": "The springy Banekiti. It's springs bounce anything back, making it a reliable ally to the Spooky Speedster...",
+	"texture": "Banekiti.png",
+	"emissionTexture": "Banekiti_e.png"
+}

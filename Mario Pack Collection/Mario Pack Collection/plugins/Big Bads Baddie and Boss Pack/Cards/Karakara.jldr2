@@ -1,0 +1,15 @@
+{
+	"name": "Karakara",
+	"modPrefix": "Mushroom",
+	"displayedName": "Karakara",
+	"baseAttack": 1,
+	"baseHealth": 3,
+	"bonesCost": 3,
+	"abilities": ["Reach"],
+	"metaCategories": ["ChoiceNode","TraderOffer"],
+	"cardComplexity": "Simple",
+	"temple": "Nature",
+	"description": "The floaty Karakara. A yokai spirit known for drifting in the wind...",
+	"texture": "Karakara.png",
+	"emissionTexture": "Karakara_e.png"
+}

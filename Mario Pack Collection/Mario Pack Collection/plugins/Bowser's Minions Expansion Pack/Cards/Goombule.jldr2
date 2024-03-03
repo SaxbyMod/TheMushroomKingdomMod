@@ -1,0 +1,18 @@
+{
+	"name": "Goombule",
+	"modPrefix": "Mushroom",
+	"displayedName": "Goombule",
+	"baseAttack": 1,
+	"baseHealth": 2,
+	"bonesCost": 2,
+	"abilities": ["RandomAbility"],
+	"metaCategories": ["ChoiceNode","TraderOffer"],
+	"tribes": ["mushroom.pelts.goomba", "mushroom.pelts.organ"],
+	"cardComplexity": "Simple",
+	"temple": "Nature",
+	"description": "The gushy Goombule. Akin to the common Ameoba, its sigils are ever changing...",
+	"texture": "Goombule.png",
+	"emissionTexture": "Goombule_e.png",
+	"tribes": ["None"],
+	"traits": ["KillsSurvivors"]
+}

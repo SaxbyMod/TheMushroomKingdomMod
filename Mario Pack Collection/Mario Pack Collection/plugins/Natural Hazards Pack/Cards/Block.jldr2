@@ -1,0 +1,16 @@
+{
+	"name": "Block",
+	"modPrefix": "Mushroom",
+	"displayedName": "Block",
+	"baseHealth": 1,
+	"abilities": ["IceCube"],
+	"metaCategories": ["ChoiceNode","TraderOffer"],
+	"tribes": ["mushroom.pelts.block"],
+	"cardComplexity": "Intermediate",
+	"temple": "Nature",
+	"tribes": ["mushroom.pelts.block"],
+	"description": "The brittle block. Something is bound to lurk within it...",
+	"texture": "Block.png",
+	"emissionTexture": "Block_e.png",
+	"iceCubeName": "Mushroom_Super_Mushroom"
+}

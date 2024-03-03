@@ -1,0 +1,13 @@
+{
+	"name": "Goombo",
+	"modPrefix": "Mushroom",
+	"displayedName": "Goombo",
+	"baseAttack": 1,
+	"baseHealth": 1,
+	"bloodCost": 0,
+	"metaCategories": ["ChoiceNode","TraderOffer"],
+	"tribes": ["mushroom.pelts.goomba"],
+	"description": "The pesky Goombo. A lesser varient of the traitor Goomba hailing from Sarasaland...",
+	"texture": "Goombo.png",
+	"emissionTexture": "Goombo_e.png"
+}

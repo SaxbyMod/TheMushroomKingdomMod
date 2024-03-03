@@ -1,0 +1,17 @@
+{
+	"name": "Skellokey",
+	"modPrefix": "Mushroom",
+	"displayedName": "Skellokey",
+	"baseAttack": 1,
+	"baseHealth": 3,
+	"bonesCost": 4,
+	"abilities": ["Sharp","Reach"],
+	"metaCategories": ["ChoiceNode","TraderOffer"],
+	"cardComplexity": "Intermediate",
+	"temple": "Nature",
+	"description": "The withered Skellokey. Wait. Since when does a plant have a skeleton?",
+	"texture": "Skellokey.png",
+	"emissionTexture": "Skellokey_e.png",
+	"tribes": ["mushroom.pelts.mskeleton","mushroom.pelts.pokey"],
+	"iceCubeName": "Mushroom_Mummipokey"
+}

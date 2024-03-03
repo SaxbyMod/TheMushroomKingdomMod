@@ -1,0 +1,18 @@
+{
+	"name": "Commander_Shroob",
+	"modPrefix": "Mushroom",
+	"displayedName": "Commander Shroob",
+	"baseAttack": 2,
+	"baseHealth": 3,
+	"energyCost": 3,
+	"metaCategories": ["Rare"],
+	"appearanceBehaviour": ["RareCardBackground"],
+	"cardComplexity": "Intermediate",
+	"temple": "Nature",
+	"tribes": ["mushroom.pelts.shroob"],
+	"abilities": ["org.memez4life.inscryption.customsigils.Host","BuffNeighbours"],
+	"iceCubeName": "Mushroom_Support_Shroobs",
+	"description": "The bossy Commander Shroob. Don't anger him, let he unleases a powerful weapon...",
+	"texture": "Commander Shroob.png",
+	"emissionTexture": "Commander Shroob_e.png"
+}

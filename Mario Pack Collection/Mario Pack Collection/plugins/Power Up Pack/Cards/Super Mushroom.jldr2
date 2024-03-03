@@ -1,0 +1,17 @@
+{
+	"name": "Super_Mushroom",
+	"modPrefix": "Mushroom",
+	"displayedName": "Super Mushroom",
+	"baseHealth": 1,
+	"bloodCost": 1,
+	"abilities": ["extraVoid.inscryption.voidSigils.Nutritious"],
+	"metaCategories": ["ChoiceNode","TraderOffer"],
+	"cardComplexity": "Intermediate",
+	"temple": "Nature",
+	"description": "The basic Super Mushroom. Typically used to make plumbers just a bit stronger.",
+	"texture": "Super Mushroom.png",
+	"emissionTexture": "Super Mushroom_e.png",
+	"tribes": ["mushroom.pelts.power_up"],
+	"iceCubeName": "Mushroom_Zombie_Mushroom",
+	"pixelTexture": "Super Mushroom Act 2.png"
+}

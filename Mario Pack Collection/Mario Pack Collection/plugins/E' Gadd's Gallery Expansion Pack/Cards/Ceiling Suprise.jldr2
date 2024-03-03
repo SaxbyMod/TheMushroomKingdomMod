@@ -1,0 +1,15 @@
+{
+	"name": "Ceiling_Suprise",
+	"modPrefix": "Gallery",
+	"displayedName": "Ceiling Suprise",
+	"baseHealth": 3,
+	"bonesCost": 1,
+	"abilities": ["WhackAMole","org.memez4life.inscryption.customsigils.Fearful","extraVoid.inscryption.voidSigils.Resistant"],
+	"metaCategories": ["ChoiceNode","TraderOffer"],
+	"cardComplexity": "Intermediate",
+	"temple": "Nature",
+	"tribes": ["mushroom.pelts.boo"],
+	"description": "Blasted Ceiling Suprise... Always turns up when you least expect it, or least desire it!",
+	"texture": "Ceiling Suprise.png",
+	"emissionTexture": "Ceiling Suprise_e.png"
+}

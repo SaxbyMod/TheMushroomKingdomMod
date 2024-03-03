@@ -1,0 +1,15 @@
+{
+	"name": "Crashing_Shroob_Saucer",
+	"modPrefix": "Mushroom",
+	"displayedName": "Crashing Shroob Saucer",
+	"baseAttack": 3,
+	"baseHealth": 1,
+	"energyCost": 1,
+	"abilities": ["extraVoid.inscryption.voidSigils.Deathburst","Brittle"],
+	"temple": "Nature",
+	"description": "INCOMING!",
+	"texture": "Crashing Shroob Saucer.png",
+	"emissionTexture": "Crashing Shroob Saucer_e.png",
+	"tribes": ["mushroom.pelts.shroob"],
+	"traits": ["KillsSurvivors"]
+}

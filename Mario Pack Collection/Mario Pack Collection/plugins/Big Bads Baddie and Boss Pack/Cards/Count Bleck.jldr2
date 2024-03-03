@@ -1,0 +1,16 @@
+{
+	"name": "Count_Bleck",
+	"modPrefix": "Mushroom",
+	"displayedName": "Count Bleck",
+	"baseAttack": 1,
+	"baseHealth": 3,
+	"bloodCost": 2,
+	"abilities": ["nevernamed.inscryption.sigils.Prophecy"],
+	"metaCategories": ["Rare"],
+	"cardComplexity": "Intermediate",
+	"temple": "Nature",
+	"description": "The heartbroken Count Bleck. Creator of the chaos heart, this madman wishes to fufill a dark prophecy...",
+	"appearanceBehaviour": ["RareCardBackground"],
+	"texture": "Count Bleck.png",
+	"emissionTexture": "Count Bleck_e.png"
+}

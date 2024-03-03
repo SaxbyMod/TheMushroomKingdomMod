@@ -1,0 +1,16 @@
+{
+	"name": "Air_Cheep",
+	"modPrefix": "Mushroom",
+	"displayedName": "Air Cheep",
+	"baseAttack": 1,
+	"baseHealth": 2,
+	"energyCost": 3,
+	"abilities": ["ActivatedStatsUpEnergy","Flying"],
+	"metaCategories": ["ChoiceNode","TraderOffer"],
+	"cardComplexity": "Simple",
+	"temple": "Nature",
+	"description": "The inflatable Air Cheep. Only you can turn it's hot air into tempest winds...",
+	"texture": "Air Cheep.png",
+	"emissionTexture": "Air Cheep_e.png",
+	"tribes": ["mushroom.pelts.cheep_cheep"]
+}

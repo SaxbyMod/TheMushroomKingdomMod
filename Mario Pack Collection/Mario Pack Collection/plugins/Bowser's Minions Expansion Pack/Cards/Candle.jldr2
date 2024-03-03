@@ -1,0 +1,18 @@
+{
+	"name": "Candle",
+	"modPrefix": "Mushroom",
+	"displayedName": "Candle",
+	"baseHealth": 4,
+	"abilities": ["Sharp","creator.TooManySigils.Host"],
+	"metaCategories": ["ChoiceNode","TraderOffer"],
+	"cardComplexity": "Intermediate",
+	"temple": "Nature",
+	"description": "Now, what's a candle doing here. You can take it if you want, but I ain't sure it'll be useful.",
+	"appearanceBehaviour": ["TerrainLayout","TerrainBackground"],
+	"texture": "Candle.png",
+	"emissionTexture": "Candle_e.png",
+	"traits": ["Terrain"],
+	"tribes": ["mushroom.pelts.itembox"],
+	"iceCubeName": "Mushroom_Hotfoot",
+	"pixelTexture": "Candle Act 2.png"
+}

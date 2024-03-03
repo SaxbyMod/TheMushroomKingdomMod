@@ -1,0 +1,15 @@
+{
+	"name": "Chill_Bully",
+	"modPrefix": "Mushroom",
+	"displayedName": "Chill Bully",
+	"baseAttack": 2,
+	"baseHealth": 2,
+	"bonesCost": 5,
+	"abilities": ["nevernamed.inscryption.sigils.Bully"],
+	"metaCategories": ["ChoiceNode","TraderOffer"],
+	"cardComplexity": "Intermediate",
+	"temple": "Nature",
+	"description": "The cruel Chill Bully. Even in extreme cold, it cares only about protecting its territory.",
+	"texture": "Chill Bully.png",
+	"emissionTexture": "Chill Bully_e.png"
+}

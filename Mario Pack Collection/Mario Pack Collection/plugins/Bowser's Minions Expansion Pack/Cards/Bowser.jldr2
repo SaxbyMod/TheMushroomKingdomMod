@@ -1,0 +1,18 @@
+{
+	"name": "Bowser",
+	"modPrefix": "Mushroom",
+	"displayedName": "Bowser",
+	"baseAttack": 2,
+	"baseHealth": 4,
+	"bloodCost": 2,
+	"abilities": ["Sharp","creator.TooManySigils.Thick Shell"],
+	"metaCategories": ["Rare"],
+	"cardComplexity": "Intermediate",
+	"temple": "Nature",
+	"description": "The almighty Bowser. King of the Koopas and a beast of many forms, be they frozen away or a form of evolution...",
+	"appearanceBehaviour": ["RareCardBackground"],
+	"tribes": ["mushroom.pelts.koopa"],
+	"evolveIntoName": "Mushroom_Fury_Bowser",
+	"evolveTurns": 1,
+	"iceCubeName": "Mushroom_Dry_Bowser"
+}

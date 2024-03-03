@@ -1,0 +1,18 @@
+{
+	"name": "Banzai_Bill_Cannon",
+	"modPrefix": "Mushroom",
+	"displayedName": "Banzai Bill Cannon",
+	"energyCost": 6,
+	"baseHealth": 5,
+	"abilities": ["creator.TooManySigils.Launcher"],
+	"metaCategories": ["Rare"],
+	"cardComplexity": "Advanced",
+	"temple": "Nature",
+	"description": "The merciless banzai bill. Once released, this machine will keep on its course; destroying everything in its path...",
+	"appearanceBehaviour": ["TerrainLayout","RareCardBackground"],
+	"texture": "Banzai Bill Cannon.png",
+	"emissionTexture": "Banzai Bill Cannon_e.png",
+	"tribes": ["mushroom.pelts.blaster"],
+	"traits": ["Terrain"],
+	"iceCubeName": "Mushroom_Banzai_Bill"
+}

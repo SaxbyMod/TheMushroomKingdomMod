@@ -1,0 +1,16 @@
+{
+	"name": "Feral_Polterkitty",
+	"modPrefix": "Gallery",
+	"displayedName": "Polterkitty",
+	"baseAttack": 2,
+	"baseHealth": 4,
+	"gemsCost": ["Orange"],
+	"abilities": ["extraVoid.inscryption.voidSigils.Thick Shell","Sacrificial"],
+	"cardComplexity": "Simple",
+	"temple": "Nature",
+	"description": "The sly Polterkitty. Known to steal things of value, but woe to thee who strikes the cat...",
+	"texture": "Feral Polterkitty.png",
+	"emissionTexture": "Feral Polterkitty_e.png",
+	"appearanceBehaviour": ["RareCardBackground"],
+	"tribes": ["mushroom.pelts.boo"]
+}

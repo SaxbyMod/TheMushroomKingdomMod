@@ -1,0 +1,15 @@
+{
+	"name": "Fake_Block",
+	"modPrefix": "Mushroom",
+	"displayedName": "Fake Block",
+	"baseAttack": 2,
+	"baseHealth": 1,
+	"bloodCost": 2,
+	"abilities": ["TailOnHit"],
+	"cardComplexity": "Intermediate",
+	"temple": "Nature",
+	"tribes": ["mushroom.pelts.block"],
+	"description": "The trickster Fake Block. The truth behind the mysterious brick pile is revealed.",
+	"texture": "Block_Fake.png",
+	"emissionTexture": "Block_Fake_e.png"
+}

@@ -1,0 +1,20 @@
+{
+	"name": "Chain_Chomplet",
+	"modPrefix": "Mushroom",
+	"displayedName": "Chain Chomplet",
+	"baseAttack": 1,
+	"baseHealth": 2,
+	"bonesCost": 2,
+	"abilities": ["Evolve"],
+	"cardComplexity": "Advanced",
+	"temple": "Nature",
+	"metaCategories": ["ChoiceNode","TraderOffer"],
+	"description": "The feral Chain Chomplet. It's known to grown into a ferocious beast. Just keep it away from any fire flowers in the meantime...",
+	"texture": "Chain Chomplet.png",
+	"emissionTexture": "Chain Chomplet_e.png",
+	"evolveIntoName": "Mushroom_Chain Chomp",
+	"evolveTurns": 1,
+	"extensionProperties": { 
+		"MycoMerger": "Mushroom_Fire_Flower:Mushroom_Chain_Chomplet_Fevered"},
+	"tribes": ["mushroom.pelts.chomp"]
+}

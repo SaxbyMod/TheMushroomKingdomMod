@@ -1,0 +1,18 @@
+{
+	"name": "Kent_C_Koopa",
+	"modPrefix": "Mushroom",
+	"displayedName": "Kent C. Koopa",
+	"baseAttack": 3,
+	"baseHealth": 5,
+	    "extensionProperties": {
+	           "MoneyCost": "4"
+	},
+	"abilities": ["extraVoid.inscryption.voidSigils.Thick Shell"],
+	"metaCategories": ["ChoiceNode","TraderOffer"],
+	"cardComplexity": "Intermediate",
+	"temple": "Nature",
+	"tribes": ["mushroom.pelts.koopa"],
+	"description": "The cheap Kent C. Koopa. Believes coins make the world go round, and will slay anyone who disagrees...",
+	"texture": "Kent C. Koopa.png",
+	"emissionTexture": "Kent C. Koopa_e.png"
+}

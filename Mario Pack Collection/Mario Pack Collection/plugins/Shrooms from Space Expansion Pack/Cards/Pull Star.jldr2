@@ -1,0 +1,15 @@
+{
+	"name": "Pull_Star",
+	"modPrefix": "Mushroom",
+	"displayedName": "Pull Star",
+	"baseHealth": 2,
+	"baseAttack": 0,
+	"abilities": ["extraVoid.inscryption.voidSigils.Gripper"],
+	"cardComplexity": "Intermediate",
+	"temple": "Nature",
+	"tribes": ["mushroom.pelts.star"],
+	"description": "The clingy Pull Star. Those who make contact find themselves trapped in it's gravity...",
+	"metaCategories": ["ChoiceNode","TraderOffer"],
+	"texture": "Pull Star.png",
+	"emissionTexture": "Pull Star_e.png"
+}

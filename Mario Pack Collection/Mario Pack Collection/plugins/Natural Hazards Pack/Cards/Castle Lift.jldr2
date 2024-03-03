@@ -1,0 +1,16 @@
+{
+	"name": "Castle_Lift",
+	"modPrefix": "Mushroom",
+	"displayedName": "Castle Lift",
+	"baseAttack": 3,
+	"baseHealth": 8,
+	"energyCost": 6,
+	"metaCategories": ["Rare"],
+	"appearanceBehaviour": ["RareCardBackground"],
+	"cardComplexity": "Intermediate",
+	"temple": "Nature",
+	"abilities": ["Flying","bitty45.inscryption.sigils.Board Shifter (Owner)","Sharp","Sharp"],
+	"description": "The Lift used by Bowser to lift both his own castle, along with Peach's, into the stars. It's filled with many defensive machines built to keep a certain plumber out...",
+	"texture": "Castle Lift.png",
+	"emissionTexture": "Castle Lift.png"
+}

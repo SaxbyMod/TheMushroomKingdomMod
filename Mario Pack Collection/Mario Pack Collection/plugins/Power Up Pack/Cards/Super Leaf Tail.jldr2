@@ -1,0 +1,12 @@
+{
+	"name": "Super_Leaf_Tail",
+	"modPrefix": "Mushroom",
+	"displayedName": "Super Leaf",
+	"baseHealth": 1,
+	"cardComplexity": "Intermediate",
+	"temple": "Nature",
+	"tribes": ["mushroom.pelts.tanuki"],
+	"description": "The mythical Super Leaf. Able to bless those who accept it with the power of the tanuki...",
+	"texture": "Super Leaf.png",
+	"emissionTexture": "Super Leaf_e.png"
+}

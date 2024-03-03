@@ -1,0 +1,16 @@
+{
+	"name": "Flame_Chomp(Bomb)",
+	"modPrefix": "Mushroom",
+	"displayedName": "Flame Chomp",
+	"baseAttack": 0,
+	"baseHealth": 1,
+	"bloodCost": 2,
+	"abilities": ["nevernamed.inscryption.sigils.Doomed","ExplodeOnDeath"],
+	"cardComplexity": "Intermediate",
+	"temple": "Nature",
+	"tribes": ["mushroom.pelts.chomp"],
+	"description": "The volitile Flame Chomp. If it's not hurling fireballs, it's probably best you stay away...",
+	"appearanceBehaviour": ["RareCardBackground"],
+	"texture": "Flame Chomp(Bomb).png",
+	"emissionTexture": "Flame Chomp_e.png"
+}

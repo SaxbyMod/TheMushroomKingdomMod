@@ -1,0 +1,17 @@
+{
+	"name": "Koopa_Kid",
+	"modPrefix": "Mushroom",
+	"displayedName": "Koopa Kid",
+	"baseAttack": 1,
+	"baseHealth": 3,
+	"bloodCost": 1,
+	"abilities": ["Sharp","extraVoid.inscryption.voidSigils.Thick Shell"],
+	"metaCategories": ["Rare"],
+	"cardComplexity": "Advanced",
+	"temple": "Nature",
+	"tribes": ["mushroom.pelts.koopa"],
+	"description": "The forgotten Koopa Kid. Sent to cause trouble on behalf of Lord Bowser.",
+	"texture": "Koopa Kid.png",
+	"emissionTexture": "Koopa Kid_e.png",
+	"appearanceBehaviour": ["RareCardBackground"]
+}

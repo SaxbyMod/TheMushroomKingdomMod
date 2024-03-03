@@ -1,0 +1,17 @@
+{
+	"name": "Shroobsworth",
+	"modPrefix": "Mushroom",
+	"displayedName": "Shroobsworth",
+	"baseAttack": 2,
+	"baseHealth": 4,
+	"energyCost": 4,
+	"metaCategories": ["ChoiceNode","TraderOffer"],
+	"cardComplexity": "Intermediate",
+	"temple": "Nature",
+	"tribes": ["mushroom.pelts.shroob"],
+	"abilities": ["IceCube", "DoubleStrike"],
+	"iceCubeName": "Mushroom_Intern_Shroob_Shroobsworth",
+	"description": "The Elderly Shroobsworth. His intern at the ready, he's willing to protect the land they conquer...",
+	"texture": "Shroobsworth.png",
+	"emissionTexture": "Shroobsworth_e.png"
+}

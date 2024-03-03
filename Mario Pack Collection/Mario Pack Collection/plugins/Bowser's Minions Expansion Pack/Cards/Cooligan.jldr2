@@ -1,0 +1,16 @@
+{
+	"name": "Mushroom_Cooligan",
+	"modPrefix": "Mushroom",
+	"displayedName": "Cooligan",
+	"baseAttack": 1,
+	"baseHealth": 2,
+	"bloodCost": 2,
+	"abilities": ["nevernamed.inscryption.sigils.Running Strike"],
+	"metaCategories": ["ChoiceNode","TraderOffer"],
+	"cardComplexity": "Intermediate",
+	"temple": "Nature",
+	"description": "The stone-cold Cooligan. Known to slide on it's belly, hoping to catch something in it sharp beak...",
+	"texture": "Cooligan.png",
+	"emissionTexture": "Cooligan_e.png",
+	"tribes": ["mushroom.pelts.conkdor"]
+}

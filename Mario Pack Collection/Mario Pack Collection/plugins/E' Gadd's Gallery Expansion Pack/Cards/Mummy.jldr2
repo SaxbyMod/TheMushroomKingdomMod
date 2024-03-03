@@ -1,0 +1,17 @@
+{
+	"name": "Mummy",
+	"modPrefix": "Mushroom",
+	"displayedName": "Mummy",
+	"baseAttack": 3,
+	"baseHealth": 1,
+	"bonesCost": 5,
+	"abilities": ["IceCube","DeathShield"],
+	"metaCategories": ["ChoiceNode","TraderOffer"],
+	"cardComplexity": "Intermediate",
+	"temple": "Nature",
+	"tribes": ["mushroom.pelts.boo"],
+	"description": "You might be fooled by the greenie inside the wraps, but I know someone who can see right through the disguise...",
+	"texture": "Mummy.png",
+	"emissionTexture": "Mummy_e.png",
+	"iceCubeName": "Mushroom_Greenie"
+}

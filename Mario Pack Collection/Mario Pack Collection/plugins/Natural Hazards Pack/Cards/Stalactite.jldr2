@@ -1,0 +1,16 @@
+{
+	"name": "Mushroom_Stalactite",
+	"modPrefix": "Mushroom",
+	"displayedName": "Stalactite",
+	"baseAttack": 1,
+	"baseHealth": 3,
+	"bonesCost": 5,
+	"abilities": ["bitty45.inscryption.sigils.Mutual Hire","MadeOfStone"],
+	"metaCategories": ["ChoiceNode","TraderOffer"],
+	"cardComplexity": "Intermediate",
+	"temple": "Nature",
+	"tribes": ["mushroom.pelts.crusher"],
+	"description": "The territorial Thwomp. It stays stationary until anyone foolishly wanders under it, where it will then come crashing down.",
+	"texture": "Stalactite.png",
+	"emissionTexture": "Stalactite_e.png"
+}

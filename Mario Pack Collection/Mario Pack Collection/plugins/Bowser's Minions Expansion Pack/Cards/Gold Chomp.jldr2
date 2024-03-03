@@ -1,0 +1,21 @@
+{
+	"name": "Gold_Chomp",
+	"modPrefix": "Mushroom",
+	"displayedName": "Gold Chomp",
+	"baseAttack": 2,
+	"baseHealth": 5,
+	"bonesCost": 3,
+	    "extensionProperties": {
+	           "MoneyCost": "5"
+	},
+	"abilities": ["GuardDog","Sentry","nevernamed.inscryption.sigils.Valuable"],
+	"metaCategories": ["Rare"],
+	"cardComplexity": "Intermediate",
+	"temple": "Nature",
+	"description": "The shining Gold Chomp. No less vicious than its brethren...",
+	"appearanceBehaviour": ["GoldEmission","RareCardBackground"],
+	"texture": "Gold Chomp.png",
+	"emissionTexture": "Gold Chomp_e.png",
+	"tribes": ["mushroom.pelts.chomp"],
+	"iceCubeName": "Super_Star"
+}

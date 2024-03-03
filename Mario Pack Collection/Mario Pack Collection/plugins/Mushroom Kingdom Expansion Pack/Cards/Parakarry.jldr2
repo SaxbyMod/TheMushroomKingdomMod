@@ -1,0 +1,18 @@
+{
+	"name": "Mushroom_Parakarry",
+	"modPrefix": "Mushroom",
+	"displayedName": "Parakarry",
+	"baseAttack": 2,
+	"baseHealth": 3,
+	    "extensionProperties": {
+		           "MoneyCost": "3"
+	},
+	"abilities": ["Flying","RandomConsumable","extraVoid.inscryption.voidSigils.Thick Shell"],
+	"metaCategories": ["ChoiceNode","TraderOffer"],
+	"cardComplexity": "Intermediate",
+	"temple": "Nature",
+	"description": "Another trinket, duly delivered. A postman's job is never done.",
+	"texture": "Parakarry.png",
+	"emissionTexture": "Parakarry_e.png",
+	"tribes": ["mushroom.pelts.koopa"]
+}

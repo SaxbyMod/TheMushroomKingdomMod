@@ -1,0 +1,17 @@
+{
+	"name": "Sorbetti",
+	"modPrefix": "Mushroom",
+	"displayedName": "Sorbetti",
+	"baseAttack": 1,
+	"baseHealth": 7,
+	"bonesCost": 3,
+	"metaCategories": ["Rare"],
+	"cardComplexity": "Intermediate",
+	"temple": "Nature",
+	"tribes": ["mushroom.pelts.star"],
+	"abilities": ["bitty45.inscryption.sigils.Board Shifter (Owner)"],
+	"description": "The Colossal Sorbetti. It's size alone can block a few hits, but you might want to stay out of the way...",
+	"texture": "Sorbetti.png",
+	"emissionTexture": "Sorbetti.png",
+	"appearanceBehaviour": ["RareCardBackground"]
+}
