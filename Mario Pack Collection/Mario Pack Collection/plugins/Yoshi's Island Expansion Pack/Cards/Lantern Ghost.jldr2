@@ -2,10 +2,10 @@
 	"name": "Lantern_Ghost",
 	"modPrefix": "Yoshi",
 	"displayedName": "Lantern Ghost",
-	"baseAttack": 1,
+	"baseAttack": 4,
 	"baseHealth": 4,
-	"bonesCost": 3,
-	"energyCost": 3,
+	"bonesCost": 4,
+	"energyCost": 4,
 	"abilities": ["bitty45.inscryption.sigils.Hollow Repeater","Tutor"],
 	"metaCategories": ["ChoiceNode","TraderOffer"],
 	"cardComplexity": "Advanced",
@@ -13,5 +13,5 @@
 	"description": "The light-bearing Lantern Ghost. The glow of it's lanterns persists after death, drawing creatures ever closer...",
 	"texture": "Lantern Ghost.png",
 	"emissionTexture": "Lantern Ghost_e.png",
-	"tribes": ["mushroom.pelts.boo"],
+	"tribes": ["mushroom.pelts.boo"]
 }

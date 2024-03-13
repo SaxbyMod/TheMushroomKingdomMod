@@ -3,12 +3,10 @@
 	"modPrefix": "Yoshi",
 	"displayedName": "Bandit",
 	"baseAttack": 2,
-	"baseHealth": 3,
-    "extensionProperties": {
-           "MoneyCost": "5"
-	},
+	"baseHealth": 1,
 	"abilities": ["Sentry","nevernamed.inscryption.sigils.Thief"],
 	"extensionProperties": {
+		"MoneyCost": "4",
     	"CustomThiefPayoutAmount": "3"
   	},
 	"metaCategories": ["ChoiceNode","TraderOffer"],

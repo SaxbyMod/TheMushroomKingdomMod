@@ -14,9 +14,8 @@
 	"temple": "Nature",
 	"tribes": ["mushroom.pelts.shy_guy"],
 	"description": "A banded up Shy Squad. They stand united, but break formation easily.",
-	"appearanceBehaviour": ["RareCardBackground"],
 	"texture": "Shy Squad.png",
-	"iceCubeName": "Mushroom_Shy_Guy",
+	"iceCubeName": "Yoshi_Shy_Guy",
 	"emissionTexture": "Shy Squad_e.png",
 	"pixelTexture": "Shy Squad Act 2.png"
 }

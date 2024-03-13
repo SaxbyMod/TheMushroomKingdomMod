@@ -1,9 +1,12 @@
 {
 	"name": "Dizzy_Fuzzy",
 	"modPrefix": "Yoshi",
-	"displayedName": "Fuzzy",
+	"displayedName": "Watabo",
 	"baseAttack": 1,
 	"baseHealth": 1,
+	"extensionProperties": {
+        "LifeCost": "1"
+	},
 	"abilities": ["DrawCopyOnDeath","Brittle","extraVoid.inscryption.voidSigils.Toxin (Sickening)"],
 	"metaCategories": ["ChoiceNode","TraderOffer"],
 	"cardComplexity": "Intermediate",

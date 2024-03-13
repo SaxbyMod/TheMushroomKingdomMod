@@ -7,13 +7,14 @@
 	"bloodCost": 2,
 	"abilities": ["Flying", "nevernamed.inscryption.sigils.Valuable"],
 	"extensionProperties": {
-   	 "CustomValuablePayoutAmount": "3"
- 	 },
+		"CustomValuablePayoutAmount": "3"
+ 	},
 	"metaCategories": ["Rare"],
 	"cardComplexity": "Intermediate",
 	"temple": "Nature",
 	"description": "The Whirly Fly Guy. It's rare to find one, yet even more to land a shot on it.",
 	"texture": "Whirly Fly Guy.png",
 	"emissionTexture": "Whirly Fly Guy_e.png",
-	"pixelTexture": "Whirly Fly Guy Act 2.png"
+	"pixelTexture": "Whirly Fly Guy Act 2.png",
+	"appearanceBehaviour": ["RareCardBackground"]
 }

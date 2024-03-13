@@ -4,7 +4,7 @@
 	"displayedName": "Invisighoul",
 	"specialAbilities": ["Mirror"],
 	"baseHealth": 1,
-	"bonesCost": 3,
+	"bonesCost": 4,
 	"metaCategories": ["ChoiceNode","TraderOffer"],
 	"abilities": ["nevernamed.inscryption.sigils.Immaterial"],
 	"cardComplexity": "Advanced",
