@@ -13,5 +13,6 @@
 	"texture": "Shy Guy.png",
 	"emissionTexture": "Shy Guy_e.png",
 	"iceCubeName": "Yoshi_Ghoul_Guy",
-	"pixelTexture": "Shy Guy Act 2.png"
+	"pixelTexture": "Shy Guy Act 2.png",
+	"tribes": ["mushroom.pelts.shy_guy"]
 }

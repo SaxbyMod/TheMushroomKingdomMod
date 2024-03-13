@@ -3,9 +3,9 @@
 	"modPrefix": "Yoshi",
 	"displayedName": "Lil' Mouser",
 	"baseAttack": 1,
-	"baseHealth": 2,
-	    "extensionProperties": {
-	           "MoneyCost": "3"
+	"baseHealth": 1,
+	"extensionProperties": {
+        "MoneyCost": "2"
 	},
 	"abilities": ["nevernamed.inscryption.sigils.Thief"],
 	"metaCategories": ["ChoiceNode","TraderOffer"],

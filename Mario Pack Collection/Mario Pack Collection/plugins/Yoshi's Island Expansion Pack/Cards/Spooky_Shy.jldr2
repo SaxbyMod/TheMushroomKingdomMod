@@ -4,7 +4,7 @@
 	"displayedName": "Spooky",
 	"baseAttack": 1,
 	"baseHealth": 2,
-	"bonesCost": 1,
+	"bonesCost": 2,
 	"abilities": ["Evolve","IceCube"],
 	"iceCubeName":"Yoshi_Shy_Guy",
 	"evolveIntoName": "Yoshi_Spooky_Bandit",
